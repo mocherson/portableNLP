@@ -1,0 +1,6 @@
+,disease,dis_pos,dis_alias
+0,Gallstones,"(1262, 1277)",cholecystectomy
+1,Gallstones,"(1457, 1472)",cholecystectomy
+2,GERD,"(462, 485)",gastroesophageal reflux
+3,OA,"(3385, 3401)",knee replacement
+4,OA,"(4001, 4017)",knee replacement

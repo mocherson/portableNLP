@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,CAD,"(131, 154)",coronary artery disease,"(655, 809)",ruled out for myocardial infarction and then underwent a cardiac catheterization at osri medical center that revealed three-vessel coronary artery disease,
+1,CAD,"(57, 80)",cardiac catheterization,"(655, 809)",ruled out for myocardial infarction and then underwent a cardiac catheterization at osri medical center that revealed three-vessel coronary artery disease,

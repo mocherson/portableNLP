@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3279, 3282)",cad
+1,CAD,"(969, 992)",coronary artery disease
+2,CAD,"(1384, 1407)",coronary artery disease
+3,Diabetes,"(1129, 1137)",diabetes
+4,Diabetes,"(7607, 7615)",diabetes
+5,Hypercholesterolemia,"(1140, 1160)",hypercholesterolemia
+6,Hypercholesterolemia,"(1140, 1160)",hypercholesterolemia
+7,PVD,"(1047, 1074)",peripheral vascular disease
+8,Depression,"(7066, 7070)",ssri
+9,Hypertension,"(3673, 3685)",beta-blocker

@@ -1,0 +1,5 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Diabetes,"(14, 22)",diabetes,"(1086, 1108)",no history of diabetes,
+1,Hypercholesterolemia,"(30, 50)",hypercholesterolemia,"(1359, 1409)",no history of hypertension or hypercholesterolemia,
+2,Hypercholesterolemia,"(30, 50)",hypercholesterolemia,"(1359, 1409)",no history of hypertension or hypercholesterolemia,
+3,Hypertension,"(14, 26)",hypertension,"(1359, 1409)",no history of hypertension or hypercholesterolemia,

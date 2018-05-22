@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2644, 2647)",cad
+1,CAD,"(3751, 3774)",coronary artery disease
+2,CHF,"(69, 72)",chf
+3,CHF,"(2461, 2464)",chf
+4,CHF,"(2544, 2547)",chf
+5,CHF,"(3068, 3071)",chf
+6,CHF,"(2666, 2689)",ischemic cardiomyopathy
+7,CHF,"(2930, 2953)",ischemic cardiomyopathy
+8,CHF,"(3962, 3985)",ischemic cardiomyopathy
+9,Diabetes,"(3866, 3868)",dm
+10,Diabetes,"(3891, 3899)",diabetic
+11,Diabetes,"(3914, 3922)",diabetic
+12,Diabetes,"(3941, 3949)",diabetic
+13,Hypertension,"(2985, 2988)",htn
+14,PVD,"(2638, 2641)",pvd
+15,PVD,"(3801, 3804)",pvd
+16,Hypercholesterolemia,"(541, 553)",atorvastatin

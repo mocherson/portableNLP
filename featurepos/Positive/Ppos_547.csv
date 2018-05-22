@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(341, 363)",coronary artery bypass
+1,CAD,"(1177, 1199)",coronary artery bypass
+2,CAD,"(977, 1000)",coronary artery disease
+3,Diabetes,"(314, 322)",diabetes
+4,Diabetes,"(951, 959)",diabetes
+5,Hypercholesterolemia,"(1003, 1023)",hypercholesterolemia
+6,Hypercholesterolemia,"(1003, 1023)",hypercholesterolemia
+7,Hypertension,"(962, 974)",hypertension
+8,OA,"(1073, 1087)",osteoarthritis

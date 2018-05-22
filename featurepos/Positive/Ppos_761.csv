@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(389, 397)",diabetes
+1,Diabetes,"(2692, 2700)",diabetes
+2,Diabetes,"(5148, 5156)",diabetes
+3,Hypertension,"(374, 386)",hypertension
+4,Hypertension,"(2703, 2715)",hypertension
+5,Hypertension,"(4955, 4967)",hypertension
+6,Hypercholesterolemia,"(7389, 7400)",simvastatin

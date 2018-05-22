@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(500, 524)",congestive heart failure
+1,CHF,"(1586, 1610)",congestive heart failure
+2,CHF,"(1703, 1727)",congestive heart failure
+3,Diabetes,"(293, 301)",diabetes
+4,Diabetes,"(464, 472)",diabetes
+5,Diabetes,"(1676, 1684)",diabetes
+6,Diabetes,"(7874, 7882)",diabetes
+7,Diabetes,"(1647, 1655)",diabetic
+8,OA,"(3466, 3480)",osteoarthritis
+9,Venous Insufficiency,"(2839, 2852)",venous stasis
+10,Venous Insufficiency,"(8918, 8931)",venous stasis
+11,Hypertension,"(7278, 7294)",antihypertensive
+12,OA,"(718, 733)",hip replacement
+13,OA,"(1932, 1947)",hip replacement
+14,OA,"(8197, 8212)",hip replacement

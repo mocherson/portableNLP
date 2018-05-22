@@ -1,0 +1,28 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(292, 298)",asthma
+1,Asthma,"(2299, 2305)",asthma
+2,CHF,"(4712, 4736)",congestive heart failure
+3,CHF,"(5093, 5117)",congestive heart failure
+4,Depression,"(388, 398)",depression
+5,Depression,"(2405, 2415)",depression
+6,Diabetes,"(314, 322)",diabetes
+7,Diabetes,"(2343, 2351)",diabetes
+8,Hypercholesterolemia,"(267, 287)",hypercholesterolemia
+9,Hypercholesterolemia,"(267, 287)",hypercholesterolemia
+10,Hypercholesterolemia,"(2308, 2329)",increased cholesterol
+11,Hypertension,"(242, 254)",hypertension
+12,Hypertension,"(770, 782)",hypertension
+13,Hypertension,"(2278, 2290)",hypertension
+14,Hypertension,"(4611, 4623)",hypertension
+15,Hypertension,"(5023, 5035)",hypertension
+16,OA,"(405, 419)",osteoarthritis
+17,OA,"(2418, 2432)",osteoarthritis
+18,OA,"(4372, 4386)",osteoarthritis
+19,Obesity,"(337, 344)",obesity
+20,Obesity,"(2363, 2370)",obesity
+21,Obesity,"(337, 344)",obesity
+22,Obesity,"(2363, 2370)",obesity
+23,Obesity,"(3533, 3538)",obese
+24,Depression,"(2753, 2759)",elavil
+25,Depression,"(6465, 6471)",prozac
+26,Hypertension,"(669, 694)",blood pressure of 210/130

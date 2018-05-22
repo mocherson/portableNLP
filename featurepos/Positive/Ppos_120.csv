@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1576, 1582)",asthma
+1,CAD,"(290, 293)",cad
+2,CAD,"(1585, 1588)",cad
+3,CAD,"(5374, 5377)",cad
+4,CHF,"(296, 299)",chf
+5,Depression,"(2105, 2115)",depression
+6,Gout,"(2024, 2028)",gout
+7,OA,"(2118, 2132)",osteoarthritis
+8,Obesity,"(394, 401)",obesity
+9,Obesity,"(1415, 1422)",obesity
+10,Obesity,"(394, 401)",obesity
+11,Obesity,"(1415, 1422)",obesity
+12,Obesity,"(3023, 3028)",obese
+13,Obesity,"(3351, 3356)",obese
+14,OSA,"(409, 412)",osa
+15,OSA,"(1309, 1332)",obstructive sleep apnea
+16,OSA,"(1493, 1516)",obstructive sleep apnea
+17,Depression,"(2584, 2590)",zoloft
+18,Depression,"(7996, 8002)",zoloft
+19,Hypertension,"(2799, 2813)",ace inhibitors
+20,Hypertension,"(5383, 5395)",beta-blocker
+21,Gout,"(2474, 2485)",allopurinol

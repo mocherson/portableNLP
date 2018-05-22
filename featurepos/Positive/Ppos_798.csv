@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1266, 1289)",coronary artery disease
+1,Depression,"(5133, 5143)",depression
+2,Diabetes,"(534, 542)",diabetes
+3,Diabetes,"(1097, 1105)",diabetes
+4,Diabetes,"(4468, 4476)",diabetes
+5,Gout,"(1259, 1263)",gout
+6,Hypertension,"(545, 557)",hypertension
+7,Hypertension,"(1117, 1129)",hypertension
+8,OA,"(1187, 1201)",osteoarthritis
+9,Hypertension,"(3312, 3324)",beta-blocker
+10,CAD,"(3363, 3386)",cardiac catheterization
+11,Gout,"(1494, 1505)",allopurinol
+12,Gout,"(5300, 5311)",allopurinol
+13,Gout,"(6098, 6109)",allopurinol

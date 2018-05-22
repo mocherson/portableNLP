@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(360, 368)",diabetes
+1,Diabetes,"(1646, 1654)",diabetes
+2,Diabetes,"(9393, 9401)",diabetes
+3,Diabetes,"(9517, 9525)",diabetic
+4,Hypertension,"(345, 357)",hypertension
+5,Hypertension,"(1631, 1643)",hypertension
+6,Hypertension,"(7567, 7579)",hypertension
+7,Hypertension,"(9164, 9176)",hypertension
+8,Hypertension,"(935, 938)",htn

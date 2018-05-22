@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(408, 430)",coronary artery bypass
+1,CAD,"(736, 758)",coronary artery bypass
+2,CAD,"(372, 395)",coronary artery disease
+3,CAD,"(700, 723)",coronary artery disease
+4,Diabetes,"(343, 351)",diabetes
+5,Diabetes,"(670, 678)",diabetes
+6,Diabetes,"(13064, 13072)",diabetes
+7,Obesity,"(492, 499)",obesity
+8,Obesity,"(690, 697)",obesity
+9,Obesity,"(492, 499)",obesity
+10,Obesity,"(690, 697)",obesity
+11,Obesity,"(2101, 2106)",obese
+12,OSA,"(503, 526)",obstructive sleep apnea
+13,OSA,"(11349, 11372)",obstructive sleep apnea

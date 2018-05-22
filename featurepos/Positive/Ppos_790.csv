@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(69, 92)",coronary artery disease
+1,CAD,"(241, 264)",coronary artery disease
+2,CHF,"(536, 560)",congestive heart failure
+3,CHF,"(2527, 2551)",congestive heart failure
+4,Diabetes,"(329, 337)",diabetes
+5,Diabetes,"(801, 809)",diabetes
+6,Diabetes,"(3028, 3036)",diabetes
+7,Gallstones,"(964, 979)",cholecystectomy
+8,Gallstones,"(1719, 1734)",cholecystectomy
+9,Hypercholesterolemia,"(835, 855)",hypercholesterolemia
+10,Hypercholesterolemia,"(835, 855)",hypercholesterolemia
+11,Hypertension,"(340, 352)",hypertension
+12,Hypertension,"(786, 798)",hypertension
+13,OA,"(924, 938)",osteoarthritis
+14,Hypertension,"(2995, 3007)",beta-blocker
+15,CAD,"(616, 639)",cardiac catheterization
+16,CAD,"(2136, 2159)",cardiac catheterization
+17,Hypercholesterolemia,"(1126, 1138)",atorvastatin
+18,Hypercholesterolemia,"(4650, 4662)",atorvastatin

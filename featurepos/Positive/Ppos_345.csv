@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(296, 320)",congestive heart failure
+1,CHF,"(696, 720)",congestive heart failure
+2,Diabetes,"(276, 284)",diabetes
+3,Diabetes,"(611, 619)",diabetes
+4,Hypertension,"(240, 252)",hypertension
+5,Hypertension,"(723, 735)",hypertension
+6,Obesity,"(75, 82)",obesity
+7,Obesity,"(203, 210)",obesity
+8,Obesity,"(565, 572)",obesity
+9,Obesity,"(75, 82)",obesity
+10,Obesity,"(203, 210)",obesity
+11,Obesity,"(565, 572)",obesity
+12,Obesity,"(1379, 1384)",obese
+13,Obesity,"(1436, 1441)",obese
+14,OSA,"(323, 346)",obstructive sleep apnea
+15,OSA,"(738, 761)",obstructive sleep apnea
+16,PVD,"(353, 380)",peripheral vascular disease

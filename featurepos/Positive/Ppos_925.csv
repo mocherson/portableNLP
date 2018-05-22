@@ -1,0 +1,6 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(69, 82)",heart failure
+1,CHF,"(781, 805)",congestive heart failure
+2,CHF,"(344, 366)",dilated cardiomyopathy
+3,CHF,"(2716, 2738)",dilated cardiomyopathy
+4,Hypertension,"(5904, 5916)",hypertension

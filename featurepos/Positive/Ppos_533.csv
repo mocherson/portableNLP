@@ -1,0 +1,31 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(3313, 3316)",chf
+1,CHF,"(3688, 3691)",chf
+2,CHF,"(4628, 4631)",chf
+3,Depression,"(3101, 3111)",depression
+4,Depression,"(3114, 3124)",depression
+5,Diabetes,"(3134, 3142)",diabetes
+6,Diabetes,"(2916, 2918)",dm
+7,Diabetes,"(3329, 3331)",dm
+8,Diabetes,"(3694, 3696)",dm
+9,Diabetes,"(5207, 5209)",dm
+10,Diabetes,"(3127, 3131)",iddm
+11,Hypercholesterolemia,"(3055, 3075)",hypercholesterolemia
+12,Hypercholesterolemia,"(3055, 3075)",hypercholesterolemia
+13,Hypercholesterolemia,"(3078, 3098)",elevated cholesterol
+14,Hypertension,"(2946, 2949)",htn
+15,Hypertension,"(3334, 3337)",htn
+16,Hypertension,"(3699, 3702)",htn
+17,OA,"(3041, 3043)",oa
+18,OA,"(2936, 2945)",arthritis
+19,OA,"(3035, 3038)",djd
+20,Obesity,"(2928, 2935)",obesity
+21,Obesity,"(3003, 3010)",obesity
+22,Obesity,"(3764, 3771)",obesity
+23,Obesity,"(2928, 2935)",obesity
+24,Obesity,"(3003, 3010)",obesity
+25,Obesity,"(3764, 3771)",obesity
+26,Obesity,"(3842, 3847)",obese
+27,Hypercholesterolemia,"(1389, 1400)",simvastatin
+28,Hypercholesterolemia,"(1436, 1447)",simvastatin
+29,Hypercholesterolemia,"(1668, 1679)",simvastatin

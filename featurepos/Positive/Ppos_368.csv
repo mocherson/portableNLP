@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(345, 353)",diabetes
+1,Diabetes,"(507, 515)",diabetes
+2,Diabetes,"(1779, 1787)",diabetes
+3,Hypertension,"(7031, 7043)",hypertension
+4,Obesity,"(3073, 3078)",obese
+5,Hypertension,"(7159, 7171)",beta-blocker
+6,Hypertension,"(2545, 2566)",blood pressure 200/95

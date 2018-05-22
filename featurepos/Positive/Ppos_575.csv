@@ -1,0 +1,27 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3817, 3820)",cad
+1,CAD,"(4180, 4183)",cad
+2,CAD,"(4825, 4828)",cad
+3,CAD,"(6535, 6538)",cad
+4,CAD,"(6814, 6817)",cad
+5,CAD,"(4188, 4191)",pci
+6,CAD,"(4833, 4836)",pci
+7,CAD,"(6543, 6546)",pci
+8,CHF,"(4241, 4254)",heart failure
+9,CHF,"(6752, 6765)",heart failure
+10,CHF,"(8361, 8374)",heart failure
+11,Depression,"(3941, 3951)",depression
+12,Depression,"(5008, 5018)",depression
+13,Diabetes,"(4917, 4919)",dm
+14,Diabetes,"(8633, 8635)",dm
+15,Diabetes,"(3779, 3784)",niddm
+16,Hypercholesterolemia,"(3852, 3872)",hypercholosterolemia
+17,Hypertension,"(7801, 7813)",hypertension
+18,Hypertension,"(3821, 3824)",htn
+19,Hypertension,"(4911, 4914)",htn
+20,PVD,"(3881, 3884)",pvd
+21,PVD,"(5120, 5123)",pvd
+22,Depression,"(1288, 1295)",lexapro
+23,Depression,"(5204, 5211)",lexapro
+24,Hypercholesterolemia,"(593, 604)",simvastatin
+25,Hypercholesterolemia,"(2431, 2442)",simvastatin

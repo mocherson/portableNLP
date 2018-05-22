@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(2085, 2095)",depression
+1,Depression,"(2120, 2130)",depression
+2,Depression,"(4114, 4124)",depression
+3,Hypercholesterolemia,"(1964, 1978)",hyperlipidemia
+4,Hypercholesterolemia,"(1981, 1995)",hyperlipidemia
+5,Hypercholesterolemia,"(2373, 2387)",hyperlipidemia
+6,Hypertension,"(1934, 1946)",hypertension
+7,Hypertension,"(1949, 1961)",hypertension
+8,Hypertension,"(2367, 2370)",htn
+9,Hypertension,"(2780, 2789)",b-blocker
+10,GERD,"(1906, 1917)",esophagitis
+11,GERD,"(1920, 1931)",esophagitis
+12,GERD,"(2353, 2364)",esophagitis
+13,GERD,"(4000, 4011)",esophagitis
+14,Hypercholesterolemia,"(687, 699)",atorvastatin

@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(601, 604)",chf
+1,CHF,"(2304, 2307)",chf
+2,CHF,"(3476, 3479)",chf
+3,CHF,"(4111, 4114)",chf
+4,CHF,"(68, 81)",heart failure
+5,CHF,"(299, 323)",congestive heart failure
+6,CHF,"(528, 541)",heart failure
+7,Hypertension,"(1226, 1240)",ace inhibitors

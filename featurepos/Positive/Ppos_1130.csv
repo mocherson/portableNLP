@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(397, 403)",asthma
+1,CAD,"(336, 358)",coronary artery bypass
+2,CHF,"(877, 880)",chf
+3,CHF,"(69, 93)",congestive heart failure
+4,CHF,"(3520, 3533)",heart failure
+5,Gallstones,"(470, 480)",gallstones
+6,Gallstones,"(470, 480)",gallstones
+7,Hypertension,"(450, 462)",hypertension
+8,OA,"(582, 596)",osteoarthritis
+9,Obesity,"(2556, 2561)",obese
+10,Depression,"(2074, 2080)",elavil

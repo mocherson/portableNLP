@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3042, 3045)",cad
+1,CAD,"(3586, 3589)",cad
+2,Diabetes,"(2701, 2709)",diabetes
+3,Diabetes,"(2712, 2720)",diabetes
+4,Diabetes,"(3037, 3039)",dm
+5,Diabetes,"(3581, 3583)",dm
+6,Diabetes,"(5249, 5257)",diabetic
+7,Gallstones,"(2865, 2875)",gallstones
+8,Gallstones,"(2865, 2875)",gallstones
+9,Gallstones,"(3648, 3651)",ccy
+10,Hypercholesterolemia,"(2772, 2788)",high cholesterol
+11,Hypercholesterolemia,"(2791, 2811)",elevated cholesterol
+12,Hypercholesterolemia,"(3606, 3620)",hyperlipidemia
+13,Hypertension,"(2820, 2832)",hypertension
+14,Hypertension,"(2814, 2817)",htn
+15,Hypertension,"(3623, 3626)",htn
+16,OA,"(4975, 4989)",osteoarthritis
+17,Obesity,"(3672, 3679)",obesity
+18,Obesity,"(3672, 3679)",obesity
+19,Hypercholesterolemia,"(2447, 2458)",simvastatin

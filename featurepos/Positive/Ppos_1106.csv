@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1797, 1820)",coronary artery disease
+1,CHF,"(1593, 1617)",congestive heart failure
+2,CHF,"(335, 358)",ischemic cardiomyopathy
+3,CHF,"(3021, 3044)",ischemic cardiomyopathy
+4,Diabetes,"(1937, 1945)",diabetes
+5,Diabetes,"(5280, 5288)",diabetes
+6,Diabetes,"(8268, 8276)",diabetic
+7,Hypertension,"(3614, 3626)",beta-blocker
+8,Hypercholesterolemia,"(6691, 6702)",simvastatin
+9,Hypercholesterolemia,"(7684, 7695)",simvastatin

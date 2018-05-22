@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(2313, 2323)",depression
+1,Diabetes,"(581, 589)",diabetes
+2,Gallstones,"(2368, 2383)",cholecystectomy
+3,Hypertension,"(620, 632)",hypertension
+4,Obesity,"(10930, 10935)",obese
+5,Depression,"(2822, 2830)",cymbalta
+6,Depression,"(6850, 6858)",cymbalta
+7,Hypertension,"(5624, 5636)",beta-blocker
+8,Hypertension,"(6057, 6069)",beta-blocker
+9,OA,"(2069, 2084)",hip replacement

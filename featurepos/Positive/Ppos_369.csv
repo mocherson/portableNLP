@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(320, 330)",depression
+1,Depression,"(463, 473)",depression
+2,Diabetes,"(98, 106)",diabetes
+3,Diabetes,"(443, 451)",diabetes
+4,Gallstones,"(565, 580)",cholecystectomy
+5,OA,"(502, 511)",arthritis
+6,Obesity,"(74, 81)",obesity
+7,Obesity,"(223, 230)",obesity
+8,Obesity,"(74, 81)",obesity
+9,Obesity,"(223, 230)",obesity
+10,Obesity,"(349, 354)",obese
+11,OSA,"(84, 95)",sleep apnea
+12,OSA,"(476, 487)",sleep apnea
+13,OSA,"(970, 981)",sleep apnea
+14,Depression,"(636, 642)",elavil
+15,Depression,"(644, 650)",prozac

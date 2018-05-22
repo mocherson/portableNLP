@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1549, 1555)",asthma
+1,Asthma,"(1558, 1564)",asthma
+2,Hypertension,"(2105, 2117)",hypertension
+3,CAD,"(1741, 1764)",cardiac catheterization
+4,CAD,"(2158, 2181)",cardiac catheterization
+5,OA,"(1575, 1590)",hip replacement
+6,OA,"(1599, 1614)",hip replacement
+7,OA,"(1638, 1653)",hip replacement

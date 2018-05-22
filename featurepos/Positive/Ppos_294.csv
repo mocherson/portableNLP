@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(86, 89)",cad
+1,CAD,"(2199, 2202)",cad
+2,OA,"(2366, 2368)",oa
+3,OA,"(3702, 3704)",oa
+4,CAD,"(2491, 2514)",cardiac catheterization
+5,Hypercholesterolemia,"(1079, 1090)",simvastatin
+6,Hypercholesterolemia,"(1433, 1444)",simvastatin
+7,OA,"(2389, 2404)",hip replacement
+8,OA,"(3319, 3334)",hip replacement

@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,Obesity,"(269, 276)",obesity
+1,Obesity,"(555, 562)",obesity
+2,Obesity,"(754, 761)",obesity
+3,Obesity,"(269, 276)",obesity
+4,Obesity,"(555, 562)",obesity
+5,Obesity,"(754, 761)",obesity
+6,Obesity,"(3016, 3021)",obese
+7,Obesity,"(3218, 3223)",obese
+8,Obesity,"(3582, 3587)",obese
+9,Obesity,"(3620, 3625)",obese
+10,OSA,"(282, 305)",obstructive sleep apnea
+11,OSA,"(915, 938)",obstructive sleep apnea
+12,Venous Insufficiency,"(3872, 3892)",venous insufficiency
+13,Hypertension,"(3122, 3143)",blood pressure 148/90
+14,Hypercholesterolemia,"(5396, 5404)",nystatin

@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(895, 901)",asthma
+1,Gallstones,"(1102, 1112)",gallstones
+2,Gallstones,"(1102, 1112)",gallstones
+3,Hypertension,"(268, 280)",hypertension
+4,Hypertension,"(875, 887)",hypertension
+5,OA,"(904, 918)",osteoarthritis
+6,Hypertension,"(1470, 1491)",blood pressure 150/90

@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1693, 1699)",asthma
+1,Asthma,"(1702, 1708)",asthma
+2,CAD,"(1825, 1828)",cad
+3,CAD,"(2326, 2329)",cad
+4,Hypercholesterolemia,"(917, 928)",simvastatin
+5,OA,"(1719, 1734)",hip replacement
+6,OA,"(1743, 1758)",hip replacement
+7,OA,"(1782, 1797)",hip replacement

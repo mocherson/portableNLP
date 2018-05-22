@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2805, 2808)",cad
+1,CAD,"(3305, 3308)",cad
+2,CAD,"(4271, 4274)",cad
+3,CAD,"(3766, 3769)",pci
+4,Diabetes,"(6756, 6764)",diabetes
+5,Diabetes,"(3388, 3390)",dm
+6,Gallstones,"(3461, 3471)",gallstones
+7,Gallstones,"(3461, 3471)",gallstones
+8,GERD,"(3393, 3397)",gerd
+9,GERD,"(6033, 6037)",gerd
+10,GERD,"(6238, 6242)",gerd
+11,GERD,"(6983, 6987)",gerd
+12,Hypercholesterolemia,"(3369, 3378)",hyperchol
+13,Hypertension,"(3363, 3366)",htn
+14,OA,"(3449, 3458)",arthritis
+15,Obesity,"(4696, 4701)",obese
+16,OSA,"(6005, 6008)",osa
+17,OSA,"(3427, 3438)",sleep apnea
+18,Hypercholesterolemia,"(919, 930)",simvastatin
+19,Hypercholesterolemia,"(985, 996)",simvastatin
+20,Hypercholesterolemia,"(1575, 1586)",simvastatin
+21,Hypercholesterolemia,"(1644, 1655)",simvastatin
+22,Hypercholesterolemia,"(1757, 1769)",atorvastatin
+23,Hypercholesterolemia,"(1890, 1902)",atorvastatin
+24,Hypercholesterolemia,"(1965, 1977)",atorvastatin

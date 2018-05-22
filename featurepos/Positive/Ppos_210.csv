@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(278, 300)",coronary artery bypass
+1,CAD,"(3129, 3151)",coronary artery bypass
+2,CAD,"(68, 91)",coronary artery disease
+3,CAD,"(215, 238)",coronary artery disease
+4,CAD,"(1989, 2012)",coronary artery disease
+5,Diabetes,"(780, 788)",diabetes
+6,Diabetes,"(1814, 1822)",diabetes
+7,Diabetes,"(1884, 1892)",diabetic
+8,Gallstones,"(1932, 1947)",cholecystectomy
+9,Hypertension,"(765, 777)",hypertension
+10,Obesity,"(2330, 2335)",obese
+11,Obesity,"(2588, 2593)",obese
+12,PVD,"(891, 918)",peripheral vascular disease
+13,CAD,"(1088, 1111)",cardiac catheterization

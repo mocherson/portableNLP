@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(2525, 2535)",depression
+1,Diabetes,"(381, 389)",diabetes
+2,Diabetes,"(506, 514)",diabetes
+3,Diabetes,"(2073, 2081)",diabetes
+4,Gallstones,"(2655, 2670)",cholecystectomy
+5,Gout,"(5410, 5414)",gout
+6,Hypertension,"(336, 348)",hypertension
+7,Hypertension,"(540, 552)",hypertension
+8,Hypertension,"(2465, 2477)",hypertension
+9,OA,"(2320, 2334)",osteoarthritis
+10,Depression,"(2989, 2996)",effexor

@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,Hypertension,"(2411, 2423)",hypertension
+1,Obesity,"(2431, 2438)",obesity
+2,Obesity,"(2604, 2611)",obesity
+3,Obesity,"(2431, 2438)",obesity
+4,Obesity,"(2604, 2611)",obesity
+5,OSA,"(2572, 2583)",sleep apnea
+6,Hypertension,"(3213, 3230)",antihypertensives

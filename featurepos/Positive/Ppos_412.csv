@@ -1,0 +1,5 @@
+,disease,dis_pos,dis_alias
+0,Hypertension,"(3212, 3224)",hypertension
+1,Hypertension,"(4027, 4052)",blood pressure of 200/100
+2,CAD,"(1297, 1320)",cardiac catheterization
+3,CAD,"(3362, 3385)",cardiac catheterization

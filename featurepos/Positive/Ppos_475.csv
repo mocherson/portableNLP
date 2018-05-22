@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1518, 1540)",coronary artery bypass
+1,CAD,"(1474, 1497)",coronary artery disease
+2,CAD,"(3244, 3267)",coronary artery disease
+3,CHF,"(1584, 1608)",congestive heart failure
+4,Diabetes,"(1232, 1240)",diabetes
+5,Diabetes,"(3293, 3301)",diabetes
+6,OA,"(1622, 1636)",osteoarthritis
+7,PVD,"(206, 233)",peripheral vascular disease
+8,PVD,"(468, 495)",peripheral vascular disease
+9,PVD,"(1323, 1350)",peripheral vascular disease

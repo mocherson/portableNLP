@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(398, 421)",coronary artery disease
+1,CAD,"(4425, 4448)",coronary artery disease
+2,CHF,"(624, 627)",chf
+3,CHF,"(4547, 4550)",chf
+4,CHF,"(441, 465)",congestive heart failure
+5,CHF,"(4474, 4498)",congestive heart failure
+6,Diabetes,"(491, 499)",diabetes
+7,Diabetes,"(2635, 2643)",diabetes
+8,Diabetes,"(7034, 7042)",diabetic
+9,Depression,"(8883, 8889)",celexa
+10,Hypertension,"(4811, 4827)",antihypertensive

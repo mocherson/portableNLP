@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4283, 4286)",cad
+1,CAD,"(5355, 5358)",cad
+2,CHF,"(4206, 4229)",ischemic cardiomyopathy
+3,Diabetes,"(4289, 4291)",dm
+4,Hypercholesterolemia,"(3901, 3917)",high cholesterol
+5,Hypercholesterolemia,"(5324, 5338)",hyperlipidemia
+6,Hypertension,"(3895, 3898)",htn
+7,Hypertension,"(4294, 4297)",htn
+8,Hypertension,"(5318, 5321)",htn
+9,Hypertension,"(6604, 6621)",antihypertensives
+10,Hypercholesterolemia,"(729, 741)",atorvastatin
+11,Hypercholesterolemia,"(855, 867)",atorvastatin
+12,Hypercholesterolemia,"(1054, 1066)",atorvastatin
+13,Hypercholesterolemia,"(1406, 1418)",atorvastatin

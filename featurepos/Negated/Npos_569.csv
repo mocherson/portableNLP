@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Diabetes,"(28, 30)",dm,"(4820, 4850)",w/o h/o mi/high cholesterol/dm,
+1,Hypercholesterolemia,"(11, 27)",high cholesterol,"(4820, 4850)",w/o h/o mi/high cholesterol/dm,

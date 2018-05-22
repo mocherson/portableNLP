@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Gallstones,"(536, 546)",gallstones
+1,Gallstones,"(536, 546)",gallstones
+2,Gallstones,"(261, 275)",cholelithiasis
+3,Gallstones,"(976, 991)",cholecystectomy
+4,Gallstones,"(2849, 2864)",cholecystectomy
+5,Gallstones,"(2891, 2922)",gallbladder with several stones
+6,Obesity,"(2601, 2608)",obesity
+7,Obesity,"(1744, 1749)",obese
+8,Obesity,"(2601, 2608)",obesity
+9,Obesity,"(2789, 2794)",obese

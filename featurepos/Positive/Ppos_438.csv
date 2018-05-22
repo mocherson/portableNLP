@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(442, 465)",coronary artery disease
+1,CAD,"(2316, 2339)",coronary artery disease
+2,CAD,"(8891, 8914)",coronary artery disease
+3,CHF,"(1966, 1990)",congestive heart failure
+4,CHF,"(591, 613)",dilated cardiomyopathy
+5,CHF,"(2422, 2444)",dilated cardiomyopathy
+6,Depression,"(544, 554)",depression
+7,Depression,"(2402, 2412)",depression
+8,Diabetes,"(306, 314)",diabetes
+9,Diabetes,"(2091, 2099)",diabetes
+10,Diabetes,"(10479, 10487)",diabetes
+11,GERD,"(2415, 2419)",gerd
+12,GERD,"(574, 588)",reflux disease
+13,GERD,"(557, 580)",gastroesophageal reflux
+14,Gout,"(326, 330)",gout
+15,Gout,"(2111, 2115)",gout
+16,Hypertension,"(427, 439)",hypertension
+17,Hypertension,"(2301, 2313)",hypertension
+18,OA,"(7563, 7577)",osteoarthritis
+19,Depression,"(3407, 3413)",celexa
+20,Depression,"(11492, 11498)",celexa
+21,Hypercholesterolemia,"(12382, 12390)",nystatin

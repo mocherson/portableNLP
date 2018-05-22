@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,GERD,"(1546, 1550)",gerd
+1,GERD,"(2460, 2464)",gerd
+2,GERD,"(1570, 1584)",reflux disease
+3,GERD,"(1553, 1576)",gastroesophageal reflux
+4,Hypercholesterolemia,"(1587, 1601)",hyperlipidemia
+5,Hypercholesterolemia,"(1604, 1618)",hyperlipidemia
+6,Hypercholesterolemia,"(2467, 2481)",hyperlipidemia
+7,Hypertension,"(1701, 1713)",hypertension
+8,Hypertension,"(1695, 1698)",htn
+9,Hypertension,"(2502, 2505)",htn
+10,OA,"(1494, 1496)",oa
+11,OA,"(2441, 2443)",oa
+12,OA,"(1499, 1513)",osteoarthritis
+13,Hypercholesterolemia,"(907, 918)",simvastatin

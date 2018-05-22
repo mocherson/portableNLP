@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(237, 261)",congestive heart failure
+1,CHF,"(3771, 3795)",congestive heart failure
+2,Diabetes,"(2144, 2152)",diabetes
+3,Hypertension,"(208, 220)",hypertension
+4,Hypertension,"(1607, 1619)",hypertension
+5,Hypertension,"(4680, 4692)",hypertension
+6,Hypertension,"(446, 462)",antihypertensive
+7,Hypertension,"(2207, 2228)",blood pressure 190/98
+8,Hypercholesterolemia,"(6514, 6525)",symvastatin

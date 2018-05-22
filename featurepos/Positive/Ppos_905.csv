@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3260, 3263)",cad
+1,CAD,"(4864, 4867)",cad
+2,CHF,"(70, 73)",chf
+3,CHF,"(3008, 3011)",chf
+4,CHF,"(3104, 3107)",chf
+5,CHF,"(3491, 3494)",chf
+6,CHF,"(4601, 4604)",chf
+7,CHF,"(4964, 4967)",chf
+8,GERD,"(3247, 3251)",gerd
+9,Gout,"(3240, 3244)",gout
+10,Gout,"(5380, 5384)",gout
+11,Hypercholesterolemia,"(3266, 3280)",hyperlipidemia
+12,Hypercholesterolemia,"(4870, 4884)",hyperlipidemia
+13,Hypertension,"(3210, 3213)",htn
+14,Hypertension,"(3514, 3517)",htn
+15,Hypertension,"(5202, 5205)",htn
+16,OA,"(3235, 3237)",oa
+17,Obesity,"(3216, 3223)",obesity
+18,Obesity,"(3216, 3223)",obesity
+19,CAD,"(3308, 3331)",cardiac catheterization
+20,Hypercholesterolemia,"(2129, 2141)",atorvastatin
+21,Gout,"(496, 507)",allopurinol
+22,Gout,"(5387, 5398)",allopurinol

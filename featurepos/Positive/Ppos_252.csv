@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2219, 2241)",coronary artery bypass
+1,CAD,"(257, 280)",coronary artery disease
+2,CAD,"(392, 415)",coronary artery disease
+3,CAD,"(514, 537)",coronary artery disease
+4,CAD,"(2051, 2074)",coronary artery disease
+5,CHF,"(67, 91)",congestive heart failure
+6,CHF,"(206, 230)",congestive heart failure
+7,CHF,"(2484, 2508)",congestive heart failure
+8,CHF,"(2661, 2685)",congestive heart failure
+9,CHF,"(4989, 5013)",congestive heart failure
+10,CHF,"(5971, 5995)",congestive heart failure
+11,Diabetes,"(286, 294)",diabetes
+12,Diabetes,"(2126, 2134)",diabetes
+13,Diabetes,"(2953, 2961)",diabetes
+14,Hypercholesterolemia,"(3016, 3036)",hypercholesterolemia
+15,Hypercholesterolemia,"(3016, 3036)",hypercholesterolemia
+16,Hypertension,"(309, 321)",hypertension
+17,Hypertension,"(2111, 2123)",hypertension
+18,Hypertension,"(3039, 3051)",hypertension
+19,Hypertension,"(5486, 5498)",beta blocker

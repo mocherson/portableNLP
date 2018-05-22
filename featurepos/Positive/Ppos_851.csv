@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1683, 1686)",cad
+1,Depression,"(2606, 2616)",depression
+2,Diabetes,"(1640, 1648)",diabetes
+3,Hypercholesterolemia,"(1651, 1663)",dyslipidemia
+4,Hypertension,"(1625, 1637)",hypertension
+5,Obesity,"(1895, 1900)",obese
+6,Depression,"(2630, 2640)",wellbutrin
+7,Depression,"(3573, 3583)",wellbutrin
+8,Hypercholesterolemia,"(3221, 3232)",simvastatin

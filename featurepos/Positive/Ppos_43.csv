@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1731, 1737)",asthma
+1,Asthma,"(1740, 1746)",asthma
+2,Asthma,"(1998, 2004)",asthma
+3,Asthma,"(2657, 2663)",asthma
+4,Asthma,"(2772, 2778)",asthma
+5,Diabetes,"(1784, 1792)",diabetes
+6,Hypertension,"(1992, 1995)",htn
+7,Obesity,"(1707, 1714)",obesity
+8,Obesity,"(1982, 1989)",obesity
+9,Obesity,"(1707, 1714)",obesity
+10,Obesity,"(1982, 1989)",obesity
+11,OSA,"(1749, 1752)",osa
+12,OSA,"(1755, 1766)",sleep apnea
+13,Depression,"(751, 757)",zoloft
+14,Depression,"(2875, 2881)",zoloft
+15,CAD,"(1880, 1903)",cardiac catheterization
+16,Hypercholesterolemia,"(793, 804)",simvastatin

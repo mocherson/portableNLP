@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3711, 3731)",coronary angioplasty
+1,Diabetes,"(266, 274)",diabetes
+2,Diabetes,"(381, 389)",diabetes
+3,Diabetes,"(579, 587)",diabetes
+4,Diabetes,"(1738, 1746)",diabetes
+5,Hypertension,"(280, 292)",hypertension
+6,Hypertension,"(403, 415)",hypertension
+7,Hypertension,"(606, 618)",hypertension
+8,Hypertension,"(1704, 1716)",hypertension
+9,OSA,"(1861, 1872)",sleep apnea
+10,Hypertension,"(1217, 1229)",beta blocker
+11,CAD,"(3461, 3484)",cardiac catheterization

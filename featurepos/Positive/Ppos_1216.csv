@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(323, 347)",congestive heart failure
+1,CHF,"(576, 600)",congestive heart failure
+2,CHF,"(827, 851)",congestive heart failure
+3,CHF,"(1802, 1826)",congestive heart failure
+4,Gallstones,"(7296, 7306)",gallstones
+5,Gallstones,"(7296, 7306)",gallstones
+6,GERD,"(390, 404)",reflux disease
+7,GERD,"(1869, 1883)",reflux disease
+8,GERD,"(6076, 6090)",reflux disease
+9,GERD,"(373, 396)",gastroesophageal reflux
+10,GERD,"(1852, 1875)",gastroesophageal reflux
+11,GERD,"(6059, 6082)",gastroesophageal reflux
+12,Hypercholesterolemia,"(350, 370)",hypercholesterolemia
+13,Hypercholesterolemia,"(1829, 1849)",hypercholesterolemia
+14,Hypercholesterolemia,"(350, 370)",hypercholesterolemia
+15,Hypercholesterolemia,"(1829, 1849)",hypercholesterolemia
+16,Venous Insufficiency,"(407, 420)",venous stasis
+17,Venous Insufficiency,"(669, 682)",venous stasis
+18,Venous Insufficiency,"(1886, 1899)",venous stasis
+19,Hypertension,"(4447, 4459)",beta-blocker
+20,Hypertension,"(5122, 5134)",beta-blocker

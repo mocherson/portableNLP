@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(456, 462)",asthma
+1,CAD,"(383, 386)",cad
+2,CAD,"(1915, 1938)",coronary artery disease
+3,CHF,"(672, 675)",chf
+4,Diabetes,"(631, 633)",dm
+5,GERD,"(617, 621)",gerd
+6,Gout,"(624, 628)",gout
+7,Hypercholesterolemia,"(496, 516)",hypercholesterolemia
+8,Hypercholesterolemia,"(496, 516)",hypercholesterolemia
+9,Obesity,"(486, 493)",obesity
+10,Obesity,"(486, 493)",obesity
+11,OSA,"(472, 483)",sleep apnea
+12,Gout,"(813, 824)",allopurinol

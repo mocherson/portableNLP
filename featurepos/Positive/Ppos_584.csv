@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(257, 277)",coronary angioplasty
+1,CAD,"(4734, 4754)",coronary angioplasty
+2,CAD,"(5046, 5066)",coronary angioplasty
+3,CAD,"(3035, 3058)",coronary artery disease
+4,Hypertension,"(280, 292)",hypertension
+5,Hypertension,"(638, 650)",hypertension
+6,Hypertension,"(2536, 2548)",hypertension
+7,Hypertension,"(5565, 5577)",hypertension
+8,Hypertension,"(6124, 6141)",antihypertensives
+9,CAD,"(4679, 4702)",cardiac catheterization

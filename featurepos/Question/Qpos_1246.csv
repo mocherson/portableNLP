@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Asthma,"(9, 15)",asthma,"(222, 237)",question asthma,
+1,Asthma,"(9, 15)",asthma,"(2184, 2241)",presumed asthma with bronkosol nebulizers and solu-medrol,with bronkosol nebulizers and solu-medrol
+2,Asthma,"(9, 15)",asthma,"(5253, 5321)",presumed asthma and bronchitis and treated with bronkosol nebulizers,and bronchitis and treated with bronkosol nebulizers

@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(308, 314)",asthma
+1,Asthma,"(1610, 1616)",asthma
+2,Diabetes,"(1315, 1323)",diabetes
+3,Gallstones,"(1883, 1898)",cholecystectomy
+4,GERD,"(337, 351)",reflux disease
+5,GERD,"(1754, 1768)",reflux disease
+6,GERD,"(320, 343)",gastroesophageal reflux
+7,GERD,"(1737, 1760)",gastroesophageal reflux
+8,Hypercholesterolemia,"(1241, 1255)",hyperlipidemia
+9,Hypertension,"(1300, 1312)",hypertension
+10,Obesity,"(1231, 1238)",obesity
+11,Obesity,"(1231, 1238)",obesity
+12,Depression,"(2067, 2073)",zoloft
+13,Depression,"(6634, 6640)",zoloft
+14,CAD,"(5194, 5217)",cardiac catheterization
+15,CAD,"(6007, 6030)",cardiac catheterization

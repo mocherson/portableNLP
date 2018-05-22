@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1843, 1846)",chf
+1,CHF,"(1849, 1873)",congestive heart failure
+2,Depression,"(1811, 1821)",depression
+3,Gout,"(1876, 1880)",gout
+4,Gout,"(4511, 4515)",gout
+5,Hypertension,"(2123, 2126)",htn
+6,OA,"(1900, 1914)",osteoarthritis
+7,OA,"(1917, 1931)",osteoarthritis
+8,Obesity,"(2113, 2120)",obesity
+9,Obesity,"(1770, 1778)",obesitiy
+10,Obesity,"(2113, 2120)",obesity
+11,OSA,"(1823, 1834)",sleep apnea
+12,Depression,"(994, 1000)",celexa
+13,Depression,"(3328, 3334)",celexa
+14,Gout,"(534, 545)",allopurinol
+15,Gout,"(3200, 3211)",allopurinol

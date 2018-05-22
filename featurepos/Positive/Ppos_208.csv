@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(5445, 5451)",asthma
+1,CAD,"(424, 427)",cad
+2,CAD,"(2454, 2457)",cad
+3,CHF,"(386, 389)",chf
+4,CHF,"(2441, 2444)",chf
+5,CHF,"(2499, 2502)",chf
+6,CHF,"(2650, 2653)",chf
+7,CHF,"(5858, 5861)",chf
+8,GERD,"(3243, 3247)",gerd
+9,Depression,"(1492, 1498)",prozac
+10,Hypertension,"(2915, 2927)",beta-blocker
+11,Hypertension,"(4887, 4899)",beta-blocker
+12,Hypertension,"(5199, 5211)",beta-blocker

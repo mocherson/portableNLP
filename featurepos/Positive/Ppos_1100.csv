@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(393, 401)",diabetes
+1,Diabetes,"(906, 914)",diabetes
+2,Hypercholesterolemia,"(669, 683)",hyperlipidemia
+3,Hypertension,"(624, 636)",hypertension
+4,Hypertension,"(926, 938)",hypertension
+5,Obesity,"(2761, 2766)",obese
+6,Hypertension,"(6553, 6565)",beta-blocker

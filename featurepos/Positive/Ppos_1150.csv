@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(2302, 2305)",chf
+1,Diabetes,"(1172, 1180)",diabetes
+2,Hypercholesterolemia,"(1204, 1222)",hypercholesteremia
+3,Hypertension,"(1186, 1198)",hypertension
+4,Obesity,"(1687, 1692)",obese
+5,Hypertension,"(945, 969)",blood pressure of 190/97
+6,Hypertension,"(1572, 1593)",blood pressure 150/90

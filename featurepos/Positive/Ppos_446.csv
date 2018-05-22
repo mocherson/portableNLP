@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1008, 1011)",chf
+1,CHF,"(589, 613)",congestive heart failure
+2,CHF,"(289, 311)",dilated cardiomyopathy
+3,CHF,"(1209, 1231)",dilated cardiomyopathy
+4,Gout,"(1694, 1698)",gout
+5,Depression,"(2535, 2541)",zoloft
+6,Depression,"(4642, 4648)",zoloft
+7,CAD,"(3338, 3361)",cardiac catheterization
+8,Gout,"(2203, 2214)",allopurinol

@@ -1,0 +1,39 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(2245, 2255)",depression
+1,Depression,"(2258, 2268)",depression
+2,Depression,"(3227, 3237)",depression
+3,Depression,"(3849, 3859)",depression
+4,Diabetes,"(6060, 6068)",diabetes
+5,Diabetes,"(5592, 5594)",dm
+6,Gallstones,"(68, 77)",gallstone
+7,Gallstones,"(1812, 1821)",gallstone
+8,Gallstones,"(4497, 4506)",gallstone
+9,Gallstones,"(2017, 2031)",cholelithiasis
+10,Gallstones,"(2034, 2048)",cholelithiasis
+11,Gallstones,"(2461, 2475)",cholelithiasis
+12,Gallstones,"(3183, 3197)",cholelithiasis
+13,Gallstones,"(3938, 3952)",cholelithiasis
+14,Gallstones,"(4143, 4157)",cholelithiasis
+15,Gallstones,"(6433, 6448)",cholecystectomy
+16,GERD,"(2086, 2090)",gerd
+17,GERD,"(2445, 2449)",gerd
+18,GERD,"(2110, 2124)",reflux disease
+19,GERD,"(2093, 2116)",gastroesophageal reflux
+20,Hypercholesterolemia,"(1983, 1997)",hyperlipidemia
+21,Hypercholesterolemia,"(2000, 2014)",hyperlipidemia
+22,Hypercholesterolemia,"(3200, 3214)",hyperlipidemia
+23,Hypercholesterolemia,"(5326, 5340)",hyperlipidemia
+24,Hypertension,"(1968, 1980)",hypertension
+25,Hypertension,"(1962, 1965)",htn
+26,Hypertension,"(3083, 3086)",htn
+27,Hypertension,"(5320, 5323)",htn
+28,OA,"(2127, 2136)",arthritis
+29,OA,"(2139, 2148)",arthritis
+30,OA,"(3128, 3137)",arthritis
+31,Obesity,"(2225, 2232)",obesity
+32,Obesity,"(2235, 2242)",obesity
+33,Obesity,"(3217, 3224)",obesity
+34,Obesity,"(2225, 2232)",obesity
+35,Obesity,"(2235, 2242)",obesity
+36,Obesity,"(3217, 3224)",obesity
+37,Obesity,"(3632, 3637)",obese

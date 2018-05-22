@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1694, 1717)",coronary artery disease
+1,Diabetes,"(264, 272)",diabetes
+2,Diabetes,"(362, 370)",diabetes
+3,Diabetes,"(1493, 1501)",diabetes
+4,Diabetes,"(4158, 4166)",diabetes
+5,Diabetes,"(3873, 3881)",diabetic
+6,Hypertension,"(3855, 3867)",hypertension
+7,Obesity,"(1660, 1667)",obesity
+8,Obesity,"(1660, 1667)",obesity
+9,Hypertension,"(3482, 3494)",beta blocker

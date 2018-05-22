@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1467, 1491)",congestive heart failure
+1,Diabetes,"(414, 422)",diabetes
+2,Diabetes,"(1243, 1251)",diabetes
+3,Hypercholesterolemia,"(1294, 1308)",hyperlipidemia
+4,Hypertension,"(1311, 1323)",hypertension
+5,Hypertension,"(1616, 1628)",hypertension
+6,Hypertension,"(4598, 4610)",hypertension
+7,PVD,"(425, 452)",peripheral vascular disease
+8,PVD,"(1162, 1189)",peripheral vascular disease
+9,Hypercholesterolemia,"(6605, 6616)",simvastatin
+10,Hypercholesterolemia,"(10752, 10763)",simvastatin

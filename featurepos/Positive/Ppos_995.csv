@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(651, 654)",cad
+1,CAD,"(2142, 2164)",coronary artery bypass
+2,CAD,"(2805, 2828)",coronary artery disease
+3,CHF,"(2774, 2798)",congestive heart failure
+4,CHF,"(539, 562)",ischemic cardiomyopathy
+5,CHF,"(2057, 2080)",ischemic cardiomyopathy
+6,Diabetes,"(2754, 2762)",diabetes
+7,Hypertension,"(2324, 2336)",hypertension
+8,Obesity,"(3445, 3450)",obese
+9,PVD,"(2342, 2369)",peripheral vascular disease
+10,Hypertension,"(2888, 2910)",blood pressure 160/100

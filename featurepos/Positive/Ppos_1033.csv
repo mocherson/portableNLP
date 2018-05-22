@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4699, 4733)",percutaneous coronary intervention
+1,CAD,"(247, 270)",coronary artery disease
+2,CAD,"(484, 507)",coronary artery disease
+3,CAD,"(723, 746)",coronary artery disease
+4,CHF,"(3519, 3532)",heart failure
+5,Depression,"(669, 679)",depression
+6,Depression,"(4321, 4331)",depression
+7,Diabetes,"(618, 626)",diabetes
+8,Diabetes,"(4206, 4214)",diabetes
+9,GERD,"(821, 825)",gerd
+10,GERD,"(601, 615)",reflux disease
+11,GERD,"(584, 607)",gastroesophageal reflux
+12,Obesity,"(1794, 1799)",obese
+13,Depression,"(4897, 4903)",prozac
+14,Depression,"(4612, 4627)",antidepressants
+15,Hypertension,"(3313, 3325)",beta blocker

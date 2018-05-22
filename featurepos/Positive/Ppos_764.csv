@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(250, 256)",asthma
+1,Asthma,"(1267, 1273)",asthma
+2,Asthma,"(1320, 1326)",asthma
+3,Asthma,"(4930, 4936)",asthma
+4,CAD,"(3767, 3790)",coronary artery disease
+5,CHF,"(202, 226)",congestive heart failure
+6,CHF,"(432, 456)",congestive heart failure
+7,CHF,"(1401, 1425)",congestive heart failure
+8,CHF,"(4097, 4121)",congestive heart failure
+9,Hypertension,"(232, 244)",hypertension
+10,Hypertension,"(415, 427)",hypertension
+11,Hypertension,"(1350, 1362)",hypertension
+12,Hypertension,"(1698, 1710)",hypertension
+13,Hypertension,"(4242, 4254)",hypertension
+14,Obesity,"(2105, 2110)",obese
+15,Obesity,"(2497, 2502)",obese
+16,Hypertension,"(2185, 2206)",blood pressure 160/90

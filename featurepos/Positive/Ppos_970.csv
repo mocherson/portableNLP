@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(286, 310)",congestive heart failure
+1,CHF,"(782, 795)",heart failure
+2,CHF,"(827, 851)",congestive heart failure
+3,Depression,"(367, 377)",depression
+4,Depression,"(1426, 1436)",wellbutrin
+5,Depression,"(1451, 1457)",prozac
+6,Depression,"(4854, 4860)",prozac
+7,Depression,"(5033, 5043)",wellbutrin
+8,CAD,"(2583, 2606)",cardiac catheterization

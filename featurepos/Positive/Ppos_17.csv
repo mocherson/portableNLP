@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(290, 310)",coronary angioplasty
+1,CAD,"(832, 852)",coronary angioplasty
+2,CAD,"(1595, 1615)",coronary angioplasty
+3,CAD,"(3943, 3963)",coronary angioplasty
+4,CAD,"(4030, 4050)",coronary angioplasty
+5,CAD,"(1407, 1430)",coronary artery disease
+6,Hypercholesterolemia,"(505, 521)",high cholesterol
+7,OA,"(2369, 2378)",arthritis
+8,CAD,"(654, 677)",cardiac catheterization
+9,CAD,"(1462, 1485)",cardiac catheterization
+10,CAD,"(3783, 3806)",cardiac catheterization

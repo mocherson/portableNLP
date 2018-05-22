@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2775, 2778)",cad
+1,CAD,"(2960, 2963)",cad
+2,CAD,"(3409, 3412)",cad
+3,Diabetes,"(2679, 2681)",dm
+4,Diabetes,"(2949, 2951)",dm
+5,Diabetes,"(3313, 3315)",dm
+6,Hypertension,"(2684, 2687)",htn
+7,Hypertension,"(2954, 2957)",htn
+8,Hypertension,"(3318, 3321)",htn
+9,Hypertension,"(3939, 3942)",htn
+10,Obesity,"(3498, 3503)",obese
+11,Depression,"(1041, 1047)",prozac
+12,Hypercholesterolemia,"(2036, 2047)",simvastatin

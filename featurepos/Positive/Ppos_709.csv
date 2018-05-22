@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(5595, 5598)",cad
+1,CHF,"(4543, 4565)",dilated cardiomyopathy
+2,Diabetes,"(2637, 2645)",diabetes
+3,Diabetes,"(2632, 2634)",dm
+4,Diabetes,"(2901, 2903)",dm
+5,Diabetes,"(3590, 3592)",dm
+6,Diabetes,"(5652, 5654)",dm
+7,Diabetes,"(5850, 5852)",dm
+8,Hypertension,"(2617, 2629)",hypertension
+9,Hypertension,"(2611, 2614)",htn
+10,Hypertension,"(2906, 2909)",htn
+11,Hypertension,"(3584, 3587)",htn
+12,Hypertension,"(5857, 5860)",htn

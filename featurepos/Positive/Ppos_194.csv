@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(409, 417)",diabetes
+1,Diabetes,"(1927, 1935)",diabetes
+2,Diabetes,"(4886, 4894)",diabetes
+3,Gallstones,"(503, 518)",cholecystectomy
+4,Gallstones,"(5440, 5455)",cholecystectomy
+5,Gout,"(1918, 1922)",gout
+6,Gout,"(2454, 2458)",gout
+7,Gout,"(7459, 7463)",gout
+8,Gout,"(7680, 7684)",gout
+9,Gout,"(8683, 8687)",gout
+10,Hypercholesterolemia,"(2256, 2267)",pravastatin
+11,Hypercholesterolemia,"(9018, 9029)",pravastatin

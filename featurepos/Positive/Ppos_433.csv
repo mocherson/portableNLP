@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2007, 2029)",coronary artery bypass
+1,CAD,"(7667, 7689)",coronary artery bypass
+2,CAD,"(70, 93)",coronary artery disease
+3,Diabetes,"(5335, 5343)",diabetes
+4,Hypercholesterolemia,"(5259, 5271)",dyslipidemia
+5,Hypertension,"(5244, 5256)",hypertension
+6,Obesity,"(5274, 5281)",obesity
+7,Obesity,"(3038, 3043)",obese
+8,Obesity,"(5274, 5281)",obesity
+9,OSA,"(5284, 5307)",obstructive sleep apnea
+10,Hypercholesterolemia,"(6054, 6066)",atorvastatin

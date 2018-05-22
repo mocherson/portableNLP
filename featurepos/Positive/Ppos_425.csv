@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1209, 1229)",coronary angioplasty
+1,CAD,"(1394, 1414)",coronary angioplasty
+2,CAD,"(546, 568)",coronary artery bypass
+3,CAD,"(940, 962)",coronary artery bypass
+4,CAD,"(4916, 4938)",coronary artery bypass
+5,CAD,"(5050, 5072)",coronary artery bypass
+6,CAD,"(281, 304)",coronary artery disease
+7,CAD,"(515, 538)",coronary artery disease
+8,CAD,"(6246, 6269)",coronary artery disease
+9,Diabetes,"(307, 315)",diabetes
+10,Diabetes,"(3626, 3634)",diabetes
+11,Diabetes,"(3779, 3787)",diabetes
+12,Diabetes,"(9529, 9537)",diabetes
+13,Gallstones,"(4129, 4144)",cholecystectomy
+14,Gout,"(10364, 10368)",gout
+15,Hypercholesterolemia,"(333, 353)",hypercholesterolemia
+16,Hypercholesterolemia,"(3833, 3853)",hypercholesterolemia
+17,Hypercholesterolemia,"(333, 353)",hypercholesterolemia
+18,Hypercholesterolemia,"(3833, 3853)",hypercholesterolemia
+19,Hypertension,"(318, 330)",hypertension
+20,Hypertension,"(3637, 3649)",hypertension
+21,Hypertension,"(3762, 3774)",hypertension
+22,PVD,"(4033, 4060)",peripheral vascular disease
+23,Hypercholesterolemia,"(4472, 4484)",atorvastatin
+24,Hypercholesterolemia,"(11511, 11523)",atorvastatin

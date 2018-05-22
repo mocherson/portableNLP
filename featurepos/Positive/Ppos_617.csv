@@ -1,0 +1,25 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(5657, 5660)",cad
+1,CAD,"(8045, 8048)",cad
+2,CHF,"(8308, 8321)",heart failure
+3,Diabetes,"(3619, 3627)",diabetes
+4,Diabetes,"(3630, 3638)",diabetes
+5,Diabetes,"(3980, 3982)",dm
+6,Diabetes,"(5563, 5566)",dm2
+7,Diabetes,"(7575, 7578)",dm2
+8,Diabetes,"(9246, 9249)",dm2
+9,Hypercholesterolemia,"(5588, 5608)",hypercholesterolemia
+10,Hypercholesterolemia,"(5588, 5608)",hypercholesterolemia
+11,Hypertension,"(3998, 4001)",htn
+12,Hypertension,"(5582, 5585)",htn
+13,Obesity,"(6341, 6346)",obese
+14,OSA,"(3657, 3668)",sleep apnea
+15,OSA,"(3671, 3682)",sleep apnea
+16,OSA,"(4505, 4516)",sleep apnea
+17,OSA,"(5766, 5777)",sleep apnea
+18,Hypercholesterolemia,"(503, 514)",simvastatin
+19,Hypercholesterolemia,"(1316, 1327)",simvastatin
+20,Hypercholesterolemia,"(1380, 1391)",simvastatin
+21,Hypercholesterolemia,"(2858, 2869)",simvastatin
+22,Hypercholesterolemia,"(3114, 3125)",simvastatin
+23,Hypercholesterolemia,"(3178, 3189)",simvastatin

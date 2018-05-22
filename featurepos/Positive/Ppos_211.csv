@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(307, 315)",diabetes
+1,Diabetes,"(949, 957)",diabetes
+2,Diabetes,"(7289, 7297)",diabetes
+3,Gout,"(569, 573)",gout
+4,Hypercholesterolemia,"(368, 388)",hypercholesterolemia
+5,Hypercholesterolemia,"(368, 388)",hypercholesterolemia
+6,Hypertension,"(1143, 1155)",hypertension
+7,Hypertension,"(3345, 3357)",hypertension
+8,OA,"(580, 594)",osteoarthritis
+9,Obesity,"(318, 325)",obesity
+10,Obesity,"(960, 967)",obesity
+11,Obesity,"(318, 325)",obesity
+12,Obesity,"(960, 967)",obesity
+13,Obesity,"(1830, 1835)",obese
+14,Obesity,"(2361, 2366)",obese
+15,Obesity,"(8156, 8161)",obese
+16,Obesity,"(8527, 8532)",obese
+17,OSA,"(342, 365)",obstructive sleep apnea
+18,Hypercholesterolemia,"(6490, 6498)",nystatin
+19,Hypercholesterolemia,"(9191, 9199)",nystatin
+20,Gout,"(1344, 1355)",allopurinol
+21,Gout,"(6501, 6512)",allopurinol

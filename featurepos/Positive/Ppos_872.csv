@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3453, 3456)",cad
+1,CAD,"(3692, 3695)",cad
+2,Diabetes,"(3478, 3482)",iddm
+3,Diabetes,"(3655, 3659)",iddm
+4,Hypercholesterolemia,"(3698, 3718)",hypercholesterolemia
+5,Hypercholesterolemia,"(3698, 3718)",hypercholesterolemia
+6,Hypercholesterolemia,"(3461, 3477)",high cholesterol
+7,Hypertension,"(3721, 3733)",hypertension
+8,Hypertension,"(3457, 3460)",htn
+9,PVD,"(3662, 3689)",peripheral vascular disease
+10,Hypercholesterolemia,"(2272, 2283)",simvastatin
+11,Hypercholesterolemia,"(2558, 2569)",simvastatin
+12,Hypercholesterolemia,"(2807, 2818)",simvastatin

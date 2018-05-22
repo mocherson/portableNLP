@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3191, 3194)",cad
+1,Diabetes,"(395, 403)",diabetes
+2,Diabetes,"(4581, 4589)",diabetes
+3,Hypercholesterolemia,"(423, 443)",hypercholesterolemia
+4,Hypercholesterolemia,"(423, 443)",hypercholesterolemia
+5,CAD,"(2675, 2698)",cardiac catheterization
+6,Hypercholesterolemia,"(1556, 1568)",atorvastatin
+7,Hypercholesterolemia,"(6427, 6439)",atorvastatin

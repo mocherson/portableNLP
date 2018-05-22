@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,CAD,"(7, 30)",coronary artery disease,"(1401, 1432)",denies coronary artery disease ,
+1,Obesity,"(4, 9)",obese,"(2958, 2967)",non-obese,

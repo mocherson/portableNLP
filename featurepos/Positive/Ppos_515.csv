@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2477, 2483)",asthma
+1,CAD,"(77, 80)",cad
+2,CAD,"(2390, 2393)",cad
+3,CAD,"(2587, 2590)",cad
+4,CAD,"(2873, 2876)",cad
+5,CAD,"(3029, 3032)",cad
+6,CAD,"(3537, 3540)",cad
+7,CAD,"(3949, 3952)",cad
+8,Gallstones,"(2497, 2512)",cholecystectomy
+9,Gallstones,"(3593, 3596)",ccy
+10,GERD,"(2297, 2301)",gerd
+11,GERD,"(2488, 2492)",gerd
+12,GERD,"(3517, 3521)",gerd
+13,Hypertension,"(2484, 2487)",htn
+14,Hypertension,"(3524, 3527)",htn
+15,Obesity,"(2228, 2233)",obeso
+16,Hypercholesterolemia,"(1352, 1363)",simvastatin

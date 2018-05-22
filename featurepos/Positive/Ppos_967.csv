@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(9468, 9491)",atherosclerotic disease
+1,CAD,"(382, 405)",coronary artery disease
+2,CAD,"(3928, 3951)",coronary artery disease
+3,CHF,"(434, 437)",chf
+4,CHF,"(4320, 4323)",chf
+5,CHF,"(5890, 5893)",chf
+6,CHF,"(7324, 7327)",chf
+7,Diabetes,"(408, 416)",diabetes
+8,Diabetes,"(3905, 3913)",diabetes
+9,Diabetes,"(9691, 9699)",diabetes
+10,Hypercholesterolemia,"(3880, 3900)",hypercholesterolemia
+11,Hypercholesterolemia,"(3880, 3900)",hypercholesterolemia
+12,Hypertension,"(419, 431)",hypertension
+13,Hypertension,"(3863, 3875)",hypertension
+14,Depression,"(4472, 4482)",wellbutrin
+15,Depression,"(4507, 4513)",zoloft
+16,Depression,"(10965, 10971)",zoloft
+17,Depression,"(11122, 11132)",wellbutrin
+18,Hypertension,"(6900, 6912)",beta-blocker
+19,Hypercholesterolemia,"(4686, 4697)",pravastatin

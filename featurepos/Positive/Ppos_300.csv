@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(2151, 2161)",depression
+1,Diabetes,"(384, 392)",diabetes
+2,Diabetes,"(512, 520)",diabetes
+3,Diabetes,"(1388, 1396)",diabetes
+4,Diabetes,"(801, 809)",diabetic
+5,Hypercholesterolemia,"(406, 426)",elevated cholesterol
+6,Hypercholesterolemia,"(1412, 1432)",elevated cholesterol
+7,Hypertension,"(359, 371)",hypertension
+8,Hypertension,"(1329, 1341)",hypertension
+9,Hypertension,"(2067, 2079)",hypertension
+10,PVD,"(68, 95)",peripheral vascular disease
+11,PVD,"(327, 354)",peripheral vascular disease
+12,PVD,"(641, 668)",peripheral vascular disease
+13,PVD,"(1347, 1374)",peripheral vascular disease
+14,PVD,"(5327, 5354)",peripheral vascular disease
+15,Depression,"(5575, 5585)",wellbutrin

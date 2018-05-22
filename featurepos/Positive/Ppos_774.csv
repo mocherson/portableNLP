@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(236, 259)",coronary artery disease
+1,Hypercholesterolemia,"(265, 285)",hypercholesterolemia
+2,Hypercholesterolemia,"(1224, 1244)",hypercholesterolemia
+3,Hypercholesterolemia,"(1870, 1890)",hypercholesterolemia
+4,Hypercholesterolemia,"(265, 285)",hypercholesterolemia
+5,Hypercholesterolemia,"(1224, 1244)",hypercholesterolemia
+6,Hypercholesterolemia,"(1870, 1890)",hypercholesterolemia
+7,Hypercholesterolemia,"(1417, 1433)",high cholesterol
+8,Hypertension,"(290, 302)",hypertension
+9,Hypertension,"(1209, 1221)",hypertension
+10,Hypertension,"(1855, 1867)",hypertension
+11,OA,"(1929, 1943)",osteoarthritis
+12,Hypertension,"(1790, 1806)",antihypertensive
+13,Hypertension,"(4579, 4596)",antihypertensives
+14,CAD,"(4112, 4135)",cardiac catheterization

@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(3825, 3831)",asthma
+1,Depression,"(2896, 2906)",depression
+2,Depression,"(2909, 2919)",depression
+3,Gallstones,"(3858, 3861)",ccy
+4,GERD,"(3834, 3838)",gerd
+5,GERD,"(5300, 5304)",gerd
+6,Hypertension,"(2746, 2758)",hypertension
+7,Hypertension,"(2740, 2743)",htn
+8,Hypertension,"(3700, 3703)",htn
+9,OA,"(2809, 2818)",arthritis
+10,OA,"(2835, 2844)",arthritis
+11,Obesity,"(2761, 2768)",obesity
+12,Obesity,"(2771, 2778)",obesity
+13,Obesity,"(3713, 3720)",obesity
+14,Obesity,"(2761, 2768)",obesity
+15,Obesity,"(2771, 2778)",obesity
+16,Obesity,"(3713, 3720)",obesity
+17,Obesity,"(4235, 4240)",obese
+18,Hypertension,"(5045, 5062)",antihypertensives

@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1641, 1644)",cad
+1,CAD,"(2254, 2257)",cad
+2,Diabetes,"(1695, 1699)",iddm
+3,Diabetes,"(1976, 1984)",diabetic
+4,Hypertension,"(1328, 1331)",htn
+5,Hypertension,"(1706, 1709)",htn
+6,Hypercholesterolemia,"(664, 675)",simvastatin

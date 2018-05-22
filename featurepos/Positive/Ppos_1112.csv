@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(69, 72)",cad
+1,CAD,"(1559, 1562)",cad
+2,CAD,"(1646, 1649)",cad
+3,CAD,"(2074, 2077)",cad
+4,CAD,"(2091, 2094)",pci
+5,CHF,"(2644, 2647)",chf
+6,CHF,"(1437, 1460)",ischemic cardiomyopathy
+7,CHF,"(1650, 1673)",ischemic cardiomyopathy
+8,CHF,"(2038, 2061)",ischemic cardiomyopathy
+9,Diabetes,"(1737, 1745)",diabetes
+10,Diabetes,"(2528, 2532)",iddm
+11,Hypercholesterolemia,"(2143, 2163)",hypercholesterolemia
+12,Hypercholesterolemia,"(2143, 2163)",hypercholesterolemia
+13,Hypertension,"(2128, 2140)",hypertension
+14,Hypercholesterolemia,"(535, 547)",atorvastatin

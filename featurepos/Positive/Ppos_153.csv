@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(418, 426)",diabetes
+1,Diabetes,"(2207, 2215)",diabetes
+2,Diabetes,"(8195, 8203)",diabetes
+3,GERD,"(2695, 2703)",carafate
+4,GERD,"(10611, 10619)",carafate
+5,OA,"(580, 595)",hip replacement
+6,OA,"(2329, 2344)",hip replacement
+7,OA,"(554, 570)",knee replacement
+8,OA,"(2303, 2319)",knee replacement

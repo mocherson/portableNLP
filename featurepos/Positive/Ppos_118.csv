@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(1012, 1020)",diabetes
+1,Diabetes,"(2008, 2016)",diabetes
+2,Hypercholesterolemia,"(1035, 1053)",hypercholesteremia
+3,Hypertension,"(995, 1007)",hypertension
+4,Obesity,"(1146, 1153)",obesity
+5,Obesity,"(1146, 1153)",obesity
+6,Obesity,"(2279, 2284)",obese
+7,Obesity,"(2774, 2779)",obese
+8,Obesity,"(5244, 5249)",obese
+9,Hypercholesterolemia,"(6186, 6197)",simvastatin

@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3724, 3727)",cad
+1,CHF,"(2743, 2746)",chf
+2,CHF,"(2810, 2833)",ischemic cardiomyopathy
+3,Diabetes,"(3117, 3119)",dm
+4,Diabetes,"(4011, 4013)",dm
+5,Hypertension,"(2703, 2706)",htn
+6,Hypertension,"(3111, 3114)",htn
+7,Depression,"(2194, 2200)",celexa

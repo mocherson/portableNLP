@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(437, 445)",diabetes
+1,Diabetes,"(1015, 1023)",diabetes
+2,Diabetes,"(1156, 1164)",diabetes
+3,Diabetes,"(2996, 3004)",diabetes
+4,Diabetes,"(3032, 3040)",diabetes
+5,Gallstones,"(1321, 1336)",cholecystectomy
+6,Hypercholesterolemia,"(1199, 1219)",hypercholesterolemia
+7,Hypercholesterolemia,"(1199, 1219)",hypercholesterolemia
+8,Hypertension,"(1242, 1254)",hypertension
+9,Obesity,"(1186, 1193)",obesity
+10,Obesity,"(1186, 1193)",obesity
+11,Obesity,"(1872, 1877)",obese
+12,Obesity,"(3603, 3608)",obese
+13,OSA,"(1269, 1292)",obstructive sleep apnea

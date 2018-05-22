@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(2867, 2870)",chf
+1,CHF,"(8763, 8766)",chf
+2,CHF,"(8790, 8803)",heart failure
+3,Diabetes,"(375, 383)",diabetes
+4,Diabetes,"(2619, 2627)",diabetes
+5,Diabetes,"(253, 261)",diabetic
+6,Hypertension,"(9133, 9145)",hypertension

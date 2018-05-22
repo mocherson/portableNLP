@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1961, 1967)",asthma
+1,Gallstones,"(1990, 2000)",gallstones
+2,Gallstones,"(1990, 2000)",gallstones
+3,GERD,"(1968, 1972)",gerd
+4,Hypercholesterolemia,"(1831, 1845)",hyperlipidemia
+5,Hypertension,"(1827, 1830)",htn
+6,OA,"(1987, 1989)",oa
+7,Obesity,"(77, 84)",obesity
+8,Obesity,"(1638, 1645)",obesity
+9,Obesity,"(1732, 1739)",obesity
+10,Obesity,"(77, 84)",obesity
+11,Obesity,"(1638, 1645)",obesity
+12,Obesity,"(1732, 1739)",obesity
+13,OSA,"(1925, 1948)",obstructive sleep apnea
+14,Venous Insufficiency,"(2014, 2027)",venous stasis
+15,Venous Insufficiency,"(2139, 2152)",venous stasis
+16,Venous Insufficiency,"(2196, 2209)",venous stasis
+17,Hypercholesterolemia,"(1181, 1192)",simvastatin

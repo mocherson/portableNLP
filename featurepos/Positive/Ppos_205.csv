@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(529, 552)",coronary artery disease
+1,CAD,"(2356, 2379)",coronary artery disease
+2,CHF,"(1828, 1831)",chf
+3,CHF,"(4358, 4361)",chf
+4,CHF,"(355, 379)",congestive heart failure
+5,CHF,"(502, 526)",congestive heart failure
+6,CHF,"(2274, 2298)",congestive heart failure
+7,CHF,"(4069, 4093)",congestive heart failure
+8,CHF,"(5428, 5452)",congestive heart failure
+9,Diabetes,"(2600, 2608)",diabetes
+10,Diabetes,"(9140, 9148)",diabetes
+11,Gout,"(2956, 2960)",gout
+12,Gout,"(9687, 9691)",gout
+13,Hypercholesterolemia,"(6125, 6139)",hyperlipidemia
+14,OA,"(2771, 2785)",osteoarthritis
+15,OA,"(9819, 9833)",osteoarthritis
+16,PVD,"(2704, 2731)",peripheral vascular disease
+17,Depression,"(3369, 3375)",zoloft
+18,Depression,"(10508, 10514)",zoloft

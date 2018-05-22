@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Hypertension,"(1683, 1695)",hypertension
+1,Hypertension,"(1677, 1680)",htn
+2,Obesity,"(2291, 2298)",obesity
+3,Obesity,"(2923, 2930)",obesity
+4,Obesity,"(3593, 3600)",obesity
+5,Obesity,"(4187, 4194)",obesity
+6,Obesity,"(2291, 2298)",obesity
+7,Obesity,"(2923, 2930)",obesity
+8,Obesity,"(3117, 3122)",obese
+9,Obesity,"(3593, 3600)",obesity
+10,Obesity,"(4187, 4194)",obesity
+11,Hypercholesterolemia,"(1097, 1108)",pravastatin
+12,Gout,"(3025, 3036)",allopurinol

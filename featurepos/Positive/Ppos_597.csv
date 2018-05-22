@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(6205, 6208)",cad
+1,CHF,"(69, 72)",chf
+2,CHF,"(3385, 3388)",chf
+3,CHF,"(3486, 3489)",chf
+4,CHF,"(3586, 3589)",chf
+5,CHF,"(5536, 5539)",chf
+6,CHF,"(6133, 6136)",chf
+7,CHF,"(6152, 6155)",chf
+8,CHF,"(6655, 6658)",chf
+9,Depression,"(5925, 5935)",depression
+10,Diabetes,"(5545, 5547)",dm
+11,Diabetes,"(5726, 5728)",dm
+12,Diabetes,"(6128, 6130)",dm
+13,GERD,"(5540, 5544)",gerd
+14,Hypertension,"(5532, 5535)",htn
+15,Hypercholesterolemia,"(544, 556)",atorvastatin

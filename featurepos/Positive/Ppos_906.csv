@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1978, 2000)",coronary artery bypass
+1,CAD,"(69, 92)",coronary artery disease
+2,Diabetes,"(407, 415)",diabetes
+3,Diabetes,"(1595, 1603)",diabetes
+4,Gallstones,"(1753, 1768)",cholecystectomy
+5,Hypertension,"(371, 383)",hypertension
+6,Hypertension,"(1559, 1571)",hypertension

@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Gallstones,"(4668, 4678)",gallstones
+1,Gallstones,"(5033, 5043)",gallstones
+2,Gallstones,"(4668, 4678)",gallstones
+3,Gallstones,"(5001, 5010)",gallstone
+4,Gallstones,"(5033, 5043)",gallstones
+5,Gallstones,"(6339, 6354)",cholecystectomy
+6,Hypertension,"(353, 365)",hypertension
+7,Hypertension,"(1854, 1866)",hypertension
+8,Hypertension,"(4561, 4573)",hypertension
+9,OA,"(1948, 1962)",osteoarthritis
+10,Obesity,"(1935, 1942)",obesity
+11,Obesity,"(1935, 1942)",obesity
+12,OA,"(1985, 2000)",hip replacement

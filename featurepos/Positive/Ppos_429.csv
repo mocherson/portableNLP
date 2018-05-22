@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(925, 928)",cad
+1,CAD,"(4239, 4242)",cad
+2,CAD,"(86, 109)",coronary artery disease
+3,CAD,"(353, 376)",coronary artery disease
+4,Diabetes,"(520, 528)",diabetes
+5,Hypercholesterolemia,"(540, 554)",hyperlipidemia
+6,Hypertension,"(505, 517)",hypertension
+7,OA,"(578, 592)",osteoarthritis
+8,Obesity,"(649, 654)",obese
+9,CAD,"(871, 894)",cardiac catheterization
+10,CAD,"(3486, 3509)",cardiac catheterization
+11,Hypercholesterolemia,"(2171, 2183)",atorvastatin
+12,Hypercholesterolemia,"(5617, 5628)",simvastatin

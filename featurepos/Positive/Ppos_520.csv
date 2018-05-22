@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2143, 2149)",asthma
+1,Depression,"(2198, 2208)",depression
+2,Diabetes,"(2054, 2062)",diabetes
+3,Gallstones,"(2943, 2958)",cholecystectomy
+4,GERD,"(2214, 2218)",gerd
+5,Hypertension,"(2107, 2119)",hypertension
+6,Obesity,"(2437, 2444)",obesity
+7,Obesity,"(2437, 2444)",obesity
+8,Obesity,"(3947, 3952)",obese
+9,OSA,"(2307, 2330)",obstructive sleep apnea
+10,Depression,"(3431, 3438)",lexapro
+11,Depression,"(10210, 10217)",lexapro
+12,Hypertension,"(4819, 4831)",beta-blocker
+13,Hypertension,"(4926, 4938)",beta-blocker
+14,OA,"(88, 103)",hip replacement
+15,OA,"(301, 316)",hip replacement
+16,OA,"(380, 395)",hip replacement
+17,OA,"(1069, 1084)",hip replacement
+18,OA,"(1960, 1975)",hip replacement
+19,OA,"(2751, 2766)",hip replacement
+20,OA,"(5275, 5290)",hip replacement

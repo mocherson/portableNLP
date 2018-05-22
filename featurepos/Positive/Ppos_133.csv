@@ -1,0 +1,27 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(239, 262)",coronary artery disease
+1,CAD,"(2228, 2251)",coronary artery disease
+2,Depression,"(332, 342)",depression
+3,Diabetes,"(299, 307)",diabetes
+4,Diabetes,"(647, 655)",diabetes
+5,Diabetes,"(2651, 2659)",diabetes
+6,Gallstones,"(386, 401)",cholecystectomy
+7,Gallstones,"(2784, 2799)",cholecystectomy
+8,Gallstones,"(4215, 4230)",cholecystectomy
+9,Gout,"(322, 326)",gout
+10,Gout,"(1945, 1949)",gout
+11,Gout,"(2707, 2711)",gout
+12,Hypertension,"(222, 234)",hypertension
+13,Hypertension,"(2213, 2225)",hypertension
+14,Hypertriglyceridemia,"(424, 447)",increased triglycerides
+15,Hypertriglyceridemia,"(2819, 2842)",increased triglycerides
+16,Obesity,"(268, 275)",obesity
+17,Obesity,"(2612, 2619)",obesity
+18,Obesity,"(268, 275)",obesity
+19,Obesity,"(2612, 2619)",obesity
+20,Obesity,"(3659, 3664)",obese
+21,Obesity,"(4190, 4195)",obese
+22,Hypertension,"(3558, 3579)",blood pressure 140/90
+23,CAD,"(2259, 2282)",cardiac catheterization
+24,Hypercholesterolemia,"(3034, 3045)",pravastatin
+25,Hypercholesterolemia,"(6535, 6546)",pravastatin

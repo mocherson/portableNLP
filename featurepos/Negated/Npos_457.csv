@@ -1,0 +1,5 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,CAD,"(26, 49)",coronary artery disease,"(984, 1034)",no known risk factors for coronary artery disease ,
+1,CAD,"(9, 32)",coronary artery disease,"(1330, 1402)",no known coronary artery disease and has not had a myocardial infarction,
+2,Diabetes,"(9, 17)",diabetic,"(1533, 1563)",no known diabetic retinopathy ,
+3,Hypertension,"(15, 27)",hypertension,"(4411, 4438)",no orthostatic hypertension,

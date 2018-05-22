@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1604, 1627)",coronary artery disease
+1,CAD,"(5794, 5817)",coronary artery disease
+2,CAD,"(8297, 8320)",coronary artery disease
+3,CHF,"(6317, 6330)",heart failure
+4,CHF,"(8813, 8826)",heart failure
+5,Diabetes,"(351, 359)",diabetes
+6,Diabetes,"(497, 505)",diabetes
+7,Diabetes,"(1560, 1568)",diabetes
+8,Diabetes,"(5820, 5828)",diabetes
+9,Diabetes,"(1793, 1801)",diabetic
+10,Gallstones,"(4088, 4098)",gallstones
+11,Gallstones,"(4088, 4098)",gallstones
+12,Hypertension,"(333, 345)",hypertension
+13,Hypertension,"(1542, 1554)",hypertension
+14,OA,"(5044, 5058)",osteoarthritis
+15,PVD,"(70, 97)",peripheral vascular disease
+16,PVD,"(517, 544)",peripheral vascular disease
+17,PVD,"(1839, 1866)",peripheral vascular disease
+18,PVD,"(5838, 5865)",peripheral vascular disease
+19,Hypertension,"(9925, 9937)",beta-blocker
+20,Hypertension,"(11904, 11916)",beta-blocker

@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(267, 270)",chf
+1,CHF,"(307, 310)",chf
+2,CHF,"(1403, 1406)",chf
+3,CHF,"(1661, 1664)",chf
+4,CHF,"(1767, 1770)",chf
+5,CHF,"(3526, 3529)",chf
+6,CHF,"(4133, 4136)",chf
+7,CHF,"(4152, 4155)",chf
+8,CHF,"(4394, 4397)",chf
+9,CHF,"(5508, 5511)",chf
+10,CHF,"(7629, 7632)",chf
+11,CHF,"(8455, 8458)",chf
+12,CHF,"(91, 115)",congestive heart failure
+13,CHF,"(4732, 4745)",heart failure
+14,CHF,"(5080, 5104)",congestive heart failure
+15,CHF,"(5566, 5579)",heart failure
+16,CHF,"(441, 467)",nonischemic cardiomyopathy
+17,Depression,"(673, 683)",depression
+18,Diabetes,"(730, 738)",diabetes
+19,Diabetes,"(6534, 6542)",diabetes
+20,Diabetes,"(8325, 8333)",diabetic
+21,Hypertension,"(2740, 2761)",blood pressure 150/99

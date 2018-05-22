@@ -1,0 +1,27 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1464, 1487)",coronary artery disease
+1,CAD,"(2710, 2733)",coronary artery disease
+2,CHF,"(3895, 3898)",chf
+3,CHF,"(639, 652)",heart failure
+4,Diabetes,"(446, 454)",diabetes
+5,Diabetes,"(590, 598)",diabetes
+6,Diabetes,"(1634, 1642)",diabetes
+7,Diabetes,"(8327, 8335)",diabetes
+8,Gout,"(396, 400)",gout
+9,Gout,"(8102, 8106)",gout
+10,Gout,"(8202, 8206)",gout
+11,Hypercholesterolemia,"(616, 636)",hypercholesterolemia
+12,Hypercholesterolemia,"(616, 636)",hypercholesterolemia
+13,Hypercholesterolemia,"(424, 440)",high cholesterol
+14,Hypercholesterolemia,"(1665, 1681)",high cholesterol
+15,Hypertension,"(406, 418)",hypertension
+16,Hypertension,"(601, 613)",hypertension
+17,Hypertension,"(1648, 1660)",hypertension
+18,Hypertension,"(7016, 7028)",hypertension
+19,Obesity,"(580, 587)",obesity
+20,Obesity,"(2600, 2607)",obesity
+21,Obesity,"(580, 587)",obesity
+22,Obesity,"(2083, 2088)",obese
+23,Obesity,"(2600, 2607)",obesity
+24,Depression,"(1795, 1801)",zoloft
+25,Depression,"(9035, 9041)",zoloft

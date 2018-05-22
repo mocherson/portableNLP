@@ -1,0 +1,25 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2158, 2164)",asthma
+1,Asthma,"(3840, 3846)",asthma
+2,CAD,"(66, 69)",cad
+3,CAD,"(1988, 1991)",cad
+4,CAD,"(2071, 2074)",cad
+5,CAD,"(2169, 2172)",cad
+6,CAD,"(2544, 2547)",cad
+7,Diabetes,"(2243, 2251)",diabetes
+8,Diabetes,"(2238, 2240)",dm
+9,Diabetes,"(2550, 2552)",dm
+10,Hypercholesterolemia,"(2307, 2327)",hypercholesterolemia
+11,Hypercholesterolemia,"(2559, 2579)",hypercholesterolemia
+12,Hypercholesterolemia,"(2307, 2327)",hypercholesterolemia
+13,Hypercholesterolemia,"(2559, 2579)",hypercholesterolemia
+14,Hypercholesterolemia,"(2330, 2350)",elevated cholesterol
+15,Hypertension,"(2359, 2371)",hypertension
+16,Hypertension,"(2353, 2356)",htn
+17,Hypertension,"(2538, 2541)",htn
+18,OSA,"(2287, 2290)",osa
+19,OSA,"(4201, 4204)",osa
+20,OSA,"(2293, 2304)",sleep apnea
+21,Hypertension,"(3812, 3821)",b blocker
+22,CAD,"(2445, 2468)",cardiac catheterization
+23,Hypercholesterolemia,"(1431, 1442)",simvastatin

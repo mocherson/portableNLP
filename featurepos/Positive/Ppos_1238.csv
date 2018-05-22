@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Hypertension,"(264, 276)",hypertension
+1,Hypertension,"(419, 431)",hypertension
+2,Hypertension,"(1778, 1790)",hypertension
+3,CAD,"(976, 999)",cardiac catheterization
+4,CAD,"(1002, 1025)",cardiac catheterization
+5,CAD,"(3019, 3042)",cardiac catheterization
+6,CAD,"(3342, 3365)",cardiac catheterization
+7,Hypercholesterolemia,"(3609, 3620)",simvastatin

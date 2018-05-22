@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1948, 1951)",cad
+1,CAD,"(2396, 2399)",cad
+2,CAD,"(2608, 2611)",pci
+3,CAD,"(67, 90)",coronary artery disease
+4,CAD,"(2031, 2054)",coronary artery disease
+5,Depression,"(2142, 2152)",depression
+6,Diabetes,"(2236, 2238)",dm
+7,Diabetes,"(2361, 2363)",dm
+8,Hypercholesterolemia,"(2371, 2385)",hyperlipidemia
+9,Hypertension,"(2138, 2141)",htn
+10,Depression,"(1624, 1634)",wellbutrin
+11,Hypercholesterolemia,"(1264, 1275)",pravastatin

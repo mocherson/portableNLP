@@ -1,0 +1,7 @@
+,disease,dis_pos,dis_alias
+0,Hypertension,"(1222, 1225)",htn
+1,Hypertension,"(2186, 2198)",beta blocker
+2,CAD,"(1403, 1426)",cardiac catheterization
+3,CAD,"(1456, 1479)",cardiac catheterization
+4,Hypercholesterolemia,"(789, 800)",simvastatin
+5,Hypercholesterolemia,"(1867, 1878)",simvistatin

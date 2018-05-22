@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(381, 404)",coronary artery disease
+1,CAD,"(3135, 3158)",coronary artery disease
+2,CHF,"(69, 93)",congestive heart failure
+3,Diabetes,"(624, 632)",diabetes
+4,Diabetes,"(3412, 3420)",diabetes
+5,Diabetes,"(8190, 8198)",diabetes
+6,Hypertension,"(646, 658)",hypertension
+7,Hypertension,"(3432, 3444)",hypertension

@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(472, 475)",cad
+1,CAD,"(1212, 1235)",coronary artery disease
+2,CHF,"(466, 469)",chf
+3,CHF,"(590, 593)",chf
+4,CHF,"(892, 895)",chf
+5,CHF,"(4461, 4464)",chf
+6,CHF,"(5407, 5410)",chf
+7,CHF,"(5808, 5811)",chf
+8,CHF,"(70, 94)",congestive heart failure
+9,CHF,"(265, 289)",congestive heart failure
+10,CHF,"(346, 370)",congestive heart failure
+11,CHF,"(1118, 1142)",congestive heart failure
+12,CHF,"(1185, 1209)",congestive heart failure
+13,Depression,"(1253, 1263)",depression
+14,Diabetes,"(1167, 1175)",diabetes
+15,Diabetes,"(7915, 7923)",diabetes
+16,Diabetes,"(478, 480)",dm
+17,Gallstones,"(2662, 2677)",cholecystectomy
+18,Hypertension,"(1238, 1250)",hypertension
+19,PVD,"(1281, 1308)",peripheral vascular disease
+20,Depression,"(8368, 8374)",celexa
+21,Hypercholesterolemia,"(8785, 8793)",nystatin

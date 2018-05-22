@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(524, 547)",coronary artery disease
+1,Diabetes,"(485, 493)",diabetes
+2,Gallstones,"(550, 560)",gallstones
+3,Gallstones,"(550, 560)",gallstones
+4,Hypercholesterolemia,"(505, 521)",high cholesterol
+5,Hypertension,"(436, 448)",hypertension
+6,Hypercholesterolemia,"(4117, 4128)",simvastatin

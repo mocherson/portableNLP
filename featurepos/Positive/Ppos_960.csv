@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(85, 109)",congestive heart failure
+1,CHF,"(222, 246)",congestive heart failure
+2,CHF,"(522, 546)",congestive heart failure
+3,CHF,"(640, 664)",congestive heart failure
+4,CHF,"(2232, 2256)",congestive heart failure
+5,CHF,"(2257, 2280)",ischemic cardiomyopathy
+6,Diabetes,"(357, 365)",diabetes
+7,Diabetes,"(502, 510)",diabetes
+8,Diabetes,"(2411, 2419)",diabetes
+9,Diabetes,"(6964, 6972)",diabetes
+10,Hypertension,"(339, 351)",hypertension
+11,Hypertension,"(487, 499)",hypertension
+12,Hypertension,"(2481, 2493)",hypertension
+13,Hypertension,"(4310, 4324)",ace inhibitors
+14,CAD,"(5030, 5053)",cardiac catheterization
+15,CAD,"(6287, 6310)",cardiac catheterization

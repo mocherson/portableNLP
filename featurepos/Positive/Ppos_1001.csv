@@ -1,0 +1,31 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(69, 92)",coronary artery disease
+1,CAD,"(257, 280)",coronary artery disease
+2,CAD,"(695, 718)",coronary artery disease
+3,CAD,"(5997, 6020)",coronary artery disease
+4,CHF,"(205, 229)",congestive heart failure
+5,CHF,"(340, 364)",congestive heart failure
+6,CHF,"(5646, 5670)",congestive heart failure
+7,Depression,"(407, 417)",depression
+8,Depression,"(2887, 2897)",depression
+9,Diabetes,"(459, 467)",diabetes
+10,Diabetes,"(2289, 2297)",diabetes
+11,Diabetes,"(3053, 3061)",diabetes
+12,Diabetes,"(7046, 7054)",diabetes
+13,Diabetes,"(7731, 7739)",diabetes
+14,Diabetes,"(6207, 6215)",diabetic
+15,Hypercholesterolemia,"(286, 306)",hypercholesterolemia
+16,Hypercholesterolemia,"(2324, 2344)",hypercholesterolemia
+17,Hypercholesterolemia,"(2646, 2666)",hypercholesterolemia
+18,Hypercholesterolemia,"(286, 306)",hypercholesterolemia
+19,Hypercholesterolemia,"(2324, 2344)",hypercholesterolemia
+20,Hypercholesterolemia,"(2646, 2666)",hypercholesterolemia
+21,Hypertension,"(311, 323)",hypertension
+22,Hypertension,"(2309, 2321)",hypertension
+23,Hypertension,"(2706, 2718)",hypertension
+24,Hypertension,"(7553, 7565)",hypertension
+25,CAD,"(1601, 1624)",cardiac catheterization
+26,CAD,"(1750, 1773)",cardiac catheterization
+27,CAD,"(6306, 6329)",cardiac catheterization
+28,CAD,"(6589, 6612)",cardiac catheterization
+29,OA,"(3445, 3461)",knee replacement

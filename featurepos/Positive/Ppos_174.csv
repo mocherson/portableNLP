@@ -1,0 +1,25 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(68, 71)",chf
+1,CHF,"(1927, 1930)",chf
+2,CHF,"(2228, 2231)",chf
+3,CHF,"(3845, 3869)",congestive heart failure
+4,CHF,"(4129, 4142)",heart failure
+5,Diabetes,"(2020, 2022)",dm
+6,Diabetes,"(2270, 2272)",dm
+7,Diabetes,"(2574, 2576)",dm
+8,Diabetes,"(2876, 2878)",dm
+9,Diabetes,"(3728, 3730)",dm
+10,Hypercholesterolemia,"(2028, 2048)",hypercholesterolemia
+11,Hypercholesterolemia,"(2028, 2048)",hypercholesterolemia
+12,Hypercholesterolemia,"(2282, 2296)",hyperlipidemia
+13,Hypercholesterolemia,"(2884, 2898)",hyperlipidemia
+14,Hypercholesterolemia,"(3762, 3776)",hyperlipidemia
+15,Hypertension,"(2014, 2017)",htn
+16,Hypertension,"(2264, 2267)",htn
+17,Hypertension,"(2533, 2536)",htn
+18,Hypertension,"(2870, 2873)",htn
+19,Hypertension,"(3683, 3686)",htn
+20,OA,"(2051, 2053)",oa
+21,OA,"(2901, 2903)",oa
+22,Hypercholesterolemia,"(543, 555)",atorvastatin
+23,OA,"(2920, 2935)",hip replacement

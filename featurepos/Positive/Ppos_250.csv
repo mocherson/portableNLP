@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(357, 379)",coronary artery bypass
+1,CAD,"(6292, 6315)",coronary artery disease
+2,CHF,"(9269, 9293)",congestive heart failure
+3,Diabetes,"(1031, 1039)",diabetes
+4,Hypercholesterolemia,"(243, 257)",hyperlipidemia
+5,Hypercholesterolemia,"(965, 979)",hyperlipidemia
+6,Hypercholesterolemia,"(2014, 2028)",hyperlipidemia
+7,Hypercholesterolemia,"(2189, 2199)",lovastatin
+8,Hypercholesterolemia,"(2413, 2423)",lovastatin
+9,Hypercholesterolemia,"(5031, 5041)",lovastatin
+10,Hypercholesterolemia,"(9604, 9614)",lovastatin

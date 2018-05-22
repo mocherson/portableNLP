@@ -1,0 +1,29 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2177, 2180)",cad
+1,CAD,"(2753, 2756)",cad
+2,CAD,"(2183, 2206)",coronary artery disease
+3,CAD,"(5009, 5032)",coronary artery disease
+4,CHF,"(2209, 2212)",chf
+5,CHF,"(2944, 2947)",chf
+6,CHF,"(5285, 5288)",chf
+7,CHF,"(10394, 10397)",chf
+8,CHF,"(2215, 2239)",congestive heart failure
+9,CHF,"(2809, 2833)",congestive heart failure
+10,Diabetes,"(2302, 2310)",diabetes
+11,Diabetes,"(5415, 5423)",diabetes
+12,Diabetes,"(10265, 10273)",diabetes
+13,Diabetes,"(2297, 2299)",dm
+14,Diabetes,"(5651, 5653)",dm
+15,Diabetes,"(5540, 5548)",diabetic
+16,Hypertension,"(2282, 2294)",hypertension
+17,Hypertension,"(5397, 5409)",hypertension
+18,Hypertension,"(2276, 2279)",htn
+19,Hypertension,"(2847, 2850)",htn
+20,OA,"(6035, 6049)",osteoarthritis
+21,GERD,"(10682, 10693)",esophagitis
+22,Hypercholesterolemia,"(1198, 1209)",simvastatin
+23,Hypercholesterolemia,"(1290, 1301)",simvastatin
+24,Hypercholesterolemia,"(1332, 1343)",simvastatin
+25,Hypercholesterolemia,"(1586, 1597)",simvastatin
+26,Hypercholesterolemia,"(1655, 1666)",simvastatin
+27,OA,"(6075, 6090)",hip replacement

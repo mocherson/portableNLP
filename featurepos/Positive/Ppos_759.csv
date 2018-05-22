@@ -1,0 +1,7 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(505, 511)",asthma
+1,CHF,"(588, 612)",congestive heart failure
+2,Obesity,"(2910, 2915)",obese
+3,Obesity,"(3157, 3162)",obese
+4,Hypertension,"(1392, 1404)",beta blocker
+5,CAD,"(763, 786)",cardiac catheterization

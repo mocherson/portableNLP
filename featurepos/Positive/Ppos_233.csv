@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(97, 121)",congestive heart failure
+1,CHF,"(2837, 2861)",congestive heart failure
+2,CHF,"(2892, 2916)",congestive heart failure
+3,CHF,"(3782, 3806)",congestive heart failure
+4,CHF,"(6188, 6212)",congestive heart failure
+5,Diabetes,"(469, 477)",diabetes
+6,Diabetes,"(6445, 6453)",diabetes
+7,Diabetes,"(6478, 6486)",diabetes
+8,Hypertension,"(3978, 3990)",beta-blocker
+9,Gout,"(8742, 8753)",allopurinol

@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(265, 273)",diabetes
+1,Diabetes,"(661, 669)",diabetes
+2,Diabetes,"(2781, 2789)",diabetes
+3,Diabetes,"(734, 742)",diabetic
+4,Gallstones,"(1718, 1733)",cholecystectomy
+5,Hypertension,"(279, 291)",hypertension
+6,Hypertension,"(683, 695)",hypertension
+7,Hypertension,"(2795, 2807)",hypertension
+8,PVD,"(2854, 2881)",peripheral vascular disease
+9,Venous Insufficiency,"(2893, 2915)",lower extremity ulcers

@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(4366, 4374)",diabetes
+1,Diabetes,"(2761, 2765)",iddm
+2,Gout,"(2933, 2937)",gout
+3,Gout,"(2940, 2944)",gout
+4,Gout,"(4419, 4423)",gout
+5,Hypertension,"(2755, 2758)",htn
+6,Hypertension,"(2893, 2896)",htn
+7,Hypertriglyceridemia,"(2947, 2967)",hypertriglyceridemia
+8,Hypertriglyceridemia,"(2947, 2967)",hypertriglyceridemia
+9,Depression,"(4878, 4884)",prozac

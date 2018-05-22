@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2349, 2355)",asthma
+1,Asthma,"(2724, 2730)",asthma
+2,CHF,"(2857, 2860)",chf
+3,CHF,"(4365, 4368)",chf
+4,CHF,"(68, 92)",congestive heart failure
+5,CHF,"(2213, 2237)",congestive heart failure
+6,CHF,"(98, 120)",dilated cardiomyopathy
+7,CHF,"(2243, 2265)",dilated cardiomyopathy
+8,Hypercholesterolemia,"(2404, 2424)",hypercholesterolemia
+9,Hypercholesterolemia,"(2404, 2424)",hypercholesterolemia
+10,Hypertension,"(2665, 2668)",htn
+11,Hypertension,"(2733, 2736)",htn
+12,Hypertension,"(5083, 5086)",htn
+13,Obesity,"(2427, 2434)",obesity
+14,Obesity,"(2673, 2680)",obesity
+15,Obesity,"(2427, 2434)",obesity
+16,Obesity,"(2673, 2680)",obesity
+17,Obesity,"(3892, 3897)",obese
+18,OSA,"(2358, 2361)",osa
+19,OSA,"(2637, 2640)",osa
+20,OSA,"(2739, 2742)",osa
+21,Hypertension,"(3748, 3758)",bp 160/114
+22,Hypercholesterolemia,"(1488, 1499)",simvastatin
+23,Hypercholesterolemia,"(1564, 1576)",atorvastatin
+24,Hypercholesterolemia,"(1696, 1708)",atorvastatin

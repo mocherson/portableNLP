@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(590, 612)",coronary artery bypass
+1,CAD,"(1910, 1932)",coronary artery bypass
+2,CAD,"(1743, 1766)",coronary artery disease
+3,CHF,"(67, 91)",congestive heart failure
+4,CHF,"(342, 365)",ischemic cardiomyopathy
+5,Depression,"(5060, 5070)",depression
+6,Diabetes,"(329, 337)",diabetes
+7,Diabetes,"(1842, 1850)",diabetes
+8,Diabetes,"(4608, 4616)",diabetes
+9,Gallstones,"(1780, 1790)",gallstones
+10,Gallstones,"(1780, 1790)",gallstones
+11,Obesity,"(5577, 5582)",obeso
+12,Depression,"(5096, 5102)",prozac
+13,CAD,"(990, 1013)",cardiac catheterization

@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(104, 127)",coronary artery disease
+1,CAD,"(239, 262)",coronary artery disease
+2,CAD,"(362, 385)",coronary artery disease
+3,CAD,"(930, 953)",coronary artery disease
+4,Diabetes,"(1090, 1098)",diabetes
+5,Diabetes,"(3119, 3127)",diabetes
+6,Hypercholesterolemia,"(1110, 1130)",hypercholesterolemia
+7,Hypercholesterolemia,"(1110, 1130)",hypercholesterolemia
+8,Hypertension,"(1057, 1069)",hypertension
+9,OA,"(1151, 1160)",arthritis
+10,Depression,"(1474, 1484)",wellbutrin
+11,Depression,"(3865, 3875)",wellbutrin
+12,CAD,"(512, 535)",cardiac catheterization
+13,CAD,"(884, 907)",cardiac catheterization
+14,Hypercholesterolemia,"(3803, 3814)",simvastatin

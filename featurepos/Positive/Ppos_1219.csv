@@ -1,0 +1,28 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(397, 400)",cad
+1,CAD,"(2119, 2122)",cad
+2,CAD,"(5090, 5093)",cad
+3,CHF,"(403, 426)",ischemic cardiomyopathy
+4,Diabetes,"(1885, 1893)",diabetes
+5,Diabetes,"(7134, 7142)",diabetes
+6,Diabetes,"(7552, 7560)",diabetes
+7,Gallstones,"(4718, 4756)",gallbladder with multiple small stones
+8,Hypercholesterolemia,"(2229, 2249)",hypercholesterolemia
+9,Hypercholesterolemia,"(2229, 2249)",hypercholesterolemia
+10,Hypertension,"(2101, 2113)",hypertension
+11,Obesity,"(1872, 1879)",obesity
+12,Obesity,"(2047, 2054)",obesity
+13,Obesity,"(7626, 7633)",obesity
+14,Obesity,"(1872, 1879)",obesity
+15,Obesity,"(2047, 2054)",obesity
+16,Obesity,"(3135, 3140)",obese
+17,Obesity,"(3421, 3426)",obese
+18,Obesity,"(7626, 7633)",obesity
+19,Obesity,"(8539, 8544)",obese
+20,OSA,"(4379, 4402)",obstructive sleep apnea
+21,OSA,"(7077, 7100)",obstructive sleep apnea
+22,Depression,"(10719, 10725)",zoloft
+23,Hypertension,"(5225, 5237)",beta blocker
+24,Hypertension,"(5870, 5882)",beta blocker
+25,Hypercholesterolemia,"(2638, 2650)",atorvastatin
+26,Hypercholesterolemia,"(10780, 10791)",simvastatin

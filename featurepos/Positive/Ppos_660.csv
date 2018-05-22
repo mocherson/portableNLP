@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(235, 259)",congestive heart failure
+1,CHF,"(3436, 3460)",congestive heart failure
+2,CHF,"(3285, 3307)",dilated cardiomyopathy
+3,Hypertension,"(321, 333)",hypertension
+4,Obesity,"(294, 301)",obesity
+5,Obesity,"(3275, 3282)",obesity
+6,Obesity,"(294, 301)",obesity
+7,Obesity,"(1937, 1942)",obese
+8,Obesity,"(2368, 2373)",obese
+9,Obesity,"(3275, 3282)",obesity
+10,Depression,"(5521, 5527)",prozac
+11,Hypertension,"(1775, 1800)",blood pressure of 200/100

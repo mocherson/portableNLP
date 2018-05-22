@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(1947, 1955)",diabetes
+1,Diabetes,"(1958, 1966)",diabetes
+2,Diabetes,"(2325, 2330)",niddm
+3,Hypertension,"(1984, 1996)",hypertension
+4,Hypertension,"(1978, 1981)",htn
+5,Obesity,"(2026, 2033)",obesity
+6,Obesity,"(2036, 2043)",obesity
+7,Obesity,"(2363, 2370)",obesity
+8,Obesity,"(2026, 2033)",obesity
+9,Obesity,"(2036, 2043)",obesity
+10,Obesity,"(2363, 2370)",obesity
+11,Hypercholesterolemia,"(629, 639)",cilastatin
+12,Hypercholesterolemia,"(2951, 2961)",cilistatin
+13,Hypercholesterolemia,"(3208, 3218)",cilistatin
+14,Hypercholesterolemia,"(3455, 3465)",cilistatin

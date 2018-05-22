@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,Hypertension,"(82, 85)",htn
+1,Hypertension,"(3089, 3092)",htn
+2,Hypertension,"(3235, 3238)",htn
+3,Hypertension,"(3581, 3584)",htn
+4,OA,"(69, 72)",djd
+5,OA,"(3076, 3079)",djd
+6,OA,"(3222, 3225)",djd
+7,Obesity,"(108, 115)",obesity
+8,Obesity,"(3115, 3122)",obesity
+9,Obesity,"(3261, 3268)",obesity
+10,Obesity,"(3587, 3594)",obesity
+11,Obesity,"(108, 115)",obesity
+12,Obesity,"(3115, 3122)",obesity
+13,Obesity,"(3261, 3268)",obesity
+14,Obesity,"(3587, 3594)",obesity

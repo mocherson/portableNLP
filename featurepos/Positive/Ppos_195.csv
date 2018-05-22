@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(6031, 6034)",chf
+1,Hypertension,"(3486, 3498)",hypertension
+2,Hypertension,"(3480, 3483)",htn
+3,Hypertension,"(5218, 5221)",htn
+4,Obesity,"(4549, 4554)",obese
+5,Hypercholesterolemia,"(2022, 2033)",pravastatin
+6,Gout,"(642, 653)",allopurinol

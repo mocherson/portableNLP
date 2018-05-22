@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Gout,"(549, 553)",gout
+1,Hypertension,"(510, 522)",hypertension
+2,OA,"(216, 230)",osteoarthritis
+3,OA,"(395, 409)",osteoarthritis
+4,OA,"(250, 266)",knee replacement
+5,OA,"(466, 482)",knee replacement
+6,OA,"(1294, 1310)",knee replacement
+7,Gout,"(666, 677)",allopurinol

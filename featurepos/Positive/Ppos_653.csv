@@ -1,0 +1,25 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(540, 546)",asthma
+1,Asthma,"(1144, 1150)",asthma
+2,CHF,"(487, 511)",congestive heart failure
+3,CHF,"(1082, 1106)",congestive heart failure
+4,Gout,"(574, 578)",gout
+5,Gout,"(1009, 1013)",gout
+6,Hypertension,"(862, 874)",hypertension
+7,OA,"(1077, 1079)",oa
+8,OA,"(787, 801)",osteoarthritis
+9,Obesity,"(383, 390)",obesity
+10,Obesity,"(775, 782)",obesity
+11,Obesity,"(1023, 1030)",obesity
+12,Obesity,"(383, 390)",obesity
+13,Obesity,"(775, 782)",obesity
+14,Obesity,"(1023, 1030)",obesity
+15,Obesity,"(1559, 1564)",obese
+16,OSA,"(514, 537)",obstructive sleep apnea
+17,OSA,"(1118, 1141)",obstructive sleep apnea
+18,Venous Insufficiency,"(964, 981)",stasis dermatitis
+19,Venous Insufficiency,"(957, 970)",venous stasis
+20,OA,"(85, 100)",hip replacement
+21,OA,"(2632, 2647)",hip replacement
+22,OA,"(1203, 1219)",knee replacement
+23,Gout,"(1743, 1754)",allopurinol

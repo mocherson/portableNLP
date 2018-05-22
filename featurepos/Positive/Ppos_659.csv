@@ -1,0 +1,27 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(582, 585)",chf
+1,CHF,"(1024, 1027)",chf
+2,CHF,"(1562, 1565)",chf
+3,CHF,"(3296, 3299)",chf
+4,CHF,"(3382, 3385)",chf
+5,CHF,"(4550, 4553)",chf
+6,CHF,"(69, 82)",heart failure
+7,CHF,"(261, 274)",heart failure
+8,CHF,"(315, 339)",congestive heart failure
+9,CHF,"(408, 421)",heart failure
+10,CHF,"(707, 720)",heart failure
+11,CHF,"(3538, 3551)",heart failure
+12,CHF,"(3637, 3650)",heart failure
+13,CHF,"(7789, 7802)",heart failure
+14,CHF,"(503, 529)",nonischemic cardiomyopathy
+15,Diabetes,"(532, 540)",diabetes
+16,Diabetes,"(1656, 1664)",diabetes
+17,Diabetes,"(3438, 3446)",diabetes
+18,Hypercholesterolemia,"(1791, 1811)",hypercholesterolemia
+19,Hypercholesterolemia,"(1791, 1811)",hypercholesterolemia
+20,Hypertension,"(1670, 1682)",hypertension
+21,Obesity,"(543, 550)",obesity
+22,Obesity,"(3449, 3456)",obesity
+23,Obesity,"(543, 550)",obesity
+24,Obesity,"(3449, 3456)",obesity
+25,Hypertension,"(4627, 4639)",beta-blocker

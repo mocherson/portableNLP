@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(577, 599)",coronary artery bypass
+1,CAD,"(797, 819)",coronary artery bypass
+2,CAD,"(1956, 1978)",coronary artery bypass
+3,CAD,"(1918, 1941)",coronary artery disease
+4,CHF,"(68, 92)",congestive heart failure
+5,CHF,"(210, 234)",congestive heart failure
+6,CHF,"(388, 411)",ischemic cardiomyopathy
+7,CHF,"(539, 562)",ischemic cardiomyopathy
+8,Diabetes,"(321, 329)",diabetes
+9,Diabetes,"(2156, 2164)",diabetes
+10,Hypercholesterolemia,"(344, 364)",hypercholesterolemia
+11,Hypercholesterolemia,"(344, 364)",hypercholesterolemia
+12,Hypercholesterolemia,"(2044, 2056)",dyslipidemia
+13,Hypertension,"(282, 294)",hypertension
+14,Hypertension,"(2002, 2014)",hypertension
+15,OA,"(2100, 2126)",degenerative joint disease
+16,Hypertension,"(2481, 2502)",blood pressure 148/94
+17,CAD,"(4481, 4504)",cardiac catheterization
+18,Hypercholesterolemia,"(5961, 5972)",simvastatin

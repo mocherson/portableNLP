@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1707, 1727)",coronary angioplasty
+1,CAD,"(371, 394)",coronary artery disease
+2,CAD,"(1643, 1666)",coronary artery disease
+3,Diabetes,"(419, 427)",diabetes
+4,Diabetes,"(8721, 8729)",diabetes
+5,Hypertension,"(356, 368)",hypertension
+6,Hypercholesterolemia,"(2417, 2427)",lovastatin
+7,Hypercholesterolemia,"(10273, 10283)",lovastatin

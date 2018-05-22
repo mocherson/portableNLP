@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(249, 273)",congestive heart failure
+1,Depression,"(890, 900)",depression
+2,Diabetes,"(816, 824)",diabetes
+3,Gallstones,"(1034, 1049)",cholecystectomy
+4,GERD,"(883, 887)",gerd
+5,Hypercholesterolemia,"(853, 873)",hypercholesterolemia
+6,Hypercholesterolemia,"(853, 873)",hypercholesterolemia
+7,Hypertension,"(783, 795)",hypertension
+8,Hypercholesterolemia,"(1683, 1694)",simvastatin
+9,Hypercholesterolemia,"(4924, 4935)",simvastatin

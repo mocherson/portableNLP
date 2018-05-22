@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1084, 1097)",heart failure
+1,CHF,"(223, 245)",dilated cardiomyopathy
+2,CHF,"(547, 569)",dilated cardiomyopathy
+3,CHF,"(3338, 3360)",dilated cardiomyopathy
+4,CHF,"(5675, 5697)",dilated cardiomyopathy
+5,Diabetes,"(1632, 1640)",diabetes
+6,Diabetes,"(8119, 8127)",diabetes
+7,Gout,"(376, 380)",gout
+8,Gout,"(1768, 1772)",gout
+9,Hypertension,"(313, 325)",hypertension
+10,Hypertension,"(1617, 1629)",hypertension
+11,PVD,"(328, 355)",peripheral vascular disease
+12,PVD,"(7108, 7135)",peripheral vascular disease
+13,Hypertension,"(5951, 5965)",ace inhibitors
+14,Hypertension,"(6670, 6684)",ace inhibitors
+15,CAD,"(739, 762)",cardiac catheterization
+16,Gout,"(1992, 2003)",allopurinol

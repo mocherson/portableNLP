@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(68, 92)",congestive heart failure
+1,CHF,"(3791, 3815)",congestive heart failure
+2,Diabetes,"(2374, 2382)",diabetes
+3,Hypercholesterolemia,"(2409, 2429)",hypercholesterolemia
+4,Hypercholesterolemia,"(2409, 2429)",hypercholesterolemia
+5,Hypertension,"(430, 442)",hypertension
+6,Hypertension,"(662, 674)",hypertension
+7,Hypertension,"(2394, 2406)",hypertension
+8,Obesity,"(2453, 2460)",obesity
+9,Obesity,"(2453, 2460)",obesity
+10,CAD,"(1077, 1100)",cardiac catheterization

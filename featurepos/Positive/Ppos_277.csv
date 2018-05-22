@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(339, 347)",diabetes
+1,Diabetes,"(651, 659)",diabetes
+2,Diabetes,"(6374, 6382)",diabetes
+3,Diabetes,"(8708, 8716)",diabetes
+4,Diabetes,"(9383, 9391)",diabetes
+5,Gout,"(717, 721)",gout
+6,Hypercholesterolemia,"(737, 753)",high cholesterol
+7,Hypertension,"(671, 683)",hypertension
+8,Obesity,"(2277, 2282)",obese
+9,PVD,"(446, 473)",peripheral vascular disease
+10,Gout,"(1848, 1859)",allopurinol
+11,Gout,"(9883, 9894)",allopurinol

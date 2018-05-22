@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(557, 567)",depression
+1,Depression,"(3975, 3985)",depression
+2,Diabetes,"(533, 541)",diabetes
+3,Hypertension,"(372, 384)",hypertension
+4,OA,"(446, 460)",osteoarthritis
+5,Obesity,"(354, 361)",obesity
+6,Obesity,"(511, 518)",obesity
+7,Obesity,"(976, 983)",obesity
+8,Obesity,"(4174, 4181)",obesity
+9,Obesity,"(7634, 7641)",obesity
+10,Obesity,"(354, 361)",obesity
+11,Obesity,"(511, 518)",obesity
+12,Obesity,"(635, 640)",obese
+13,Obesity,"(976, 983)",obesity
+14,Obesity,"(4174, 4181)",obesity
+15,Obesity,"(7634, 7641)",obesity
+16,OSA,"(255, 278)",obstructive sleep apnea
+17,OSA,"(699, 722)",obstructive sleep apnea
+18,OSA,"(2282, 2305)",obstructive sleep apnea
+19,OSA,"(4184, 4207)",obstructive sleep apnea
+20,Depression,"(4022, 4028)",zoloft
+21,Depression,"(4481, 4487)",zoloft
+22,Depression,"(12510, 12516)",zoloft

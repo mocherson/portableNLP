@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(3875, 3899)",congestive heart failure
+1,CHF,"(4445, 4469)",congestive heart failure
+2,CHF,"(4895, 4919)",congestive heart failure
+3,Diabetes,"(339, 347)",diabetes
+4,Diabetes,"(2244, 2252)",diabetes
+5,Hypertension,"(299, 311)",hypertension
+6,Hypertension,"(2204, 2216)",hypertension

@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Gallstones,"(2959, 2974)",cholecystectomy
+1,Gallstones,"(3849, 3864)",cholecystectomy
+2,GERD,"(2744, 2761)",esophageal reflux
+3,OA,"(2930, 2944)",osteoarthritis
+4,PVD,"(414, 441)",peripheral vascular disease
+5,PVD,"(684, 711)",peripheral vascular disease
+6,PVD,"(2405, 2432)",peripheral vascular disease
+7,Hypertension,"(3535, 3556)",blood pressure 144/90

@@ -1,0 +1,25 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(3830, 3836)",asthma
+1,Asthma,"(4270, 4276)",asthma
+2,Asthma,"(7520, 7526)",asthma
+3,CAD,"(3795, 3798)",cad
+4,CAD,"(4225, 4228)",cad
+5,CAD,"(5619, 5622)",cad
+6,CAD,"(4231, 4234)",pci
+7,Depression,"(3948, 3958)",depression
+8,Hypercholesterolemia,"(3807, 3827)",hypercholesterolemia
+9,Hypercholesterolemia,"(3807, 3827)",hypercholesterolemia
+10,Hypertension,"(3801, 3804)",htn
+11,Hypertension,"(3936, 3939)",htn
+12,Hypertension,"(7681, 7684)",htn
+13,Obesity,"(3845, 3852)",obesity
+14,Obesity,"(4254, 4261)",obesity
+15,Obesity,"(3845, 3852)",obesity
+16,Obesity,"(4254, 4261)",obesity
+17,OSA,"(3839, 3842)",osa
+18,OSA,"(4264, 4267)",osa
+19,OSA,"(5649, 5652)",osa
+20,OSA,"(7549, 7552)",osa
+21,PVD,"(7345, 7348)",pvd
+22,Hypertension,"(4720, 4730)",bp 198/109
+23,Hypercholesterolemia,"(945, 957)",atorvastatin

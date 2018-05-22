@@ -1,0 +1,6 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1696, 1718)",coronary artery bypass
+1,CAD,"(3150, 3173)",coronary artery disease
+2,Hypertriglyceridemia,"(3066, 3084)",high triglycerides
+3,Obesity,"(1836, 1841)",obese
+4,Obesity,"(2230, 2235)",obese

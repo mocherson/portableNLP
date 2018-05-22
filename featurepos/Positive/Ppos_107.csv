@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(68, 71)",cad
+1,CAD,"(2377, 2380)",cad
+2,CAD,"(2589, 2592)",cad
+3,CAD,"(2595, 2618)",coronary artery disease
+4,CHF,"(2292, 2295)",chf
+5,CHF,"(2660, 2663)",chf
+6,CHF,"(2982, 2985)",chf
+7,CHF,"(4354, 4357)",chf
+8,CHF,"(4947, 4950)",chf
+9,CHF,"(2685, 2709)",congestive heart failure
+10,Diabetes,"(3003, 3005)",dm
+11,Diabetes,"(2467, 2472)",niddm
+12,Hypercholesterolemia,"(2712, 2726)",hyperlipidemia
+13,Hypercholesterolemia,"(2729, 2743)",hyperlipidemia
+14,Hypertension,"(2515, 2518)",htn
+15,Hypertension,"(3008, 3011)",htn
+16,Hypertension,"(743, 757)",ace inhibitors
+17,Hypertension,"(911, 925)",ace inhibitors
+18,Hypertension,"(1080, 1094)",ace inhibitors
+19,Hypertension,"(1291, 1305)",ace inhibitors

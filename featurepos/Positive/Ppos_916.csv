@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Hypertension,"(1649, 1652)",htn
+1,Obesity,"(1695, 1702)",obesity
+2,Obesity,"(1705, 1712)",obesity
+3,Obesity,"(1695, 1702)",obesity
+4,Obesity,"(1705, 1712)",obesity
+5,Obesity,"(1898, 1903)",obese
+6,OSA,"(1715, 1738)",obstructive sleep apnea
+7,OSA,"(1741, 1752)",sleep apnea

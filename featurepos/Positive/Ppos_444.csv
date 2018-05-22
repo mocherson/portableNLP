@@ -1,0 +1,35 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(3161, 3167)",asthma
+1,CAD,"(3105, 3108)",cad
+2,CAD,"(3545, 3548)",cad
+3,CAD,"(6986, 6989)",cad
+4,CAD,"(7611, 7614)",cad
+5,CAD,"(8026, 8029)",cad
+6,CAD,"(3560, 3563)",pci
+7,CAD,"(7001, 7004)",pci
+8,CHF,"(3101, 3104)",chf
+9,Diabetes,"(3096, 3098)",dm
+10,Diabetes,"(3615, 3617)",dm
+11,Diabetes,"(7033, 7035)",dm
+12,Diabetes,"(7696, 7698)",dm
+13,Diabetes,"(3091, 3095)",iddm
+14,Hypercholesterolemia,"(3620, 3640)",hypercholesterolemia
+15,Hypercholesterolemia,"(3620, 3640)",hypercholesterolemia
+16,Hypercholesterolemia,"(3109, 3123)",hyperlipidemia
+17,Hypertension,"(3087, 3090)",htn
+18,Hypertension,"(3609, 3612)",htn
+19,Hypertension,"(7027, 7030)",htn
+20,Hypertension,"(7690, 7693)",htn
+21,Obesity,"(3153, 3160)",obesity
+22,Obesity,"(3643, 3650)",obesity
+23,Obesity,"(7038, 7045)",obesity
+24,Obesity,"(7736, 7743)",obesity
+25,Obesity,"(3153, 3160)",obesity
+26,Obesity,"(3643, 3650)",obesity
+27,Obesity,"(5919, 5924)",obese
+28,Obesity,"(6198, 6203)",obese
+29,Obesity,"(7038, 7045)",obesity
+30,Obesity,"(7736, 7743)",obesity
+31,OSA,"(3168, 3179)",sleep apnea
+32,Hypertension,"(7247, 7256)",b-blocker
+33,Hypercholesterolemia,"(1101, 1113)",atorvastatin

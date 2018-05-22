@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(3399, 3407)",diabetes
+1,Diabetes,"(3394, 3396)",dm
+2,Hypercholesterolemia,"(3447, 3457)",hyperlipid
+3,Hypercholesterolemia,"(3460, 3474)",hyperlipidemia
+4,Hypertension,"(3432, 3444)",hypertension
+5,Hypertension,"(3426, 3429)",htn
+6,Hypercholesterolemia,"(1888, 1900)",atorvastatin
+7,Hypercholesterolemia,"(2134, 2145)",simvastatin
+8,Hypercholesterolemia,"(2340, 2351)",simvastatin

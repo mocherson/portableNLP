@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(1171, 1179)",diabetes
+1,Diabetes,"(1317, 1325)",diabetic
+2,Hypertension,"(3796, 3808)",hypertension
+3,Obesity,"(2486, 2491)",obese
+4,Obesity,"(2634, 2639)",obese
+5,OSA,"(4421, 4444)",obstructive sleep apnea
+6,OSA,"(4553, 4576)",obstructive sleep apnea

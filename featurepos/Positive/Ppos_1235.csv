@@ -1,0 +1,35 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3897, 3900)",cad
+1,CAD,"(4973, 4976)",cad
+2,CAD,"(5118, 5121)",pci
+3,CAD,"(6418, 6421)",pci
+4,CAD,"(3903, 3926)",coronary artery disease
+5,CHF,"(79, 82)",chf
+6,CHF,"(3772, 3775)",chf
+7,CHF,"(3859, 3862)",chf
+8,CHF,"(6472, 6475)",chf
+9,CHF,"(3865, 3889)",congestive heart failure
+10,Diabetes,"(4092, 4100)",diabetes
+11,Diabetes,"(4087, 4089)",dm
+12,Diabetes,"(5095, 5098)",dm2
+13,Diabetes,"(8152, 8154)",dm
+14,GERD,"(4166, 4170)",gerd
+15,GERD,"(4190, 4204)",reflux disease
+16,GERD,"(4173, 4196)",gastroesophageal reflux
+17,Hypercholesterolemia,"(4112, 4126)",hyperlipidemia
+18,Hypercholesterolemia,"(4129, 4143)",hyperlipidemia
+19,Hypercholesterolemia,"(5074, 5085)",hyperlipids
+20,OA,"(4030, 4032)",oa
+21,OA,"(4035, 4049)",osteoarthritis
+22,OA,"(4058, 4084)",degenerative joint disease
+23,OA,"(4052, 4055)",djd
+24,OSA,"(4146, 4149)",osa
+25,OSA,"(7812, 7815)",osa
+26,OSA,"(4152, 4163)",sleep apnea
+27,Hypercholesterolemia,"(1494, 1505)",simvastatin
+28,Hypercholesterolemia,"(1593, 1604)",simvastatin
+29,Hypercholesterolemia,"(1996, 2007)",simvastatin
+30,Hypercholesterolemia,"(2260, 2271)",simvastatin
+31,Hypercholesterolemia,"(2495, 2506)",simvastatin
+32,Hypercholesterolemia,"(2709, 2720)",simvastatin
+33,Hypercholesterolemia,"(3085, 3096)",simvastatin

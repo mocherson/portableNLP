@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(281, 303)",coronary artery bypass
+1,CAD,"(1089, 1111)",coronary artery bypass
+2,CAD,"(2030, 2052)",coronary artery bypass
+3,CAD,"(3540, 3562)",coronary artery bypass
+4,CAD,"(243, 266)",coronary artery disease
+5,CAD,"(1956, 1979)",coronary artery disease
+6,Hypertension,"(2289, 2301)",hypertension
+7,Hypertension,"(4763, 4775)",beta blocker
+8,GERD,"(2570, 2578)",carafate

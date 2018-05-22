@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1991, 1997)",asthma
+1,CHF,"(1815, 1818)",chf
+2,CHF,"(4464, 4467)",chf
+3,Gallstones,"(1714, 1729)",cholecystectomy
+4,Hypertension,"(1976, 1988)",hypertension
+5,Hypertension,"(2592, 2604)",hypertension
+6,Hypertension,"(4449, 4461)",hypertension
+7,OA,"(2049, 2063)",osteoarthritis
+8,Obesity,"(2117, 2124)",obesity
+9,Obesity,"(2714, 2721)",obesity
+10,Obesity,"(2117, 2124)",obesity
+11,Obesity,"(2714, 2721)",obesity
+12,Hypertension,"(5093, 5105)",beta-blocker
+13,Hypertension,"(6045, 6057)",beta-blocker
+14,Hypercholesterolemia,"(3103, 3114)",simvastatin

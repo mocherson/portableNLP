@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1784, 1787)",cad
+1,CAD,"(1790, 1813)",coronary artery disease
+2,CHF,"(1816, 1819)",chf
+3,CHF,"(2835, 2838)",chf
+4,CHF,"(1822, 1846)",congestive heart failure
+5,Diabetes,"(1849, 1857)",diabetes
+6,Diabetes,"(1860, 1868)",diabetes
+7,Gallstones,"(1980, 1994)",cholelithiasis
+8,Hypertension,"(1997, 2009)",hypertension
+9,Hypertension,"(2012, 2024)",hypertension
+10,Hypercholesterolemia,"(1191, 1203)",atorvastatin
+11,Gout,"(484, 495)",allopurinol

@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(350, 372)",coronary artery bypass
+1,CAD,"(674, 696)",coronary artery bypass
+2,CAD,"(1997, 2019)",coronary artery bypass
+3,CAD,"(4416, 4438)",coronary artery bypass
+4,CAD,"(312, 335)",coronary artery disease
+5,CAD,"(636, 659)",coronary artery disease
+6,CAD,"(1959, 1982)",coronary artery disease
+7,CAD,"(4378, 4401)",coronary artery disease
+8,Diabetes,"(612, 620)",diabetes
+9,Diabetes,"(1936, 1944)",diabetes
+10,Diabetes,"(4358, 4366)",diabetes
+11,Hypercholesterolemia,"(2060, 2080)",hypercholesterolemia
+12,Hypercholesterolemia,"(2060, 2080)",hypercholesterolemia
+13,Hypertension,"(1866, 1878)",hypertension
+14,Hypertension,"(2042, 2054)",hypertension
+15,Hypertriglyceridemia,"(6336, 6415)",triglycerides were checked during the hospitalization and found to be very high
+16,Hypercholesterolemia,"(2407, 2418)",simvastatin
+17,Hypercholesterolemia,"(6475, 6486)",simvastatin

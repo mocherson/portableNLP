@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(411, 434)",coronary artery disease
+1,CAD,"(574, 597)",coronary artery disease
+2,CAD,"(1947, 1970)",coronary artery disease
+3,CAD,"(5160, 5183)",coronary artery disease
+4,CHF,"(366, 390)",congestive heart failure
+5,CHF,"(600, 624)",congestive heart failure
+6,CHF,"(1858, 1882)",congestive heart failure
+7,Diabetes,"(325, 333)",diabetes
+8,Diabetes,"(563, 571)",diabetes
+9,Diabetes,"(1737, 1745)",diabetes
+10,Diabetes,"(1806, 1814)",diabetes
+11,Diabetes,"(2662, 2670)",diabetes
+12,Diabetes,"(6364, 6372)",diabetes
+13,Hypertension,"(463, 475)",hypertension
+14,Hypertension,"(627, 639)",hypertension
+15,Hypertension,"(2001, 2013)",hypertension
+16,PVD,"(238, 265)",peripheral vascular disease
+17,PVD,"(336, 363)",peripheral vascular disease
+18,PVD,"(1828, 1855)",peripheral vascular disease
+19,Hypertension,"(2834, 2855)",blood pressure 170/90

@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(445, 451)",asthma
+1,CHF,"(374, 377)",chf
+2,Diabetes,"(317, 325)",diabetes
+3,Diabetes,"(778, 786)",diabetes
+4,Diabetes,"(8228, 8236)",diabetes
+5,Hypercholesterolemia,"(349, 369)",hypercholesterolemia
+6,Hypercholesterolemia,"(349, 369)",hypercholesterolemia
+7,Hypertension,"(331, 343)",hypertension
+8,Obesity,"(4012, 4019)",obesity
+9,Obesity,"(4012, 4019)",obesity
+10,OSA,"(416, 439)",obstructive sleep apnea
+11,OSA,"(8766, 8789)",obstructive sleep apnea

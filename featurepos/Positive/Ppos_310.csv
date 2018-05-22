@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(69, 72)",cad
+1,CAD,"(3096, 3099)",cad
+2,CAD,"(3183, 3186)",cad
+3,CAD,"(3557, 3560)",cad
+4,CAD,"(3205, 3228)",coronary artery disease
+5,CHF,"(3231, 3234)",chf
+6,CHF,"(3572, 3575)",chf
+7,CHF,"(4160, 4163)",chf
+8,CHF,"(3250, 3274)",congestive heart failure
+9,Diabetes,"(3282, 3290)",diabetes
+10,Diabetes,"(3277, 3279)",dm
+11,Gallstones,"(3375, 3390)",cholecystectomy
+12,Gallstones,"(3365, 3368)",ccy
+13,Hypertension,"(4448, 4457)",b-blocker
+14,Hypercholesterolemia,"(666, 677)",simvastatin
+15,Hypercholesterolemia,"(729, 740)",simvastatin
+16,Hypercholesterolemia,"(2035, 2046)",simvastatin
+17,Hypercholesterolemia,"(2283, 2294)",simvastatin
+18,Hypercholesterolemia,"(2346, 2357)",simvastatin

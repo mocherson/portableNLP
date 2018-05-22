@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(356, 359)",cad
+1,CAD,"(2228, 2251)",coronary artery disease
+2,CHF,"(2302, 2305)",chf
+3,Diabetes,"(362, 370)",diabetes
+4,Diabetes,"(536, 544)",diabetes
+5,Diabetes,"(2137, 2145)",diabetes
+6,Diabetes,"(5085, 5093)",diabetes
+7,Diabetes,"(5374, 5382)",diabetic
+8,Diabetes,"(8012, 8020)",diabetic
+9,Hypertension,"(380, 392)",hypertension
+10,Hypertension,"(2213, 2225)",hypertension
+11,Hypertriglyceridemia,"(5989, 6009)",hypertriglyceridemia
+12,Hypertriglyceridemia,"(5989, 6009)",hypertriglyceridemia
+13,Hypertension,"(5899, 5911)",beta-blocker
+14,Hypercholesterolemia,"(2821, 2829)",nystatin
+15,Hypercholesterolemia,"(2902, 2913)",simvastatin

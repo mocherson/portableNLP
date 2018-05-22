@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3367, 3370)",cad
+1,CAD,"(3709, 3712)",cad
+2,CAD,"(4044, 4047)",cad
+3,CHF,"(3251, 3254)",chf
+4,CHF,"(3482, 3485)",chf
+5,CHF,"(69, 82)",heart failure
+6,CHF,"(2875, 2888)",heart failure
+7,CHF,"(2968, 2981)",heart failure
+8,Diabetes,"(3751, 3753)",dm

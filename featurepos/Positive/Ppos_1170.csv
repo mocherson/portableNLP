@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3808, 3811)",cad
+1,CAD,"(4362, 4365)",cad
+2,Diabetes,"(5743, 5751)",diabetes
+3,Diabetes,"(4724, 4726)",dm
+4,Diabetes,"(3489, 3493)",iddm
+5,GERD,"(902, 906)",gerd
+6,Hypertension,"(3485, 3488)",htn
+7,Hypertension,"(3841, 3844)",htn
+8,Hypertension,"(4445, 4448)",htn
+9,OA,"(102, 111)",arthritis
+10,OA,"(3389, 3398)",arthritis
+11,OA,"(5160, 5169)",arthritis
+12,Hypercholesterolemia,"(1763, 1774)",simvastatin
+13,Hypercholesterolemia,"(1994, 2005)",simvastatin
+14,Hypercholesterolemia,"(2054, 2065)",simvastatin
+15,Hypercholesterolemia,"(2461, 2472)",simvastatin
+16,Hypercholesterolemia,"(2888, 2899)",simvastatin

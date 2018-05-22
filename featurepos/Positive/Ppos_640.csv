@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3957, 3960)",cad
+1,CAD,"(5968, 5971)",cad
+2,CAD,"(3970, 3993)",coronary artery disease
+3,Diabetes,"(5957, 5965)",diabetes
+4,Diabetes,"(4345, 4347)",dm
+5,Diabetes,"(5028, 5030)",dm
+6,Gallstones,"(4143, 4158)",cholecystectomy
+7,Gallstones,"(4137, 4140)",ccy
+8,Hypercholesterolemia,"(4062, 4076)",hyperlipidemia
+9,Hypercholesterolemia,"(4079, 4093)",hyperlipidemia
+10,Hypertension,"(3819, 3831)",hypertension
+11,Hypertension,"(3813, 3816)",htn
+12,Hypertension,"(4339, 4342)",htn
+13,Hypertension,"(5033, 5036)",htn
+14,Obesity,"(3884, 3891)",obesity
+15,Obesity,"(3894, 3901)",obesity
+16,Obesity,"(3884, 3891)",obesity
+17,Obesity,"(3894, 3901)",obesity
+18,Obesity,"(5039, 5044)",obese
+19,Obesity,"(5118, 5123)",obese
+20,Obesity,"(5269, 5274)",obese
+21,Hypercholesterolemia,"(2833, 2844)",simvastatin

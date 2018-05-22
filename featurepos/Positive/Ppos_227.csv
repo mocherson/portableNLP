@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3087, 3109)",coronary artery bypass
+1,CAD,"(4119, 4141)",coronary artery bypass
+2,CAD,"(6117, 6139)",coronary artery bypass
+3,CAD,"(209, 232)",coronary artery disease
+4,CAD,"(4067, 4090)",coronary artery disease
+5,CHF,"(866, 879)",heart failure
+6,Depression,"(1166, 1176)",depression
+7,Depression,"(3602, 3612)",depression
+8,Diabetes,"(1123, 1131)",diabetes
+9,Gallstones,"(1181, 1195)",cholelithiasis
+10,Gallstones,"(3334, 3349)",cholecystectomy
+11,Gallstones,"(7675, 7690)",cholecystectomy
+12,Hypercholesterolemia,"(1146, 1160)",hyperlipidemia
+13,Hypertension,"(1106, 1118)",hypertension
+14,Hypercholesterolemia,"(1381, 1393)",atorvastatin
+15,Hypercholesterolemia,"(9982, 9993)",simvastatin

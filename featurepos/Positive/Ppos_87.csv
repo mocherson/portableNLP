@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(67, 70)",cad
+1,CAD,"(1380, 1383)",cad
+2,CHF,"(73, 76)",chf
+3,CHF,"(1386, 1389)",chf
+4,Hypercholesterolemia,"(1572, 1592)",hypercholesterolemia
+5,Hypercholesterolemia,"(1572, 1592)",hypercholesterolemia
+6,Hypercholesterolemia,"(2100, 2119)",hypercholesteroleia
+7,Hypercholesterolemia,"(3747, 3763)",high cholesterol
+8,Hypertension,"(1559, 1571)",hypertension
+9,Hypertension,"(2094, 2097)",htn
+10,Obesity,"(1593, 1600)",obesity
+11,Obesity,"(2129, 2136)",obesity
+12,Obesity,"(1593, 1600)",obesity
+13,Obesity,"(2129, 2136)",obesity
+14,Hypercholesterolemia,"(568, 579)",simvastatin

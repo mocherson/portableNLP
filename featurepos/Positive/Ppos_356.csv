@@ -1,0 +1,31 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(6837, 6840)",chf
+1,CHF,"(11356, 11369)",heart failure
+2,Depression,"(4765, 4775)",depression
+3,Depression,"(4778, 4788)",depression
+4,GERD,"(6604, 6608)",gerd
+5,GERD,"(9860, 9864)",gerd
+6,Hypercholesterolemia,"(6482, 6502)",hypercholesterolemia
+7,Hypercholesterolemia,"(9538, 9558)",hypercholesterolemia
+8,Hypercholesterolemia,"(4674, 4683)",hyperchol
+9,Hypercholesterolemia,"(6482, 6502)",hypercholesterolemia
+10,Hypercholesterolemia,"(9538, 9558)",hypercholesterolemia
+11,Hypertension,"(4670, 4673)",htn
+12,Hypertension,"(4979, 4982)",htn
+13,Hypertension,"(6505, 6508)",htn
+14,Obesity,"(9405, 9412)",obesity
+15,Obesity,"(6611, 6618)",obestiy
+16,Obesity,"(9405, 9412)",obesity
+17,Hypertension,"(5697, 5707)",bp 201/109
+18,Hypercholesterolemia,"(1245, 1256)",simvastatin
+19,Hypercholesterolemia,"(1511, 1522)",simvastatin
+20,Hypercholesterolemia,"(1699, 1710)",simvastatin
+21,Hypercholesterolemia,"(1759, 1770)",simvastatin
+22,Hypercholesterolemia,"(1819, 1830)",simvastatin
+23,Hypercholesterolemia,"(2022, 2033)",simvastatin
+24,Hypercholesterolemia,"(3435, 3446)",simvastatin
+25,Hypercholesterolemia,"(3573, 3584)",simvastatin
+26,Hypercholesterolemia,"(3656, 3667)",simvastatin
+27,Hypercholesterolemia,"(3981, 3992)",simvastatin
+28,Hypercholesterolemia,"(4064, 4075)",simvastatin
+29,Hypercholesterolemia,"(6208, 6219)",simvastatin

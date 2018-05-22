@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1105, 1108)",pci
+1,CAD,"(323, 346)",coronary artery disease
+2,Diabetes,"(277, 285)",diabetes
+3,Diabetes,"(1156, 1164)",diabetes
+4,Diabetes,"(5502, 5510)",diabetes
+5,Diabetes,"(5766, 5774)",diabetic
+6,Hypercholesterolemia,"(7005, 7016)",simvastatin

@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(602, 612)",depression
+1,Diabetes,"(658, 666)",diabetes
+2,Obesity,"(197, 204)",obesity
+3,Obesity,"(197, 204)",obesity
+4,Obesity,"(306, 311)",obese
+5,Obesity,"(1330, 1335)",obese
+6,Obesity,"(1604, 1609)",obese
+7,Obesity,"(216, 230)",panniculectomy
+8,Obesity,"(2039, 2053)",panniculectomy
+9,Obesity,"(2854, 2868)",panniculectomy

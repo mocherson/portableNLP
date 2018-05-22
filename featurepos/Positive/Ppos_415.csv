@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(280, 302)",coronary artery bypass
+1,CAD,"(2050, 2072)",coronary artery bypass
+2,CAD,"(244, 267)",coronary artery disease
+3,CAD,"(2014, 2037)",coronary artery disease
+4,CHF,"(2169, 2193)",congestive heart failure
+5,Gallstones,"(2268, 2283)",cholecystectomy
+6,Hypercholesterolemia,"(2233, 2253)",hypercholesterolemia
+7,Hypercholesterolemia,"(2233, 2253)",hypercholesterolemia
+8,OA,"(4087, 4113)",degenerative joint disease
+9,OA,"(6823, 6849)",degenerative joint disease
+10,Obesity,"(1793, 1798)",obese

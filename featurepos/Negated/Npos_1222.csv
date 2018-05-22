@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Diabetes,"(21, 29)",diabetes,"(2279, 2333)",no family history of diabetes mellitus or hypertension,
+1,Hypertension,"(42, 54)",hypertension,"(2279, 2333)",no family history of diabetes mellitus or hypertension,
+2,GERD,"(14, 25)",esophagitis,"(6231, 6267)",no varices or esophagitis were noted,

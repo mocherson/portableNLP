@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(383, 391)",diabetes
+1,Diabetes,"(2916, 2924)",diabetes
+2,Gallstones,"(444, 459)",cholecystectomy
+3,Gallstones,"(3008, 3023)",cholecystectomy
+4,Obesity,"(4208, 4213)",obese
+5,Obesity,"(8064, 8069)",obese
+6,Obesity,"(8351, 8356)",obese

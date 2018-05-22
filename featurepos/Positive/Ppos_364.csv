@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2317, 2323)",asthma
+1,Asthma,"(2525, 2531)",asthma
+2,Asthma,"(3271, 3277)",asthma
+3,Asthma,"(3593, 3599)",asthma
+4,Diabetes,"(2298, 2300)",dm
+5,Diabetes,"(2490, 2493)",dm2
+6,Diabetes,"(3183, 3185)",dm
+7,Diabetes,"(3548, 3550)",dm
+8,Hypertension,"(2279, 2282)",htn
+9,Hypertension,"(2508, 2511)",htn
+10,Obesity,"(3175, 3180)",obese
+11,OSA,"(2303, 2314)",sleep apnea
+12,OSA,"(2534, 2545)",sleep apnea
+13,OSA,"(3581, 3592)",sleep apnea
+14,Hypercholesterolemia,"(1311, 1323)",atorvastatin
+15,Hypercholesterolemia,"(1485, 1497)",atorvastatin
+16,Hypercholesterolemia,"(1715, 1726)",simvastatin
+17,Hypercholesterolemia,"(1988, 1999)",simvastatin

@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(314, 336)",coronary artery bypass
+1,CAD,"(278, 301)",coronary artery disease
+2,CAD,"(708, 731)",coronary artery disease
+3,CHF,"(402, 426)",congestive heart failure
+4,Diabetes,"(697, 705)",diabetes
+5,Gallstones,"(5040, 5055)",cholecystectomy
+6,Gallstones,"(6422, 6437)",cholecystectomy
+7,Gout,"(815, 819)",gout
+8,Hypercholesterolemia,"(626, 646)",hypercholesterolemia
+9,Hypercholesterolemia,"(626, 646)",hypercholesterolemia
+10,Hypertension,"(765, 777)",hypertension
+11,OA,"(780, 806)",degenerative joint disease
+12,Hypertension,"(1589, 1613)",blood pressure of 180/90

@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(403, 416)",heart failure
+1,CHF,"(1756, 1769)",heart failure
+2,Diabetes,"(1816, 1824)",diabetes
+3,Gallstones,"(2243, 2258)",cholecystectomy
+4,Hypercholesterolemia,"(1854, 1866)",dyslipidemia
+5,Hypertension,"(4244, 4256)",beta-blocker
+6,CAD,"(791, 814)",cardiac catheterization
+7,CAD,"(925, 948)",cardiac catheterization
+8,CAD,"(1898, 1921)",cardiac catheterization

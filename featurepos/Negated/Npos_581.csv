@@ -1,0 +1,5 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Hypercholesterolemia,"(14, 35)",increased cholesterol,"(626, 700)",no history of increased cholesterol and no family history of heart disease,
+1,CAD,"(25, 48)",coronary artery disease,"(3212, 3261)",denies family history of coronary artery disease ,
+2,CAD,"(23, 45)",coronary artery bypass,"(8300, 8411)",not be a candidate for coronary artery bypass grafting and so cardiac catheterization was deferred at this time,
+3,CAD,"(62, 85)",cardiac catheterization,"(8300, 8411)",not be a candidate for coronary artery bypass grafting and so cardiac catheterization was deferred at this time,

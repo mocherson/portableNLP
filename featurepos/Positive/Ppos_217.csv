@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1083, 1089)",asthma
+1,Hypercholesterolemia,"(2677, 2692)",elevated lipids
+2,Hypercholesterolemia,"(3915, 3935)",elevated cholesterol
+3,Hypercholesterolemia,"(2470, 2490)",lipids show elevated
+4,Obesity,"(1075, 1082)",obesity
+5,Obesity,"(1363, 1370)",obesity
+6,Obesity,"(2655, 2662)",obesity
+7,Obesity,"(2922, 2929)",obesity
+8,Obesity,"(4255, 4262)",obesity
+9,Obesity,"(4415, 4422)",obesity
+10,Obesity,"(1075, 1082)",obesity
+11,Obesity,"(1363, 1370)",obesity
+12,Obesity,"(2655, 2662)",obesity
+13,Obesity,"(2922, 2929)",obesity
+14,Obesity,"(4255, 4262)",obesity
+15,Obesity,"(4415, 4422)",obesity
+16,Hypercholesterolemia,"(614, 625)",simvastatin

@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(373, 376)",cad
+1,CAD,"(2227, 2230)",cad
+2,CAD,"(4510, 4513)",cad
+3,CAD,"(6984, 6987)",cad
+4,CHF,"(415, 418)",chf
+5,CHF,"(2296, 2299)",chf
+6,CHF,"(4544, 4547)",chf
+7,CHF,"(5198, 5201)",chf
+8,CHF,"(7043, 7046)",chf
+9,Diabetes,"(510, 518)",diabetes
+10,Hypertension,"(400, 412)",hypertension
+11,Hypertension,"(5393, 5405)",hypertension
+12,OA,"(2063, 2077)",osteoarthritis
+13,Hypertension,"(5468, 5482)",ace inhibitors
+14,Hypercholesterolemia,"(3345, 3356)",simvastatin

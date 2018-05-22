@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1739, 1742)",cad
+1,CAD,"(1877, 1880)",cad
+2,CHF,"(69, 72)",chf
+3,CHF,"(1317, 1320)",chf
+4,CHF,"(1419, 1422)",chf
+5,CHF,"(1844, 1847)",chf
+6,CHF,"(1970, 1973)",chf
+7,CHF,"(3070, 3073)",chf
+8,CHF,"(3617, 3630)",heart failure
+9,Diabetes,"(1525, 1527)",dm
+10,Diabetes,"(2002, 2004)",dm
+11,Diabetes,"(3606, 3614)",diabetic
+12,Hypercholesterolemia,"(2009, 2025)",hypercholesterol
+13,Hypercholesterolemia,"(1544, 1560)",high cholesterol
+14,Hypertension,"(1538, 1541)",htn
+15,Hypertension,"(2005, 2008)",htn
+16,Hypercholesterolemia,"(714, 726)",atorvastatin

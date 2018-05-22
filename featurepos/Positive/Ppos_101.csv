@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,GERD,"(1274, 1278)",gerd
+1,Hypertension,"(1238, 1250)",hypertension
+2,OA,"(317, 331)",osteoarthritis
+3,OA,"(1218, 1232)",osteoarthritis
+4,Depression,"(1730, 1736)",zoloft
+5,OA,"(377, 392)",hip replacement
+6,OA,"(341, 357)",knee replacement

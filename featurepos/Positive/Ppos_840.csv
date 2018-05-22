@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(7268, 7274)",asthma
+1,CAD,"(352, 355)",cad
+2,Depression,"(387, 397)",depression
+3,Depression,"(6977, 6987)",depression
+4,Hypertension,"(319, 331)",hypertension
+5,Hypertension,"(552, 564)",hypertension
+6,OA,"(358, 384)",degenerative joint disease
+7,OA,"(593, 619)",degenerative joint disease
+8,OA,"(1145, 1171)",degenerative joint disease
+9,Obesity,"(460, 467)",obesity
+10,Obesity,"(7235, 7242)",obesity
+11,Obesity,"(460, 467)",obesity
+12,Obesity,"(521, 526)",obese
+13,Obesity,"(1990, 1995)",obese
+14,Obesity,"(2470, 2475)",obese
+15,Obesity,"(2867, 2872)",obese
+16,Obesity,"(7235, 7242)",obesity
+17,OSA,"(400, 423)",obstructive sleep apnea
+18,OSA,"(567, 590)",obstructive sleep apnea
+19,OSA,"(7343, 7366)",obstructive sleep apnea
+20,Depression,"(6956, 6962)",zoloft
+21,Depression,"(8314, 8320)",zoloft
+22,Hypercholesterolemia,"(8383, 8394)",simvastatin

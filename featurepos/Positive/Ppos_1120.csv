@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(3024, 3034)",depression
+1,Depression,"(3037, 3047)",depression
+2,Diabetes,"(2941, 2949)",diabetes
+3,Diabetes,"(2936, 2938)",dm
+4,Gout,"(3010, 3014)",gout
+5,Gout,"(3017, 3021)",gout
+6,Hypertension,"(2967, 2979)",hypertension
+7,Hypertension,"(2961, 2964)",htn
+8,Hypertension,"(3376, 3379)",htn
+9,Obesity,"(3050, 3057)",obesity
+10,Obesity,"(3060, 3067)",obesity
+11,Obesity,"(3050, 3057)",obesity
+12,Obesity,"(3060, 3067)",obesity
+13,OSA,"(2982, 2993)",sleep apnea
+14,OSA,"(2996, 3007)",sleep apnea
+15,Hypercholesterolemia,"(1372, 1383)",simvastatin
+16,Hypercholesterolemia,"(1631, 1642)",simvastatin
+17,Hypercholesterolemia,"(1991, 2002)",simvastatin
+18,OA,"(3081, 3096)",hip replacement

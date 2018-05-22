@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(252, 275)",coronary artery disease
+1,CAD,"(476, 499)",coronary artery disease
+2,CAD,"(1319, 1342)",coronary artery disease
+3,CHF,"(322, 346)",congestive heart failure
+4,CHF,"(368, 392)",congestive heart failure
+5,CHF,"(537, 561)",congestive heart failure
+6,CHF,"(1184, 1208)",congestive heart failure
+7,CHF,"(1452, 1476)",congestive heart failure
+8,Diabetes,"(465, 473)",diabetes
+9,Diabetes,"(1251, 1259)",diabetes
+10,Hypertension,"(502, 514)",hypertension
+11,Hypertension,"(1284, 1296)",hypertension
+12,Depression,"(1552, 1558)",elavil
+13,Depression,"(3736, 3742)",elavil

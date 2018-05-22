@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(639, 642)",chf
+1,CHF,"(284, 308)",congestive heart failure
+2,CHF,"(459, 482)",ischemic cardiomyopathy
+3,CHF,"(611, 634)",ischemic cardiomyopathy
+4,Diabetes,"(359, 367)",diabetes
+5,Diabetes,"(8963, 8971)",diabetes
+6,Diabetes,"(9151, 9159)",diabetes
+7,Diabetes,"(10761, 10769)",diabetic
+8,Gout,"(485, 489)",gout
+9,Gout,"(9233, 9237)",gout
+10,Hypercholesterolemia,"(370, 384)",hyperlipidemia
+11,Hypertension,"(6185, 6197)",beta blocker
+12,Gout,"(1761, 1772)",allopurinol
+13,Gout,"(9265, 9276)",allopurinol
+14,Gout,"(10929, 10940)",allopurinol

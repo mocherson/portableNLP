@@ -1,0 +1,37 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(505, 528)",coronary artery disease
+1,CAD,"(1889, 1912)",coronary artery disease
+2,CAD,"(8804, 8827)",coronary artery disease
+3,CHF,"(283, 307)",congestive heart failure
+4,CHF,"(853, 877)",congestive heart failure
+5,CHF,"(1052, 1076)",congestive heart failure
+6,CHF,"(2128, 2152)",congestive heart failure
+7,CHF,"(6918, 6942)",congestive heart failure
+8,CHF,"(12650, 12674)",congestive heart failure
+9,CHF,"(12692, 12716)",congestive heart failure
+10,Diabetes,"(233, 241)",diabetes
+11,Diabetes,"(833, 841)",diabetes
+12,Diabetes,"(2166, 2174)",diabetes
+13,Diabetes,"(5443, 5451)",diabetes
+14,Diabetes,"(6977, 6985)",diabetes
+15,Diabetes,"(9981, 9989)",diabetes
+16,Diabetes,"(13258, 13266)",diabetes
+17,Diabetes,"(479, 487)",diabetic
+18,Diabetes,"(654, 662)",diabetic
+19,Diabetes,"(679, 687)",diabetic
+20,Diabetes,"(2353, 2361)",diabetic
+21,Diabetes,"(10359, 10367)",diabetic
+22,Gallstones,"(2734, 2749)",cholecystectomy
+23,Hypercholesterolemia,"(608, 628)",hypercholesterolemia
+24,Hypercholesterolemia,"(2381, 2401)",hypercholesterolemia
+25,Hypercholesterolemia,"(608, 628)",hypercholesterolemia
+26,Hypercholesterolemia,"(2381, 2401)",hypercholesterolemia
+27,Hypertension,"(310, 322)",hypertension
+28,Hypertension,"(7589, 7601)",hypertension
+29,Hypertension,"(9556, 9568)",hypertension
+30,Obesity,"(3734, 3739)",obese
+31,PVD,"(253, 280)",peripheral vascular disease
+32,PVD,"(880, 907)",peripheral vascular disease
+33,PVD,"(2471, 2498)",peripheral vascular disease
+34,PVD,"(6945, 6972)",peripheral vascular disease
+35,PVD,"(11884, 11911)",peripheral vascular disease

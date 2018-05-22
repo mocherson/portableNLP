@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(313, 319)",asthma
+1,Asthma,"(2310, 2316)",asthma
+2,CHF,"(245, 267)",dilated cardiomyopathy
+3,Hypertension,"(296, 308)",hypertension
+4,Hypertension,"(373, 385)",hypertension
+5,Hypertension,"(641, 653)",hypertension
+6,Hypertension,"(1999, 2011)",hypertension
+7,Hypertension,"(4728, 4740)",hypertension
+8,Hypertension,"(5236, 5248)",hypertension
+9,Hypertension,"(5494, 5506)",hypertension
+10,Obesity,"(3692, 3697)",obese
+11,CAD,"(4389, 4412)",cardiac catheterization

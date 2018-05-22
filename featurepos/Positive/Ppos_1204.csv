@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(494, 497)",cad
+1,CAD,"(3890, 3893)",cad
+2,CAD,"(291, 314)",coronary artery disease
+3,CAD,"(1478, 1501)",coronary artery disease
+4,Diabetes,"(317, 325)",diabetes
+5,Diabetes,"(506, 514)",diabetes
+6,Diabetes,"(1406, 1414)",diabetes
+7,Gallstones,"(1712, 1722)",gallstones
+8,Gallstones,"(1712, 1722)",gallstones
+9,Gallstones,"(2944, 2959)",cholecystectomy
+10,Gallstones,"(3392, 3407)",cholecystectomy
+11,Hypercholesterolemia,"(1455, 1475)",hypercholesterolemia
+12,Hypercholesterolemia,"(1455, 1475)",hypercholesterolemia
+13,Hypercholesterolemia,"(3392, 3489)",cholecystectomy which was aborted due to his liver disease causing his friable liver and his high
+14,Hypercholesterolemia,"(343, 357)",hyperlipidemia
+15,Hypertension,"(328, 340)",hypertension
+16,Hypertension,"(1391, 1403)",hypertension
+17,PVD,"(500, 503)",pvd
+18,PVD,"(1623, 1650)",peripheral vascular disease
+19,Hypertension,"(4130, 4147)",antihypertensives

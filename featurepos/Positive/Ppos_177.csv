@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1582, 1585)",pci
+1,CAD,"(6050, 6053)",pci
+2,CAD,"(358, 381)",coronary artery disease
+3,CAD,"(1469, 1492)",coronary artery disease
+4,CAD,"(4415, 4438)",coronary artery disease
+5,Diabetes,"(1670, 1678)",diabetes
+6,Gallstones,"(1693, 1708)",cholecystectomy
+7,Hypercholesterolemia,"(1442, 1458)",high cholesterol
+8,Hypertension,"(1334, 1346)",hypertension
+9,PVD,"(1599, 1626)",peripheral vascular disease
+10,PVD,"(5952, 5979)",peripheral vascular disease

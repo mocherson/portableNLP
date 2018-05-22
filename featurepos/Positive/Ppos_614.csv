@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1243, 1246)",chf
+1,CHF,"(3740, 3743)",chf
+2,Depression,"(1508, 1518)",depression
+3,Diabetes,"(1341, 1349)",diabetes
+4,Diabetes,"(3729, 3737)",diabetes
+5,Diabetes,"(3818, 3826)",diabetes
+6,Diabetes,"(6008, 6016)",diabetes
+7,Diabetes,"(5253, 5261)",diabetic
+8,Hypercholesterolemia,"(1586, 1606)",hypercholesterolemia
+9,Hypercholesterolemia,"(1586, 1606)",hypercholesterolemia
+10,Obesity,"(1561, 1568)",obesity
+11,Obesity,"(3719, 3726)",obesity
+12,Obesity,"(1561, 1568)",obesity
+13,Obesity,"(2967, 2972)",obese
+14,Obesity,"(3719, 3726)",obesity
+15,Venous Insufficiency,"(4748, 4761)",venous stasis
+16,Hypertension,"(4131, 4143)",beta-blocker

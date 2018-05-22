@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1549, 1552)",chf
+1,CHF,"(1831, 1834)",chf
+2,CHF,"(2266, 2269)",chf
+3,CHF,"(2279, 2282)",chf
+4,CHF,"(1837, 1861)",congestive heart failure
+5,GERD,"(2024, 2028)",gerd
+6,Hypertension,"(2239, 2242)",htn
+7,OA,"(2090, 2092)",oa
+8,Obesity,"(1752, 1759)",obesity
+9,Obesity,"(1762, 1769)",obesity
+10,Obesity,"(2224, 2231)",obesity
+11,Obesity,"(2634, 2641)",obesity
+12,Obesity,"(1752, 1759)",obesity
+13,Obesity,"(1762, 1769)",obesity
+14,Obesity,"(2224, 2231)",obesity
+15,Obesity,"(2634, 2641)",obesity
+16,Obesity,"(2962, 2967)",obese
+17,OSA,"(2247, 2250)",osa
+18,OSA,"(69, 92)",obstructive sleep apnea
+19,OSA,"(1645, 1668)",obstructive sleep apnea
+20,OSA,"(1926, 1937)",sleep apnea
+21,OSA,"(1940, 1951)",sleep apnea
+22,OSA,"(2662, 2685)",obstructive sleep apnea

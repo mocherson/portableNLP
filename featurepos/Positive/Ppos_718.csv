@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(238, 260)",coronary artery bypass
+1,CAD,"(3751, 3773)",coronary artery bypass
+2,CAD,"(201, 224)",coronary artery disease
+3,Depression,"(1611, 1621)",depression
+4,Diabetes,"(382, 390)",diabetes
+5,Diabetes,"(1589, 1597)",diabetes
+6,Hypercholesterolemia,"(449, 470)",increased cholesterol
+7,Hypercholesterolemia,"(459, 581)",cholesterol who was admitted ten days following discharge from the hospital following treatment for an infected left thigh
+8,Hypertension,"(432, 444)",hypertension
+9,Hypertension,"(1522, 1534)",hypertension
+10,PVD,"(402, 429)",peripheral vascular disease
+11,PVD,"(1537, 1564)",peripheral vascular disease
+12,Depression,"(1654, 1664)",wellbutrin
+13,Depression,"(4738, 4748)",wellbutrin
+14,CAD,"(3414, 3437)",cardiac catheterization
+15,Hypercholesterolemia,"(4902, 4913)",simvastatin

@@ -1,0 +1,29 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(3988, 3998)",depression
+1,Depression,"(4001, 4011)",depression
+2,Depression,"(4393, 4403)",depression
+3,Diabetes,"(7011, 7019)",diabetes
+4,Diabetes,"(4359, 4361)",dm
+5,GERD,"(7121, 7125)",gerd
+6,Hypertension,"(3798, 3810)",hypertension
+7,Hypertension,"(5476, 5488)",hypertension
+8,Hypertension,"(7147, 7159)",hypertension
+9,Hypertension,"(3792, 3795)",htn
+10,Hypertension,"(4364, 4367)",htn
+11,Hypertriglyceridemia,"(4034, 4054)",hypertriglyceridemia
+12,Hypertriglyceridemia,"(4034, 4054)",hypertriglyceridemia
+13,Hypertriglyceridemia,"(4057, 4079)",elevated triglycerides
+14,Obesity,"(4014, 4021)",obesity
+15,Obesity,"(4024, 4031)",obesity
+16,Obesity,"(5687, 5694)",obesity
+17,Obesity,"(4014, 4021)",obesity
+18,Obesity,"(4024, 4031)",obesity
+19,Obesity,"(5156, 5161)",obese
+20,Obesity,"(5687, 5694)",obesity
+21,OSA,"(4082, 4085)",osa
+22,OSA,"(5674, 5677)",osa
+23,OSA,"(4088, 4099)",sleep apnea
+24,OSA,"(7162, 7185)",obstructive sleep apnea
+25,Depression,"(6352, 6362)",wellbutrin
+26,Depression,"(6363, 6370)",effexor
+27,Hypertension,"(5074, 5084)",bp 196/112

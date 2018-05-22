@@ -1,0 +1,6 @@
+,disease,dis_pos,dis_alias
+0,Gallstones,"(901, 916)",cholecystectomy
+1,OA,"(84, 99)",hip replacement
+2,OA,"(312, 327)",hip replacement
+3,OA,"(848, 863)",hip replacement
+4,OA,"(1155, 1171)",knee replacement

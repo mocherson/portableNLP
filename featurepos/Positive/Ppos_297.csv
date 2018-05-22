@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1387, 1393)",asthma
+1,CHF,"(469, 493)",congestive heart failure
+2,CHF,"(2280, 2304)",congestive heart failure
+3,Depression,"(2790, 2800)",depression
+4,Hypercholesterolemia,"(2484, 2496)",dyslipidemia
+5,PVD,"(541, 568)",peripheral vascular disease
+6,PVD,"(736, 763)",peripheral vascular disease
+7,PVD,"(2598, 2625)",peripheral vascular disease
+8,Depression,"(6642, 6648)",zoloft

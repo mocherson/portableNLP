@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(202, 225)",coronary artery disease
+1,CAD,"(2252, 2275)",coronary artery disease
+2,Gallstones,"(2555, 2570)",cholecystectomy
+3,Hypercholesterolemia,"(501, 521)",hypercholesterolemia
+4,Hypercholesterolemia,"(2393, 2413)",hypercholesterolemia
+5,Hypercholesterolemia,"(501, 521)",hypercholesterolemia
+6,Hypercholesterolemia,"(2393, 2413)",hypercholesterolemia
+7,Hypertension,"(486, 498)",hypertension
+8,Hypertension,"(736, 748)",hypertension
+9,Hypertension,"(2334, 2346)",hypertension
+10,Hypertension,"(5431, 5443)",hypertension
+11,Obesity,"(3089, 3094)",obese
+12,Obesity,"(3637, 3642)",obese

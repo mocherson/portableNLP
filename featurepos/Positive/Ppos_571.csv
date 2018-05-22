@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(593, 615)",coronary artery bypass
+1,CAD,"(2064, 2086)",coronary artery bypass
+2,Diabetes,"(296, 304)",diabetes
+3,Diabetes,"(502, 510)",diabetes
+4,Diabetes,"(2188, 2196)",diabetes
+5,Hypercholesterolemia,"(319, 339)",hypercholesterolemia
+6,Hypercholesterolemia,"(319, 339)",hypercholesterolemia
+7,Hypercholesterolemia,"(522, 538)",high cholesterol
+8,Hypercholesterolemia,"(2211, 2227)",high cholesterol
+9,Hypertension,"(257, 269)",hypertension
+10,Hypertension,"(465, 477)",hypertension
+11,Hypertension,"(2148, 2160)",hypertension
+12,PVD,"(344, 371)",peripheral vascular disease
+13,PVD,"(2233, 2260)",peripheral vascular disease
+14,Depression,"(2649, 2655)",zoloft
+15,Depression,"(5239, 5245)",zoloft
+16,CAD,"(4235, 4258)",cardiac catheterization

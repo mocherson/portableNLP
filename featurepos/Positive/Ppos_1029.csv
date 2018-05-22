@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(1101, 1109)",diabetes
+1,Diabetes,"(1278, 1286)",diabetes
+2,Hypertension,"(201, 213)",hypertension
+3,Hypertension,"(345, 357)",hypertension
+4,Hypertension,"(1253, 1265)",hypertension
+5,Obesity,"(1268, 1275)",obesity
+6,Obesity,"(1268, 1275)",obesity
+7,Obesity,"(1754, 1759)",obese
+8,Depression,"(4360, 4366)",celexa
+9,GERD,"(1446, 1457)",esophagitis

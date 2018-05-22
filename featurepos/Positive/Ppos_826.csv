@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(219, 225)",asthma
+1,Asthma,"(293, 299)",asthma
+2,Asthma,"(2985, 2991)",asthma
+3,Asthma,"(9481, 9487)",asthma
+4,CAD,"(384, 406)",coronary artery bypass
+5,CAD,"(2781, 2803)",coronary artery bypass
+6,CAD,"(5475, 5497)",coronary artery bypass
+7,CAD,"(346, 369)",coronary artery disease
+8,CAD,"(777, 800)",coronary artery disease
+9,CAD,"(2743, 2766)",coronary artery disease
+10,CHF,"(1650, 1674)",congestive heart failure
+11,CHF,"(2712, 2736)",congestive heart failure
+12,Diabetes,"(441, 449)",diabetes
+13,Diabetes,"(847, 855)",diabetes
+14,Diabetes,"(2588, 2596)",diabetes
+15,Diabetes,"(2900, 2908)",diabetes
+16,Diabetes,"(8193, 8201)",diabetic
+17,OA,"(494, 520)",degenerative joint disease
+18,OA,"(2952, 2978)",degenerative joint disease
+19,OA,"(5560, 5586)",degenerative joint disease
+20,OA,"(551, 567)",knee replacement
+21,OA,"(4936, 4952)",knee replacement

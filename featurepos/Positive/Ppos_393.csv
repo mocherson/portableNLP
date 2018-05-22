@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(501, 523)",coronary artery bypass
+1,CAD,"(1348, 1370)",coronary artery bypass
+2,CHF,"(68, 81)",heart failure
+3,CHF,"(794, 807)",heart failure
+4,CHF,"(2577, 2601)",congestive heart failure
+5,CHF,"(415, 438)",ischemic cardiomyopathy
+6,CHF,"(5507, 5530)",ischemic cardiomyopathy
+7,Hypercholesterolemia,"(723, 737)",hyperlipidemia
+8,Hypertension,"(706, 718)",hypertension
+9,CAD,"(1911, 1934)",cardiac catheterization

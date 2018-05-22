@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(370, 380)",depression
+1,Depression,"(2925, 2935)",depression
+2,Diabetes,"(386, 394)",diabetes
+3,Diabetes,"(493, 501)",diabetes
+4,Diabetes,"(2560, 2568)",diabetes
+5,Diabetes,"(2674, 2682)",diabetes
+6,Gallstones,"(3206, 3221)",cholecystectomy
+7,GERD,"(2975, 2989)",reflux disease
+8,GERD,"(5296, 5310)",reflux disease
+9,GERD,"(2958, 2981)",gastroesophageal reflux
+10,GERD,"(5279, 5302)",gastroesophageal reflux
+11,Hypertension,"(531, 543)",hypertension
+12,Hypertension,"(2763, 2775)",hypertension
+13,Obesity,"(3734, 3739)",obese
+14,Hypertension,"(3868, 3890)",blood pressure 140/100

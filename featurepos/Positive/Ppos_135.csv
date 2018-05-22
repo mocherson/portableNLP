@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(347, 370)",coronary artery disease
+1,CAD,"(623, 646)",coronary artery disease
+2,CHF,"(69, 93)",congestive heart failure
+3,CHF,"(1051, 1064)",heart failure
+4,CHF,"(321, 344)",ischemic cardiomyopathy
+5,Diabetes,"(391, 399)",diabetes
+6,Diabetes,"(684, 692)",diabetes
+7,Gout,"(479, 483)",gout
+8,Gout,"(2252, 2256)",gout
+9,Hypercholesterolemia,"(427, 447)",hypercholesterolemia
+10,Hypercholesterolemia,"(427, 447)",hypercholesterolemia
+11,Hypertension,"(450, 462)",hypertension
+12,OA,"(504, 518)",osteoarthritis
+13,OA,"(649, 663)",osteoarthritis

@@ -1,0 +1,27 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(427, 433)",asthma
+1,Asthma,"(2144, 2150)",asthma
+2,CHF,"(309, 312)",chf
+3,CHF,"(389, 392)",chf
+4,CHF,"(654, 657)",chf
+5,CHF,"(770, 773)",chf
+6,CHF,"(912, 915)",chf
+7,CHF,"(2108, 2111)",chf
+8,CHF,"(4045, 4048)",chf
+9,CHF,"(4129, 4132)",chf
+10,CHF,"(4180, 4183)",chf
+11,CHF,"(6689, 6692)",chf
+12,CHF,"(69, 93)",congestive heart failure
+13,CHF,"(840, 853)",heart failure
+14,CHF,"(5772, 5785)",heart failure
+15,Diabetes,"(378, 386)",diabetes
+16,Diabetes,"(643, 651)",diabetes
+17,Diabetes,"(2097, 2105)",diabetes
+18,Hypertension,"(363, 375)",hypertension
+19,Hypertension,"(628, 640)",hypertension
+20,Hypertension,"(2082, 2094)",hypertension
+21,Hypertension,"(4756, 4768)",hypertension
+22,Hypertension,"(4617, 4629)",beta-blocker
+23,Hypertension,"(6420, 6432)",beta-blocker
+24,Hypercholesterolemia,"(2462, 2473)",fluvastatin
+25,Hypercholesterolemia,"(8551, 8561)",lovastatin

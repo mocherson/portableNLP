@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(760, 766)",asthma
+1,Gout,"(786, 790)",gout
+2,Hypertension,"(745, 757)",hypertension
+3,OA,"(84, 99)",hip replacement
+4,OA,"(297, 312)",hip replacement
+5,OA,"(705, 720)",hip replacement
+6,Gout,"(1095, 1106)",allopurinol

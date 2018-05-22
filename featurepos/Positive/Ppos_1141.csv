@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(315, 321)",asthma
+1,Asthma,"(1705, 1711)",asthma
+2,Hypertension,"(284, 296)",hypertension
+3,Hypertension,"(1679, 1691)",hypertension
+4,Obesity,"(395, 402)",obesity
+5,Obesity,"(395, 402)",obesity
+6,Obesity,"(2368, 2373)",obese
+7,OSA,"(300, 311)",sleep apnea
+8,OSA,"(1725, 1736)",sleep apnea

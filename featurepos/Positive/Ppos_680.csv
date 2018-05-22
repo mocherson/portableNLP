@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3629, 3632)",cad
+1,CAD,"(4212, 4215)",cad
+2,Depression,"(4338, 4348)",depression
+3,Diabetes,"(3396, 3398)",dm
+4,Diabetes,"(4276, 4278)",dm
+5,Hypercholesterolemia,"(3759, 3779)",hypercholesterolemia
+6,Hypercholesterolemia,"(4279, 4299)",hypercholesterolemia
+7,Hypercholesterolemia,"(3359, 3368)",hyperchol
+8,Hypercholesterolemia,"(3759, 3779)",hypercholesterolemia
+9,Hypercholesterolemia,"(4279, 4299)",hypercholesterolemia
+10,Hypertension,"(3348, 3351)",htn
+11,Hypertension,"(3782, 3785)",htn
+12,Hypertension,"(4272, 4275)",htn
+13,Hypertriglyceridemia,"(3369, 3377)",hyper tg
+14,Hypertriglyceridemia,"(3375, 3449)",tg poorly controlled dm s/p chole/appy/tah diffuse abdominal pain elevated
+15,Obesity,"(3794, 3801)",obesity
+16,Obesity,"(3794, 3801)",obesity
+17,Depression,"(1227, 1233)",prozac
+18,Hypertension,"(3091, 3102)",angiotensin
+19,Hypertension,"(5059, 5071)",beta blocker
+20,Hypercholesterolemia,"(1597, 1609)",atorvastatin
+21,Hypercholesterolemia,"(1669, 1681)",atorvastatin

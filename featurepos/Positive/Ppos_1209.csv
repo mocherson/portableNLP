@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2349, 2355)",asthma
+1,CAD,"(1864, 1887)",coronary artery disease
+2,CAD,"(5387, 5410)",coronary artery disease
+3,CHF,"(5633, 5636)",chf
+4,CHF,"(371, 394)",ischemic cardiomyopathy
+5,GERD,"(2358, 2362)",gerd
+6,Hypercholesterolemia,"(2294, 2314)",hypercholesterolemia
+7,Hypercholesterolemia,"(2294, 2314)",hypercholesterolemia
+8,Hypertension,"(2279, 2291)",hypertension
+9,Hypertension,"(3949, 3961)",hypertension
+10,Hypertension,"(5740, 5752)",hypertension
+11,OA,"(460, 469)",arthritis
+12,Obesity,"(3314, 3319)",obese
+13,Hypertension,"(5527, 5539)",beta-blocker
+14,Hypercholesterolemia,"(7897, 7908)",simvastatin

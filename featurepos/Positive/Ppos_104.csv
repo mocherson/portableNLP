@@ -1,0 +1,34 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(560, 570)",depression
+1,Depression,"(2279, 2289)",depression
+2,Diabetes,"(386, 394)",diabetes
+3,Diabetes,"(710, 718)",diabetes
+4,Diabetes,"(1825, 1833)",diabetes
+5,Diabetes,"(5965, 5973)",diabetes
+6,Diabetes,"(2337, 2345)",diabetic
+7,Gallstones,"(9526, 9561)",gallbladder with a few small stones
+8,Hypercholesterolemia,"(427, 441)",hyperlipidemia
+9,Hypercholesterolemia,"(736, 750)",hyperlipidemia
+10,Hypercholesterolemia,"(1921, 1935)",hyperlipidemia
+11,Hypertension,"(409, 421)",hypertension
+12,Hypertension,"(721, 733)",hypertension
+13,Hypertension,"(1903, 1915)",hypertension
+14,Hypertension,"(10639, 10651)",hypertension
+15,Obesity,"(647, 654)",obesity
+16,Obesity,"(3777, 3784)",obesity
+17,Obesity,"(5933, 5940)",obesity
+18,Obesity,"(647, 654)",obesity
+19,Obesity,"(3777, 3784)",obesity
+20,Obesity,"(4415, 4420)",obese
+21,Obesity,"(5933, 5940)",obesity
+22,Obesity,"(15673, 15678)",obese
+23,Depression,"(2616, 2622)",celexa
+24,Depression,"(3013, 3021)",cymbalta
+25,Depression,"(11122, 11128)",celexa
+26,Depression,"(11133, 11141)",cymbalta
+27,Depression,"(12678, 12686)",cymbalta
+28,Depression,"(12691, 12697)",celexa
+29,Depression,"(16249, 16255)",celexa
+30,Depression,"(17639, 17647)",cymbalta
+31,Depression,"(17697, 17705)",cymbalta
+32,Depression,"(17766, 17774)",cymbalta

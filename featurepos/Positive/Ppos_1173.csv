@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(293, 301)",diabetes
+1,Diabetes,"(951, 959)",diabetes
+2,Diabetes,"(2439, 2447)",diabetes
+3,Gallstones,"(2676, 2691)",cholecystectomy
+4,Hypercholesterolemia,"(2453, 2473)",hypercholesterolemia
+5,Hypercholesterolemia,"(2453, 2473)",hypercholesterolemia
+6,Hypercholesterolemia,"(962, 982)",elevated cholesterol
+7,Hypercholesterolemia,"(3700, 3720)",elevated cholesterol
+8,Hypertension,"(278, 290)",hypertension
+9,Hypertension,"(936, 948)",hypertension
+10,Hypertension,"(2422, 2434)",hypertension
+11,CAD,"(485, 508)",cardiac catheterization
+12,Hypercholesterolemia,"(5579, 5590)",simvastatin

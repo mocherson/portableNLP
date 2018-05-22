@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(560, 563)",cad
+1,CAD,"(3422, 3425)",cad
+2,CAD,"(885, 908)",coronary artery disease
+3,CHF,"(1384, 1397)",heart failure
+4,CHF,"(1429, 1453)",congestive heart failure
+5,CAD,"(817, 840)",cardiac catheterization
+6,CAD,"(2922, 2945)",cardiac catheterization
+7,Hypercholesterolemia,"(22028, 22036)",nystatin
+8,Hypercholesterolemia,"(22146, 22157)",simvastatin
+9,Gout,"(1988, 1999)",allopurinol

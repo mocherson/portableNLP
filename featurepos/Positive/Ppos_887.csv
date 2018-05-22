@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(70, 73)",cad
+1,CAD,"(2498, 2501)",cad
+2,CAD,"(2914, 2917)",cad
+3,CAD,"(3101, 3104)",cad
+4,GERD,"(2808, 2812)",gerd
+5,GERD,"(2819, 2836)",esophageal reflux
+6,Gout,"(2707, 2711)",gout
+7,Gout,"(2714, 2718)",gout
+8,Hypercholesterolemia,"(2843, 2863)",hypercholesterolemia
+9,Hypercholesterolemia,"(2843, 2863)",hypercholesterolemia
+10,Hypercholesterolemia,"(2870, 2890)",elevated cholesterol
+11,Hypertension,"(2899, 2911)",hypertension
+12,Hypertension,"(2893, 2896)",htn
+13,Hypertension,"(4406, 4409)",htn
+14,Hypertension,"(4264, 4276)",beta-blocker
+15,Hypertension,"(4425, 4437)",beta-blocker
+16,CAD,"(2954, 2977)",cardiac catheterization
+17,CAD,"(3287, 3310)",cardiac catheterization
+18,Hypercholesterolemia,"(1327, 1339)",atorvastatin
+19,Hypercholesterolemia,"(1512, 1524)",atorvastatin
+20,Hypercholesterolemia,"(1719, 1731)",atorvastatin

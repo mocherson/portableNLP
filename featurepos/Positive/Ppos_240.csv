@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1001, 1014)",heart failure
+1,CHF,"(1087, 1111)",congestive heart failure
+2,CHF,"(5470, 5483)",heart failure
+3,Diabetes,"(1334, 1342)",diabetes
+4,Gallstones,"(1510, 1525)",cholecystectomy
+5,Hypercholesterolemia,"(1372, 1392)",hypercholesterolemia
+6,Hypercholesterolemia,"(1372, 1392)",hypercholesterolemia
+7,Hypertension,"(1319, 1331)",hypertension
+8,Hypercholesterolemia,"(1911, 1923)",atorvastatin
+9,Hypercholesterolemia,"(5054, 5065)",simvastatin

@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(70, 83)",heart failure
+1,CHF,"(3910, 3923)",heart failure
+2,CHF,"(6130, 6143)",heart failure
+3,Diabetes,"(5189, 5191)",dm
+4,Diabetes,"(6624, 6626)",dm
+5,GERD,"(4058, 4076)",reflux esophagitis
+6,Hypercholesterolemia,"(4030, 4050)",hypercholesterolemia
+7,Hypercholesterolemia,"(5194, 5214)",hypercholesterolemia
+8,Hypercholesterolemia,"(4030, 4050)",hypercholesterolemia
+9,Hypercholesterolemia,"(5194, 5214)",hypercholesterolemia
+10,Obesity,"(5520, 5525)",obese
+11,GERD,"(4065, 4076)",esophagitis
+12,Hypercholesterolemia,"(1941, 1952)",simvastatin
+13,Hypercholesterolemia,"(2343, 2354)",simvastatin
+14,Hypercholesterolemia,"(2470, 2482)",atorvastatin
+15,Hypercholesterolemia,"(2595, 2607)",atorvastatin
+16,Hypercholesterolemia,"(2664, 2676)",atorvastatin
+17,Hypercholesterolemia,"(2733, 2745)",atorvastatin

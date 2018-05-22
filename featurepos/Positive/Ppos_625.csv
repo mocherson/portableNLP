@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(437, 459)",coronary artery bypass
+1,CAD,"(754, 776)",coronary artery bypass
+2,CAD,"(1976, 1998)",coronary artery bypass
+3,CAD,"(399, 422)",coronary artery disease
+4,CAD,"(716, 739)",coronary artery disease
+5,CAD,"(1938, 1961)",coronary artery disease
+6,CHF,"(67, 80)",heart failure
+7,CHF,"(2068, 2092)",congestive heart failure
+8,CHF,"(2281, 2305)",congestive heart failure

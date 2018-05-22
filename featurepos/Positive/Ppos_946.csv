@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(330, 354)",congestive heart failure
+1,Depression,"(625, 635)",depression
+2,Diabetes,"(284, 292)",diabetes
+3,Diabetes,"(565, 573)",diabetes
+4,Diabetes,"(3693, 3701)",diabetic
+5,Gallstones,"(1176, 1191)",cholecystectomy
+6,Hypertension,"(313, 325)",hypertension
+7,Hypertension,"(610, 622)",hypertension
+8,Obesity,"(600, 607)",obesity
+9,Obesity,"(600, 607)",obesity
+10,Obesity,"(1636, 1641)",obese
+11,Obesity,"(1932, 1937)",obese
+12,Obesity,"(4057, 4062)",obese
+13,OSA,"(638, 649)",sleep apnea
+14,Depression,"(1300, 1306)",prozac
+15,Depression,"(4506, 4512)",prozac

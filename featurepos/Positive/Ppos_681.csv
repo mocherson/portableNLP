@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(448, 458)",depression
+1,Depression,"(1198, 1208)",depression
+2,GERD,"(439, 443)",gerd
+3,GERD,"(1191, 1195)",gerd
+4,Hypertension,"(4549, 4561)",hypertension
+5,Hypertension,"(5627, 5639)",hypertension
+6,Depression,"(8044, 8050)",celexa
+7,Depression,"(11617, 11623)",celexa
+8,Depression,"(12569, 12575)",celexa

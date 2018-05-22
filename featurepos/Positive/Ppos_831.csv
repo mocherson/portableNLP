@@ -1,0 +1,37 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4512, 4515)",cad
+1,CAD,"(4941, 4944)",cad
+2,CAD,"(5918, 5921)",cad
+3,CAD,"(7063, 7066)",cad
+4,CAD,"(7812, 7815)",cad
+5,CAD,"(4967, 4970)",pci
+6,CAD,"(5963, 5966)",pci
+7,CAD,"(7091, 7094)",pci
+8,CAD,"(7838, 7841)",pci
+9,CAD,"(111, 134)",coronary artery disease
+10,CAD,"(4344, 4367)",coronary artery disease
+11,CAD,"(4518, 4541)",coronary artery disease
+12,CHF,"(69, 72)",chf
+13,CHF,"(4194, 4197)",chf
+14,CHF,"(4302, 4305)",chf
+15,CHF,"(4755, 4758)",chf
+16,CHF,"(8364, 8367)",chf
+17,CHF,"(4761, 4785)",congestive heart failure
+18,Diabetes,"(4451, 4459)",diabetes
+19,Diabetes,"(4462, 4470)",diabetes
+20,Diabetes,"(8553, 8555)",dm
+21,Diabetes,"(6065, 6069)",iddm
+22,Diabetes,"(7151, 7155)",iddm
+23,Hypercholesterolemia,"(4684, 4700)",hypercholesterol
+24,Hypercholesterolemia,"(4703, 4723)",elevated cholesterol
+25,Hypercholesterolemia,"(5000, 5014)",hyperlipidemia
+26,Hypercholesterolemia,"(6042, 6056)",hyperlipidemia
+27,Hypercholesterolemia,"(7128, 7142)",hyperlipidemia
+28,Hypertension,"(4482, 4494)",hypertension
+29,Hypertension,"(4497, 4509)",hypertension
+30,PVD,"(4611, 4614)",pvd
+31,PVD,"(4994, 4997)",pvd
+32,PVD,"(6113, 6116)",pvd
+33,PVD,"(7145, 7148)",pvd
+34,PVD,"(8710, 8713)",pvd
+35,PVD,"(4617, 4644)",peripheral vascular disease

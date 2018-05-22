@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,CAD,"(3, 26)",cardiac catheterization,"(1835, 1861)",no cardiac catheterization,
+1,Depression,"(38, 42)",ssri,"(8348, 8420)",no obvious med changes except for the ssri that was subsequently stopped,

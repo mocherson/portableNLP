@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(384, 394)",depression
+1,Depression,"(1312, 1322)",depression
+2,Diabetes,"(330, 338)",diabetes
+3,Diabetes,"(596, 604)",diabetes
+4,Diabetes,"(1213, 1221)",diabetes
+5,GERD,"(367, 381)",reflux disease
+6,GERD,"(1249, 1263)",reflux disease
+7,GERD,"(350, 373)",gastroesophageal reflux
+8,GERD,"(1232, 1255)",gastroesophageal reflux
+9,Hypertension,"(397, 409)",hypertension
+10,Hypertension,"(1325, 1337)",hypertension
+11,Obesity,"(563, 568)",obese
+12,Obesity,"(1888, 1893)",obese
+13,Obesity,"(2110, 2115)",obese
+14,OSA,"(274, 297)",obstructive sleep apnea
+15,OSA,"(616, 627)",sleep apnea
+16,OSA,"(1340, 1363)",obstructive sleep apnea
+17,Depression,"(1600, 1606)",elavil
+18,Depression,"(1619, 1625)",prozac
+19,Depression,"(3391, 3397)",elavil
+20,Depression,"(3458, 3464)",prozac

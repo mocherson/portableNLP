@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(2051, 2059)",diabetes
+1,Diabetes,"(2046, 2048)",dm
+2,Diabetes,"(2490, 2492)",dm
+3,Diabetes,"(4544, 4546)",dm
+4,Hypercholesterolemia,"(2192, 2212)",hypercholesterolemia
+5,Hypercholesterolemia,"(2192, 2212)",hypercholesterolemia
+6,Hypertension,"(2077, 2089)",hypertension
+7,Hypertension,"(2071, 2074)",htn
+8,Hypertension,"(2495, 2498)",htn
+9,Hypertension,"(4158, 4161)",htn
+10,Hypertension,"(5688, 5691)",htn
+11,OA,"(2135, 2151)",knee replacement

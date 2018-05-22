@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(69, 93)",congestive heart failure
+1,Gout,"(413, 417)",gout
+2,Gout,"(1608, 1612)",gout
+3,Gout,"(6295, 6299)",gout
+4,Gout,"(6354, 6359)",gouty
+5,Gout,"(6722, 6727)",gouty
+6,Hypertension,"(1615, 1627)",hypertension
+7,Hypertension,"(3070, 3082)",hypertension
+8,Hypertriglyceridemia,"(1585, 1605)",hypertriglyceridemia
+9,Hypertriglyceridemia,"(1585, 1605)",hypertriglyceridemia
+10,Obesity,"(1630, 1637)",obesity
+11,Obesity,"(1630, 1637)",obesity
+12,OSA,"(407, 410)",osa
+13,OSA,"(1487, 1490)",osa
+14,Hypertension,"(3342, 3354)",beta-blocker
+15,OA,"(1668, 1683)",hip replacement
+16,OA,"(1695, 1711)",knee replacement
+17,Gout,"(6470, 6481)",allopurinol
+18,Gout,"(7996, 8007)",allopurinol
+19,Venous Insufficiency,"(1545, 1567)",lower extremity ulcers

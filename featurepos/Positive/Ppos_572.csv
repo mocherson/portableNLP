@@ -1,0 +1,29 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(3126, 3132)",asthma
+1,Asthma,"(3135, 3141)",asthma
+2,Asthma,"(5138, 5144)",asthma
+3,Diabetes,"(3033, 3041)",diabetes
+4,Diabetes,"(5195, 5197)",dm
+5,Diabetes,"(3026, 3030)",iddm
+6,Gallstones,"(3208, 3223)",cholecystectomy
+7,Gallstones,"(3198, 3201)",ccy
+8,Hypercholesterolemia,"(3055, 3075)",hypercholesterolemia
+9,Hypercholesterolemia,"(5227, 5247)",hypercholesterolemia
+10,Hypercholesterolemia,"(3055, 3075)",hypercholesterolemia
+11,Hypercholesterolemia,"(5227, 5247)",hypercholesterolemia
+12,Hypercholesterolemia,"(3078, 3098)",elevated cholesterol
+13,Hypertension,"(3109, 3121)",hypertension
+14,Hypertension,"(3103, 3106)",htn
+15,Hypertension,"(5106, 5109)",htn
+16,OA,"(3146, 3155)",arthritis
+17,OA,"(3158, 3167)",arthritis
+18,Obesity,"(3172, 3179)",obesity
+19,Obesity,"(3182, 3189)",obesity
+20,Obesity,"(5278, 5285)",obesity
+21,Obesity,"(3172, 3179)",obesity
+22,Obesity,"(3182, 3189)",obesity
+23,Obesity,"(4290, 4295)",obese
+24,Obesity,"(4518, 4523)",obese
+25,Obesity,"(5278, 5285)",obesity
+26,Depression,"(1035, 1041)",zoloft
+27,Hypercholesterolemia,"(2528, 2540)",atorvastatin

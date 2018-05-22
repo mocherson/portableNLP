@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(375, 398)",coronary artery disease
+1,CAD,"(1699, 1722)",coronary artery disease
+2,CHF,"(1794, 1818)",congestive heart failure
+3,Diabetes,"(427, 435)",diabetes
+4,Diabetes,"(1725, 1733)",diabetes
+5,Hypercholesterolemia,"(1821, 1835)",hyperlipidemia
+6,Hypertension,"(1684, 1696)",hypertension
+7,OA,"(2103, 2118)",hip replacement
+8,OA,"(494, 510)",knee replacement
+9,OA,"(2060, 2076)",knee replacement

@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4818, 4821)",cad
+1,CAD,"(1954, 1977)",coronary artery disease
+2,CHF,"(69, 72)",chf
+3,CHF,"(1683, 1686)",chf
+4,CHF,"(1803, 1806)",chf
+5,CHF,"(2181, 2184)",chf
+6,CHF,"(3598, 3601)",chf
+7,CHF,"(4417, 4420)",chf
+8,CHF,"(1927, 1951)",congestive heart failure
+9,CHF,"(2087, 2111)",congestive heart failure
+10,Diabetes,"(5194, 5196)",dm
+11,Gout,"(5558, 5562)",gout
+12,Hypertension,"(2300, 2303)",htn
+13,Hypertension,"(4902, 4905)",htn
+14,Hypercholesterolemia,"(1168, 1179)",simvastatin

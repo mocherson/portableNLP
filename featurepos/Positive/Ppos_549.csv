@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(2213, 2216)",chf
+1,CHF,"(77, 90)",heart failure
+2,CHF,"(366, 390)",congestive heart failure
+3,CHF,"(600, 624)",congestive heart failure
+4,CHF,"(3846, 3870)",congestive heart failure
+5,Diabetes,"(340, 348)",diabetes
+6,Diabetes,"(6171, 6179)",diabetes
+7,Gallstones,"(5439, 5449)",gallstones
+8,Gallstones,"(5439, 5449)",gallstones
+9,Hypercholesterolemia,"(429, 443)",hyperlipidemia
+10,Hypertension,"(351, 363)",hypertension

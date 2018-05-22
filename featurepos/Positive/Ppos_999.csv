@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(306, 329)",coronary artery disease
+1,CAD,"(636, 659)",coronary artery disease
+2,CAD,"(3219, 3242)",coronary artery disease
+3,CHF,"(2499, 2502)",chf
+4,CHF,"(1865, 1888)",ischemic cardiomyopathy
+5,Hypercholesterolemia,"(486, 506)",hypercholesterolemia
+6,Hypercholesterolemia,"(3360, 3380)",hypercholesterolemia
+7,Hypercholesterolemia,"(486, 506)",hypercholesterolemia
+8,Hypercholesterolemia,"(3360, 3380)",hypercholesterolemia
+9,Hypertension,"(471, 483)",hypertension
+10,Hypertension,"(3342, 3354)",hypertension
+11,CAD,"(1384, 1407)",cardiac catheterization
+12,CAD,"(6230, 6253)",cardiac catheterization
+13,CAD,"(6256, 6279)",cardiac catheterization

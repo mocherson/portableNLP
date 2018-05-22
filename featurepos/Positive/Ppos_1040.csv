@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3295, 3318)",coronary artery disease
+1,CHF,"(341, 365)",congestive heart failure
+2,CHF,"(621, 645)",congestive heart failure
+3,CHF,"(1989, 2013)",congestive heart failure
+4,CHF,"(4874, 4898)",congestive heart failure
+5,Diabetes,"(390, 398)",diabetes
+6,Diabetes,"(2570, 2578)",diabetes
+7,Hypertension,"(232, 244)",hypertension
+8,Hypertension,"(674, 686)",hypertension
+9,Hypertension,"(1856, 1868)",hypertension
+10,Hypertension,"(3322, 3334)",hypertension
+11,Hypertension,"(4903, 4915)",hypertension
+12,OA,"(414, 423)",arthritis
+13,OA,"(2637, 2646)",arthritis
+14,Depression,"(3220, 3228)",tofranil
+15,Depression,"(7245, 7253)",tofranil
+16,Hypertension,"(2411, 2433)",blood pressure 180/120

@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(373, 379)",asthma
+1,Asthma,"(1877, 1883)",asthma
+2,CAD,"(1617, 1640)",coronary artery disease
+3,CHF,"(344, 368)",congestive heart failure
+4,CHF,"(710, 734)",congestive heart failure
+5,CHF,"(1590, 1614)",congestive heart failure
+6,Diabetes,"(267, 275)",diabetes
+7,Diabetes,"(652, 660)",diabetes
+8,Diabetes,"(1695, 1703)",diabetes
+9,Diabetes,"(5504, 5512)",diabetes
+10,Diabetes,"(1828, 1836)",diabetic
+11,Gout,"(428, 432)",gout
+12,Gout,"(1926, 1930)",gout
+13,Gout,"(2205, 2209)",gout
+14,Gout,"(7988, 7992)",gout
+15,Obesity,"(2990, 2995)",obese
+16,Obesity,"(3635, 3640)",obese
+17,Venous Insufficiency,"(475, 485)",venostasis
+18,Venous Insufficiency,"(1795, 1805)",venostasis
+19,Venous Insufficiency,"(3787, 3797)",venostasis

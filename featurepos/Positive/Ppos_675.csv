@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1485, 1488)",cad
+1,Diabetes,"(1304, 1312)",diabetes
+2,Diabetes,"(1467, 1469)",dm
+3,Diabetes,"(2735, 2737)",dm
+4,GERD,"(2112, 2116)",gerd
+5,Hypertension,"(1315, 1327)",hypertension
+6,Hypertension,"(1472, 1475)",htn

@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(259, 282)",coronary artery disease
+1,CAD,"(417, 440)",coronary artery disease
+2,CHF,"(4044, 4068)",congestive heart failure
+3,Depression,"(1045, 1055)",depression
+4,Diabetes,"(389, 397)",diabetes
+5,Diabetes,"(953, 961)",diabetes
+6,Diabetes,"(5831, 5839)",diabetes
+7,Diabetes,"(5906, 5914)",diabetes
+8,Gallstones,"(1155, 1170)",cholecystectomy
+9,Gallstones,"(2351, 2366)",cholecystectomy
+10,Hypertension,"(400, 412)",hypertension
+11,Hypertension,"(914, 926)",hypertension
+12,Hypertension,"(4761, 4773)",hypertension
+13,Hypertension,"(6527, 6539)",hypertension
+14,Depression,"(1808, 1814)",celexa
+15,Depression,"(9122, 9128)",celexa
+16,CAD,"(3314, 3337)",cardiac catheterization
+17,Hypercholesterolemia,"(9867, 9878)",simvastatin

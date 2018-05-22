@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(69, 92)",coronary artery disease
+1,CAD,"(357, 380)",coronary artery disease
+2,CAD,"(2342, 2365)",coronary artery disease
+3,CHF,"(2844, 2868)",congestive heart failure
+4,Diabetes,"(2316, 2324)",diabetes
+5,Gout,"(2923, 2927)",gout
+6,Hypercholesterolemia,"(432, 452)",hypercholesterolemia
+7,Hypercholesterolemia,"(432, 452)",hypercholesterolemia
+8,Hypercholesterolemia,"(2906, 2920)",hyperlipidemia
+9,Hypertension,"(2327, 2339)",hypertension
+10,PVD,"(463, 490)",peripheral arterial disease
+11,PVD,"(2698, 2725)",peripheral vascular disease
+12,PVD,"(8371, 8398)",peripheral vascular disease
+13,Hypertension,"(8957, 8974)",antihypertensives
+14,Hypertension,"(9217, 9234)",antihypertensives
+15,Hypertension,"(8250, 8262)",beta-blocker

@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Diabetes,"(21, 29)",diabetes,"(3902, 3956)",no family history of diabetes mellitus or hypertension,
+1,Hypertension,"(42, 54)",hypertension,"(3902, 3956)",no family history of diabetes mellitus or hypertension,
+2,CHF,"(15, 39)",congestive heart failure,"(6746, 6785)",no evidence of congestive heart failure,

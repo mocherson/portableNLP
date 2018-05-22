@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(3372, 3380)",diabetes
+1,Diabetes,"(3383, 3391)",diabetes
+2,Diabetes,"(3684, 3686)",dm
+3,Diabetes,"(5419, 5421)",dm
+4,Gout,"(5575, 5579)",gout
+5,Hypertension,"(3459, 3471)",hypertension
+6,Hypertension,"(3474, 3486)",hypertension
+7,Hypertension,"(3700, 3703)",htn
+8,Hypertension,"(5449, 5452)",htn
+9,Hypertension,"(8347, 8359)",beta blocker
+10,Hypercholesterolemia,"(1817, 1828)",simvastatin
+11,Hypercholesterolemia,"(1864, 1875)",simvastatin
+12,Hypercholesterolemia,"(2126, 2137)",simvastatin
+13,Hypercholesterolemia,"(2321, 2332)",simvastatin
+14,Hypercholesterolemia,"(2732, 2743)",simvastatin
+15,Gout,"(772, 783)",allopurinol
+16,Gout,"(936, 947)",allopurinol
+17,Gout,"(2780, 2791)",allopurinol
+18,Gout,"(5749, 5760)",allopurinol

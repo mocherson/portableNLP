@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2037, 2040)",cad
+1,CHF,"(405, 408)",chf
+2,CHF,"(2100, 2103)",chf
+3,CHF,"(3833, 3846)",heart failure
+4,Diabetes,"(489, 497)",diabetes
+5,Diabetes,"(2150, 2158)",diabetes
+6,Hypercholesterolemia,"(2077, 2097)",hypercholesterolemia
+7,Hypercholesterolemia,"(2077, 2097)",hypercholesterolemia
+8,Hypertension,"(456, 468)",hypertension
+9,Hypertension,"(2062, 2074)",hypertension
+10,Hypertension,"(3862, 3874)",hypertension
+11,Obesity,"(2422, 2427)",obese
+12,OSA,"(2106, 2129)",obstructive sleep apnea
+13,Gout,"(5869, 5880)",allopurinol

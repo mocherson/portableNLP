@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(330, 352)",coronary artery bypass
+1,CAD,"(1283, 1305)",coronary artery bypass
+2,CAD,"(1114, 1137)",coronary artery disease
+3,CHF,"(541, 565)",congestive heart failure
+4,CHF,"(1140, 1164)",congestive heart failure
+5,Diabetes,"(1064, 1072)",diabetes
+6,Obesity,"(2379, 2384)",obese
+7,PVD,"(1084, 1111)",peripheral vascular disease
+8,Hypercholesterolemia,"(1675, 1683)",nystatin
+9,Hypercholesterolemia,"(10448, 10458)",mycostatin

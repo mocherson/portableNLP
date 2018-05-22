@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Diabetes,"(14, 22)",diabetes,"(3607, 3654)",no history of diabetes or previous hypertension,
+1,Hypertension,"(35, 47)",hypertension,"(3607, 3654)",no history of diabetes or previous hypertension,

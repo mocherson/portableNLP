@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3665, 3668)",cad
+1,CAD,"(4124, 4127)",cad
+2,CAD,"(3671, 3694)",coronary artery disease
+3,CHF,"(3483, 3486)",chf
+4,CHF,"(3750, 3753)",chf
+5,CHF,"(3756, 3780)",congestive heart failure
+6,Hypercholesterolemia,"(804, 816)",atorvastatin
+7,Hypercholesterolemia,"(969, 981)",atorvastatin
+8,Hypercholesterolemia,"(2139, 2151)",atorvastatin
+9,Hypercholesterolemia,"(2905, 2917)",atorvastatin

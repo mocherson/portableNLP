@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3928, 3931)",cad
+1,CAD,"(5564, 5567)",pci
+2,CAD,"(4881, 4904)",coronary artery disease
+3,Diabetes,"(4178, 4186)",diabetes
+4,Diabetes,"(4206, 4214)",diabetes
+5,Diabetes,"(4772, 4780)",diabetes
+6,Hypercholesterolemia,"(4281, 4293)",dyslipidemia
+7,Hypercholesterolemia,"(4296, 4308)",dyslipidemia
+8,OA,"(4323, 4325)",oa
+9,OA,"(4311, 4314)",djd
+10,Obesity,"(4783, 4790)",obesity
+11,Obesity,"(4783, 4790)",obesity
+12,Hypercholesterolemia,"(680, 691)",pravastatin
+13,Hypercholesterolemia,"(1456, 1467)",pravastatin
+14,Hypercholesterolemia,"(2022, 2033)",pravastatin
+15,Hypercholesterolemia,"(2947, 2958)",pravastatin
+16,Hypercholesterolemia,"(3215, 3226)",simvastatin
+17,Hypercholesterolemia,"(3294, 3305)",pravastatin
+18,Hypercholesterolemia,"(3444, 3455)",pravastatin
+19,Hypercholesterolemia,"(3527, 3538)",pravastatin
+20,Hypercholesterolemia,"(3899, 3910)",simvastatin

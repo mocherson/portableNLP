@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3485, 3488)",cad
+1,CAD,"(3712, 3715)",cad
+2,CAD,"(4175, 4178)",pci
+3,Hypercholesterolemia,"(3925, 3939)",hyperlipidemia
+4,Hypercholesterolemia,"(3687, 3699)",dyslipidemia
+5,Hypertension,"(3671, 3674)",htn
+6,Hypertension,"(3919, 3922)",htn
+7,Hypercholesterolemia,"(833, 845)",atorvastatin

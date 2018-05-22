@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(261, 271)",depression
+1,Depression,"(433, 443)",depression
+2,Depression,"(1406, 1416)",depression
+3,Hypertension,"(277, 289)",hypertension
+4,Hypertension,"(466, 478)",hypertension
+5,Hypertension,"(1188, 1200)",hypertension
+6,Hypertension,"(1355, 1367)",hypertension
+7,Obesity,"(248, 255)",obesity
+8,Obesity,"(423, 430)",obesity
+9,Obesity,"(1374, 1381)",obesity
+10,Obesity,"(248, 255)",obesity
+11,Obesity,"(423, 430)",obesity
+12,Obesity,"(1374, 1381)",obesity
+13,Obesity,"(1794, 1799)",obese
+14,Obesity,"(2412, 2417)",obese
+15,OSA,"(3582, 3593)",sleep apnea
+16,Hypertension,"(3068, 3080)",beta blocker
+17,Hypertension,"(1845, 1867)",blood pressure 170/110

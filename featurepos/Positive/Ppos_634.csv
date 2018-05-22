@@ -1,0 +1,27 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(1562, 1570)",diabetes
+1,Diabetes,"(2226, 2228)",dm
+2,Diabetes,"(1554, 1559)",niddm
+3,Diabetes,"(1823, 1828)",niddm
+4,Diabetes,"(2376, 2381)",niddm
+5,Hypertension,"(1539, 1551)",hypertension
+6,Hypertension,"(1533, 1536)",htn
+7,Hypertension,"(1817, 1820)",htn
+8,Hypertension,"(2220, 2223)",htn
+9,Hypertension,"(2385, 2388)",htn
+10,Hypertension,"(3170, 3173)",htn
+11,Obesity,"(1610, 1617)",obesity
+12,Obesity,"(1620, 1627)",obesity
+13,Obesity,"(1807, 1814)",obesity
+14,Obesity,"(2231, 2238)",obesity
+15,Obesity,"(2399, 2406)",obesity
+16,Obesity,"(1610, 1617)",obesity
+17,Obesity,"(1620, 1627)",obesity
+18,Obesity,"(1807, 1814)",obesity
+19,Obesity,"(2231, 2238)",obesity
+20,Obesity,"(2399, 2406)",obesity
+21,Obesity,"(2668, 2673)",obese
+22,OSA,"(2410, 2413)",osa
+23,OSA,"(1582, 1593)",sleep apnea
+24,OSA,"(1596, 1607)",sleep apnea
+25,OSA,"(1831, 1842)",sleep apnea

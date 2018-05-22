@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1678, 1681)",cad
+1,CAD,"(1973, 1976)",cad
+2,CAD,"(2384, 2387)",cad
+3,CAD,"(3324, 3327)",cad
+4,CAD,"(2392, 2395)",pci
+5,CAD,"(3467, 3470)",pci
+6,Depression,"(3078, 3088)",depression
+7,GERD,"(2359, 2363)",gerd
+8,Hypercholesterolemia,"(1699, 1719)",hypercholesterolemia
+9,Hypercholesterolemia,"(1699, 1719)",hypercholesterolemia
+10,Hypertension,"(1684, 1696)",hypertension
+11,Hypertension,"(1967, 1970)",htn
+12,Hypertension,"(2378, 2381)",htn
+13,Hypertension,"(3316, 3319)",htn
+14,Obesity,"(1722, 1729)",obesity
+15,Obesity,"(1722, 1729)",obesity
+16,Obesity,"(2705, 2710)",obese
+17,OSA,"(5282, 5293)",sleep apnea
+18,Hypertension,"(4259, 4271)",beta blocker
+19,Hypertension,"(4939, 4951)",beta blocker
+20,CAD,"(1789, 1812)",cardiac catheterization
+21,Hypercholesterolemia,"(847, 859)",atorvastatin

@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(1439, 1441)",dm
+1,Diabetes,"(1616, 1618)",dm
+2,Diabetes,"(2604, 2606)",dm
+3,Hypertension,"(1433, 1436)",htn
+4,Hypertension,"(1610, 1613)",htn
+5,Hypertension,"(2598, 2601)",htn
+6,OA,"(1428, 1430)",oa
+7,OA,"(2570, 2572)",oa
+8,Obesity,"(1418, 1425)",obesity
+9,Obesity,"(1600, 1607)",obesity
+10,Obesity,"(2552, 2559)",obesity
+11,Obesity,"(1418, 1425)",obesity
+12,Obesity,"(1600, 1607)",obesity
+13,Obesity,"(2552, 2559)",obesity
+14,Obesity,"(2734, 2739)",obese
+15,OSA,"(2564, 2567)",osa
+16,Depression,"(490, 496)",prozac
+17,Hypercholesterolemia,"(781, 793)",atorvastatin
+18,Hypercholesterolemia,"(914, 926)",atorvastatin

@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(2398, 2411)",heart failure
+1,Diabetes,"(625, 633)",diabetes
+2,Diabetes,"(2554, 2562)",diabetes
+3,Diabetes,"(6781, 6789)",diabetes
+4,Hypertension,"(2540, 2552)",hypertension
+5,PVD,"(673, 700)",peripheral vascular disease
+6,CAD,"(1537, 1560)",cardiac catheterization
+7,CAD,"(4554, 4577)",cardiac catheterization

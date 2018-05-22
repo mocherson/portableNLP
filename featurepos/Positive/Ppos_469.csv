@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2054, 2057)",cad
+1,CAD,"(3213, 3216)",cad
+2,Diabetes,"(2020, 2022)",dm
+3,Diabetes,"(3192, 3194)",dm
+4,Hypercholesterolemia,"(2078, 2092)",hyperlipidemia
+5,Hypercholesterolemia,"(3235, 3249)",hyperlipidemia
+6,Hypertension,"(2048, 2051)",htn
+7,Hypertension,"(3186, 3189)",htn
+8,Hypercholesterolemia,"(780, 791)",simvastatin
+9,Hypercholesterolemia,"(1272, 1283)",simvastatin
+10,Hypercholesterolemia,"(3404, 3415)",simvastatin

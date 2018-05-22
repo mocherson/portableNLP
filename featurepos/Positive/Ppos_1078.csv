@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(235, 258)",coronary artery disease
+1,Diabetes,"(315, 323)",diabetes
+2,GERD,"(355, 369)",reflux disease
+3,GERD,"(338, 361)",gastroesophageal reflux
+4,Hypercholesterolemia,"(282, 302)",hypercholesterolemia
+5,Hypercholesterolemia,"(282, 302)",hypercholesterolemia
+6,Hypertension,"(264, 276)",hypertension
+7,Gout,"(3789, 3800)",allopurinol

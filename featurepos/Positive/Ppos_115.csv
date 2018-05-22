@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(628, 650)",coronary artery bypass
+1,CAD,"(1269, 1291)",coronary artery bypass
+2,CAD,"(590, 613)",coronary artery disease
+3,Depression,"(793, 803)",depression
+4,Diabetes,"(309, 317)",diabetes
+5,Diabetes,"(761, 769)",diabetes
+6,Diabetes,"(3347, 3355)",diabetes
+7,Hypertension,"(322, 334)",hypertension
+8,Hypertension,"(575, 587)",hypertension
+9,PVD,"(683, 710)",peripheral vascular disease
+10,Hypercholesterolemia,"(2719, 2730)",simvastatin
+11,Hypercholesterolemia,"(4469, 4480)",simvastatin

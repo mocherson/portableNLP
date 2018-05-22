@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(2126, 2136)",depression
+1,Hypertension,"(1624, 1627)",htn
+2,Hypertension,"(1910, 1913)",htn
+3,Obesity,"(1670, 1677)",obesity
+4,Obesity,"(1680, 1687)",obesity
+5,Obesity,"(1991, 1998)",obesity
+6,Obesity,"(1670, 1677)",obesity
+7,Obesity,"(1680, 1687)",obesity
+8,Obesity,"(1991, 1998)",obesity
+9,OSA,"(1690, 1713)",obstructive sleep apnea
+10,OSA,"(1716, 1727)",sleep apnea
+11,Depression,"(750, 756)",prozac

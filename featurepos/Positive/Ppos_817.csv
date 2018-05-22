@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(429, 432)",chf
+1,CHF,"(7719, 7722)",chf
+2,CHF,"(2130, 2143)",heart failure
+3,Diabetes,"(10369, 10377)",diabetes
+4,Gallstones,"(4404, 4414)",gallstones
+5,Gallstones,"(4404, 4414)",gallstones
+6,Hypertension,"(1935, 1947)",hypertension
+7,Hypertension,"(8669, 8681)",hypertension
+8,Venous Insufficiency,"(11798, 11811)",venous stasis
+9,OA,"(2522, 2537)",hip replacement

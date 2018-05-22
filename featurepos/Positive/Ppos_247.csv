@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(287, 311)",congestive heart failure
+1,CHF,"(335, 359)",congestive heart failure
+2,CHF,"(665, 689)",congestive heart failure
+3,CHF,"(3372, 3396)",congestive heart failure
+4,CHF,"(6593, 6617)",congestive heart failure
+5,Diabetes,"(641, 649)",diabetes
+6,Diabetes,"(3156, 3164)",diabetes
+7,Diabetes,"(12084, 12092)",diabetes
+8,Diabetes,"(12675, 12683)",diabetes
+9,Gallstones,"(3320, 3335)",cholecystectomy
+10,GERD,"(10265, 10269)",gerd
+11,GERD,"(10357, 10361)",gerd
+12,Hypertension,"(626, 638)",hypertension
+13,Hypertension,"(3179, 3191)",hypertension
+14,Hypertension,"(8323, 8335)",beta-blocker
+15,CAD,"(7289, 7312)",cardiac catheterization

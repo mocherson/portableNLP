@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(453, 461)",diabetes
+1,Diabetes,"(1686, 1694)",diabetes
+2,Diabetes,"(1933, 1941)",diabetes
+3,Diabetes,"(5195, 5203)",diabetes
+4,Diabetes,"(8238, 8246)",diabetes
+5,Gout,"(417, 422)",gouty
+6,Gout,"(580, 585)",gouty
+7,Gout,"(1488, 1493)",gouty
+8,Gout,"(5177, 5182)",gouty
+9,Hypertension,"(464, 476)",hypertension
+10,Hypertension,"(1700, 1712)",hypertension
+11,Hypertension,"(7790, 7802)",hypertension
+12,Hypertension,"(8002, 8014)",hypertension
+13,Hypertension,"(8150, 8162)",hypertension
+14,OA,"(423, 432)",arthritis
+15,OA,"(586, 595)",arthritis
+16,OA,"(1494, 1503)",arthritis
+17,OA,"(5183, 5192)",arthritis
+18,Gout,"(646, 657)",allopurinol
+19,Gout,"(1536, 1547)",allopurinol
+20,Gout,"(2005, 2016)",allopurinol

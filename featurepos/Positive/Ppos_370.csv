@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(2200, 2208)",diabetes
+1,Diabetes,"(2435, 2440)",niddm
+2,Gallstones,"(2297, 2312)",cholecystectomy
+3,Hypertension,"(2196, 2199)",htn
+4,Hypertension,"(2443, 2446)",htn
+5,Obesity,"(2449, 2454)",obese
+6,Depression,"(436, 442)",elavil
+7,Hypercholesterolemia,"(1541, 1553)",atorvastatin
+8,OA,"(2258, 2274)",knee replacement

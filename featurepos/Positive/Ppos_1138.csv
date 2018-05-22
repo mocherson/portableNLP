@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(7169, 7177)",diabetes
+1,Diabetes,"(7200, 7208)",diabetes
+2,Diabetes,"(2759, 2761)",dm
+3,Diabetes,"(2448, 2453)",niddm
+4,Diabetes,"(4157, 4162)",niddm
+5,Gallstones,"(4287, 4302)",cholecystectomy
+6,Hypercholesterolemia,"(4247, 4267)",hypercholesterolemia
+7,Hypercholesterolemia,"(4247, 4267)",hypercholesterolemia
+8,Hypertension,"(2444, 2447)",htn
+9,Hypertension,"(2766, 2769)",htn
+10,Hypertension,"(4239, 4242)",htn
+11,OSA,"(2899, 2910)",sleep apnea
+12,OSA,"(4211, 4222)",sleep apnea
+13,Hypercholesterolemia,"(837, 848)",simvastatin
+14,Hypercholesterolemia,"(1123, 1134)",simvastatin
+15,Hypercholesterolemia,"(1460, 1471)",simvastatin

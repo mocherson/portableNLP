@@ -1,0 +1,32 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(1258, 1266)",diabetes
+1,Diabetes,"(1711, 1719)",diabetes
+2,Diabetes,"(2182, 2190)",diabetes
+3,Diabetes,"(2351, 2359)",diabetes
+4,Diabetes,"(2699, 2707)",diabetes
+5,Diabetes,"(3889, 3897)",diabetes
+6,Diabetes,"(4110, 4118)",diabetes
+7,Diabetes,"(4131, 4139)",diabetes
+8,Diabetes,"(4412, 4420)",diabetes
+9,Diabetes,"(5083, 5091)",diabetes
+10,Diabetes,"(1706, 1708)",dm
+11,Diabetes,"(1937, 1939)",dm
+12,Diabetes,"(2744, 2746)",dm
+13,Diabetes,"(3745, 3747)",dm
+14,Hypertension,"(2000, 2003)",htn
+15,Hypertension,"(2908, 2911)",htn
+16,Hypertension,"(3808, 3811)",htn
+17,Hypertension,"(4655, 4658)",htn
+18,Obesity,"(1679, 1686)",obesity
+19,Obesity,"(1689, 1696)",obesity
+20,Obesity,"(1975, 1982)",obesity
+21,Obesity,"(2889, 2896)",obesity
+22,Obesity,"(3783, 3790)",obesity
+23,Obesity,"(1679, 1686)",obesity
+24,Obesity,"(1689, 1696)",obesity
+25,Obesity,"(1975, 1982)",obesity
+26,Obesity,"(2889, 2896)",obesity
+27,Obesity,"(3010, 3015)",obese
+28,Obesity,"(3236, 3241)",obese
+29,Obesity,"(3783, 3790)",obesity
+30,OSA,"(1741, 1752)",sleep apnea

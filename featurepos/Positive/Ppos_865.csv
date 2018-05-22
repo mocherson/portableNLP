@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(112, 114)",dm
+1,Diabetes,"(1870, 1872)",dm
+2,Diabetes,"(1988, 1990)",dm
+3,Diabetes,"(2194, 2196)",dm
+4,Diabetes,"(2996, 2998)",dm
+5,Diabetes,"(3111, 3113)",dm
+6,Diabetes,"(3608, 3610)",dm
+7,Diabetes,"(4108, 4110)",dm
+8,Diabetes,"(4148, 4150)",dm
+9,Hypertension,"(1956, 1959)",htn
+10,Hypertension,"(2724, 2727)",htn
+11,Hypertension,"(2978, 2981)",htn
+12,Hypertension,"(3951, 3960)",b-blocker
+13,Hypercholesterolemia,"(962, 973)",simvastatin
+14,Hypercholesterolemia,"(1229, 1240)",simvastatin
+15,Hypercholesterolemia,"(1505, 1516)",simvastatin

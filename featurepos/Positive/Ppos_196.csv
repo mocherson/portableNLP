@@ -1,0 +1,40 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(3007, 3013)",asthma
+1,Asthma,"(3016, 3022)",asthma
+2,Asthma,"(4247, 4253)",asthma
+3,CHF,"(3025, 3028)",chf
+4,CHF,"(3031, 3055)",congestive heart failure
+5,Depression,"(2953, 2963)",depression
+6,Depression,"(2966, 2976)",depression
+7,Depression,"(4230, 4240)",depression
+8,Diabetes,"(3132, 3140)",diabetes
+9,Diabetes,"(4092, 4094)",dm
+10,Diabetes,"(3125, 3129)",iddm
+11,GERD,"(3198, 3202)",gerd
+12,GERD,"(3222, 3236)",reflux disease
+13,GERD,"(3205, 3228)",gastroesophageal reflux
+14,Hypercholesterolemia,"(3079, 3099)",hypercholesterolemia
+15,Hypercholesterolemia,"(3079, 3099)",hypercholesterolemia
+16,Hypercholesterolemia,"(3102, 3122)",elevated cholesterol
+17,Hypertension,"(3064, 3076)",hypertension
+18,Hypertension,"(3058, 3061)",htn
+19,Hypertension,"(4076, 4079)",htn
+20,Hypertension,"(4173, 4176)",htn
+21,Obesity,"(3669, 3676)",obesity
+22,Obesity,"(3939, 3946)",obesity
+23,Obesity,"(3952, 3959)",obesity
+24,Obesity,"(4640, 4647)",obesity
+25,Obesity,"(5156, 5163)",obesity
+26,Obesity,"(5709, 5716)",obesity
+27,Obesity,"(3669, 3676)",obesity
+28,Obesity,"(3939, 3946)",obesity
+29,Obesity,"(3952, 3959)",obesity
+30,Obesity,"(4640, 4647)",obesity
+31,Obesity,"(5156, 5163)",obesity
+32,Obesity,"(5709, 5716)",obesity
+33,OSA,"(5150, 5153)",osa
+34,OSA,"(2979, 2990)",sleep apnea
+35,OSA,"(2993, 3004)",sleep apnea
+36,OSA,"(3980, 4003)",obstructive sleep apnea
+37,PVD,"(4260, 4287)",peripheral vascular disease
+38,Venous Insufficiency,"(4204, 4217)",venous stasis

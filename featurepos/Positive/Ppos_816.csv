@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4294, 4297)",cad
+1,CAD,"(4574, 4577)",cad
+2,CAD,"(5031, 5034)",cad
+3,CAD,"(4300, 4323)",coronary artery disease
+4,CHF,"(3773, 3776)",chf
+5,CHF,"(4122, 4125)",chf
+6,CHF,"(4570, 4573)",chf
+7,CHF,"(4950, 4953)",chf
+8,CHF,"(5025, 5028)",chf
+9,CHF,"(5145, 5148)",chf
+10,CHF,"(69, 93)",congestive heart failure
+11,CHF,"(3910, 3934)",congestive heart failure
+12,CHF,"(4014, 4038)",congestive heart failure
+13,CHF,"(4128, 4152)",congestive heart failure
+14,Diabetes,"(4265, 4273)",diabetes
+15,Diabetes,"(4283, 4291)",diabetes
+16,Diabetes,"(5037, 5039)",dm
+17,Obesity,"(4211, 4218)",obesity
+18,Obesity,"(4221, 4228)",obesity
+19,Obesity,"(4211, 4218)",obesity
+20,Obesity,"(4221, 4228)",obesity

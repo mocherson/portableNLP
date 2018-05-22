@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Asthma,"(14, 20)",asthma,"(3779, 3824)",r/o mi htn dm asthma obesity sleep apnea chf ,
+1,CHF,"(41, 44)",chf,"(3779, 3824)",r/o mi htn dm asthma obesity sleep apnea chf ,
+2,Diabetes,"(11, 13)",dm,"(3779, 3824)",r/o mi htn dm asthma obesity sleep apnea chf ,
+3,Hypertension,"(7, 10)",htn,"(3779, 3824)",r/o mi htn dm asthma obesity sleep apnea chf ,
+4,Obesity,"(21, 28)",obesity,"(3779, 3824)",r/o mi htn dm asthma obesity sleep apnea chf ,
+5,Obesity,"(21, 28)",obesity,"(3779, 3824)",r/o mi htn dm asthma obesity sleep apnea chf ,
+6,OSA,"(29, 40)",sleep apnea,"(3779, 3824)",r/o mi htn dm asthma obesity sleep apnea chf ,

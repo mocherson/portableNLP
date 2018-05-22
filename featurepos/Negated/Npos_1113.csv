@@ -1,0 +1,5 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Hypertension,"(21, 24)",htn,"(4453, 4692)",not on home oxygen ++htn ++pvd ++seizure disorder - on keppra ++h/o sdh - had craniotomy ++large abdominal ventral hernia ++chronic back pain - known spinal compression fractures at t8 and bilateral sacral insufficiency fractures ----- shx,----- shx
+1,PVD,"(27, 30)",pvd,"(4453, 4692)",not on home oxygen ++htn ++pvd ++seizure disorder - on keppra ++h/o sdh - had craniotomy ++large abdominal ventral hernia ++chronic back pain - known spinal compression fractures at t8 and bilateral sacral insufficiency fractures ----- shx,----- shx
+2,Gallstones,"(73, 83)",gallstones,"(5773, 5857)",no acute cardiopulmonary process +head ct 8/19 - negative +ruq us 8/19 - gallstones ,
+3,Gallstones,"(73, 83)",gallstones,"(5773, 5857)",no acute cardiopulmonary process +head ct 8/19 - negative +ruq us 8/19 - gallstones ,

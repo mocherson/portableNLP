@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(67, 80)",heart failure
+1,CHF,"(265, 291)",nonischemic cardiomyopathy
+2,CHF,"(1732, 1758)",nonischemic cardiomyopathy
+3,CHF,"(3583, 3609)",nonischemic cardiomyopathy
+4,Hypertension,"(1850, 1862)",hypertension
+5,Hypertriglyceridemia,"(1865, 1885)",hypertriglyceridemia
+6,Hypertriglyceridemia,"(1865, 1885)",hypertriglyceridemia
+7,Gout,"(2266, 2277)",allopurinol
+8,Gout,"(6002, 6013)",allopurinol

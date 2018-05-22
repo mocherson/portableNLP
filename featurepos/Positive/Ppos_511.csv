@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(3217, 3223)",asthma
+1,Asthma,"(4153, 4159)",asthma
+2,Asthma,"(4900, 4906)",asthma
+3,Asthma,"(5800, 5806)",asthma
+4,Asthma,"(7563, 7569)",asthma
+5,Asthma,"(7608, 7614)",asthma
+6,CAD,"(4661, 4664)",cad
+7,CAD,"(5655, 5658)",cad
+8,CAD,"(5882, 5885)",cad
+9,CHF,"(3224, 3227)",chf
+10,CHF,"(4885, 4888)",chf
+11,CHF,"(4111, 4115)",dchf
+12,CHF,"(5666, 5670)",dchf
+13,Diabetes,"(3195, 3203)",diabetes
+14,Diabetes,"(4895, 4897)",dm
+15,Diabetes,"(5897, 5899)",dm
+16,Hypertension,"(3204, 3216)",hypertension
+17,Hypertension,"(4800, 4803)",htn
+18,Obesity,"(4954, 4961)",obesity
+19,Obesity,"(4954, 4961)",obesity
+20,Depression,"(1158, 1168)",wellbutrin
+21,Depression,"(5095, 5105)",wellbutrin
+22,Hypercholesterolemia,"(2126, 2137)",simvastatin
+23,OA,"(3252, 3271)",lumbar disc disease
+24,OA,"(4987, 5006)",lumbar disc disease

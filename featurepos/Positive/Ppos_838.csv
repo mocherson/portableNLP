@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1275, 1299)",congestive heart failure
+1,CHF,"(68, 90)",dilated cardiomyopathy
+2,CHF,"(351, 373)",dilated cardiomyopathy
+3,Diabetes,"(262, 270)",diabetes
+4,Diabetes,"(2527, 2535)",diabetes
+5,Gallstones,"(2603, 2618)",cholecystectomy
+6,Gallstones,"(6422, 6437)",cholecystectomy
+7,Obesity,"(3957, 3962)",obese
+8,CAD,"(815, 838)",cardiac catheterization

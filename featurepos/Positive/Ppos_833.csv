@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2928, 2950)",coronary artery bypass
+1,CAD,"(4271, 4293)",coronary artery bypass
+2,CAD,"(4894, 4916)",coronary artery bypass
+3,CAD,"(5474, 5496)",coronary artery bypass
+4,CAD,"(69, 92)",coronary artery disease
+5,CHF,"(2650, 2663)",heart failure
+6,Hypercholesterolemia,"(2727, 2739)",dyslipidemia
+7,CAD,"(527, 550)",cardiac catheterization
+8,Hypercholesterolemia,"(3282, 3293)",simvastatin
+9,Hypercholesterolemia,"(5128, 5139)",simvastatin

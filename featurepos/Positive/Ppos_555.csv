@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(301, 304)",cad
+1,CAD,"(637, 640)",cad
+2,CAD,"(2776, 2799)",coronary artery disease
+3,CAD,"(5051, 5074)",coronary artery disease
+4,CHF,"(239, 242)",chf
+5,CHF,"(293, 296)",chf
+6,CHF,"(2808, 2811)",chf
+7,CHF,"(69, 93)",congestive heart failure
+8,Diabetes,"(376, 384)",diabetes
+9,Diabetes,"(4264, 4266)",dm
+10,Gout,"(4596, 4600)",gout
+11,Gout,"(4771, 4775)",gout
+12,Hypercholesterolemia,"(404, 424)",hypercholesterolemia
+13,Hypercholesterolemia,"(404, 424)",hypercholesterolemia
+14,Gout,"(1612, 1623)",allopurinol
+15,Gout,"(4614, 4625)",allopurinol
+16,Gout,"(7227, 7238)",allopurinol

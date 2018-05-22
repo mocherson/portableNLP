@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(6601, 6625)",congestive heart failure
+1,CHF,"(201, 223)",dilated cardiomyopathy
+2,CHF,"(352, 374)",dilated cardiomyopathy
+3,CHF,"(2284, 2306)",dilated cardiomyopathy
+4,CHF,"(4987, 5009)",dilated cardiomyopathy
+5,Diabetes,"(2325, 2333)",diabetes
+6,Hypertension,"(1186, 1200)",ace inhibitors
+7,Hypercholesterolemia,"(9007, 9015)",nystatin

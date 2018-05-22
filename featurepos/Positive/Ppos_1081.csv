@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(4895, 4901)",asthma
+1,Diabetes,"(4914, 4916)",dm
+2,Diabetes,"(6715, 6717)",dm
+3,Diabetes,"(4422, 4427)",niddm
+4,Hypercholesterolemia,"(4567, 4583)",high cholesterol
+5,Hypercholesterolemia,"(4586, 4606)",elevated cholesterol
+6,Hypertension,"(4435, 4438)",htn
+7,Hypertension,"(4924, 4927)",htn
+8,Obesity,"(4428, 4434)",obesiy
+9,Obesity,"(5835, 5840)",obese
+10,Depression,"(1334, 1344)",wellbutrin
+11,Depression,"(5468, 5478)",wellbutrin
+12,Hypercholesterolemia,"(1304, 1316)",atorvastatin
+13,Hypercholesterolemia,"(3536, 3548)",atorvastatin
+14,Hypercholesterolemia,"(3727, 3739)",atorvastatin

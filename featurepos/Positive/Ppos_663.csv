@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(952, 986)",percutaneous coronary intervention
+1,CAD,"(507, 530)",coronary artery disease
+2,CAD,"(732, 755)",coronary artery disease
+3,CAD,"(2223, 2246)",coronary artery disease
+4,GERD,"(2537, 2551)",reflux disease
+5,GERD,"(2520, 2543)",gastroesophageal reflux
+6,Hypercholesterolemia,"(2264, 2284)",hypercholesterolemia
+7,Hypercholesterolemia,"(2264, 2284)",hypercholesterolemia
+8,Hypercholesterolemia,"(548, 560)",dyslipidemia
+9,Hypertension,"(310, 322)",hypertension
+10,Hypertension,"(533, 545)",hypertension
+11,Hypertension,"(2249, 2261)",hypertension
+12,OA,"(344, 358)",osteoarthritis
+13,OA,"(567, 576)",arthritis
+14,OA,"(1245, 1254)",arthritis
+15,OA,"(2287, 2301)",osteoarthritis
+16,Obesity,"(2420, 2427)",obesity
+17,Obesity,"(2420, 2427)",obesity
+18,CAD,"(892, 915)",cardiac catheterization
+19,OA,"(384, 400)",knee replacement
+20,OA,"(2466, 2482)",knee replacement

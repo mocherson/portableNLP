@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(2532, 2534)",dm
+1,Diabetes,"(5540, 5542)",dm
+2,Hypertension,"(2536, 2539)",htn
+3,Obesity,"(2541, 2548)",obesity
+4,Obesity,"(2541, 2548)",obesity
+5,Obesity,"(3703, 3708)",obese
+6,Hypercholesterolemia,"(545, 557)",atorvastatin
+7,Hypercholesterolemia,"(688, 700)",atorvastatin
+8,Hypercholesterolemia,"(766, 778)",atorvastatin
+9,Hypercholesterolemia,"(1082, 1093)",simvastatin
+10,Hypercholesterolemia,"(1813, 1824)",simvastatin
+11,OA,"(2678, 2693)",hip replacement

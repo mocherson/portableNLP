@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(449, 457)",diabetes
+1,Diabetes,"(3455, 3463)",diabetes
+2,Hypertension,"(434, 446)",hypertension
+3,OA,"(607, 633)",degenerative joint disease
+4,OA,"(915, 941)",degenerative joint disease
+5,Obesity,"(389, 396)",obesity
+6,Obesity,"(860, 867)",obesity
+7,Obesity,"(389, 396)",obesity
+8,Obesity,"(860, 867)",obesity
+9,OSA,"(5271, 5294)",obstructive sleep apnea
+10,OSA,"(5446, 5469)",obstructive sleep apnea
+11,Depression,"(1302, 1308)",elavil
+12,Depression,"(9143, 9149)",elavil
+13,OA,"(577, 593)",knee replacement

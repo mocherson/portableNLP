@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2285, 2288)",cad
+1,CAD,"(2692, 2695)",cad
+2,CAD,"(4312, 4315)",cad
+3,CHF,"(3386, 3389)",chf
+4,CHF,"(4419, 4422)",chf
+5,Diabetes,"(7051, 7059)",diabetes
+6,Diabetes,"(7235, 7243)",diabetes
+7,Diabetes,"(2265, 2267)",dm
+8,Diabetes,"(6161, 6163)",dm
+9,Diabetes,"(3369, 3373)",iddm
+10,Hypertension,"(4556, 4568)",hypertension
+11,Hypertension,"(5863, 5875)",hypertension
+12,Hypertension,"(2400, 2403)",htn
+13,Hypertension,"(3180, 3183)",htn
+14,Hypertension,"(5532, 5535)",htn
+15,OA,"(6882, 6891)",arthritis
+16,CAD,"(2291, 2314)",cardiac catheterization
+17,CAD,"(2456, 2479)",cardiac catheterization
+18,CAD,"(2534, 2557)",cardiac catheterization
+19,CAD,"(4481, 4504)",cardiac catheterization
+20,CAD,"(4982, 5005)",cardiac catheterization
+21,Hypercholesterolemia,"(581, 593)",atorvastatin
+22,OA,"(3426, 3441)",hip replacement

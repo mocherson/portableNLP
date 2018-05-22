@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(670, 676)",asthma
+1,CAD,"(1196, 1218)",coronary artery bypass
+2,CAD,"(199, 222)",coronary artery disease
+3,Hypercholesterolemia,"(679, 700)",increased cholesterol
+4,Hypertension,"(705, 717)",hypertension
+5,OSA,"(747, 758)",sleep apnea
+6,OA,"(802, 817)",hip replacement

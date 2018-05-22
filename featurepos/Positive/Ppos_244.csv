@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(385, 393)",diabetes
+1,Diabetes,"(566, 574)",diabetes
+2,Diabetes,"(2994, 3002)",diabetes
+3,Diabetes,"(961, 969)",diabetic
+4,Diabetes,"(10076, 10084)",diabetic
+5,Hypercholesterolemia,"(3151, 3171)",hypercholesterolemia
+6,Hypercholesterolemia,"(3151, 3171)",hypercholesterolemia
+7,Hypertension,"(3118, 3130)",hypertension
+8,OA,"(3173, 3187)",osteoarthritis
+9,Obesity,"(4529, 4536)",obesity
+10,Obesity,"(350, 355)",obese
+11,Obesity,"(784, 789)",obese
+12,Obesity,"(3719, 3724)",obese
+13,Obesity,"(4271, 4276)",obese
+14,Obesity,"(4529, 4536)",obesity
+15,Venous Insufficiency,"(420, 433)",venous stasis
+16,Venous Insufficiency,"(1194, 1207)",venous return
+17,Venous Insufficiency,"(3059, 3072)",venous stasis
+18,Hypercholesterolemia,"(12776, 12784)",nystatin

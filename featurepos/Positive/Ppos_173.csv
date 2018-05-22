@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1687, 1690)",chf
+1,CHF,"(3556, 3580)",congestive heart failure
+2,Diabetes,"(1747, 1755)",diabetes
+3,Diabetes,"(3679, 3687)",diabetes
+4,Diabetes,"(5446, 5454)",diabetes
+5,Hypercholesterolemia,"(1779, 1795)",high cholesterol
+6,Hypertension,"(1761, 1773)",hypertension
+7,Hypertension,"(3541, 3553)",hypertension
+8,Obesity,"(1728, 1735)",obesity
+9,Obesity,"(3480, 3487)",obesity
+10,Obesity,"(1728, 1735)",obesity
+11,Obesity,"(3480, 3487)",obesity
+12,Obesity,"(4212, 4217)",obese
+13,OSA,"(1858, 1869)",sleep apnea
+14,OSA,"(3490, 3513)",obstructive sleep apnea
+15,OSA,"(4883, 4906)",obstructive sleep apnea
+16,Venous Insufficiency,"(3805, 3825)",venous insufficiency
+17,Depression,"(1058, 1064)",zoloft
+18,Obesity,"(3790, 3802)",panniculitis

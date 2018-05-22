@@ -1,0 +1,5 @@
+,disease,dis_pos,dis_alias
+0,Obesity,"(890, 895)",obese
+1,Depression,"(1381, 1387)",prozac
+2,CAD,"(709, 732)",cardiac catheterization
+3,CAD,"(957, 980)",cardiac catheterization

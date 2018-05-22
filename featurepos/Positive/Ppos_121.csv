@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1836, 1842)",asthma
+1,Depression,"(1859, 1869)",depression
+2,Diabetes,"(2051, 2053)",dm
+3,Diabetes,"(3482, 3484)",dm
+4,Obesity,"(1826, 1833)",obesity
+5,Obesity,"(2041, 2048)",obesity
+6,Obesity,"(3472, 3479)",obesity
+7,Obesity,"(1826, 1833)",obesity
+8,Obesity,"(2041, 2048)",obesity
+9,Obesity,"(3079, 3084)",obese
+10,Obesity,"(3250, 3255)",obese
+11,Obesity,"(3282, 3287)",obese
+12,Obesity,"(3472, 3479)",obesity
+13,OSA,"(1845, 1856)",sleep apnea
+14,Depression,"(594, 601)",lexapro
+15,Depression,"(2787, 2794)",lexapro

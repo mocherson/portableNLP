@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2263, 2269)",asthma
+1,Asthma,"(2272, 2278)",asthma
+2,Asthma,"(2608, 2614)",asthma
+3,Asthma,"(3072, 3078)",asthma
+4,Depression,"(2428, 2438)",depression
+5,Hypertension,"(2193, 2205)",hypertension
+6,Hypertension,"(2208, 2220)",hypertension
+7,Obesity,"(2223, 2230)",obesity
+8,Obesity,"(2233, 2240)",obesity
+9,Obesity,"(2598, 2605)",obesity
+10,Obesity,"(2223, 2230)",obesity
+11,Obesity,"(2233, 2240)",obesity
+12,Obesity,"(2598, 2605)",obesity
+13,Obesity,"(3165, 3170)",obese
+14,OSA,"(2243, 2246)",osa
+15,OSA,"(2249, 2260)",sleep apnea
+16,Depression,"(1139, 1145)",celexa

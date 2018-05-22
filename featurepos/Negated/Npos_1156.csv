@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Diabetes,"(9, 17)",diabetes,"(619, 670)",not have diabetes mellitus or increased cholesterol,
+1,Hypercholesterolemia,"(30, 51)",increased cholesterol,"(619, 670)",not have diabetes mellitus or increased cholesterol,

@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(818, 826)",diabetes
+1,Gallstones,"(1149, 1164)",cholecystectomy
+2,Gout,"(919, 923)",gout
+3,Depression,"(3590, 3596)",celexa
+4,Depression,"(4268, 4274)",celexa
+5,CAD,"(1206, 1229)",cardiac catheterization
+6,OA,"(1103, 1119)",knee replacement
+7,Gout,"(3633, 3644)",allopurinol
+8,Gout,"(4214, 4225)",allopurinol

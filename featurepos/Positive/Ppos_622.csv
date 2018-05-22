@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(238, 241)",cad
+1,CAD,"(343, 346)",cad
+2,CAD,"(1848, 1851)",cad
+3,CAD,"(2131, 2134)",cad
+4,CAD,"(2211, 2214)",cad
+5,CAD,"(4771, 4774)",cad
+6,CAD,"(4812, 4815)",cad
+7,CAD,"(2489, 2492)",pci
+8,CAD,"(5039, 5042)",pci
+9,CAD,"(69, 92)",coronary artery disease
+10,GERD,"(3206, 3210)",gerd
+11,Hypercholesterolemia,"(1090, 1104)",hyperlipidemia
+12,Hypertension,"(379, 391)",hypertension
+13,Hypertension,"(1884, 1896)",hypertension
+14,Hypertension,"(2940, 2952)",hypertension
+15,PVD,"(394, 421)",peripheral vascular disease
+16,PVD,"(1899, 1926)",peripheral vascular disease
+17,Hypertension,"(2622, 2634)",beta-blocker
+18,CAD,"(254, 277)",cardiac catheterization
+19,CAD,"(2102, 2125)",cardiac catheterization
+20,CAD,"(2159, 2182)",cardiac catheterization
+21,CAD,"(2465, 2488)",cardiac catheterization
+22,CAD,"(4099, 4122)",cardiac catheterization

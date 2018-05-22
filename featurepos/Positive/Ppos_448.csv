@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(70, 83)",heart failure
+1,CHF,"(290, 314)",congestive heart failure
+2,CHF,"(846, 859)",heart failure
+3,CHF,"(1010, 1023)",heart failure
+4,Depression,"(3527, 3537)",depression
+5,Diabetes,"(342, 350)",diabetes
+6,Diabetes,"(597, 605)",diabetes
+7,Diabetes,"(2766, 2774)",diabetes
+8,Diabetes,"(2967, 2975)",diabetes
+9,Gout,"(3435, 3439)",gout
+10,Gout,"(3477, 3481)",gout
+11,Obesity,"(370, 377)",obesity
+12,Obesity,"(632, 639)",obesity
+13,Obesity,"(370, 377)",obesity
+14,Obesity,"(632, 639)",obesity
+15,Obesity,"(1446, 1451)",obese
+16,Depression,"(3573, 3579)",celexa
+17,Depression,"(4150, 4156)",celexa

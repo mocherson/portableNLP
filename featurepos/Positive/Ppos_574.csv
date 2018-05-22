@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(350, 358)",diabetes
+1,Diabetes,"(608, 616)",diabetes
+2,Diabetes,"(905, 913)",diabetes
+3,Diabetes,"(1425, 1433)",diabetes
+4,Diabetes,"(1928, 1936)",diabetes
+5,Diabetes,"(2732, 2740)",diabetes
+6,Diabetes,"(6291, 6299)",diabetes
+7,Hypertension,"(94, 106)",hypertension
+8,Hypertension,"(326, 338)",hypertension
+9,Hypertension,"(1525, 1537)",hypertension
+10,Hypertension,"(2710, 2722)",hypertension
+11,Hypertension,"(6304, 6316)",hypertension
+12,Obesity,"(2535, 2542)",obesity
+13,Obesity,"(5551, 5558)",obesity
+14,Obesity,"(2535, 2542)",obesity
+15,Obesity,"(3424, 3429)",obese
+16,Obesity,"(5551, 5558)",obesity
+17,Hypertension,"(5640, 5657)",antihypertensives
+18,Hypertension,"(1764, 1788)",blood pressure of 158/90

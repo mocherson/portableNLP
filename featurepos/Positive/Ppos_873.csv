@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1419, 1422)",cad
+1,CAD,"(1871, 1874)",cad
+2,CAD,"(1425, 1448)",coronary artery disease
+3,CHF,"(1490, 1493)",chf
+4,CHF,"(1500, 1524)",congestive heart failure
+5,Diabetes,"(1877, 1879)",dm
+6,Gallstones,"(1688, 1698)",gallstones
+7,Gallstones,"(1701, 1711)",gallstones
+8,Gallstones,"(1688, 1698)",gallstones
+9,Gallstones,"(1701, 1711)",gallstones
+10,GERD,"(1593, 1607)",reflux disease
+11,GERD,"(1576, 1599)",gastroesophageal reflux
+12,Hypertension,"(1882, 1885)",htn
+13,Hypercholesterolemia,"(546, 557)",pravastatin

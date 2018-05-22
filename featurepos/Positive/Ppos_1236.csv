@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(470, 473)",cad
+1,CAD,"(1468, 1491)",coronary artery disease
+2,CHF,"(253, 266)",heart failure
+3,CHF,"(1234, 1247)",heart failure
+4,CHF,"(423, 446)",ischemic cardiomyopathy
+5,CHF,"(1313, 1336)",ischemic cardiomyopathy
+6,Diabetes,"(1497, 1505)",diabetes
+7,Diabetes,"(7822, 7830)",diabetes
+8,Diabetes,"(8036, 8044)",diabetes
+9,Diabetes,"(1684, 1692)",diabetic
+10,Hypertension,"(449, 461)",hypertension
+11,Obesity,"(530, 537)",obesity
+12,Obesity,"(1349, 1356)",obesity
+13,Obesity,"(530, 537)",obesity
+14,Obesity,"(1349, 1356)",obesity
+15,Obesity,"(3062, 3067)",obese
+16,PVD,"(1435, 1462)",peripheral vascular disease
+17,Venous Insufficiency,"(1512, 1525)",venous stasis
+18,Venous Insufficiency,"(1816, 1829)",venous stasis
+19,Gout,"(2500, 2511)",allopurinol

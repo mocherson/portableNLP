@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(5968, 5971)",chf
+1,CHF,"(366, 390)",congestive heart failure
+2,CHF,"(2230, 2254)",congestive heart failure
+3,CHF,"(8926, 8939)",heart failure
+4,CHF,"(9015, 9028)",heart failure
+5,Depression,"(2653, 2663)",depression
+6,Depression,"(5627, 5637)",depression
+7,Diabetes,"(2540, 2548)",diabetes
+8,GERD,"(2633, 2647)",reflux disease
+9,GERD,"(2616, 2639)",gastroesophageal reflux
+10,Hypertension,"(2578, 2590)",hypertension
+11,OA,"(2596, 2610)",osteoarthritis
+12,Depression,"(2772, 2778)",celexa
+13,Depression,"(12329, 12335)",celexa
+14,Hypertension,"(9563, 9574)",angiotensin

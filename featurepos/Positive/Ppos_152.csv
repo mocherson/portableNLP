@@ -1,0 +1,7 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(5786, 5794)",diabetic
+1,Gallstones,"(1456, 1471)",cholecystectomy
+2,GERD,"(1119, 1123)",gerd
+3,GERD,"(5174, 5178)",gerd
+4,Hypertension,"(4881, 4893)",beta-blocker
+5,CAD,"(593, 616)",cardiac catheterization

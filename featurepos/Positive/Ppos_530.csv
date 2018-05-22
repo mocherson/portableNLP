@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1744, 1767)",coronary artery disease
+1,CAD,"(3089, 3112)",coronary artery disease
+2,CHF,"(824, 827)",chf
+3,CHF,"(2641, 2644)",chf
+4,CHF,"(2755, 2758)",chf
+5,CHF,"(5260, 5263)",chf
+6,CHF,"(387, 411)",congestive heart failure
+7,CHF,"(484, 506)",dilated cardiomyopathy
+8,CHF,"(2939, 2961)",dilated cardiomyopathy
+9,Diabetes,"(512, 520)",diabetes
+10,Diabetes,"(1717, 1725)",diabetes
+11,Diabetes,"(3139, 3147)",diabetes
+12,OA,"(3306, 3309)",djd
+13,Hypertension,"(5383, 5395)",beta-blocker

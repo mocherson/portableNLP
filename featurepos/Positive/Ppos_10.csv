@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(273, 296)",coronary artery disease
+1,CAD,"(394, 417)",coronary artery disease
+2,CAD,"(586, 609)",coronary artery disease
+3,CHF,"(4417, 4441)",congestive heart failure
+4,Hypercholesterolemia,"(523, 544)",increased cholesterol
+5,Hypertension,"(245, 257)",hypertension
+6,Hypertension,"(420, 432)",hypertension
+7,Hypertension,"(508, 520)",hypertension
+8,Obesity,"(2859, 2864)",obese
+9,Depression,"(4892, 4898)",elavil
+10,Hypertension,"(1305, 1326)",blood pressure 176/90
+11,Hypertension,"(2805, 2827)",blood pressure 148/100
+12,CAD,"(3759, 3782)",cardiac catheterization

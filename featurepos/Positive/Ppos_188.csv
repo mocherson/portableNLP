@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Gallstones,"(704, 719)",cholecystectomy
+1,Hypertension,"(85, 97)",hypertension
+2,Hypertension,"(609, 621)",hypertension
+3,OA,"(577, 586)",arthritis
+4,Obesity,"(75, 82)",obesity
+5,Obesity,"(262, 269)",obesity
+6,Obesity,"(75, 82)",obesity
+7,Obesity,"(262, 269)",obesity
+8,Obesity,"(990, 995)",obese
+9,OSA,"(1621, 1632)",sleep apnea

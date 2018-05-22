@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4773, 4795)",coronary artery bypass
+1,CAD,"(528, 551)",coronary artery disease
+2,CHF,"(67, 91)",congestive heart failure
+3,CHF,"(2874, 2887)",heart failure
+4,Diabetes,"(3024, 3032)",diabetes
+5,Gout,"(3059, 3063)",gout
+6,Hypercholesterolemia,"(3044, 3056)",dyslipidemia
+7,Hypertension,"(2987, 2999)",hypertension
+8,Depression,"(6833, 6839)",prozac
+9,Hypertension,"(6026, 6038)",beta-blocker
+10,CAD,"(1216, 1239)",cardiac catheterization
+11,Hypercholesterolemia,"(3662, 3674)",atorvastatin

@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(436, 444)",diabetes
+1,Diabetes,"(1314, 1322)",diabetes
+2,Diabetes,"(4174, 4182)",diabetes
+3,Diabetes,"(4065, 4073)",diabetic
+4,Diabetes,"(4192, 4200)",diabetic
+5,Gout,"(1394, 1398)",gout
+6,Obesity,"(2547, 2552)",obese
+7,Depression,"(1477, 1484)",effexor
+8,Depression,"(6068, 6075)",effexor

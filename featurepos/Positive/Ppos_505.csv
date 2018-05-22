@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2332, 2335)",cad
+1,CAD,"(2588, 2591)",cad
+2,CAD,"(2743, 2746)",cad
+3,CAD,"(3722, 3725)",cad
+4,CAD,"(4107, 4110)",cad
+5,CAD,"(2613, 2616)",pci
+6,Depression,"(2398, 2408)",depression
+7,Depression,"(4268, 4278)",depression
+8,Hypercholesterolemia,"(2362, 2378)",high cholesterol
+9,Hypertension,"(2324, 2327)",htn
+10,OA,"(2391, 2393)",oa
+11,OSA,"(2383, 2386)",osa
+12,Depression,"(1491, 1497)",zoloft
+13,Depression,"(3998, 4004)",zoloft
+14,Hypertension,"(2868, 2877)",b blocker
+15,Hypertension,"(3289, 3298)",b blocker
+16,CAD,"(2452, 2475)",cardiac catheterization
+17,Hypercholesterolemia,"(1534, 1545)",simvastatin

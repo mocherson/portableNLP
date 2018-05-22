@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Hypercholesterolemia,"(566, 586)",hypercholesterolemia
+1,Hypercholesterolemia,"(566, 586)",hypercholesterolemia
+2,Hypertension,"(551, 563)",hypertension
+3,OA,"(300, 309)",arthritis
+4,OA,"(534, 548)",osteoarthritis
+5,OA,"(67, 93)",degenerative joint disease
+6,OA,"(269, 285)",knee replacement
+7,OA,"(501, 517)",knee replacement
+8,OA,"(1393, 1409)",knee replacement

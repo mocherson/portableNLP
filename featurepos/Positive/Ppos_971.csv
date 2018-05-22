@@ -1,0 +1,25 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(7966, 7969)",cad
+1,CHF,"(70, 73)",chf
+2,CHF,"(4618, 4621)",chf
+3,CHF,"(4714, 4717)",chf
+4,CHF,"(4814, 4817)",chf
+5,CHF,"(5340, 5343)",chf
+6,CHF,"(5385, 5388)",chf
+7,CHF,"(5511, 5514)",chf
+8,CHF,"(6489, 6492)",chf
+9,CHF,"(8057, 8060)",chf
+10,CHF,"(4820, 4844)",congestive heart failure
+11,Diabetes,"(4852, 4860)",diabetes
+12,Diabetes,"(4847, 4849)",dm
+13,Diabetes,"(5360, 5362)",dm
+14,Diabetes,"(5474, 5476)",dm
+15,Diabetes,"(7316, 7318)",dm
+16,Diabetes,"(8583, 8585)",dm
+17,Hypertension,"(5365, 5368)",htn
+18,Obesity,"(7488, 7495)",obesity
+19,Obesity,"(7488, 7495)",obesity
+20,OSA,"(8430, 8433)",osa
+21,PVD,"(5715, 5718)",pvd
+22,Hypercholesterolemia,"(2549, 2560)",simvastatin
+23,Gout,"(551, 562)",allopurinol

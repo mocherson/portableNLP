@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,GERD,"(295, 299)",gerd
+1,OA,"(1972, 1986)",osteoarthritis
+2,Obesity,"(1960, 1967)",obesity
+3,Obesity,"(2276, 2283)",obesity
+4,Obesity,"(1960, 1967)",obesity
+5,Obesity,"(2110, 2115)",obese
+6,Obesity,"(2276, 2283)",obesity
+7,Obesity,"(2465, 2470)",obese
+8,OSA,"(252, 263)",sleep apnea
+9,OSA,"(3776, 3787)",sleep apnea
+10,OSA,"(4795, 4806)",sleep apnea
+11,Depression,"(2034, 2040)",zoloft
+12,Depression,"(4873, 4879)",zoloft

@@ -1,0 +1,28 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(705, 708)",pci
+1,CAD,"(1749, 1772)",coronary artery disease
+2,CHF,"(77, 90)",heart failure
+3,CHF,"(280, 293)",heart failure
+4,CHF,"(867, 891)",congestive heart failure
+5,CHF,"(4478, 4502)",congestive heart failure
+6,CHF,"(462, 485)",ischemic cardiomyopathy
+7,Depression,"(5543, 5553)",depression
+8,Depression,"(5465, 5475)",depressive
+9,Diabetes,"(380, 388)",diabetes
+10,Diabetes,"(1887, 1895)",diabetes
+11,Diabetes,"(2044, 2052)",diabetes
+12,Diabetes,"(4847, 4855)",diabetes
+13,Diabetes,"(5158, 5166)",diabetes
+14,Diabetes,"(5344, 5352)",diabetic
+15,Hypercholesterolemia,"(1923, 1937)",hyperlipidemia
+16,Hypertension,"(1869, 1881)",hypertension
+17,Hypertension,"(2027, 2039)",hypertension
+18,Hypertension,"(4830, 4842)",hypertension
+19,PVD,"(2248, 2275)",peripheral vascular disease
+20,Depression,"(5520, 5526)",celexa
+21,Hypertension,"(4270, 4282)",beta-blocker
+22,Hypertension,"(1219, 1240)",blood pressure 196/97
+23,CAD,"(3787, 3810)",cardiac catheterization
+24,CAD,"(3855, 3878)",cardiac catheterization
+25,CAD,"(5741, 5764)",cardiac catheterization
+26,CAD,"(5803, 5826)",cardiac catheterization

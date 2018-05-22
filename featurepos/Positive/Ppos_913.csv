@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3312, 3315)",cad
+1,CAD,"(3995, 3998)",cad
+2,CAD,"(3004, 3027)",coronary artery disease
+3,CHF,"(90, 93)",chf
+4,CHF,"(2839, 2842)",chf
+5,Hypercholesterolemia,"(4069, 4083)",hyperlipidemia
+6,Hypercholesterolemia,"(2956, 2968)",dyslipidemia
+7,Hypercholesterolemia,"(2971, 2983)",dyslipidemia
+8,Hypertension,"(2926, 2938)",hypertension
+9,Hypertension,"(2941, 2953)",hypertension
+10,Hypertension,"(4062, 4065)",htn
+11,Hypertension,"(4822, 4825)",htn
+12,Hypercholesterolemia,"(524, 536)",atorvastatin

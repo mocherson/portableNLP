@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(860, 894)",percutaneous coronary intervention
+1,CAD,"(375, 397)",coronary artery bypass
+2,CAD,"(1042, 1065)",coronary artery disease
+3,CAD,"(5858, 5881)",coronary artery disease
+4,CHF,"(5234, 5237)",chf
+5,CHF,"(668, 692)",congestive heart failure
+6,Diabetes,"(320, 328)",diabetes
+7,Diabetes,"(8596, 8604)",diabetes
+8,Gallstones,"(7355, 7364)",gallstone
+9,Gallstones,"(7766, 7775)",gallstone
+10,Gallstones,"(7977, 7990)",biliary colic
+11,Hypercholesterolemia,"(343, 357)",hyperlipidemia
+12,Hypertension,"(264, 276)",hypertension
+13,Hypertension,"(302, 314)",hypertension
+14,Hypertension,"(1259, 1271)",hypertension
+15,Hypertension,"(1787, 1799)",hypertension
+16,Hypertension,"(4155, 4167)",hypertension
+17,Hypertension,"(4917, 4929)",hypertension
+18,Hypertension,"(6081, 6093)",hypertension
+19,Obesity,"(3327, 3332)",obese
+20,Hypertension,"(4673, 4685)",beta-blocker

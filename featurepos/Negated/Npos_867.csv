@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Hypertension,"(30, 42)",beta blocker,"(4569, 4636)",not been able to tolerate her beta blocker secondary to hypotension,secondary to hypotension
+1,CHF,"(15, 39)",congestive heart failure,"(5903, 5942)",no symptoms of congestive heart failure,

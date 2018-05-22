@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4390, 4413)",atherosclerotic disease
+1,CHF,"(1513, 1516)",chf
+2,CHF,"(2281, 2284)",chf
+3,CHF,"(4068, 4071)",chf
+4,CHF,"(69, 93)",congestive heart failure
+5,CHF,"(989, 1013)",congestive heart failure
+6,CHF,"(2219, 2243)",congestive heart failure
+7,Diabetes,"(2829, 2837)",diabetes
+8,Hypertension,"(705, 717)",beta-blocker
+9,Hypertension,"(1180, 1192)",beta-blocker
+10,Hypertension,"(1902, 1914)",beta-blocker

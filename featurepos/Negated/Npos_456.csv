@@ -1,0 +1,5 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,CAD,"(14, 37)",coronary artery disease,"(344, 381)",no history of coronary artery disease,
+1,Diabetes,"(13, 21)",diabetes,"(598, 620)",negative for diabetes ,
+2,CHF,"(15, 39)",congestive heart failure,"(2445, 2484)",no evidence of congestive heart failure,
+3,CHF,"(15, 39)",congestive heart failure,"(4242, 4298)",no evidence of congestive heart failure or cardiomegaly ,

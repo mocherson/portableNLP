@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4543, 4546)",cad
+1,CAD,"(5241, 5244)",cad
+2,CAD,"(7401, 7404)",cad
+3,CHF,"(86, 89)",chf
+4,CHF,"(4283, 4286)",chf
+5,CHF,"(4382, 4385)",chf
+6,CHF,"(4753, 4756)",chf
+7,CHF,"(5330, 5333)",chf
+8,CHF,"(5452, 5455)",chf
+9,CHF,"(7395, 7398)",chf
+10,CHF,"(7503, 7506)",chf
+11,CHF,"(7973, 7976)",chf
+12,CHF,"(4771, 4795)",congestive heart failure
+13,Diabetes,"(4860, 4863)",dm2
+14,Diabetes,"(5361, 5364)",dm2
+15,Diabetes,"(7407, 7409)",dm
+16,Diabetes,"(9835, 9837)",dm
+17,Hypercholesterolemia,"(5387, 5396)",hyperchol
+18,Hypercholesterolemia,"(4493, 4502)",high chol
+19,Hypertension,"(5355, 5358)",htn
+20,OA,"(4469, 4472)",djd
+21,Obesity,"(6873, 6878)",obese
+22,Obesity,"(7069, 7074)",obese
+23,Hypercholesterolemia,"(2438, 2449)",pravastatin
+24,Hypercholesterolemia,"(10036, 10044)",nystatin

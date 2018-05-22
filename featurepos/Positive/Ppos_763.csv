@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(368, 376)",diabetes
+1,Diabetes,"(4801, 4809)",diabetes
+2,GERD,"(427, 450)",gastroesophageal reflux
+3,Hypercholesterolemia,"(394, 414)",hypercholesterolemia
+4,Hypercholesterolemia,"(394, 414)",hypercholesterolemia
+5,Hypertension,"(379, 391)",hypertension
+6,Hypertension,"(455, 467)",hypertension
+7,Hypertension,"(4376, 4388)",beta-blocker

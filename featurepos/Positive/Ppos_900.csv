@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2822, 2825)",cad
+1,CAD,"(3044, 3047)",cad
+2,CAD,"(3456, 3459)",cad
+3,CHF,"(3078, 3101)",ischemic cardiomyopathy
+4,Diabetes,"(3188, 3192)",iddm
+5,Hypercholesterolemia,"(3201, 3215)",hyperlipidemia
+6,Hypertension,"(3197, 3200)",htn
+7,PVD,"(3193, 3196)",pvd
+8,CAD,"(3311, 3334)",cardiac catheterization
+9,Hypercholesterolemia,"(2102, 2113)",simvastatin

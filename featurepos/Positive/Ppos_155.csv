@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(701, 707)",asthma
+1,Asthma,"(2397, 2403)",asthma
+2,CAD,"(618, 621)",pci
+3,CAD,"(2040, 2043)",pci
+4,CAD,"(346, 369)",coronary artery disease
+5,CAD,"(575, 598)",coronary artery disease
+6,CAD,"(1977, 2000)",coronary artery disease
+7,Diabetes,"(394, 402)",diabetes
+8,Diabetes,"(2065, 2073)",diabetes
+9,Diabetes,"(2313, 2321)",diabetes
+10,Hypertension,"(2088, 2100)",hypertension
+11,Hypertension,"(2296, 2308)",hypertension

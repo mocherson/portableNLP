@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2055, 2058)",pci
+1,CAD,"(2000, 2022)",coronary artery bypass
+2,CAD,"(259, 282)",coronary artery disease
+3,CAD,"(721, 744)",coronary artery disease
+4,CAD,"(2462, 2485)",coronary artery disease
+5,CAD,"(3277, 3300)",coronary artery disease
+6,CAD,"(4491, 4514)",coronary artery disease
+7,CAD,"(5159, 5182)",coronary artery disease
+8,CHF,"(69, 93)",congestive heart failure
+9,Diabetes,"(2585, 2593)",diabetes
+10,Diabetes,"(7779, 7787)",diabetes

@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(448, 470)",coronary artery bypass
+1,CAD,"(990, 1012)",coronary artery bypass
+2,CAD,"(2117, 2139)",coronary artery bypass
+3,CAD,"(5452, 5474)",coronary artery bypass
+4,CAD,"(5822, 5844)",coronary artery bypass
+5,CAD,"(289, 312)",coronary artery disease
+6,CAD,"(917, 940)",coronary artery disease
+7,CAD,"(1272, 1295)",coronary artery disease
+8,CAD,"(5786, 5809)",coronary artery disease
+9,Depression,"(582, 592)",depression
+10,Gallstones,"(610, 625)",cholecystectomy
+11,Gallstones,"(4602, 4617)",cholecystectomy
+12,Obesity,"(4591, 4596)",obese
+13,PVD,"(509, 536)",peripheral vascular disease
+14,PVD,"(1240, 1267)",peripheral vascular disease
+15,PVD,"(5754, 5781)",peripheral vascular disease
+16,Hypertension,"(5999, 6011)",beta blocker
+17,Hypertension,"(4065, 4090)",blood pressure of 160/110
+18,CAD,"(1646, 1669)",cardiac catheterization

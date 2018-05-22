@@ -1,0 +1,37 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4516, 4519)",cad
+1,CAD,"(6448, 6451)",cad
+2,CHF,"(68, 71)",chf
+3,CHF,"(3728, 3731)",chf
+4,CHF,"(3824, 3827)",chf
+5,CHF,"(4539, 4542)",chf
+6,CHF,"(4609, 4612)",chf
+7,CHF,"(5034, 5037)",chf
+8,CHF,"(6740, 6743)",chf
+9,Diabetes,"(3961, 3969)",diabetes
+10,Diabetes,"(4574, 4576)",dm
+11,Diabetes,"(5069, 5071)",dm
+12,Diabetes,"(3954, 3958)",iddm
+13,Hypercholesterolemia,"(5046, 5066)",hypercholesterolemia
+14,Hypercholesterolemia,"(5046, 5066)",hypercholesterolemia
+15,Hypertension,"(3939, 3951)",hypertension
+16,Hypertension,"(3933, 3936)",htn
+17,Hypertension,"(4568, 4571)",htn
+18,Hypertension,"(4658, 4661)",htn
+19,Hypertension,"(5040, 5043)",htn
+20,Hypertension,"(6418, 6421)",htn
+21,Hypertension,"(6875, 6878)",htn
+22,OA,"(5106, 5108)",oa
+23,PVD,"(3981, 3984)",pvd
+24,PVD,"(5100, 5103)",pvd
+25,PVD,"(3987, 4014)",peripheral vascular disease
+26,Hypertension,"(4833, 4846)",bp of 180/100
+27,CAD,"(4358, 4381)",cardiac catheterization
+28,CAD,"(6337, 6360)",cardiac catheterization
+29,Hypercholesterolemia,"(1169, 1180)",pravastatin
+30,Hypercholesterolemia,"(1430, 1440)",lovastatin
+31,Hypercholesterolemia,"(1500, 1512)",atorvastatin
+32,Hypercholesterolemia,"(3661, 3671)",lovastatin
+33,Hypercholesterolemia,"(3674, 3686)",atorvastatin
+34,Hypercholesterolemia,"(5604, 5614)",lovastatin
+35,Hypercholesterolemia,"(5631, 5643)",atorvastatin

@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2460, 2466)",asthma
+1,Asthma,"(2714, 2720)",asthma
+2,Asthma,"(3237, 3243)",asthma
+3,Hypertension,"(2733, 2736)",htn
+4,Obesity,"(2743, 2750)",obesity
+5,Obesity,"(2743, 2750)",obesity
+6,Hypercholesterolemia,"(610, 621)",simvastatin
+7,Hypercholesterolemia,"(1757, 1768)",simvastatin

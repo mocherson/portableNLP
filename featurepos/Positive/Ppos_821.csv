@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1812, 1815)",chf
+1,Diabetes,"(446, 454)",diabetes
+2,Diabetes,"(715, 723)",diabetes
+3,Diabetes,"(3703, 3711)",diabetes
+4,Diabetes,"(6225, 6233)",diabetes
+5,Diabetes,"(7568, 7576)",diabetes
+6,Gallstones,"(3920, 3935)",cholecystectomy
+7,GERD,"(3730, 3734)",gerd
+8,GERD,"(490, 504)",reflux disease
+9,GERD,"(473, 496)",gastroesophageal reflux
+10,Hypercholesterolemia,"(6238, 6254)",high cholesterol
+11,Hypertension,"(2061, 2073)",hypertension
+12,OA,"(80, 94)",osteoarthritis
+13,Depression,"(3998, 4005)",lexapro
+14,Depression,"(9731, 9738)",lexapro
+15,Hypercholesterolemia,"(9398, 9406)",nystatin

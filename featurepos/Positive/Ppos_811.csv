@@ -1,0 +1,29 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(8084, 8087)",cad
+1,CHF,"(4687, 4690)",chf
+2,CHF,"(5043, 5046)",chf
+3,CHF,"(3996, 4009)",heart failure
+4,CHF,"(4854, 4867)",heart failure
+5,CHF,"(5609, 5631)",dilated cardiomyopathy
+6,Gallstones,"(4541, 4556)",cholecystectomy
+7,Gallstones,"(6094, 6109)",cholecystectomy
+8,Gallstones,"(4531, 4534)",ccy
+9,Gout,"(4513, 4517)",gout
+10,Gout,"(4520, 4524)",gout
+11,Gout,"(6035, 6039)",gout
+12,Gout,"(8945, 8949)",gout
+13,Hypertension,"(4497, 4500)",htn
+14,Obesity,"(4501, 4508)",obesity
+15,Obesity,"(4501, 4508)",obesity
+16,Obesity,"(7348, 7353)",obese
+17,GERD,"(5889, 5900)",esophagitis
+18,GERD,"(9015, 9026)",esophagitis
+19,CAD,"(7845, 7868)",cardiac catheterization
+20,Hypercholesterolemia,"(2256, 2267)",simvastatin
+21,Hypercholesterolemia,"(2318, 2329)",simvastatin
+22,Hypercholesterolemia,"(2586, 2597)",simvastatin
+23,Gout,"(725, 736)",allopurinol
+24,Gout,"(896, 907)",allopurinol
+25,Gout,"(2196, 2207)",allopurinol
+26,Gout,"(6163, 6174)",allopurinol
+27,Gout,"(8962, 8973)",allopurinol

@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2473, 2476)",cad
+1,CAD,"(2776, 2779)",cad
+2,Depression,"(2261, 2271)",depression
+3,Depression,"(2521, 2531)",depression
+4,Depression,"(2534, 2544)",depression
+5,Depression,"(2757, 2767)",depression
+6,Diabetes,"(2739, 2741)",dm
+7,Diabetes,"(2253, 2258)",niddm
+8,Diabetes,"(2446, 2451)",niddm
+9,Diabetes,"(4018, 4023)",niddm
+10,Diabetes,"(856, 864)",diabetic
+11,GERD,"(2744, 2748)",gerd
+12,Hypercholesterolemia,"(2508, 2520)",dyslipidemia
+13,Hypertension,"(2238, 2250)",hypertension
+14,Hypertension,"(2469, 2472)",htn
+15,Hypertension,"(2751, 2754)",htn
+16,Depression,"(1920, 1926)",celexa
+17,Depression,"(4112, 4118)",celexa
+18,GERD,"(69, 80)",esophagitis
+19,GERD,"(2186, 2197)",esophagitis
+20,GERD,"(2351, 2362)",esophagitis
+21,GERD,"(4138, 4149)",esophagitis
+22,Hypercholesterolemia,"(1789, 1801)",atorvastatin

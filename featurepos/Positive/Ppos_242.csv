@@ -1,0 +1,41 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1836, 1839)",chf
+1,CHF,"(2428, 2431)",chf
+2,CHF,"(2489, 2492)",chf
+3,CHF,"(3510, 3513)",chf
+4,CHF,"(1842, 1866)",congestive heart failure
+5,GERD,"(2034, 2038)",gerd
+6,GERD,"(4035, 4039)",gerd
+7,GERD,"(2058, 2072)",reflux disease
+8,GERD,"(2041, 2064)",gastroesophageal reflux
+9,Hypertension,"(2174, 2177)",htn
+10,Hypertension,"(2477, 2480)",htn
+11,Hypertension,"(3527, 3530)",htn
+12,Hypertension,"(3621, 3624)",htn
+13,Hypertension,"(4315, 4318)",htn
+14,OA,"(2147, 2149)",oa
+15,OA,"(2152, 2166)",osteoarthritis
+16,Obesity,"(1762, 1769)",obesity
+17,Obesity,"(1772, 1779)",obesity
+18,Obesity,"(2462, 2469)",obesity
+19,Obesity,"(2568, 2575)",obesity
+20,Obesity,"(3473, 3480)",obesity
+21,Obesity,"(3899, 3906)",obesity
+22,Obesity,"(4294, 4301)",obesity
+23,Obesity,"(1762, 1769)",obesity
+24,Obesity,"(1772, 1779)",obesity
+25,Obesity,"(2403, 2408)",obese
+26,Obesity,"(2462, 2469)",obesity
+27,Obesity,"(2568, 2575)",obesity
+28,Obesity,"(3174, 3179)",obese
+29,Obesity,"(3225, 3230)",obese
+30,Obesity,"(3473, 3480)",obesity
+31,Obesity,"(3899, 3906)",obesity
+32,Obesity,"(4294, 4301)",obesity
+33,OSA,"(1869, 1872)",osa
+34,OSA,"(2483, 2486)",osa
+35,OSA,"(3516, 3519)",osa
+36,OSA,"(3824, 3827)",osa
+37,OSA,"(4304, 4307)",osa
+38,OSA,"(1875, 1886)",sleep apnea
+39,Hypercholesterolemia,"(1081, 1089)",nystatin

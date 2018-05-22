@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(69, 72)",chf
+1,CHF,"(1916, 1919)",chf
+2,CHF,"(1999, 2002)",chf
+3,CHF,"(3131, 3134)",chf
+4,Diabetes,"(2091, 2099)",diabetes
+5,Diabetes,"(2968, 2976)",diabetes
+6,Diabetes,"(2086, 2088)",dm
+7,Diabetes,"(4353, 4355)",dm
+8,Diabetes,"(5731, 5733)",dm
+9,Hypertension,"(3116, 3128)",hypertension
+10,OA,"(4168, 4171)",djd
+11,Venous Insufficiency,"(3916, 3929)",venous stasis

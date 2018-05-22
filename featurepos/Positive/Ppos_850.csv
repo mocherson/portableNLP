@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(780, 783)",chf
+1,Diabetes,"(754, 762)",diabetes
+2,Diabetes,"(1894, 1902)",diabetes
+3,Diabetes,"(3077, 3085)",diabetes
+4,Gallstones,"(888, 903)",cholecystectomy
+5,Hypertension,"(765, 777)",hypertension
+6,OA,"(813, 822)",arthritis
+7,Obesity,"(827, 834)",obesity
+8,Obesity,"(827, 834)",obesity

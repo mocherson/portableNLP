@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3420, 3423)",cad
+1,CAD,"(3426, 3449)",coronary artery disease
+2,CAD,"(4066, 4089)",coronary artery disease
+3,Diabetes,"(3601, 3609)",diabetes
+4,Diabetes,"(4023, 4031)",diabetes
+5,Diabetes,"(3230, 3232)",dm
+6,Diabetes,"(5493, 5495)",dm
+7,Diabetes,"(5575, 5577)",dm
+8,Diabetes,"(3743, 3751)",diabetic
+9,Diabetes,"(5968, 5976)",diabetic
+10,Gout,"(4144, 4148)",gout
+11,Hypercholesterolemia,"(4106, 4126)",hypercholesterolemia
+12,Hypercholesterolemia,"(3331, 3340)",hyperchol
+13,Hypercholesterolemia,"(4106, 4126)",hypercholesterolemia
+14,Hypercholesterolemia,"(3343, 3363)",elevated cholesterol
+15,Hypertension,"(4129, 4141)",hypertension
+16,Hypertension,"(3226, 3229)",htn
+17,OA,"(4151, 4160)",arthritis
+18,Hypercholesterolemia,"(999, 1010)",simvastatin
+19,Gout,"(506, 517)",allopurinol
+20,Gout,"(4476, 4487)",allopurinol

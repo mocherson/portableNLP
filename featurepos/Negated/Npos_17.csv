@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,CHF,"(15, 39)",congestive heart failure,"(3463, 3502)",no evidence of congestive heart failure,
+1,CAD,"(32, 55)",cardiac catheterization,"(4187, 4249)",no complications related to the cardiac catheterization itself,

@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(3758, 3764)",asthma
+1,CHF,"(245, 248)",chf
+2,CHF,"(616, 619)",chf
+3,CHF,"(2453, 2456)",chf
+4,CHF,"(3829, 3832)",chf
+5,CHF,"(70, 94)",congestive heart failure
+6,Diabetes,"(1775, 1777)",dm
+7,Hypertension,"(286, 298)",hypertension
+8,Obesity,"(392, 399)",obesity
+9,Obesity,"(392, 399)",obesity
+10,Obesity,"(1659, 1664)",obese
+11,Obesity,"(1913, 1918)",obese
+12,OSA,"(351, 374)",obstructive sleep apnea
+13,OSA,"(3710, 3733)",obstructive sleep apnea
+14,Hypertension,"(3202, 3216)",ace inhibitors
+15,Hypertension,"(3187, 3199)",beta-blocker

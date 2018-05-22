@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(3113, 3121)",diabetes
+1,Gout,"(3148, 3152)",gout
+2,Hypertension,"(3133, 3145)",hypertension
+3,OA,"(68, 70)",oa
+4,OA,"(2927, 2929)",oa
+5,OA,"(3018, 3020)",oa
+6,OA,"(3375, 3389)",osteoarthritis
+7,Hypercholesterolemia,"(998, 1009)",simvastatin
+8,Hypercholesterolemia,"(1089, 1100)",simvastatin
+9,Hypercholesterolemia,"(1687, 1698)",simvastatin
+10,Hypercholesterolemia,"(1769, 1780)",simvastatin
+11,Hypercholesterolemia,"(2184, 2196)",atorvastatin
+12,Hypercholesterolemia,"(2319, 2331)",atorvastatin
+13,Hypercholesterolemia,"(2388, 2400)",atorvastatin
+14,Gout,"(464, 475)",allopurinol
+15,Gout,"(595, 606)",allopurinol
+16,Gout,"(1916, 1927)",allopurinol
+17,Gout,"(1986, 1997)",allopurinol

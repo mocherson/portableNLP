@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2062, 2068)",asthma
+1,Asthma,"(2071, 2077)",asthma
+2,CHF,"(74, 77)",chf
+3,CHF,"(1774, 1777)",chf
+4,CHF,"(2935, 2938)",chf
+5,CHF,"(3505, 3508)",chf
+6,CHF,"(2726, 2739)",heart failure
+7,Gout,"(2080, 2084)",gout
+8,Gout,"(2087, 2091)",gout
+9,Hypercholesterolemia,"(2039, 2059)",elevated cholesterol
+10,Hypertension,"(1926, 1938)",hypertension
+11,Hypertension,"(1941, 1953)",hypertension
+12,Hypercholesterolemia,"(1189, 1200)",simvastatin

@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(340, 363)",coronary artery disease
+1,CAD,"(1712, 1735)",coronary artery disease
+2,CHF,"(4386, 4389)",chf
+3,Diabetes,"(1755, 1763)",diabetes
+4,Gout,"(1830, 1834)",gout
+5,Gout,"(4983, 4988)",gouty
+6,OA,"(1864, 1873)",arthritis
+7,Obesity,"(2985, 2990)",obese
+8,Hypercholesterolemia,"(1914, 1925)",simvastatin
+9,Hypercholesterolemia,"(5631, 5642)",simvastatin
+10,Gout,"(2089, 2100)",allopurinol
+11,Gout,"(5389, 5400)",allopurinol

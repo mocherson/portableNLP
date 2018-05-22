@@ -1,0 +1,30 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3453, 3456)",cad
+1,CAD,"(1736, 1758)",coronary artery bypass
+2,CAD,"(1700, 1723)",coronary artery disease
+3,CAD,"(5187, 5210)",coronary artery disease
+4,CHF,"(68, 71)",chf
+5,CHF,"(1138, 1162)",congestive heart failure
+6,CHF,"(1980, 1993)",heart failure
+7,CHF,"(4573, 4586)",heart failure
+8,CHF,"(5305, 5318)",heart failure
+9,CHF,"(7278, 7302)",congestive heart failure
+10,CHF,"(7541, 7554)",heart failure
+11,CHF,"(1767, 1790)",ischemic cardiomyopathy
+12,Depression,"(5111, 5121)",depression
+13,Depression,"(8102, 8112)",depressive
+14,Depression,"(9763, 9773)",depressive
+15,Diabetes,"(3585, 3593)",diabetes
+16,Diabetes,"(3687, 3695)",diabetes
+17,Diabetes,"(5058, 5066)",diabetes
+18,Diabetes,"(7901, 7909)",diabetes
+19,Gallstones,"(10241, 10250)",gallstone
+20,GERD,"(3423, 3427)",gerd
+21,Hypercholesterolemia,"(3430, 3450)",hypercholesterolemia
+22,Hypercholesterolemia,"(3430, 3450)",hypercholesterolemia
+23,Hypertension,"(3408, 3420)",hypertension
+24,Depression,"(4127, 4133)",celexa
+25,Depression,"(8076, 8082)",celexa
+26,Depression,"(8517, 8523)",celexa
+27,Hypertension,"(9833, 9845)",beta-blocker
+28,Hypertension,"(9872, 9884)",beta-blocker

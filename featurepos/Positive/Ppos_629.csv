@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(384, 387)",chf
+1,CHF,"(1549, 1552)",chf
+2,Hypertension,"(402, 414)",hypertension
+3,Hypertension,"(1818, 1830)",hypertension
+4,OA,"(2021, 2035)",osteoarthritis
+5,Obesity,"(5502, 5509)",obesity
+6,Obesity,"(1889, 1894)",obese
+7,Obesity,"(2955, 2960)",obese
+8,Obesity,"(3469, 3474)",obese
+9,Obesity,"(5502, 5509)",obesity
+10,PVD,"(2069, 2072)",pvd
+11,Venous Insufficiency,"(3628, 3638)",venostasis
+12,Depression,"(2372, 2378)",zoloft
+13,Hypertension,"(4751, 4763)",beta-blocker
+14,Hypertension,"(5917, 5929)",beta-blocker

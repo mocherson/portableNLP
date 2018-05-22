@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(5271, 5274)",cad
+1,CAD,"(5595, 5598)",cad
+2,CHF,"(70, 73)",chf
+3,CHF,"(4827, 4830)",chf
+4,CHF,"(4922, 4925)",chf
+5,CHF,"(7188, 7191)",chf
+6,CHF,"(7348, 7351)",chf
+7,Diabetes,"(5048, 5052)",iddm
+8,Gout,"(8208, 8212)",gout
+9,Gout,"(9447, 9451)",gout
+10,Hypercholesterolemia,"(5107, 5127)",hypercholesterolemia
+11,Hypercholesterolemia,"(5107, 5127)",hypercholesterolemia
+12,Hypertension,"(5044, 5047)",htn
+13,OA,"(5235, 5237)",oa
+14,OA,"(5191, 5205)",osteoarthritis
+15,Venous Insufficiency,"(6496, 6509)",venous stasis
+16,Hypercholesterolemia,"(2397, 2408)",simvastatin
+17,Hypercholesterolemia,"(2741, 2752)",simvastatin
+18,Hypercholesterolemia,"(4140, 4152)",atorvastatin
+19,Hypercholesterolemia,"(4275, 4287)",atorvastatin
+20,Hypercholesterolemia,"(4344, 4356)",atorvastatin
+21,Gout,"(9419, 9430)",allopurinol

@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Hypercholesterolemia,"(8, 24)",high cholesterol,"(2005, 2047)",without high cholesterol that she knows of,
+1,CHF,"(15, 39)",congestive heart failure,"(4115, 4191)",no evidence of congestive heart failure such as hilar prominence or effusion,as hilar prominence or effusion
+2,CAD,"(32, 55)",coronary artery disease,"(4542, 4597)",no angiographically significant coronary artery disease,

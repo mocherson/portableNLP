@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1832, 1835)",cad
+1,CAD,"(2070, 2073)",cad
+2,Depression,"(4104, 4114)",depression
+3,Hypercholesterolemia,"(1772, 1781)",elev chol
+4,Hypercholesterolemia,"(2104, 2118)",hyperlipidemia
+5,Hypertension,"(1768, 1771)",htn
+6,Hypertension,"(2098, 2101)",htn

@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2728, 2734)",asthma
+1,CHF,"(3028, 3031)",chf
+2,CHF,"(4376, 4379)",chf
+3,CHF,"(4656, 4659)",chf
+4,Diabetes,"(4382, 4384)",dm
+5,Diabetes,"(6291, 6293)",dm
+6,Diabetes,"(2714, 2719)",niddm
+7,Diabetes,"(3053, 3058)",niddm
+8,Hypertension,"(2722, 2725)",htn
+9,OA,"(2831, 2834)",djd
+10,Hypertension,"(4633, 4645)",beta blocker

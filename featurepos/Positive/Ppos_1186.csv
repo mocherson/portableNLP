@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(218, 241)",coronary artery disease
+1,CAD,"(402, 425)",coronary artery disease
+2,Diabetes,"(624, 632)",diabetes
+3,Diabetes,"(2480, 2488)",diabetes
+4,Hypertension,"(609, 621)",hypertension
+5,Hypertension,"(2304, 2316)",hypertension
+6,PVD,"(2324, 2349)",peripherovascular disease
+7,CAD,"(1253, 1276)",cardiac catheterization
+8,CAD,"(4027, 4050)",cardiac catheterization

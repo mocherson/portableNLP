@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1120, 1123)",cad
+1,CAD,"(2428, 2431)",cad
+2,CAD,"(4543, 4546)",cad
+3,CAD,"(8911, 8914)",cad
+4,CHF,"(2475, 2478)",chf
+5,CHF,"(4549, 4552)",chf
+6,CHF,"(5055, 5058)",chf
+7,CHF,"(8937, 8940)",chf
+8,Gallstones,"(2629, 2648)",gallbladder removal
+9,GERD,"(5392, 5396)",gerd
+10,GERD,"(10293, 10297)",gerd
+11,GERD,"(1022, 1035)",s esophagitis
+12,Hypercholesterolemia,"(2548, 2562)",hyperlipidemia
+13,Hypercholesterolemia,"(5451, 5465)",hyperlipidemia
+14,Hypertension,"(2530, 2542)",hypertension
+15,GERD,"(1024, 1035)",esophagitis

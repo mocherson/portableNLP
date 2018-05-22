@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(70, 73)",cad
+1,CAD,"(2113, 2116)",cad
+2,CAD,"(2196, 2199)",cad
+3,CAD,"(2842, 2845)",pci
+4,Diabetes,"(2540, 2544)",iddm
+5,Hypertension,"(2298, 2301)",htn
+6,Hypertension,"(2547, 2550)",htn
+7,Obesity,"(2290, 2297)",obesity
+8,Obesity,"(2555, 2562)",obesity
+9,Obesity,"(2290, 2297)",obesity
+10,Obesity,"(2555, 2562)",obesity
+11,Hypercholesterolemia,"(1833, 1845)",atorvastatin

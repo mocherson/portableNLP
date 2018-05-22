@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(875, 885)",depression
+1,Depression,"(888, 898)",depression
+2,Diabetes,"(792, 800)",diabetes
+3,Diabetes,"(787, 789)",dm
+4,Gout,"(861, 865)",gout
+5,Gout,"(868, 872)",gout
+6,Hypertension,"(818, 830)",hypertension
+7,Hypertension,"(812, 815)",htn
+8,Obesity,"(901, 908)",obesity
+9,Obesity,"(911, 918)",obesity
+10,Obesity,"(901, 908)",obesity
+11,Obesity,"(911, 918)",obesity
+12,OSA,"(833, 844)",sleep apnea
+13,OSA,"(847, 858)",sleep apnea
+14,OA,"(932, 947)",hip replacement

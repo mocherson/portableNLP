@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1414, 1417)",cad
+1,Hypercholesterolemia,"(1642, 1653)",high lipids
+2,Hypercholesterolemia,"(1397, 1411)",hyperlipidemia
+3,Hypertension,"(1391, 1394)",htn
+4,Hypertension,"(1636, 1639)",htn
+5,Hypertension,"(2239, 2242)",htn
+6,Obesity,"(1439, 1446)",obesity
+7,Obesity,"(1439, 1446)",obesity
+8,CAD,"(1474, 1497)",cardiac catheterization
+9,Hypercholesterolemia,"(710, 721)",simvastatin

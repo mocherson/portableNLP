@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(270, 290)",coronary angioplasty
+1,CAD,"(206, 229)",coronary artery disease
+2,CAD,"(433, 456)",coronary artery disease
+3,CAD,"(2473, 2496)",coronary artery disease
+4,CAD,"(6681, 6704)",coronary artery disease
+5,Hypercholesterolemia,"(2799, 2819)",hypercholesterolemia
+6,Hypercholesterolemia,"(2799, 2819)",hypercholesterolemia
+7,Hypercholesterolemia,"(741, 761)",elevated cholesterol
+8,Hypertension,"(691, 703)",hypertension
+9,Hypertension,"(2753, 2765)",hypertension
+10,Hypercholesterolemia,"(3230, 3241)",simvastatin
+11,Hypercholesterolemia,"(8367, 8378)",simvastatin

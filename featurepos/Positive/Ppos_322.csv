@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2721, 2724)",cad
+1,CAD,"(5544, 5547)",cad
+2,CAD,"(5799, 5802)",cad
+3,CAD,"(2734, 2757)",coronary artery disease
+4,Gallstones,"(2907, 2922)",cholecystectomy
+5,Gallstones,"(2901, 2904)",ccy
+6,Hypercholesterolemia,"(2826, 2840)",hyperlipidemia
+7,Hypercholesterolemia,"(2843, 2857)",hyperlipidemia
+8,Hypertension,"(2583, 2595)",hypertension
+9,Hypertension,"(2577, 2580)",htn
+10,Hypertension,"(5734, 5737)",htn
+11,Obesity,"(2648, 2655)",obesity
+12,Obesity,"(2658, 2665)",obesity
+13,Obesity,"(2648, 2655)",obesity
+14,Obesity,"(2658, 2665)",obesity
+15,Depression,"(3881, 3891)",wellbutrin
+16,Hypercholesterolemia,"(593, 605)",atorvastatin

@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(596, 602)",asthma
+1,Asthma,"(7019, 7025)",asthma
+2,CAD,"(270, 292)",coronary artery bypass
+3,CAD,"(2275, 2297)",coronary artery bypass
+4,CAD,"(2483, 2505)",coronary artery bypass
+5,Diabetes,"(7106, 7114)",diabetes
+6,Gallstones,"(7240, 7255)",cholecystectomy
+7,GERD,"(7188, 7202)",reflux disease
+8,GERD,"(7171, 7194)",gastroesophageal reflux
+9,Hypercholesterolemia,"(7205, 7225)",hypercholesterolemia
+10,Hypercholesterolemia,"(7205, 7225)",hypercholesterolemia
+11,Hypertension,"(7156, 7168)",hypertension
+12,CAD,"(1868, 1891)",cardiac catheterization

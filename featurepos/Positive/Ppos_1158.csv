@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(69, 92)",coronary artery disease
+1,CHF,"(909, 922)",heart failure
+2,Diabetes,"(394, 402)",diabetes
+3,Diabetes,"(451, 459)",diabetic
+4,Hypercholesterolemia,"(421, 441)",hypercholesterolemia
+5,Hypercholesterolemia,"(421, 441)",hypercholesterolemia
+6,Hypertension,"(339, 351)",hypertension
+7,PVD,"(354, 357)",pvd
+8,CAD,"(2982, 3005)",cardiac catheterization
+9,Hypercholesterolemia,"(1833, 1844)",simvastatin
+10,Hypercholesterolemia,"(8144, 8155)",simvastatin

@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(5015, 5018)",cad
+1,CHF,"(4617, 4620)",chf
+2,CHF,"(5028, 5031)",chf
+3,Diabetes,"(9318, 9320)",dm
+4,Diabetes,"(4677, 4682)",niddm
+5,Diabetes,"(5094, 5099)",niddm
+6,Gout,"(4685, 4689)",gout
+7,Hypertension,"(4611, 4614)",htn
+8,OA,"(4176, 4185)",arthritis

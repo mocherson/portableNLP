@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1373, 1376)",chf
+1,CHF,"(3636, 3639)",chf
+2,CHF,"(1379, 1403)",congestive heart failure
+3,Diabetes,"(1777, 1779)",dm
+4,OA,"(1600, 1602)",oa
+5,OA,"(3740, 3742)",oa
+6,OA,"(1605, 1619)",osteoarthritis
+7,PVD,"(1345, 1348)",pvd
+8,PVD,"(1953, 1956)",pvd
+9,Hypercholesterolemia,"(704, 715)",simvastatin

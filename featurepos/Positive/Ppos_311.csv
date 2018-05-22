@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1745, 1748)",cad
+1,CAD,"(2200, 2203)",cad
+2,CAD,"(1760, 1783)",coronary artery disease
+3,CHF,"(69, 72)",chf
+4,CHF,"(1658, 1661)",chf
+5,CHF,"(1925, 1928)",chf
+6,CHF,"(2223, 2226)",chf
+7,CHF,"(3159, 3162)",chf
+8,CHF,"(1554, 1578)",congestive heart failure
+9,CHF,"(1931, 1955)",congestive heart failure
+10,Diabetes,"(1821, 1829)",diabetes
+11,Diabetes,"(1816, 1818)",dm
+12,Diabetes,"(2235, 2237)",dm
+13,Hypertension,"(1847, 1859)",hypertension
+14,Hypertension,"(1841, 1844)",htn
+15,Hypertension,"(2229, 2232)",htn
+16,PVD,"(1889, 1892)",pvd
+17,PVD,"(2240, 2243)",pvd
+18,PVD,"(1895, 1922)",peripheral vascular disease
+19,Hypertension,"(1522, 1536)",ace inhibitors

@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(289, 295)",asthma
+1,Asthma,"(2065, 2071)",asthma
+2,CAD,"(3302, 3325)",coronary artery disease
+3,CAD,"(3624, 3647)",coronary artery disease
+4,CHF,"(68, 92)",congestive heart failure
+5,CHF,"(206, 219)",heart failure
+6,CHF,"(1362, 1375)",heart failure
+7,CHF,"(377, 399)",dilated cardiomyopathy
+8,CHF,"(2074, 2096)",dilated cardiomyopathy
+9,CHF,"(2681, 2703)",dilated cardiomyopathy
+10,Diabetes,"(225, 233)",diabetes
+11,Diabetes,"(2045, 2053)",diabetes
+12,Diabetes,"(4628, 4636)",diabetes

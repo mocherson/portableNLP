@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1860, 1866)",asthma
+1,Asthma,"(2198, 2204)",asthma
+2,Asthma,"(3110, 3116)",asthma
+3,Diabetes,"(2187, 2189)",dm
+4,Diabetes,"(1910, 1915)",niddm
+5,GERD,"(70, 74)",gerd
+6,GERD,"(1688, 1692)",gerd
+7,GERD,"(1772, 1776)",gerd
+8,GERD,"(2164, 2168)",gerd
+9,GERD,"(2008, 2025)",esophageal reflux
+10,Hypertension,"(1906, 1909)",htn
+11,Hypertension,"(2192, 2195)",htn
+12,OA,"(1894, 1897)",djd
+13,OA,"(2207, 2210)",djd
+14,Depression,"(552, 558)",prozac
+15,Depression,"(2687, 2693)",prozac
+16,Hypercholesterolemia,"(2635, 2645)",lovastatin

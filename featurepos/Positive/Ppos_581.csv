@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(8091, 8094)",chf
+1,CHF,"(234, 258)",congestive heart failure
+2,CHF,"(5966, 5990)",congestive heart failure
+3,Diabetes,"(565, 573)",diabetes
+4,Diabetes,"(2162, 2170)",diabetes
+5,Diabetes,"(3279, 3287)",diabetes
+6,Hypertension,"(263, 275)",hypertension
+7,Hypertension,"(576, 588)",hypertension
+8,Hypertension,"(2099, 2111)",hypertension
+9,Hypertension,"(3263, 3275)",hypertension
+10,Hypertension,"(7110, 7122)",beta blocker
+11,Hypertension,"(3478, 3499)",blood pressure 140/90

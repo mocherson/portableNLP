@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1016, 1022)",asthma
+1,CAD,"(881, 884)",cad
+2,CAD,"(5030, 5033)",cad
+3,CAD,"(6780, 6783)",cad
+4,CHF,"(875, 878)",chf
+5,CHF,"(5022, 5025)",chf
+6,CHF,"(6772, 6775)",chf
+7,Diabetes,"(909, 917)",diabetes
+8,Diabetes,"(7365, 7373)",diabetes
+9,Gout,"(995, 999)",gout
+10,Hypertension,"(1025, 1037)",hypertension
+11,Hypertension,"(6869, 6881)",hypertension
+12,OA,"(1060, 1086)",degenerative joint disease
+13,Obesity,"(985, 992)",obesity
+14,Obesity,"(985, 992)",obesity
+15,Obesity,"(2879, 2884)",obese
+16,Obesity,"(3955, 3960)",obese
+17,OSA,"(1002, 1013)",sleep apnea
+18,Venous Insufficiency,"(959, 969)",venostasis
+19,Venous Insufficiency,"(3091, 3101)",venostasis
+20,Venous Insufficiency,"(8094, 8104)",venostasis

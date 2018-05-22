@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1536, 1559)",coronary artery disease
+1,Diabetes,"(1422, 1424)",dm
+2,Diabetes,"(3770, 3772)",dm
+3,Diabetes,"(3805, 3807)",dm
+4,Diabetes,"(1940, 1945)",niddm
+5,GERD,"(1992, 1996)",gerd
+6,Hypercholesterolemia,"(1427, 1447)",hypercholesterolemia
+7,Hypercholesterolemia,"(1427, 1447)",hypercholesterolemia
+8,Hypercholesterolemia,"(1954, 1963)",hyperchol
+9,Hypertension,"(1948, 1951)",htn
+10,Hypertension,"(3279, 3291)",beta blocker
+11,Hypercholesterolemia,"(870, 882)",atorvastatin

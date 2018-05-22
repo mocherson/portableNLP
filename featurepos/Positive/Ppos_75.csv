@@ -1,0 +1,25 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1041, 1064)",coronary artery disease
+1,CAD,"(13972, 13995)",coronary artery disease
+2,Depression,"(11092, 11102)",depression
+3,Depression,"(24023, 24033)",depression
+4,Hypercholesterolemia,"(1118, 1138)",hypercholesterolemia
+5,Hypercholesterolemia,"(11248, 11268)",hypercholesterolemia
+6,Hypercholesterolemia,"(14049, 14069)",hypercholesterolemia
+7,Hypercholesterolemia,"(24179, 24199)",hypercholesterolemia
+8,Hypercholesterolemia,"(1118, 1138)",hypercholesterolemia
+9,Hypercholesterolemia,"(11248, 11268)",hypercholesterolemia
+10,Hypercholesterolemia,"(14049, 14069)",hypercholesterolemia
+11,Hypercholesterolemia,"(24179, 24199)",hypercholesterolemia
+12,Hypertension,"(1103, 1115)",hypertension
+13,Hypertension,"(11184, 11196)",hypertension
+14,Hypertension,"(14034, 14046)",hypertension
+15,Hypertension,"(24115, 24127)",hypertension
+16,PVD,"(368, 395)",peripheral vascular disease
+17,PVD,"(1141, 1168)",peripheral vascular disease
+18,PVD,"(13296, 13323)",peripheral vascular disease
+19,PVD,"(14072, 14099)",peripheral vascular disease
+20,Depression,"(1959, 1965)",celexa
+21,Depression,"(12254, 12260)",celexa
+22,Depression,"(14890, 14896)",celexa
+23,Depression,"(25185, 25191)",celexa

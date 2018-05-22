@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2902, 2905)",cad
+1,CAD,"(3322, 3325)",cad
+2,CAD,"(4088, 4091)",cad
+3,CAD,"(6234, 6237)",cad
+4,CAD,"(4152, 4155)",pci
+5,CAD,"(2921, 2944)",coronary artery disease
+6,Depression,"(6424, 6434)",depression
+7,Diabetes,"(3054, 3062)",diabetes
+8,Diabetes,"(3049, 3051)",dm
+9,Diabetes,"(3317, 3319)",dm
+10,Diabetes,"(4082, 4084)",dm
+11,Hypertension,"(3311, 3314)",htn
+12,Hypertension,"(4075, 4079)",htn2
+13,Depression,"(1266, 1272)",celexa
+14,Depression,"(4582, 4588)",celexa
+15,Depression,"(6529, 6535)",celexa
+16,Depression,"(7480, 7486)",celexa
+17,Hypercholesterolemia,"(523, 535)",atorvastatin
+18,Hypercholesterolemia,"(926, 938)",atorvastatin
+19,Hypercholesterolemia,"(1127, 1139)",atorvastatin
+20,Hypercholesterolemia,"(2436, 2448)",atorvastatin
+21,Hypercholesterolemia,"(6090, 6102)",atorvastatin

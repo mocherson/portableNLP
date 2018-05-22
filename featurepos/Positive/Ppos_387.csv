@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(268, 274)",asthma
+1,Asthma,"(1656, 1662)",asthma
+2,CAD,"(215, 238)",coronary artery disease
+3,CAD,"(424, 447)",coronary artery disease
+4,CAD,"(1518, 1541)",coronary artery disease
+5,Diabetes,"(257, 265)",diabetes
+6,Diabetes,"(469, 477)",diabetes
+7,Diabetes,"(1612, 1620)",diabetes
+8,GERD,"(1556, 1560)",gerd
+9,GERD,"(1108, 1131)",gastroesophageal reflux
+10,GERD,"(3953, 3976)",gastroesophageal reflux
+11,Hypercholesterolemia,"(336, 356)",hypercholesterolemia
+12,Hypercholesterolemia,"(531, 551)",hypercholesterolemia
+13,Hypercholesterolemia,"(1680, 1700)",hypercholesterolemia
+14,Hypercholesterolemia,"(336, 356)",hypercholesterolemia
+15,Hypercholesterolemia,"(531, 551)",hypercholesterolemia
+16,Hypercholesterolemia,"(1680, 1700)",hypercholesterolemia
+17,Hypertension,"(321, 333)",hypertension
+18,Hypertension,"(480, 492)",hypertension
+19,Hypertension,"(1665, 1677)",hypertension
+20,CAD,"(2605, 2628)",cardiac catheterization
+21,CAD,"(3437, 3460)",cardiac catheterization

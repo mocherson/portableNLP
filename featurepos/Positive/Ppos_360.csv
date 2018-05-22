@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(2844, 2854)",depression
+1,Gallstones,"(1582, 1597)",cholecystectomy
+2,Gallstones,"(3797, 3812)",cholecystectomy
+3,Gallstones,"(2816, 2819)",ccy
+4,Hypertension,"(1331, 1334)",htn
+5,Hypertension,"(2822, 2825)",htn
+6,Obesity,"(1377, 1384)",obesity
+7,Obesity,"(1387, 1394)",obesity
+8,Obesity,"(1967, 1974)",obesity
+9,Obesity,"(1377, 1384)",obesity
+10,Obesity,"(1387, 1394)",obesity
+11,Obesity,"(1967, 1974)",obesity
+12,Obesity,"(3324, 3329)",obese
+13,Obesity,"(3408, 3413)",obese
+14,OSA,"(2828, 2831)",osa
+15,OSA,"(1397, 1420)",obstructive sleep apnea
+16,OSA,"(1423, 1434)",sleep apnea
+17,Hypertension,"(5184, 5196)",beta blocker

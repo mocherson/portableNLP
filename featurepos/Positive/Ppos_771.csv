@@ -1,0 +1,36 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1858, 1861)",cad
+1,CAD,"(3233, 3236)",cad
+2,CAD,"(1864, 1887)",coronary artery disease
+3,CHF,"(1890, 1893)",chf
+4,CHF,"(2720, 2723)",chf
+5,CHF,"(1896, 1920)",congestive heart failure
+6,Diabetes,"(1923, 1931)",diabetes
+7,Diabetes,"(1934, 1942)",diabetes
+8,Diabetes,"(3123, 3125)",dm
+9,Gallstones,"(2054, 2068)",cholelithiasis
+10,Gallstones,"(3674, 3689)",cholecystectomy
+11,GERD,"(2232, 2236)",gerd
+12,GERD,"(3820, 3824)",gerd
+13,GERD,"(2256, 2270)",reflux disease
+14,GERD,"(2239, 2262)",gastroesophageal reflux
+15,Gout,"(2101, 2105)",gout
+16,Gout,"(2108, 2112)",gout
+17,Gout,"(3136, 3140)",gout
+18,Gout,"(4312, 4316)",gout
+19,Hypercholesterolemia,"(2273, 2287)",hyperlipidemia
+20,Hypercholesterolemia,"(2290, 2304)",hyperlipidemia
+21,Hypercholesterolemia,"(3829, 3843)",hyperlipidemia
+22,Hypertension,"(2071, 2083)",hypertension
+23,Hypertension,"(2086, 2098)",hypertension
+24,Hypertension,"(3071, 3083)",hypertension
+25,Hypertension,"(3129, 3132)",htn
+26,Obesity,"(3199, 3206)",obesity
+27,Obesity,"(3199, 3206)",obesity
+28,Obesity,"(4776, 4781)",obese
+29,OSA,"(2192, 2215)",obstructive sleep apnea
+30,OSA,"(2218, 2229)",sleep apnea
+31,OSA,"(3563, 3586)",obstructive sleep apnea
+32,Hypercholesterolemia,"(639, 651)",atorvastatin
+33,Gout,"(576, 587)",allopurinol
+34,Gout,"(4172, 4183)",allopurinol

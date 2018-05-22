@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(408, 430)",coronary artery bypass
+1,CAD,"(759, 781)",coronary artery bypass
+2,CAD,"(1196, 1219)",coronary artery disease
+3,CHF,"(69, 93)",congestive heart failure
+4,CHF,"(206, 230)",congestive heart failure
+5,CHF,"(312, 335)",ischemic cardiomyopathy
+6,CHF,"(1224, 1247)",ischemic cardiomyopathy
+7,GERD,"(1337, 1341)",gerd
+8,CAD,"(587, 610)",cardiac catheterization

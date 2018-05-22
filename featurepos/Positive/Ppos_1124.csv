@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1646, 1649)",cad
+1,CAD,"(1972, 1975)",cad
+2,CAD,"(1652, 1675)",coronary artery disease
+3,GERD,"(1619, 1623)",gerd
+4,GERD,"(4094, 4098)",gerd
+5,GERD,"(1626, 1643)",esophageal reflux
+6,Hypercholesterolemia,"(1794, 1814)",hypercholesterolemia
+7,Hypercholesterolemia,"(1794, 1814)",hypercholesterolemia
+8,Hypercholesterolemia,"(1817, 1837)",elevated cholesterol
+9,Hypercholesterolemia,"(2017, 2031)",hyperlipidemia
+10,Hypertension,"(1538, 1550)",hypertension
+11,Hypertension,"(1532, 1535)",htn
+12,Hypertension,"(2011, 2014)",htn
+13,OA,"(1614, 1616)",oa
+14,OA,"(1695, 1697)",oa
+15,OA,"(1575, 1584)",arthritis
+16,OA,"(1678, 1692)",osteoarthritis
+17,Hypertension,"(3092, 3101)",bp 140/90
+18,Hypercholesterolemia,"(795, 806)",simvastatin

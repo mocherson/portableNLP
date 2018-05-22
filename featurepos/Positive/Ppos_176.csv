@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(680, 683)",cad
+1,CAD,"(375, 398)",coronary artery disease
+2,CAD,"(5318, 5341)",coronary artery disease
+3,Diabetes,"(544, 552)",diabetes
+4,Diabetes,"(5436, 5444)",diabetes
+5,GERD,"(522, 526)",gerd
+6,Hypercholesterolemia,"(5580, 5600)",hypercholesterolemia
+7,Hypercholesterolemia,"(5580, 5600)",hypercholesterolemia
+8,Hypertension,"(529, 541)",hypertension
+9,Hypertension,"(5303, 5315)",hypertension
+10,OA,"(5199, 5225)",degenerative joint disease
+11,Obesity,"(2598, 2603)",obese

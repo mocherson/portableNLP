@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2157, 2160)",cad
+1,CAD,"(2163, 2186)",coronary artery disease
+2,Depression,"(2412, 2422)",depression
+3,Depression,"(2425, 2435)",depression
+4,Diabetes,"(2115, 2117)",dm
+5,GERD,"(2211, 2215)",gerd
+6,GERD,"(2235, 2249)",reflux disease
+7,GERD,"(2218, 2241)",gastroesophageal reflux
+8,Hypercholesterolemia,"(2305, 2319)",hyperlipidemia
+9,Hypercholesterolemia,"(2322, 2336)",hyperlipidemia
+10,Hypertension,"(2084, 2096)",hypertension
+11,Hypertension,"(2078, 2081)",htn
+12,Depression,"(914, 920)",zoloft
+13,Depression,"(1013, 1020)",effexor
+14,Hypertension,"(3702, 3711)",b-blocker
+15,Hypercholesterolemia,"(1194, 1206)",atorvastatin

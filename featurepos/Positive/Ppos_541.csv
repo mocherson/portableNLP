@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(363, 386)",coronary artery disease
+1,CAD,"(797, 820)",coronary artery disease
+2,CAD,"(6448, 6471)",coronary artery disease
+3,CHF,"(392, 416)",congestive heart failure
+4,CHF,"(835, 859)",congestive heart failure
+5,CHF,"(6474, 6498)",congestive heart failure
+6,CHF,"(7284, 7308)",congestive heart failure
+7,CHF,"(899, 922)",ischemic cardiomyopathy
+8,Gallstones,"(1244, 1259)",cholecystectomy
+9,Gout,"(1233, 1237)",gout
+10,Hypertension,"(1033, 1045)",hypertension
+11,Hypercholesterolemia,"(1833, 1841)",nystatin

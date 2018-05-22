@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(69, 75)",asthma
+1,Asthma,"(1908, 1914)",asthma
+2,Asthma,"(1994, 2000)",asthma
+3,Asthma,"(2097, 2103)",asthma
+4,Asthma,"(2106, 2112)",asthma
+5,Asthma,"(2306, 2312)",asthma
+6,Asthma,"(2404, 2410)",asthma
+7,Asthma,"(2497, 2503)",asthma
+8,Asthma,"(3204, 3210)",asthma
+9,Asthma,"(3750, 3756)",asthma
+10,Asthma,"(3811, 3817)",asthma
+11,Asthma,"(4952, 4958)",asthma
+12,CHF,"(4545, 4558)",heart failure
+13,Diabetes,"(2123, 2131)",diabetes
+14,Diabetes,"(5332, 5340)",diabetes
+15,Diabetes,"(2115, 2120)",niddm
+16,Diabetes,"(3213, 3218)",niddm
+17,Obesity,"(2317, 2325)",obestity
+18,Obesity,"(3451, 3456)",obese
+19,Depression,"(852, 858)",zoloft
+20,Depression,"(3314, 3320)",zoloft

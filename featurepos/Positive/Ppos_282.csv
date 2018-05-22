@@ -1,0 +1,7 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(3188, 3190)",dm
+1,Diabetes,"(3885, 3887)",dm
+2,Hypertension,"(3117, 3120)",htn
+3,Hypertension,"(3879, 3882)",htn
+4,Obesity,"(4101, 4106)",obese
+5,Hypertension,"(5131, 5147)",antihypertensive

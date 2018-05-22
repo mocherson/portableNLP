@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(335, 358)",coronary artery disease
+1,CAD,"(519, 542)",coronary artery disease
+2,CAD,"(2879, 2902)",coronary artery disease
+3,Gout,"(2918, 2922)",gout
+4,Hypercholesterolemia,"(307, 323)",high cholesterol
+5,Hypercholesterolemia,"(578, 594)",high cholesterol
+6,Hypercholesterolemia,"(2860, 2876)",high cholesterol
+7,Hypertension,"(289, 301)",hypertension
+8,Hypertension,"(563, 575)",hypertension
+9,Hypertension,"(1964, 1976)",hypertension
+10,Hypertension,"(2845, 2857)",hypertension
+11,Obesity,"(3354, 3359)",obese
+12,Obesity,"(3939, 3944)",obese
+13,Hypertension,"(1112, 1134)",blood pressure 256/120
+14,Hypertension,"(3533, 3554)",blood pressure 164/96
+15,CAD,"(731, 754)",cardiac catheterization
+16,CAD,"(1250, 1273)",cardiac catheterization
+17,CAD,"(1540, 1563)",cardiac catheterization
+18,CAD,"(2525, 2548)",cardiac catheterization
+19,CAD,"(4849, 4872)",cardiac catheterization
+20,Hypercholesterolemia,"(5456, 5467)",simvastatin

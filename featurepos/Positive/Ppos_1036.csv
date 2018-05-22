@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(320, 343)",coronary artery disease
+1,CAD,"(1663, 1686)",coronary artery disease
+2,CHF,"(2874, 2898)",congestive heart failure
+3,Gallstones,"(1716, 1731)",cholecystectomy
+4,Hypertension,"(1689, 1701)",hypertension
+5,Obesity,"(2323, 2328)",obese
+6,CAD,"(427, 450)",cardiac catheterization
+7,CAD,"(3490, 3513)",cardiac catheterization
+8,CAD,"(3527, 3550)",cardiac catheterization
+9,CAD,"(3862, 3885)",cardiac catheterization
+10,Hypercholesterolemia,"(1768, 1779)",simvastatin
+11,Hypercholesterolemia,"(4321, 4332)",simvastatin

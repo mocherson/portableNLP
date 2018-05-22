@@ -1,0 +1,28 @@
+,disease,dis_pos,dis_alias
+0,Gout,"(3042, 3046)",gout
+1,Gout,"(3049, 3053)",gout
+2,Hypercholesterolemia,"(2775, 2791)",increased lipids
+3,Hypertension,"(2684, 2696)",hypertension
+4,Hypertension,"(2719, 2722)",htn
+5,Hypertension,"(4661, 4664)",htn
+6,Hypertension,"(6672, 6675)",htn
+7,Obesity,"(3102, 3109)",obesity
+8,Obesity,"(3112, 3119)",obesity
+9,Obesity,"(3381, 3388)",obesity
+10,Obesity,"(5392, 5399)",obesity
+11,Obesity,"(3102, 3109)",obesity
+12,Obesity,"(3112, 3119)",obesity
+13,Obesity,"(3381, 3388)",obesity
+14,Obesity,"(5392, 5399)",obesity
+15,OSA,"(2800, 2803)",osa
+16,OSA,"(3056, 3059)",osa
+17,OSA,"(3391, 3394)",osa
+18,OSA,"(5402, 5405)",osa
+19,Venous Insufficiency,"(2985, 3005)",venous insufficiency
+20,Venous Insufficiency,"(2969, 2982)",venous stasis
+21,Venous Insufficiency,"(4114, 4127)",venous stasis
+22,Venous Insufficiency,"(6125, 6138)",venous stasis
+23,Hypercholesterolemia,"(1321, 1332)",simvastatin
+24,Hypercholesterolemia,"(1373, 1384)",simvastatin
+25,Hypercholesterolemia,"(1443, 1455)",atorvastatin
+26,Hypercholesterolemia,"(2066, 2077)",simvastatin

@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(227, 250)",coronary artery disease
+1,CAD,"(344, 367)",coronary artery disease
+2,Diabetes,"(485, 493)",diabetes
+3,Diabetes,"(1208, 1216)",diabetes
+4,Diabetes,"(4674, 4682)",diabetes
+5,Diabetes,"(1359, 1367)",diabetic
+6,Hypercholesterolemia,"(1245, 1265)",hypercholesterolemia
+7,Hypercholesterolemia,"(1245, 1265)",hypercholesterolemia
+8,Hypercholesterolemia,"(464, 478)",hyperlipidemia
+9,Hypertension,"(449, 461)",hypertension
+10,Hypertension,"(1175, 1187)",hypertension
+11,OSA,"(1283, 1294)",sleep apnea
+12,CAD,"(1043, 1066)",cardiac catheterization
+13,CAD,"(2907, 2930)",cardiac catheterization
+14,CAD,"(3139, 3162)",cardiac catheterization
+15,Hypercholesterolemia,"(1783, 1795)",atorvastatin
+16,Hypercholesterolemia,"(5972, 5984)",atorvastatin

@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1868, 1871)",cad
+1,CAD,"(87, 110)",coronary artery disease
+2,CAD,"(1531, 1554)",coronary artery disease
+3,Hypercholesterolemia,"(1695, 1715)",elevated cholesterol
+4,Hypertension,"(1638, 1641)",htn
+5,Hypertension,"(1896, 1899)",htn
+6,CAD,"(2955, 2978)",cardiac catheterization
+7,CAD,"(3818, 3841)",cardiac catheterization
+8,Hypercholesterolemia,"(875, 887)",atorvastatin

@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1094, 1100)",asthma
+1,CAD,"(443, 466)",coronary artery disease
+2,CAD,"(656, 679)",coronary artery disease
+3,CAD,"(998, 1021)",coronary artery disease
+4,CHF,"(416, 440)",congestive heart failure
+5,CHF,"(1067, 1091)",congestive heart failure
+6,Depression,"(504, 514)",depression
+7,Depression,"(1103, 1113)",depression
+8,Diabetes,"(358, 366)",diabetes
+9,Diabetes,"(682, 690)",diabetes
+10,Diabetes,"(980, 988)",diabetes
+11,Gallstones,"(1367, 1382)",cholecystectomy
+12,PVD,"(376, 413)",peripheral vascular occlusive disease
+13,Depression,"(1452, 1458)",celexa

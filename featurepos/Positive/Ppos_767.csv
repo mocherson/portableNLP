@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3371, 3374)",pci
+1,GERD,"(3068, 3072)",gerd
+2,GERD,"(6453, 6457)",gerd
+3,GERD,"(3092, 3106)",reflux disease
+4,GERD,"(3075, 3098)",gastroesophageal reflux
+5,Hypercholesterolemia,"(3331, 3340)",hyperchol
+6,Hypertension,"(3044, 3047)",htn
+7,Hypertension,"(3325, 3328)",htn
+8,Hypertriglyceridemia,"(5867, 5877)",high trigs
+9,Obesity,"(3048, 3055)",obesity
+10,Obesity,"(3058, 3065)",obesity
+11,Obesity,"(3048, 3055)",obesity
+12,Obesity,"(3058, 3065)",obesity
+13,Hypercholesterolemia,"(1370, 1382)",atorvastatin
+14,Hypercholesterolemia,"(2436, 2448)",atorvastatin

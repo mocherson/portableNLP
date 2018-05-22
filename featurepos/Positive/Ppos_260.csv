@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3589, 3592)",cad
+1,CHF,"(68, 71)",chf
+2,CHF,"(2440, 2443)",chf
+3,CHF,"(2698, 2701)",chf
+4,CHF,"(3417, 3420)",chf
+5,CHF,"(3951, 3954)",chf
+6,CHF,"(4170, 4173)",chf
+7,CHF,"(4426, 4429)",chf
+8,CHF,"(4621, 4624)",chf
+9,Diabetes,"(2669, 2673)",iddm
+10,Hypercholesterolemia,"(2676, 2685)",hyperchol
+11,Hypercholesterolemia,"(3553, 3562)",hyperchol
+12,Hypertension,"(2663, 2666)",htn
+13,Hypertension,"(3493, 3496)",htn
+14,Hypertension,"(4245, 4248)",htn
+15,Hypertension,"(4753, 4756)",htn
+16,Hypertension,"(3130, 3139)",bp 172/92
+17,Hypercholesterolemia,"(1774, 1785)",pravastatin

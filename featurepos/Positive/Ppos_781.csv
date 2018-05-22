@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(299, 307)",diabetes
+1,Diabetes,"(482, 490)",diabetes
+2,Diabetes,"(2148, 2156)",diabetes
+3,Hypercholesterolemia,"(526, 546)",elevated cholesterol
+4,Hypertension,"(319, 331)",hypertension
+5,Hypertension,"(502, 514)",hypertension
+6,Hypertension,"(2184, 2196)",hypertension
+7,Hypertension,"(5124, 5136)",beta blocker
+8,Hypertension,"(1185, 1210)",blood pressure of 190/100

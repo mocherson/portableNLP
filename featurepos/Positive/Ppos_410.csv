@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(5889, 5892)",cad
+1,Diabetes,"(5472, 5474)",dm
+2,Hypertension,"(2628, 2640)",hypertension
+3,Hypertension,"(2936, 2948)",hypertension
+4,Hypertension,"(4186, 4189)",htn
+5,CAD,"(2737, 2760)",cardiac catheterization
+6,CAD,"(4074, 4097)",cardiac catheterization
+7,CAD,"(6299, 6322)",cardiac catheterization

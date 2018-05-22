@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Gallstones,"(1089, 1104)",cholecystectomy
+1,OA,"(1023, 1037)",osteoarthritis
+2,Obesity,"(1478, 1483)",obese
+3,Obesity,"(1908, 1913)",obese
+4,PVD,"(794, 821)",peripheral vascular disease
+5,Depression,"(1194, 1201)",desyrel
+6,Depression,"(3537, 3544)",desyrel
+7,GERD,"(1142, 1150)",carafate
+8,GERD,"(3517, 3525)",carafate

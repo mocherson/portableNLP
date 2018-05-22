@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(70, 76)",asthma
+1,Asthma,"(291, 297)",asthma
+2,Asthma,"(357, 363)",asthma
+3,Asthma,"(505, 511)",asthma
+4,Asthma,"(755, 761)",asthma
+5,Asthma,"(2920, 2926)",asthma
+6,Asthma,"(2994, 3000)",asthma
+7,Depression,"(552, 562)",depression
+8,Diabetes,"(382, 390)",diabetes
+9,Diabetes,"(522, 530)",diabetes
+10,Diabetes,"(2929, 2937)",diabetes
+11,Diabetes,"(5558, 5566)",diabetes
+12,Hypertension,"(5575, 5587)",hypertension
+13,Obesity,"(542, 549)",obesity
+14,Obesity,"(2960, 2967)",obesity
+15,Obesity,"(4891, 4898)",obesity
+16,Obesity,"(4929, 4936)",obesity
+17,Obesity,"(542, 549)",obesity
+18,Obesity,"(2204, 2209)",obese
+19,Obesity,"(2960, 2967)",obesity
+20,Obesity,"(4891, 4898)",obesity
+21,Obesity,"(4929, 4936)",obesity
+22,OSA,"(4505, 4516)",sleep apnea
+23,Depression,"(1620, 1626)",prozac
+24,Depression,"(6907, 6913)",prozac

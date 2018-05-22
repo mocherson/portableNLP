@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,CAD,"(15, 38)",coronary artery disease,"(1713, 1751)",no evidence of coronary artery disease,
+1,CHF,"(15, 18)",chf,"(4187, 4255)",no nonischemic chf presenting with diffuse symptoms including cough ,
+2,Asthma,"(33, 39)",asthma,"(4385, 4453)",no history of copd or history of asthma or patient frequent wheezing,

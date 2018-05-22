@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1854, 1860)",asthma
+1,CAD,"(1517, 1540)",coronary artery disease
+2,Diabetes,"(1752, 1760)",diabetes
+3,Diabetes,"(4067, 4075)",diabetes
+4,Diabetes,"(1729, 1731)",dm
+5,Diabetes,"(2062, 2064)",dm
+6,Diabetes,"(3367, 3369)",dm
+7,Diabetes,"(1863, 1871)",diabetic
+8,GERD,"(1793, 1797)",gerd
+9,GERD,"(3683, 3687)",gerd
+10,GERD,"(1800, 1817)",esophageal reflux
+11,Hypercholesterolemia,"(2067, 2076)",elev chol
+12,Hypertension,"(1778, 1790)",hypertension
+13,Hypertension,"(1772, 1775)",htn
+14,Hypertension,"(2056, 2059)",htn
+15,Obesity,"(1844, 1851)",obesity
+16,Obesity,"(2079, 2086)",obesity
+17,Obesity,"(1844, 1851)",obesity
+18,Obesity,"(2079, 2086)",obesity
+19,OSA,"(1822, 1825)",osa
+20,OSA,"(1828, 1839)",sleep apnea
+21,Hypercholesterolemia,"(803, 815)",atorvastatin

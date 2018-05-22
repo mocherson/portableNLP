@@ -1,0 +1,28 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(3804, 3807)",chf
+1,CHF,"(3810, 3834)",congestive heart failure
+2,Diabetes,"(3589, 3597)",diabetes
+3,Diabetes,"(4025, 4027)",dm
+4,Diabetes,"(4789, 4791)",dm
+5,Diabetes,"(5607, 5609)",dm
+6,Diabetes,"(3581, 3586)",niddm
+7,Hypercholesterolemia,"(3700, 3716)",high cholesterol
+8,Hypercholesterolemia,"(3719, 3739)",elevated cholesterol
+9,Hypertension,"(3685, 3697)",hypertension
+10,Hypertension,"(3679, 3682)",htn
+11,Hypertension,"(4030, 4033)",htn
+12,Hypertension,"(4800, 4803)",htn
+13,Hypertension,"(4901, 4904)",htn
+14,Obesity,"(69, 76)",obesity
+15,Obesity,"(3433, 3440)",obesity
+16,Obesity,"(69, 76)",obesity
+17,Obesity,"(3433, 3440)",obesity
+18,OSA,"(95, 98)",osa
+19,OSA,"(3459, 3462)",osa
+20,OSA,"(4036, 4039)",osa
+21,OSA,"(4794, 4797)",osa
+22,OSA,"(4838, 4841)",osa
+23,Depression,"(3147, 3154)",lexapro
+24,Depression,"(5671, 5678)",lexapro
+25,Hypertension,"(5242, 5254)",beta-blocker
+26,Hypercholesterolemia,"(3050, 3062)",atorvastatin

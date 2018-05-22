@@ -1,0 +1,27 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(263, 287)",congestive heart failure
+1,CHF,"(320, 344)",congestive heart failure
+2,CHF,"(618, 642)",congestive heart failure
+3,CHF,"(1127, 1151)",congestive heart failure
+4,CHF,"(3552, 3576)",congestive heart failure
+5,CHF,"(3603, 3627)",congestive heart failure
+6,CHF,"(6092, 6116)",congestive heart failure
+7,CHF,"(6870, 6883)",heart failure
+8,CHF,"(8691, 8715)",congestive heart failure
+9,CHF,"(5647, 5669)",dilated cardiomyopathy
+10,Depression,"(8603, 8613)",depression
+11,Diabetes,"(1504, 1512)",diabetes
+12,Diabetes,"(6752, 6760)",diabetes
+13,Hypercholesterolemia,"(399, 411)",dyslipidemia
+14,Hypertension,"(381, 393)",hypertension
+15,Hypertension,"(1527, 1539)",hypertension
+16,OA,"(8057, 8066)",arthritis
+17,OA,"(8526, 8535)",arthritis
+18,Obesity,"(2379, 2384)",obese
+19,Depression,"(2084, 2090)",celexa
+20,Depression,"(8592, 8598)",celexa
+21,Depression,"(8924, 8930)",prozac
+22,Hypertension,"(3983, 3995)",beta-blocker
+23,Hypertension,"(4898, 4910)",beta-blocker
+24,CAD,"(4425, 4448)",cardiac catheterization
+25,CAD,"(5738, 5761)",cardiac catheterization

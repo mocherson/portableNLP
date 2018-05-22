@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(770, 793)",coronary artery disease
+1,Depression,"(3353, 3363)",depression
+2,Hypercholesterolemia,"(3048, 3068)",elevated cholesterol
+3,Hypertension,"(304, 316)",hypertension
+4,Hypertension,"(621, 633)",hypertension
+5,Hypertension,"(3238, 3250)",hypertension
+6,Hypertension,"(5712, 5724)",hypertension
+7,Depression,"(3510, 3516)",zoloft
+8,Depression,"(6996, 7002)",zoloft
+9,Hypertension,"(1288, 1300)",beta blocker
+10,CAD,"(505, 528)",cardiac catheterization
+11,CAD,"(2828, 2851)",cardiac catheterization
+12,CAD,"(5836, 5859)",cardiac catheterization
+13,CAD,"(5939, 5962)",cardiac catheterization
+14,Hypercholesterolemia,"(6803, 6814)",fluvastatin
+15,Hypercholesterolemia,"(7092, 7103)",fluvastatin

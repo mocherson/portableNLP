@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(318, 324)",asthma
+1,Asthma,"(443, 449)",asthma
+2,Asthma,"(2104, 2110)",asthma
+3,Asthma,"(4529, 4535)",asthma
+4,Asthma,"(5171, 5177)",asthma
+5,CAD,"(9234, 9237)",cad
+6,CAD,"(10042, 10065)",coronary artery disease
+7,CHF,"(476, 479)",chf
+8,CHF,"(2320, 2323)",chf
+9,CHF,"(4562, 4565)",chf
+10,Diabetes,"(496, 504)",diabetes
+11,Diabetes,"(2309, 2317)",diabetes
+12,Diabetes,"(4551, 4559)",diabetes
+13,Diabetes,"(8966, 8974)",diabetes
+14,Diabetes,"(9970, 9978)",diabetes
+15,GERD,"(2302, 2306)",gerd
+16,Hypertension,"(2371, 2383)",hypertension
+17,Obesity,"(5090, 5097)",obesity
+18,Obesity,"(3396, 3401)",obese
+19,Obesity,"(3782, 3787)",obese
+20,Obesity,"(5090, 5097)",obesity
+21,OSA,"(5457, 5468)",sleep apnea
+22,Hypercholesterolemia,"(2730, 2738)",nystatin

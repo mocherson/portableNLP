@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2039, 2062)",coronary artery disease
+1,CHF,"(4016, 4040)",congestive heart failure
+2,CHF,"(5356, 5380)",congestive heart failure
+3,Diabetes,"(350, 358)",diabetes
+4,Diabetes,"(1977, 1985)",diabetes
+5,Hypertension,"(2200, 2212)",hypertension
+6,Hypertension,"(3467, 3479)",hypertension
+7,Obesity,"(2008, 2015)",obesity
+8,Obesity,"(2008, 2015)",obesity
+9,Obesity,"(2285, 2290)",obese
+10,Obesity,"(2608, 2613)",obese
+11,Depression,"(5835, 5841)",elavil
+12,CAD,"(3687, 3710)",cardiac catheterization

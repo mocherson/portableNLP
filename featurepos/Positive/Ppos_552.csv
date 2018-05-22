@@ -1,0 +1,25 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(380, 383)",cad
+1,CAD,"(7671, 7674)",cad
+2,CHF,"(423, 426)",chf
+3,CHF,"(7845, 7848)",chf
+4,Diabetes,"(403, 411)",diabetes
+5,Diabetes,"(7632, 7640)",diabetes
+6,Diabetes,"(9413, 9421)",diabetes
+7,Diabetes,"(14587, 14595)",diabetes
+8,Gout,"(5353, 5357)",gout
+9,Gout,"(8172, 8176)",gout
+10,Gout,"(14967, 14971)",gout
+11,Gout,"(15057, 15061)",gout
+12,Gout,"(16010, 16014)",gout
+13,Hypertension,"(2622, 2634)",hypertension
+14,OA,"(8179, 8193)",osteoarthritis
+15,OA,"(10231, 10245)",osteoarthritis
+16,Venous Insufficiency,"(6586, 6596)",venostasis
+17,Venous Insufficiency,"(16162, 16172)",venostasis
+18,Hypertension,"(14163, 14177)",ace inhibitors
+19,Hypertension,"(2679, 2691)",beta-blocker
+20,Hypertension,"(13896, 13908)",beta-blocker
+21,Hypertension,"(14062, 14074)",beta-blocker
+22,OA,"(8219, 8235)",knee replacement
+23,OA,"(8270, 8286)",knee replacement

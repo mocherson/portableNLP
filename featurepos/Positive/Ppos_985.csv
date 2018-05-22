@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(6679, 6699)",coronary angioplasty
+1,CAD,"(6831, 6851)",coronary angioplasty
+2,CAD,"(191, 214)",coronary artery disease
+3,CAD,"(4804, 4827)",coronary artery disease
+4,CAD,"(6004, 6027)",coronary artery disease
+5,Hypercholesterolemia,"(318, 334)",high cholesterol
+6,Hypercholesterolemia,"(560, 576)",high cholesterol
+7,Hypercholesterolemia,"(7228, 7244)",high cholesterol
+8,Hypercholesterolemia,"(7476, 7492)",high cholesterol
+9,Hypercholesterolemia,"(7605, 7621)",high cholesterol
+10,Hypertension,"(300, 312)",hypertension
+11,Hypertension,"(543, 555)",hypertension
+12,Hypertension,"(7389, 7401)",hypertension
+13,Hypertension,"(7440, 7452)",hypertension
+14,Obesity,"(3446, 3451)",obese
+15,Hypertension,"(5296, 5308)",beta blocker
+16,Hypertension,"(7131, 7143)",beta blocker
+17,CAD,"(5922, 5945)",cardiac catheterization
+18,CAD,"(6614, 6637)",cardiac catheterization

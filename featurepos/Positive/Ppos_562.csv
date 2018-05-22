@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3479, 3482)",cad
+1,CAD,"(5292, 5295)",pci
+2,CHF,"(3475, 3478)",chf
+3,CHF,"(5462, 5465)",chf
+4,CHF,"(7038, 7051)",heart failure
+5,Diabetes,"(6431, 6439)",diabetes
+6,Hypertension,"(3888, 3900)",hypertension
+7,Hypertension,"(6773, 6776)",htn
+8,Obesity,"(3878, 3885)",obesity
+9,Obesity,"(3878, 3885)",obesity
+10,Hypertension,"(6046, 6058)",beta-blocker
+11,Hypercholesterolemia,"(1766, 1778)",atorvastatin
+12,Hypercholesterolemia,"(2080, 2092)",atorvastatin
+13,Hypercholesterolemia,"(2264, 2276)",atorvastatin
+14,Hypercholesterolemia,"(2495, 2507)",atorvastatin
+15,Hypercholesterolemia,"(2718, 2730)",atorvastatin
+16,Hypercholesterolemia,"(5387, 5399)",atorvastatin

@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3085, 3108)",coronary artery disease
+1,Diabetes,"(3115, 3123)",diabetes
+2,Gallstones,"(2615, 2630)",cholecystectomy
+3,Obesity,"(456, 463)",obesity
+4,Obesity,"(2636, 2643)",obesity
+5,Obesity,"(3952, 3959)",obesity
+6,Obesity,"(456, 463)",obesity
+7,Obesity,"(2636, 2643)",obesity
+8,Obesity,"(3952, 3959)",obesity
+9,OSA,"(8239, 8262)",obstructive sleep apnea
+10,Hypertension,"(3336, 3357)",blood pressure 140/90

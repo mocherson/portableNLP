@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2570, 2573)",cad
+1,CAD,"(2576, 2599)",coronary artery disease
+2,Diabetes,"(2607, 2615)",diabetes
+3,Diabetes,"(2602, 2604)",dm
+4,Diabetes,"(3220, 3225)",niddm
+5,Gout,"(77, 81)",gout
+6,Gout,"(2482, 2486)",gout
+7,Gout,"(2855, 2859)",gout
+8,Gout,"(3459, 3463)",gout
+9,Hypercholesterolemia,"(2627, 2636)",high chol
+10,Hypercholesterolemia,"(2639, 2659)",elevated cholesterol
+11,Hypercholesterolemia,"(680, 691)",simvastatin
+12,Hypercholesterolemia,"(743, 754)",simvastatin
+13,Hypercholesterolemia,"(1218, 1229)",simvastatin
+14,Hypercholesterolemia,"(1477, 1488)",simvastatin
+15,Hypercholesterolemia,"(1540, 1551)",simvastatin

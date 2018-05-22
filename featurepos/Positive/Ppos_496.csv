@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1674, 1677)",cad
+1,CAD,"(1680, 1703)",coronary artery disease
+2,Diabetes,"(1376, 1384)",diabetes
+3,Diabetes,"(1751, 1759)",diabetes
+4,Diabetes,"(1762, 1770)",diabetes
+5,Diabetes,"(1948, 1950)",dm
+6,Hypertension,"(1387, 1390)",htn
+7,Hypertension,"(1953, 1956)",htn
+8,PVD,"(1982, 1985)",pvd
+9,PVD,"(1346, 1373)",peripheral vascular disease
+10,PVD,"(1569, 1596)",peripheral vascular disease
+11,PVD,"(1599, 1626)",peripheral vascular disease
+12,Hypercholesterolemia,"(698, 709)",simvastatin
+13,Venous Insufficiency,"(1714, 1724)",leg ulcers

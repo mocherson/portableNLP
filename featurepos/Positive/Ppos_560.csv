@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1630, 1654)",congestive heart failure
+1,Diabetes,"(663, 671)",diabetes
+2,Diabetes,"(1725, 1733)",diabetes
+3,Diabetes,"(1197, 1205)",diabetic
+4,Hypertension,"(1602, 1614)",hypertension
+5,OA,"(218, 232)",osteoarthritis
+6,OA,"(378, 392)",osteoarthritis
+7,OA,"(635, 649)",osteoarthritis
+8,OA,"(68, 94)",degenerative joint disease
+9,OA,"(347, 363)",knee replacement

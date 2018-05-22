@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2504, 2507)",cad
+1,CAD,"(2675, 2678)",cad
+2,CAD,"(3143, 3146)",cad
+3,CHF,"(70, 73)",chf
+4,CHF,"(2255, 2258)",chf
+5,CHF,"(2351, 2354)",chf
+6,CHF,"(3899, 3902)",chf
+7,CHF,"(4880, 4883)",chf
+8,Diabetes,"(2698, 2700)",dm
+9,Diabetes,"(4980, 4984)",iddm
+10,Hypercholesterolemia,"(2459, 2479)",hypercholesterolemia
+11,Hypercholesterolemia,"(2459, 2479)",hypercholesterolemia
+12,Hypercholesterolemia,"(4695, 4704)",hyperchol
+13,Hypertension,"(2491, 2494)",htn
+14,Hypertension,"(2692, 2695)",htn
+15,Hypertension,"(3137, 3140)",htn
+16,Hypertension,"(4112, 4124)",beta-blocker
+17,Hypertension,"(4185, 4197)",beta-blocker
+18,Hypercholesterolemia,"(559, 571)",atorvastatin
+19,Hypercholesterolemia,"(697, 709)",atorvastatin
+20,Hypercholesterolemia,"(1955, 1966)",simvastatin

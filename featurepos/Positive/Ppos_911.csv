@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2107, 2113)",asthma
+1,CAD,"(2310, 2333)",coronary artery disease
+2,CHF,"(2503, 2527)",congestive heart failure
+3,Diabetes,"(2134, 2142)",diabetes
+4,Hypertension,"(2457, 2469)",hypertension
+5,Depression,"(2641, 2647)",elavil
+6,OA,"(2218, 2233)",hip replacement
+7,OA,"(2266, 2281)",hip replacement

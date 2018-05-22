@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(270, 294)",congestive heart failure
+1,CHF,"(358, 382)",congestive heart failure
+2,Diabetes,"(585, 593)",diabetes
+3,Diabetes,"(2491, 2499)",diabetes
+4,Diabetes,"(6624, 6632)",diabetes
+5,Hypertension,"(553, 565)",hypertension
+6,Hypertension,"(2454, 2466)",hypertension
+7,OSA,"(5911, 5934)",obstructive sleep apnea
+8,PVD,"(4266, 4293)",peripheral vascular disease

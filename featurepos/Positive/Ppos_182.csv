@@ -1,0 +1,38 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(4182, 4188)",asthma
+1,Asthma,"(4191, 4197)",asthma
+2,Asthma,"(5954, 5961)",asthma7
+3,Asthma,"(8854, 8860)",asthma
+4,CAD,"(4072, 4075)",cad
+5,CAD,"(4443, 4446)",cad
+6,CAD,"(5788, 5791)",cad
+7,CAD,"(7858, 7861)",cad
+8,CAD,"(4078, 4101)",coronary artery disease
+9,CHF,"(5704, 5727)",ischemic cardiomyopathy
+10,CHF,"(7164, 7187)",ischemic cardiomyopathy
+11,Depression,"(6091, 6102)",depression1
+12,Diabetes,"(4052, 4060)",diabetes
+13,Diabetes,"(4047, 4049)",dm
+14,Gout,"(6080, 6085)",gout1
+15,Gout,"(8482, 8486)",gout
+16,Hypercholesterolemia,"(6019, 6035)",hyperlipidemia10
+17,Hypertension,"(4032, 4044)",hypertension
+18,Hypertension,"(6001, 6014)",hypertension9
+19,Hypertension,"(4026, 4029)",htn
+20,Depression,"(2929, 2935)",celexa
+21,Depression,"(6488, 6494)",celexa
+22,Hypercholesterolemia,"(1970, 1982)",atorvastatin
+23,Hypercholesterolemia,"(2365, 2377)",atorvastatin
+24,Hypercholesterolemia,"(2555, 2567)",atorvastatin
+25,Hypercholesterolemia,"(2736, 2748)",atorvastatin
+26,Hypercholesterolemia,"(2802, 2813)",simvastatin
+27,Hypercholesterolemia,"(2873, 2885)",atorvastatin
+28,Hypercholesterolemia,"(2917, 2928)",simvastatin
+29,Hypercholesterolemia,"(3764, 3775)",simvastatin
+30,Hypercholesterolemia,"(6300, 6312)",atorvastatin
+31,Gout,"(574, 585)",allopurinol
+32,Gout,"(748, 759)",allopurinol
+33,Gout,"(1666, 1677)",allopurinol
+34,Gout,"(1737, 1748)",allopurinol
+35,Gout,"(6392, 6403)",allopurinol
+36,Gout,"(8522, 8533)",allopurinol

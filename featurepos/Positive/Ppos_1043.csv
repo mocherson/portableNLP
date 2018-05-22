@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(528, 550)",coronary artery bypass
+1,CAD,"(616, 638)",coronary artery bypass
+2,CAD,"(455, 478)",coronary artery disease
+3,CHF,"(822, 846)",congestive heart failure
+4,CHF,"(1124, 1148)",congestive heart failure
+5,CHF,"(2166, 2190)",congestive heart failure
+6,CHF,"(2293, 2317)",congestive heart failure
+7,Diabetes,"(278, 286)",diabetes
+8,Hypertension,"(6257, 6269)",beta blocker
+9,CAD,"(1406, 1429)",cardiac catheterization
+10,Hypercholesterolemia,"(8214, 8222)",nystatin

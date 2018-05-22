@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1331, 1334)",cad
+1,CHF,"(2168, 2181)",heart failure
+2,CHF,"(2213, 2237)",congestive heart failure
+3,Diabetes,"(440, 448)",diabetes
+4,Diabetes,"(670, 678)",diabetes
+5,Diabetes,"(6583, 6591)",diabetes
+6,Gallstones,"(2469, 2484)",cholecystectomy
+7,Gout,"(467, 471)",gout
+8,Hypertension,"(425, 437)",hypertension
+9,CAD,"(4365, 4388)",cardiac catheterization
+10,Gout,"(2894, 2905)",allopurinol
+11,Gout,"(9630, 9641)",allopurinol

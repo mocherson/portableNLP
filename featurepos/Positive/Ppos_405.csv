@@ -1,0 +1,34 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2954, 2957)",cad
+1,CAD,"(3389, 3392)",cad
+2,CAD,"(4560, 4563)",cad
+3,CAD,"(6588, 6591)",cad
+4,CAD,"(8562, 8565)",cad
+5,CAD,"(9104, 9107)",cad
+6,CAD,"(2975, 2998)",coronary artery disease
+7,CHF,"(69, 72)",chf
+8,CHF,"(2784, 2787)",chf
+9,CHF,"(2867, 2870)",chf
+10,CHF,"(3649, 3652)",chf
+11,CHF,"(8908, 8911)",chf
+12,CHF,"(9068, 9071)",chf
+13,CHF,"(9237, 9240)",chf
+14,CHF,"(9401, 9404)",chf
+15,CHF,"(9713, 9716)",chf
+16,CHF,"(12089, 12092)",chf
+17,CHF,"(10035, 10048)",heart failure
+18,Diabetes,"(3061, 3069)",diabetes
+19,Diabetes,"(10953, 10961)",diabetes
+20,Diabetes,"(3056, 3058)",dm
+21,Diabetes,"(3384, 3386)",dm
+22,Diabetes,"(7096, 7098)",dm
+23,Diabetes,"(8557, 8559)",dm
+24,Diabetes,"(6559, 6563)",iddm
+25,Hypercholesterolemia,"(3102, 3111)",hyperchol
+26,Hypercholesterolemia,"(3114, 3134)",elevated cholesterol
+27,Hypertension,"(3087, 3099)",hypertension
+28,Hypertension,"(3081, 3084)",htn
+29,Hypertension,"(3378, 3381)",htn
+30,Hypertension,"(6553, 6556)",htn
+31,Hypertension,"(8551, 8554)",htn
+32,Hypertension,"(10128, 10131)",htn

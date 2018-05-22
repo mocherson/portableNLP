@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(84, 94)",depression
+1,Depression,"(1215, 1225)",depression
+2,Depression,"(1322, 1332)",depression
+3,Depression,"(1572, 1582)",depression
+4,Depression,"(1585, 1595)",depression
+5,Depression,"(1850, 1860)",depression
+6,Depression,"(1960, 1970)",depression
+7,Depression,"(3885, 3895)",depression
+8,Diabetes,"(1531, 1539)",diabetes
+9,Diabetes,"(1526, 1528)",dm
+10,Diabetes,"(1837, 1839)",dm
+11,Diabetes,"(3336, 3338)",dm
+12,Hypertension,"(1557, 1569)",hypertension
+13,Hypertension,"(1551, 1554)",htn
+14,Hypertension,"(1842, 1845)",htn
+15,Depression,"(3128, 3142)",antidepressant
+16,Depression,"(3263, 3277)",antidepressant

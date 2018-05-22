@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2097, 2119)",coronary artery bypass
+1,CAD,"(2416, 2438)",coronary artery bypass
+2,CAD,"(4232, 4254)",coronary artery bypass
+3,CAD,"(234, 257)",coronary artery disease
+4,CAD,"(2015, 2038)",coronary artery disease
+5,Diabetes,"(260, 268)",diabetes
+6,Diabetes,"(2686, 2694)",diabetes
+7,Diabetes,"(4287, 4295)",diabetes
+8,Obesity,"(3518, 3523)",obese
+9,Hypercholesterolemia,"(5851, 5862)",simvastatin

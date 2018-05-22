@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,CHF,"(38, 62)",congestive heart failure,"(6265, 6341)",considered that she might be having a congestive heart failure exacerbation ,
+1,CHF,"(15, 39)",congestive heart failure,"(8108, 8188)",suggested that congestive heart failure was not a large part of her presentation,
+2,CHF,"(64, 77)",heart failure,"(8323, 8400)",suggesting that she was not having an acute exacerbation of her heart failure,

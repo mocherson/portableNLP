@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(6194, 6197)",cad
+1,CAD,"(6655, 6658)",cad
+2,CAD,"(6677, 6680)",pci
+3,CAD,"(6200, 6223)",coronary artery disease
+4,CHF,"(6424, 6427)",chf
+5,CHF,"(6446, 6470)",congestive heart failure
+6,Diabetes,"(6247, 6255)",diabetes
+7,Diabetes,"(6258, 6266)",diabetes
+8,Diabetes,"(6692, 6694)",dm
+9,Diabetes,"(8344, 8346)",dm
+10,Gallstones,"(7457, 7466)",gallstone
+11,Gallstones,"(8316, 8331)",cholecystectomy
+12,Hypertension,"(6232, 6244)",hypertension
+13,Hypertension,"(6226, 6229)",htn
+14,Depression,"(1329, 1335)",prozac
+15,Depression,"(6969, 6975)",prozac
+16,Hypercholesterolemia,"(2208, 2219)",simvastatin
+17,Hypercholesterolemia,"(2271, 2282)",simvastatin
+18,Hypercholesterolemia,"(3165, 3176)",simvastatin
+19,Hypercholesterolemia,"(3510, 3521)",simvastatin
+20,Hypercholesterolemia,"(3760, 3771)",simvastatin
+21,Hypercholesterolemia,"(3823, 3834)",simvastatin
+22,Hypercholesterolemia,"(4014, 4025)",simvastatin

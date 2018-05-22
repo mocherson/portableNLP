@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(227, 235)",diabetes
+1,Diabetes,"(511, 519)",diabetes
+2,Diabetes,"(635, 643)",diabetes
+3,Diabetes,"(1744, 1752)",diabetes
+4,Diabetes,"(2811, 2819)",diabetes
+5,Diabetes,"(3701, 3709)",diabetes
+6,Diabetes,"(202, 210)",diabetic
+7,Diabetes,"(583, 591)",diabetic
+8,Diabetes,"(5471, 5479)",diabetic
+9,Diabetes,"(6559, 6567)",diabetic
+10,Hypercholesterolemia,"(265, 285)",hypercholesterolemia
+11,Hypercholesterolemia,"(3041, 3061)",hypercholesterolemia
+12,Hypercholesterolemia,"(265, 285)",hypercholesterolemia
+13,Hypercholesterolemia,"(3041, 3061)",hypercholesterolemia
+14,Hypertension,"(3784, 3796)",hypertension
+15,Hypertension,"(8910, 8922)",hypertension

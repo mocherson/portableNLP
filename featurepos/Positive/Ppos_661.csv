@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1313, 1316)",pci
+1,CAD,"(1076, 1098)",coronary artery bypass
+2,CAD,"(1038, 1061)",coronary artery disease
+3,CHF,"(78, 91)",heart failure
+4,CHF,"(4048, 4061)",heart failure
+5,CHF,"(6246, 6259)",heart failure
+6,CHF,"(6467, 6491)",congestive heart failure
+7,CHF,"(251, 274)",ischemic cardiomyopathy
+8,CHF,"(5958, 5981)",ischemic cardiomyopathy
+9,Depression,"(1650, 1660)",depression
+10,Diabetes,"(1551, 1559)",diabetes
+11,Gout,"(1629, 1633)",gout
+12,Gout,"(7968, 7972)",gout
+13,Hypertension,"(1611, 1623)",hypertension
+14,Depression,"(1752, 1758)",elavil
+15,Depression,"(7665, 7671)",elavil
+16,Depression,"(8537, 8543)",elavil
+17,Hypertension,"(3717, 3729)",beta blocker
+18,Gout,"(1782, 1793)",allopurinol
+19,Gout,"(7992, 8003)",allopurinol
+20,Gout,"(8591, 8602)",allopurinol

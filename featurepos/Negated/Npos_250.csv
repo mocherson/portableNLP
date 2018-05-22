@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Hypertension,"(9, 21)",hypertension,"(1007, 1029)",not have hypertension ,
+1,CHF,"(25, 38)",heart failure,"(9417, 9496)",no evidence of continued heart failure and the patient's lasix was discontinued,

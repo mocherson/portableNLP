@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(297, 305)",diabetes
+1,Diabetes,"(402, 410)",diabetes
+2,Diabetes,"(1906, 1914)",diabetes
+3,Gallstones,"(5212, 5226)",cholelithiasis
+4,Hypertension,"(1891, 1903)",hypertension
+5,OA,"(2004, 2018)",osteoarthritis
+6,Obesity,"(1950, 1957)",obesity
+7,Obesity,"(1950, 1957)",obesity
+8,Obesity,"(2984, 2989)",obese
+9,OSA,"(1960, 1983)",obstructive sleep apnea

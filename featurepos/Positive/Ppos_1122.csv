@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(9473, 9496)",coronary artery disease
+1,CHF,"(115, 118)",chf
+2,CHF,"(5912, 5915)",chf
+3,CHF,"(6072, 6075)",chf
+4,CHF,"(6319, 6322)",chf
+5,CHF,"(9623, 9626)",chf
+6,CHF,"(9728, 9731)",chf
+7,CHF,"(10160, 10163)",chf
+8,CHF,"(11398, 11401)",chf
+9,CHF,"(13193, 13196)",chf
+10,CHF,"(14215, 14218)",chf
+11,CHF,"(7408, 7421)",heart failure
+12,Diabetes,"(5999, 6007)",diabetes
+13,Diabetes,"(6350, 6358)",diabetes
+14,Diabetes,"(7293, 7301)",diabetes
+15,Diabetes,"(9646, 9654)",diabetes
+16,Diabetes,"(11649, 11657)",diabetes
+17,Diabetes,"(13311, 13319)",diabetes
+18,Diabetes,"(14383, 14391)",diabetes
+19,Gallstones,"(9456, 9470)",cholelithiasis
+20,Hypertension,"(7278, 7290)",hypertension
+21,Hypertension,"(10619, 10631)",hypertension
+22,Hypertension,"(13239, 13251)",hypertension
+23,Venous Insufficiency,"(8652, 8665)",venous stasis
+24,OA,"(7690, 7705)",hip replacement

@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(442, 466)",congestive heart failure
+1,CHF,"(5183, 5196)",heart failure
+2,CHF,"(5302, 5315)",heart failure
+3,GERD,"(2377, 2381)",gerd
+4,Gout,"(2424, 2428)",gout
+5,Hypercholesterolemia,"(2386, 2406)",hypercholesterolemia
+6,Hypercholesterolemia,"(2386, 2406)",hypercholesterolemia
+7,Obesity,"(2411, 2418)",obesity
+8,Obesity,"(2411, 2418)",obesity
+9,Venous Insufficiency,"(329, 342)",venous stasis
+10,Venous Insufficiency,"(2434, 2447)",venous stasis
+11,Venous Insufficiency,"(3889, 3902)",venous stasis
+12,Venous Insufficiency,"(4712, 4725)",venous stasis
+13,Venous Insufficiency,"(5268, 5281)",venous stasis

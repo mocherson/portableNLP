@@ -1,0 +1,32 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1767, 1773)",asthma
+1,Asthma,"(1776, 1782)",asthma
+2,Asthma,"(2792, 2798)",asthma
+3,Asthma,"(4186, 4192)",asthma
+4,CHF,"(1253, 1256)",chf
+5,CHF,"(1559, 1562)",chf
+6,CHF,"(2211, 2214)",chf
+7,CHF,"(2697, 2700)",chf
+8,CHF,"(4073, 4076)",chf
+9,CHF,"(4671, 4674)",chf
+10,CHF,"(1592, 1616)",congestive heart failure
+11,Gout,"(1674, 1678)",gout
+12,Gout,"(1681, 1685)",gout
+13,Gout,"(2755, 2759)",gout
+14,Hypercholesterolemia,"(2736, 2752)",high cholesterol
+15,Hypercholesterolemia,"(1640, 1654)",hyperlipidemia
+16,Hypercholesterolemia,"(1657, 1671)",hyperlipidemia
+17,Hypertension,"(1625, 1637)",hypertension
+18,Hypertension,"(1619, 1622)",htn
+19,Hypertension,"(2730, 2733)",htn
+20,Obesity,"(1929, 1936)",obesity
+21,Obesity,"(1939, 1946)",obesity
+22,Obesity,"(2832, 2839)",obesity
+23,Obesity,"(1929, 1936)",obesity
+24,Obesity,"(1939, 1946)",obesity
+25,Obesity,"(2832, 2839)",obesity
+26,OSA,"(1949, 1952)",osa
+27,OSA,"(2842, 2845)",osa
+28,OSA,"(4195, 4198)",osa
+29,OSA,"(1955, 1966)",sleep apnea
+30,Hypercholesterolemia,"(881, 893)",atorvastatin

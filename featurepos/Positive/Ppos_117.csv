@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(477, 500)",coronary artery disease
+1,CAD,"(2044, 2067)",coronary artery disease
+2,CHF,"(1963, 1987)",congestive heart failure
+3,Depression,"(2014, 2024)",depression
+4,Diabetes,"(294, 302)",diabetes
+5,Diabetes,"(466, 474)",diabetes
+6,Diabetes,"(1908, 1916)",diabetes
+7,Hypertension,"(371, 383)",hypertension
+8,Hypertension,"(503, 515)",hypertension
+9,Hypertension,"(1919, 1931)",hypertension
+10,Obesity,"(2594, 2599)",obese
+11,Obesity,"(2899, 2904)",obese
+12,PVD,"(518, 545)",peripheral vascular disease
+13,PVD,"(3365, 3392)",peripheral vascular disease
+14,Hypertension,"(2497, 2519)",blood pressure 184/100

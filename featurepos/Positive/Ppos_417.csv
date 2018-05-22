@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(4944, 4947)",chf
+1,CHF,"(69, 93)",congestive heart failure
+2,CHF,"(4316, 4340)",congestive heart failure
+3,CHF,"(4478, 4502)",congestive heart failure
+4,Depression,"(4655, 4665)",depression
+5,Hypertension,"(4505, 4517)",hypertension
+6,Hypertension,"(4601, 4613)",hypertension
+7,Hypertension,"(4595, 4598)",htn
+8,Hypertension,"(4994, 4997)",htn
+9,Obesity,"(4668, 4675)",obesity
+10,Obesity,"(4974, 4981)",obesity
+11,Obesity,"(4668, 4675)",obesity
+12,Obesity,"(4974, 4981)",obesity
+13,Venous Insufficiency,"(4569, 4582)",venous stasis
+14,Depression,"(3512, 3518)",celexa
+15,Depression,"(6750, 6756)",celexa

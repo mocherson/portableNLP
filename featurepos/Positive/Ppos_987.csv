@@ -1,0 +1,31 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(511, 514)",cad
+1,CAD,"(3278, 3281)",cad
+2,CHF,"(301, 304)",chf
+3,CHF,"(6186, 6189)",chf
+4,CHF,"(6502, 6505)",chf
+5,CHF,"(8153, 8156)",chf
+6,CHF,"(8372, 8375)",chf
+7,CHF,"(12212, 12215)",chf
+8,Depression,"(3568, 3578)",depression
+9,Depression,"(11114, 11124)",depression
+10,Diabetes,"(462, 470)",diabetes
+11,Diabetes,"(3229, 3237)",diabetes
+12,Diabetes,"(11707, 11715)",diabetes
+13,Hypercholesterolemia,"(473, 493)",hypercholesterolemia
+14,Hypercholesterolemia,"(3240, 3260)",hypercholesterolemia
+15,Hypercholesterolemia,"(473, 493)",hypercholesterolemia
+16,Hypercholesterolemia,"(3240, 3260)",hypercholesterolemia
+17,Hypertension,"(447, 459)",hypertension
+18,Hypertension,"(3214, 3226)",hypertension
+19,PVD,"(3439, 3442)",pvd
+20,PVD,"(881, 908)",peripheral vascular disease
+21,Depression,"(4040, 4046)",zoloft
+22,Depression,"(11181, 11187)",zoloft
+23,Depression,"(11302, 11308)",zoloft
+24,Depression,"(11349, 11359)",wellbutrin
+25,Depression,"(11468, 11474)",zoloft
+26,Depression,"(13054, 13060)",zoloft
+27,Depression,"(13240, 13250)",wellbutrin
+28,Hypertension,"(4655, 4676)",blood pressure 168/90
+29,CAD,"(13935, 13958)",cardiac catheterization

@@ -1,0 +1,6 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,CAD,"(15, 38)",coronary artery disease,"(1871, 1909)",no significant coronary artery disease,
+1,CAD,"(3, 26)",coronary artery disease,"(2431, 2495)",no coronary artery disease on cath but defects on spect and mri ,but defects on spect and mri 
+2,Hypercholesterolemia,"(3, 23)",hypercholesterolemia,"(2628, 2652)",no hypercholesterolemia ,
+3,Hypercholesterolemia,"(3, 23)",hypercholesterolemia,"(2628, 2652)",no hypercholesterolemia ,
+4,Diabetes,"(3, 11)",diabetes,"(2654, 2666)",no diabetes ,

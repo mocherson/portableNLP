@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(7027, 7037)",depression
+1,Diabetes,"(319, 327)",diabetes
+2,Diabetes,"(535, 543)",diabetes
+3,Diabetes,"(1626, 1634)",diabetes
+4,Diabetes,"(8860, 8868)",diabetes
+5,GERD,"(1719, 1723)",gerd
+6,GERD,"(9001, 9005)",gerd
+7,Depression,"(2147, 2153)",zoloft
+8,Depression,"(9825, 9833)",cymbalta

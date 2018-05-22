@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4370, 4390)",coronary angioplasty
+1,CAD,"(4691, 4711)",coronary angioplasty
+2,CAD,"(4774, 4794)",coronary angioplasty
+3,CAD,"(257, 280)",coronary artery disease
+4,CAD,"(2018, 2041)",coronary artery disease
+5,Diabetes,"(2053, 2061)",diabetes
+6,Gallstones,"(2545, 2560)",cholecystectomy
+7,Hypercholesterolemia,"(2171, 2191)",hypercholesterolemia
+8,Hypercholesterolemia,"(2171, 2191)",hypercholesterolemia
+9,Hypertension,"(2156, 2168)",hypertension
+10,PVD,"(2268, 2295)",peripheral vascular disease
+11,CAD,"(324, 347)",cardiac catheterization
+12,CAD,"(770, 793)",cardiac catheterization
+13,CAD,"(887, 910)",cardiac catheterization
+14,CAD,"(1559, 1582)",cardiac catheterization
+15,CAD,"(2495, 2518)",cardiac catheterization
+16,CAD,"(4036, 4059)",cardiac catheterization
+17,CAD,"(4574, 4597)",cardiac catheterization

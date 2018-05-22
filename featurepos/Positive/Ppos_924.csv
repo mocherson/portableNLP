@@ -1,0 +1,7 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1432, 1435)",chf
+1,Diabetes,"(1783, 1785)",dm
+2,Hypertension,"(1845, 1857)",hypertension
+3,Hypertension,"(1788, 1791)",htn
+4,Hypercholesterolemia,"(1130, 1141)",simvastatin
+5,Hypercholesterolemia,"(1355, 1365)",lovastatin

@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,GERD,"(9, 13)",gerd,"(94, 132)",possible gerd | | dis | admission date,
+1,GERD,"(9, 13)",gerd,"(5659, 5688)",possible gerd other diagnosis,
+2,GERD,"(35, 39)",gerd,"(7635, 7684)",possible that chest pain result of gerd/dyspepsia,

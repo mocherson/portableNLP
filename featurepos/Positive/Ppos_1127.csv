@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(618, 641)",coronary artery disease
+1,Diabetes,"(785, 793)",diabetes
+2,OA,"(198, 212)",osteoarthritis
+3,OA,"(385, 399)",osteoarthritis
+4,OA,"(601, 615)",osteoarthritis
+5,OA,"(2044, 2058)",osteoarthritis
+6,OSA,"(805, 816)",sleep apnea
+7,OA,"(234, 249)",hip replacement
+8,OA,"(342, 357)",hip replacement
+9,OA,"(2099, 2114)",hip replacement
+10,Gout,"(1135, 1146)",allopurinol
+11,Gout,"(2711, 2722)",allopurinol

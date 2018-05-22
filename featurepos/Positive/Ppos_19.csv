@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(6591, 6611)",coronary angioplasty
+1,Diabetes,"(254, 262)",diabetes
+2,Diabetes,"(364, 372)",diabetes
+3,Diabetes,"(2948, 2956)",diabetes
+4,Diabetes,"(7116, 7124)",diabetic
+5,Hypertension,"(386, 398)",hypertension
+6,CAD,"(5998, 6021)",cardiac catheterization
+7,CAD,"(6541, 6564)",cardiac catheterization
+8,CAD,"(6770, 6793)",cardiac catheterization

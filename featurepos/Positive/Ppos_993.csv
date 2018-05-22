@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(387, 393)",asthma
+1,Asthma,"(630, 636)",asthma
+2,CAD,"(461, 464)",cad
+3,CAD,"(3505, 3508)",cad
+4,CAD,"(69, 92)",coronary artery disease
+5,CHF,"(396, 399)",chf
+6,CHF,"(4257, 4260)",chf
+7,CHF,"(1225, 1238)",heart failure
+8,Diabetes,"(322, 330)",diabetes
+9,Diabetes,"(610, 618)",diabetes
+10,Diabetes,"(4569, 4577)",diabetes
+11,Hypercholesterolemia,"(349, 369)",hypercholesterolemia
+12,Hypercholesterolemia,"(349, 369)",hypercholesterolemia
+13,Hypertension,"(372, 384)",hypertension
+14,Hypertension,"(595, 607)",hypertension
+15,Depression,"(1832, 1838)",prozac
+16,Depression,"(5686, 5692)",prozac
+17,CAD,"(3012, 3035)",cardiac catheterization
+18,Hypercholesterolemia,"(1770, 1782)",atorvastatin
+19,Hypercholesterolemia,"(5922, 5933)",simvastatin
+20,OA,"(430, 449)",lumbar disc disease

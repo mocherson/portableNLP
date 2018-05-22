@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(255, 261)",asthma
+1,Asthma,"(387, 393)",asthma
+2,Asthma,"(456, 462)",asthma
+3,Asthma,"(1746, 1752)",asthma
+4,OA,"(2089, 2115)",degenerative joint disease
+5,Obesity,"(273, 280)",obesity
+6,Obesity,"(675, 682)",obesity
+7,Obesity,"(2630, 2637)",obesity
+8,Obesity,"(4042, 4049)",obesity
+9,Obesity,"(273, 280)",obesity
+10,Obesity,"(675, 682)",obesity
+11,Obesity,"(2384, 2389)",obese
+12,Obesity,"(2630, 2637)",obesity
+13,Obesity,"(2851, 2856)",obese
+14,Obesity,"(4042, 4049)",obesity

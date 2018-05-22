@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,Gallstones,"(1969, 1983)",cholelithiasis
+1,GERD,"(3301, 3305)",gerd
+2,OA,"(3308, 3322)",osteoarthritis
+3,Obesity,"(616, 623)",obesity
+4,Obesity,"(3188, 3195)",obesity
+5,Obesity,"(3684, 3691)",obesity
+6,Obesity,"(3812, 3819)",obesity
+7,Obesity,"(5283, 5290)",obesity
+8,Obesity,"(5809, 5816)",obesity
+9,Obesity,"(616, 623)",obesity
+10,Obesity,"(3188, 3195)",obesity
+11,Obesity,"(3684, 3691)",obesity
+12,Obesity,"(3812, 3819)",obesity
+13,Obesity,"(4554, 4559)",obese
+14,Obesity,"(5283, 5290)",obesity
+15,Obesity,"(5809, 5816)",obesity

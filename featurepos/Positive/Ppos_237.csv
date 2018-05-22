@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(701, 704)",chf
+1,CHF,"(978, 981)",chf
+2,CHF,"(5137, 5140)",chf
+3,CHF,"(5211, 5214)",chf
+4,CHF,"(5885, 5888)",chf
+5,CHF,"(10333, 10336)",chf
+6,CHF,"(343, 367)",congestive heart failure
+7,CHF,"(5931, 5955)",congestive heart failure
+8,Diabetes,"(440, 448)",diabetes
+9,Diabetes,"(810, 818)",diabetes
+10,Diabetes,"(5126, 5134)",diabetes
+11,Diabetes,"(9791, 9799)",diabetes
+12,Hypercholesterolemia,"(550, 570)",hypercholesterolemia
+13,Hypercholesterolemia,"(881, 901)",hypercholesterolemia
+14,Hypercholesterolemia,"(550, 570)",hypercholesterolemia
+15,Hypercholesterolemia,"(881, 901)",hypercholesterolemia
+16,Hypertension,"(425, 437)",hypertension
+17,Hypertension,"(795, 807)",hypertension
+18,Hypertension,"(5111, 5123)",hypertension
+19,PVD,"(451, 478)",peripheral vascular disease
+20,PVD,"(821, 848)",peripheral vascular disease
+21,Hypertension,"(5809, 5821)",beta-blocker
+22,Hypertension,"(6601, 6613)",beta-blocker
+23,Hypercholesterolemia,"(2578, 2589)",simvastatin
+24,Hypercholesterolemia,"(12352, 12363)",simvastatin

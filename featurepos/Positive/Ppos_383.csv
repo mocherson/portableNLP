@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1650, 1656)",asthma
+1,Asthma,"(1907, 1913)",asthma
+2,Asthma,"(2582, 2588)",asthma
+3,Asthma,"(4250, 4256)",asthma
+4,CAD,"(3785, 3788)",cad
+5,Diabetes,"(5554, 5562)",diabetic
+6,Hypertension,"(91, 103)",hypertension
+7,Hypertension,"(1554, 1566)",hypertension
+8,Hypertension,"(2776, 2779)",htn
+9,Hypertension,"(3983, 3986)",htn
+10,Obesity,"(1666, 1673)",obesity
+11,Obesity,"(1895, 1902)",obesity
+12,Obesity,"(3384, 3391)",obesity
+13,Obesity,"(4323, 4330)",obesity
+14,Obesity,"(1666, 1673)",obesity
+15,Obesity,"(1895, 1902)",obesity
+16,Obesity,"(2139, 2148)",obesityno
+17,Obesity,"(3384, 3391)",obesity
+18,Obesity,"(4323, 4330)",obesity
+19,Hypertension,"(3685, 3697)",beta blocker

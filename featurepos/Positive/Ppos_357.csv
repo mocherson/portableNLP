@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(5782, 5785)",cad
+1,CAD,"(5927, 5930)",pci
+2,CAD,"(378, 401)",coronary artery disease
+3,CAD,"(562, 585)",coronary artery disease
+4,CHF,"(1359, 1362)",chf
+5,Diabetes,"(259, 267)",diabetes
+6,Diabetes,"(682, 690)",diabetes
+7,Diabetes,"(6049, 6057)",diabetes
+8,Hypercholesterolemia,"(301, 321)",hypercholesterolemia
+9,Hypercholesterolemia,"(697, 717)",hypercholesterolemia
+10,Hypercholesterolemia,"(301, 321)",hypercholesterolemia
+11,Hypercholesterolemia,"(697, 717)",hypercholesterolemia
+12,Hypertension,"(283, 295)",hypertension
+13,Hypertension,"(659, 671)",hypertension
+14,Obesity,"(3143, 3148)",obese
+15,Depression,"(2255, 2261)",prozac
+16,Hypertension,"(6127, 6138)",angiotensin
+17,CAD,"(4301, 4324)",cardiac catheterization
+18,CAD,"(4608, 4631)",cardiac catheterization

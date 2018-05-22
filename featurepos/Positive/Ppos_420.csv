@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(9574, 9597)",coronary artery disease
+1,Diabetes,"(557, 565)",diabetes
+2,Diabetes,"(1808, 1816)",diabetes
+3,Diabetes,"(4745, 4753)",diabetes
+4,Diabetes,"(8872, 8880)",diabetic
+5,Diabetes,"(9561, 9569)",diabetic
+6,Diabetes,"(9879, 9887)",diabetic
+7,Hypertension,"(1994, 2006)",hypertension
+8,Obesity,"(298, 305)",obesity
+9,Obesity,"(298, 305)",obesity
+10,Obesity,"(508, 513)",obese
+11,Obesity,"(2941, 2946)",obese
+12,Obesity,"(3336, 3341)",obese
+13,Obesity,"(4696, 4701)",obese
+14,OSA,"(376, 399)",obstructive sleep apnea
+15,OSA,"(6725, 6748)",obstructive sleep apnea
+16,Depression,"(2354, 2360)",prozac
+17,Hypertension,"(7831, 7843)",beta blocker
+18,Hypertension,"(7983, 7995)",beta blocker
+19,Hypertension,"(1327, 1351)",blood pressure of 189/92
+20,GERD,"(9093, 9101)",carafate
+21,GERD,"(9175, 9183)",carafate
+22,Hypercholesterolemia,"(10363, 10374)",simvastatin

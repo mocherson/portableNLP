@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Hypercholesterolemia,"(18, 27)",hyperchol,"(2784, 2822)",not known to have hyperchol in the ed ,
+1,CAD,"(3, 6)",cad,"(3116, 3129)",no cad -- all,-- all
+2,CHF,"(12, 15)",chf,"(3923, 3938)",no signs of chf,

@@ -1,0 +1,31 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(434, 442)",diabetes
+1,Diabetes,"(669, 677)",diabetes
+2,Diabetes,"(4784, 4792)",diabetes
+3,Diabetes,"(7774, 7782)",diabetes
+4,Diabetes,"(10807, 10815)",diabetes
+5,Hypercholesterolemia,"(693, 713)",hypercholesterolemia
+6,Hypercholesterolemia,"(4921, 4941)",hypercholesterolemia
+7,Hypercholesterolemia,"(693, 713)",hypercholesterolemia
+8,Hypercholesterolemia,"(4921, 4941)",hypercholesterolemia
+9,Hypercholesterolemia,"(7785, 7801)",high cholesterol
+10,Hypercholesterolemia,"(448, 462)",hyperlipidemia
+11,Hypertension,"(396, 408)",hypertension
+12,Hypertension,"(679, 691)",hypertension
+13,Hypertension,"(1372, 1384)",hypertension
+14,Hypertension,"(3986, 3998)",hypertension
+15,Hypertension,"(4702, 4714)",hypertension
+16,Hypertension,"(4996, 5008)",hypertension
+17,Hypertension,"(7759, 7771)",hypertension
+18,Hypertension,"(8042, 8054)",hypertension
+19,Hypertension,"(9040, 9052)",hypertension
+20,Hypertension,"(11461, 11473)",hypertension
+21,Obesity,"(6443, 6448)",obese
+22,OSA,"(468, 491)",obstructive sleep apnea
+23,OSA,"(719, 742)",obstructive sleep apnea
+24,OSA,"(4883, 4906)",obstructive sleep apnea
+25,OSA,"(7808, 7831)",obstructive sleep apnea
+26,Hypertension,"(2159, 2171)",beta-blocker
+27,Hypertension,"(9645, 9657)",beta-blocker
+28,Hypertension,"(9816, 9828)",beta-blocker
+29,CAD,"(4466, 4489)",cardiac catheterization

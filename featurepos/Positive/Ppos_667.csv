@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(638, 641)",cad
+1,CAD,"(1722, 1725)",cad
+2,CAD,"(1953, 1976)",coronary artery disease
+3,CHF,"(1996, 1999)",chf
+4,Diabetes,"(585, 593)",diabetes
+5,Diabetes,"(2317, 2325)",diabetes
+6,GERD,"(2387, 2391)",gerd
+7,Gout,"(2376, 2380)",gout
+8,Hypercholesterolemia,"(2358, 2370)",dyslipidemia
+9,Hypertension,"(570, 582)",hypertension
+10,Hypertension,"(2340, 2352)",hypertension
+11,OSA,"(2288, 2311)",obstructive sleep apnea
+12,PVD,"(250, 277)",peripheral vascular disease
+13,PVD,"(4307, 4334)",peripheral vascular disease
+14,Depression,"(8115, 8121)",prozac
+15,CAD,"(320, 343)",cardiac catheterization
+16,CAD,"(875, 898)",cardiac catheterization
+17,Gout,"(2682, 2693)",allopurinol
+18,Gout,"(7869, 7880)",allopurinol

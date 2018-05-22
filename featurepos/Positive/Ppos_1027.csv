@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1101, 1107)",asthma
+1,Asthma,"(1435, 1441)",asthma
+2,CAD,"(3028, 3050)",coronary artery bypass
+3,CAD,"(70, 93)",coronary artery disease
+4,CAD,"(206, 229)",coronary artery disease
+5,CAD,"(706, 729)",coronary artery disease
+6,Gallstones,"(1190, 1200)",gallstones
+7,Gallstones,"(1190, 1200)",gallstones
+8,CAD,"(640, 663)",cardiac catheterization

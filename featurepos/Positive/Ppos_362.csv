@@ -1,0 +1,28 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(5840, 5843)",cad
+1,CAD,"(6627, 6630)",cad
+2,CAD,"(8930, 8933)",cad
+3,CHF,"(69, 72)",chf
+4,CHF,"(5230, 5233)",chf
+5,CHF,"(5313, 5316)",chf
+6,CHF,"(8984, 8987)",chf
+7,Diabetes,"(5961, 5963)",dm
+8,Hypercholesterolemia,"(6699, 6715)",high cholesterol
+9,Hypertension,"(5966, 5969)",htn
+10,OA,"(5447, 5456)",arthritis
+11,OA,"(5434, 5456)",degenerative arthritis
+12,OA,"(6732, 6735)",djd
+13,OSA,"(5472, 5483)",sleep apnea
+14,OSA,"(6718, 6729)",sleep apnea
+15,Depression,"(1636, 1642)",celexa
+16,Depression,"(9689, 9695)",celexa
+17,Hypercholesterolemia,"(2384, 2394)",lovastatin
+18,Hypercholesterolemia,"(2665, 2675)",lovastatin
+19,Hypercholesterolemia,"(2884, 2894)",lovastatin
+20,Hypercholesterolemia,"(3039, 3049)",lovastatin
+21,Hypercholesterolemia,"(3103, 3114)",simvastatin
+22,Hypercholesterolemia,"(3310, 3320)",lovastatin
+23,Hypercholesterolemia,"(3618, 3628)",lovastatin
+24,Hypercholesterolemia,"(3709, 3719)",lovastatin
+25,Hypercholesterolemia,"(4598, 4608)",lovastatin
+26,Hypercholesterolemia,"(5152, 5163)",simvastatin

@@ -1,0 +1,25 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(68, 76)",diabetes
+1,Diabetes,"(1173, 1181)",diabetes
+2,Diabetes,"(1265, 1273)",diabetes
+3,Diabetes,"(1276, 1284)",diabetes
+4,Diabetes,"(3876, 3884)",diabetes
+5,Diabetes,"(4718, 4726)",diabetes
+6,Diabetes,"(2473, 2475)",dm
+7,Diabetes,"(4600, 4602)",dm
+8,Diabetes,"(1072, 1080)",diabetic
+9,Diabetes,"(3792, 3800)",diabetic
+10,Diabetes,"(5457, 5465)",diabetic
+11,Hypertension,"(2476, 2479)",htn
+12,Obesity,"(1296, 1303)",obesity
+13,Obesity,"(1306, 1313)",obesity
+14,Obesity,"(1448, 1455)",obesity
+15,Obesity,"(2273, 2280)",obesity
+16,Obesity,"(3680, 3687)",obesity
+17,Obesity,"(1296, 1303)",obesity
+18,Obesity,"(1306, 1313)",obesity
+19,Obesity,"(1448, 1455)",obesity
+20,Obesity,"(2273, 2280)",obesity
+21,Obesity,"(2619, 2624)",obese
+22,Obesity,"(2927, 2932)",obese
+23,Obesity,"(3680, 3687)",obesity

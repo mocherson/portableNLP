@@ -1,0 +1,27 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1155, 1178)",coronary artery disease
+1,CHF,"(70, 94)",congestive heart failure
+2,CHF,"(3194, 3218)",congestive heart failure
+3,CHF,"(7432, 7456)",congestive heart failure
+4,CHF,"(7556, 7580)",congestive heart failure
+5,CHF,"(253, 276)",ischemic cardiomyopathy
+6,CHF,"(1272, 1295)",ischemic cardiomyopathy
+7,CHF,"(3165, 3188)",ischemic cardiomyopathy
+8,CHF,"(7459, 7482)",ischemic cardiomyopathy
+9,CHF,"(7583, 7606)",ischemic cardiomyopathy
+10,Depression,"(6392, 6402)",depression
+11,Depression,"(7522, 7532)",depression
+12,Depression,"(7664, 7674)",depression
+13,Diabetes,"(3245, 3253)",diabetes
+14,Diabetes,"(5899, 5907)",diabetes
+15,Diabetes,"(5998, 6006)",diabetes
+16,Diabetes,"(7485, 7493)",diabetes
+17,Diabetes,"(7644, 7652)",diabetes
+18,Gallstones,"(1390, 1400)",gallstones
+19,Gallstones,"(1390, 1400)",gallstones
+20,Obesity,"(2743, 2748)",obese
+21,Depression,"(1702, 1708)",prozac
+22,Depression,"(6480, 6486)",prozac
+23,Depression,"(6506, 6512)",prozac
+24,Depression,"(7359, 7365)",prozac
+25,Hypercholesterolemia,"(7186, 7197)",simvastatin

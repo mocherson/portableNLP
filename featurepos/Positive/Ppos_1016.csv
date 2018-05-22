@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(197, 220)",coronary artery disease
+1,CAD,"(558, 581)",coronary artery disease
+2,CAD,"(2772, 2795)",coronary artery disease
+3,CHF,"(940, 943)",chf
+4,Gallstones,"(3065, 3080)",cholecystectomy
+5,GERD,"(337, 351)",reflux disease
+6,GERD,"(320, 343)",gastroesophageal reflux
+7,Gout,"(374, 378)",gout
+8,Gout,"(3037, 3041)",gout
+9,Hypercholesterolemia,"(2889, 2903)",hyperlipidemia
+10,Hypertension,"(356, 368)",hypertension
+11,Hypertriglyceridemia,"(278, 298)",hypertriglyceridemia
+12,Hypertriglyceridemia,"(278, 298)",hypertriglyceridemia
+13,Obesity,"(4086, 4091)",obese
+14,Hypertension,"(3617, 3626)",bp 146/98
+15,Hypertension,"(5602, 5611)",bp 170/98
+16,CAD,"(417, 440)",cardiac catheterization
+17,CAD,"(1081, 1104)",cardiac catheterization
+18,CAD,"(6104, 6127)",cardiac catheterization
+19,CAD,"(6148, 6171)",cardiac catheterization
+20,CAD,"(6597, 6620)",cardiac catheterization
+21,Hypercholesterolemia,"(3252, 3263)",simvastatin
+22,Hypercholesterolemia,"(7206, 7217)",simvastatin
+23,Gout,"(3334, 3345)",allopurinol
+24,Gout,"(6945, 6956)",allopurinol

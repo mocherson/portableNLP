@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(80, 88)",diabetes
+1,Diabetes,"(237, 245)",diabetes
+2,Diabetes,"(2279, 2287)",diabetes
+3,Diabetes,"(2567, 2575)",diabetes
+4,Diabetes,"(2517, 2525)",diabetic
+5,Gout,"(1035, 1039)",gout
+6,Gout,"(2950, 2954)",gout
+7,Obesity,"(1687, 1692)",obese
+8,Hypercholesterolemia,"(1310, 1321)",pravastatin

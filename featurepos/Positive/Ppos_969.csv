@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(548, 571)",coronary artery disease
+1,Hypertension,"(574, 586)",hypertension
+2,Obesity,"(996, 1001)",obese
+3,Obesity,"(1290, 1295)",obese
+4,Obesity,"(3102, 3107)",obese
+5,OSA,"(436, 459)",obstructive sleep apnea
+6,OSA,"(2829, 2852)",obstructive sleep apnea
+7,Hypercholesterolemia,"(3706, 3717)",simvastatin

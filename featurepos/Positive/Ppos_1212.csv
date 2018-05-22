@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(316, 319)",cad
+1,CAD,"(987, 1021)",percutaneous coronary intervention
+2,CAD,"(444, 467)",coronary artery disease
+3,Diabetes,"(399, 407)",diabetes
+4,Hypercholesterolemia,"(425, 441)",high cholesterol
+5,Hypertension,"(410, 422)",hypertension
+6,Depression,"(2773, 2779)",prozac
+7,Hypercholesterolemia,"(2747, 2758)",pravastatin

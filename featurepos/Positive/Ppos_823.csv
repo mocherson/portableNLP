@@ -1,0 +1,43 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3948, 3951)",cad
+1,CAD,"(4664, 4667)",cad
+2,CAD,"(5461, 5464)",cad
+3,CAD,"(8662, 8665)",cad
+4,CAD,"(4672, 4675)",pci
+5,CAD,"(5469, 5472)",pci
+6,CAD,"(8679, 8682)",pci
+7,CAD,"(3954, 3977)",coronary artery disease
+8,CHF,"(3915, 3918)",chf
+9,CHF,"(4734, 4737)",chf
+10,CHF,"(5539, 5542)",chf
+11,CHF,"(9255, 9258)",chf
+12,CHF,"(10331, 10334)",chf
+13,CHF,"(3921, 3945)",congestive heart failure
+14,Diabetes,"(4006, 4014)",diabetes
+15,Diabetes,"(4001, 4003)",dm
+16,Diabetes,"(10400, 10402)",dm
+17,Diabetes,"(5899, 5904)",niddm
+18,GERD,"(4026, 4030)",gerd
+19,GERD,"(5709, 5713)",gerd
+20,GERD,"(4050, 4064)",reflux disease
+21,GERD,"(4033, 4056)",gastroesophageal reflux
+22,Gout,"(10534, 10538)",gout
+23,Hypercholesterolemia,"(4719, 4731)",dyslipidemia
+24,Hypercholesterolemia,"(5525, 5537)",dyslipidemia
+25,Hypertension,"(3986, 3998)",hypertension
+26,Hypertension,"(3980, 3983)",htn
+27,Hypertension,"(4805, 4808)",htn
+28,Hypertension,"(5559, 5562)",htn
+29,PVD,"(5715, 5718)",pvd
+30,Hypercholesterolemia,"(1669, 1680)",pravastatin
+31,Hypercholesterolemia,"(1931, 1942)",pravastatin
+32,Hypercholesterolemia,"(2138, 2149)",pravastatin
+33,Hypercholesterolemia,"(2339, 2350)",pravastatin
+34,Hypercholesterolemia,"(2431, 2442)",pravastatin
+35,Hypercholesterolemia,"(2953, 2964)",pravastatin
+36,Hypercholesterolemia,"(6151, 6162)",pravastatin
+37,Gout,"(770, 781)",allopurinol
+38,Gout,"(936, 947)",allopurinol
+39,Gout,"(2837, 2848)",allopurinol
+40,Gout,"(5990, 6001)",allopurinol
+41,Gout,"(10577, 10588)",allopurinol

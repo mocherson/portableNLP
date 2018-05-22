@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2903, 2909)",asthma
+1,CHF,"(789, 813)",congestive heart failure
+2,CHF,"(6364, 6388)",congestive heart failure
+3,CHF,"(460, 482)",dilated cardiomyopathy
+4,Hypertension,"(2883, 2895)",hypertension
+5,Hypertension,"(9976, 9988)",hypertension
+6,Depression,"(3365, 3371)",prozac
+7,Depression,"(10458, 10464)",prozac

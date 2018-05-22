@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2316, 2319)",cad
+1,CAD,"(3352, 3355)",cad
+2,CAD,"(3733, 3736)",cad
+3,CHF,"(69, 72)",chf
+4,CHF,"(1815, 1818)",chf
+5,CHF,"(2335, 2338)",chf
+6,Diabetes,"(2128, 2130)",dm
+7,Diabetes,"(2154, 2156)",dm
+8,Diabetes,"(2341, 2343)",dm
+9,Diabetes,"(3358, 3360)",dm
+10,GERD,"(2030, 2039)",ge reflux
+11,Hypertension,"(1939, 1942)",htn
+12,PVD,"(3363, 3366)",pvd

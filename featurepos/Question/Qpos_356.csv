@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Hypertension,"(16, 19)",htn,"(8010, 8038)",vs longstanding htn vs tumor,
+1,GERD,"(13, 17)",gerd,"(9089, 9123)",acs vs pe vs gerd vs panic attacks,
+2,GERD,"(38, 42)",gerd,"(9880, 9968)",may have been 2/2 esophageal spasm or gerd as it radiated to the back and right shoulder,and right shoulder

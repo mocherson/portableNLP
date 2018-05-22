@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Diabetes,"(3, 11)",diabetes,"(386, 412)",no diabetes or cholesterol,
+1,CHF,"(3, 6)",chf,"(3365, 3385)",no chf or infiltrate,

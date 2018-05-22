@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(850, 856)",asthma
+1,CAD,"(2144, 2167)",coronary artery disease
+2,CAD,"(2195, 2218)",coronary artery disease
+3,Diabetes,"(806, 814)",diabetes
+4,Hypercholesterolemia,"(826, 840)",hyperlipidemia
+5,Hypertension,"(791, 803)",hypertension
+6,CAD,"(642, 665)",cardiac catheterization
+7,CAD,"(1859, 1882)",cardiac catheterization
+8,Hypercholesterolemia,"(996, 1008)",atorvastatin

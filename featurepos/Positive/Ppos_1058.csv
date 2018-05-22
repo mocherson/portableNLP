@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(273, 279)",asthma
+1,CAD,"(582, 605)",coronary artery disease
+2,CAD,"(2370, 2393)",coronary artery disease
+3,Gallstones,"(254, 269)",cholecystectomy
+4,Hypertension,"(539, 551)",hypertension
+5,Obesity,"(3384, 3389)",obese
+6,Hypertension,"(4409, 4421)",beta blocker
+7,CAD,"(4711, 4734)",cardiac catheterization

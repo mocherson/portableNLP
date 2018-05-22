@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2687, 2693)",asthma
+1,Diabetes,"(75, 77)",dm
+2,Diabetes,"(2588, 2590)",dm
+3,Diabetes,"(2907, 2909)",dm
+4,Diabetes,"(3355, 3357)",dm
+5,Diabetes,"(4231, 4233)",dm
+6,Diabetes,"(2698, 2702)",iddm
+7,Diabetes,"(2713, 2721)",diabetic
+8,Hypertension,"(2683, 2686)",htn
+9,Hypercholesterolemia,"(1701, 1712)",simvastatin
+10,Hypercholesterolemia,"(1927, 1939)",atorvastatin
+11,Hypercholesterolemia,"(2028, 2040)",atorvastatin
+12,Hypercholesterolemia,"(2161, 2173)",atorvastatin

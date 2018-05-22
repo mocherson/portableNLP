@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(745, 748)",chf
+1,CHF,"(296, 309)",heart failure
+2,CHF,"(582, 595)",heart failure
+3,CHF,"(2708, 2721)",heart failure
+4,CHF,"(2792, 2805)",heart failure
+5,Diabetes,"(949, 957)",diabetes
+6,Diabetes,"(5918, 5926)",diabetes
+7,Gout,"(976, 980)",gout
+8,Hypertension,"(3302, 3314)",hypertension
+9,Obesity,"(420, 427)",obesity
+10,Obesity,"(985, 992)",obesity
+11,Obesity,"(1056, 1063)",obesity
+12,Obesity,"(420, 427)",obesity
+13,Obesity,"(985, 992)",obesity
+14,Obesity,"(1056, 1063)",obesity
+15,Depression,"(1471, 1477)",celexa
+16,Depression,"(2345, 2351)",celexa
+17,Depression,"(7074, 7080)",celexa
+18,CAD,"(3148, 3171)",cardiac catheterization
+19,Hypercholesterolemia,"(5468, 5476)",nystatin
+20,Hypercholesterolemia,"(6678, 6686)",nystatin

@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(235, 258)",coronary artery disease
+1,CAD,"(361, 384)",coronary artery disease
+2,CHF,"(306, 330)",congestive heart failure
+3,CHF,"(562, 586)",congestive heart failure
+4,CHF,"(1759, 1772)",heart failure
+5,Diabetes,"(1939, 1947)",diabetes
+6,Diabetes,"(8568, 8576)",diabetes
+7,Gallstones,"(2082, 2097)",cholecystectomy
+8,Gallstones,"(3499, 3514)",cholecystectomy
+9,Gout,"(2009, 2013)",gout
+10,Gout,"(9690, 9694)",gout
+11,Hypercholesterolemia,"(1992, 2004)",dyslipidemia
+12,Hypercholesterolemia,"(2763, 2774)",simvastatin
+13,Gout,"(2846, 2857)",allopurinol
+14,Gout,"(9853, 9864)",allopurinol
+15,Gout,"(10081, 10092)",allopurinol

@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(282, 285)",chf
+1,CHF,"(340, 343)",chf
+2,CHF,"(564, 567)",chf
+3,CHF,"(1636, 1639)",chf
+4,CHF,"(3460, 3463)",chf
+5,CHF,"(4624, 4627)",chf
+6,CHF,"(6664, 6667)",chf
+7,CHF,"(7060, 7063)",chf
+8,CHF,"(344, 366)",dilated cardiomyopathy
+9,CHF,"(584, 606)",dilated cardiomyopathy
+10,CHF,"(1693, 1715)",dilated cardiomyopathy
+11,Depression,"(641, 651)",depression
+12,Depression,"(1729, 1739)",depression
+13,Gallstones,"(1208, 1223)",cholecystectomy
+14,Hypertension,"(448, 460)",hypertension
+15,Obesity,"(2907, 2912)",obese
+16,Depression,"(1848, 1854)",elavil
+17,Depression,"(5302, 5308)",elavil
+18,Hypertension,"(2529, 2550)",blood pressure 154/91

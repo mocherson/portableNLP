@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(316, 338)",coronary artery bypass
+1,CAD,"(2127, 2149)",coronary artery bypass
+2,CAD,"(2209, 2231)",coronary artery bypass
+3,CAD,"(2301, 2323)",coronary artery bypass
+4,CAD,"(206, 229)",coronary artery disease
+5,Diabetes,"(1567, 1575)",diabetes
+6,Hypercholesterolemia,"(1530, 1550)",hypercholesterolemia
+7,Hypercholesterolemia,"(1530, 1550)",hypercholesterolemia
+8,CAD,"(1754, 1777)",cardiac catheterization
+9,CAD,"(1978, 2001)",cardiac catheterization
+10,Gout,"(1404, 1415)",allopurinol

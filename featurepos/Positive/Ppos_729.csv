@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(829, 835)",asthma
+1,Asthma,"(4500, 4506)",asthma
+2,CAD,"(630, 653)",coronary artery disease
+3,CAD,"(4319, 4342)",coronary artery disease
+4,Depression,"(4047, 4057)",depression
+5,Diabetes,"(285, 293)",diabetes
+6,Diabetes,"(710, 718)",diabetes
+7,Diabetes,"(7015, 7023)",diabetes
+8,Diabetes,"(7647, 7655)",diabetic
+9,GERD,"(808, 822)",reflux disease
+10,GERD,"(4617, 4631)",reflux disease
+11,GERD,"(791, 814)",gastroesophageal reflux
+12,GERD,"(4600, 4623)",gastroesophageal reflux
+13,Hypertension,"(615, 627)",hypertension
+14,Hypertension,"(4392, 4404)",hypertension
+15,Depression,"(1248, 1254)",prozac
+16,Depression,"(4073, 4079)",prozac
+17,Depression,"(9591, 9597)",prozac

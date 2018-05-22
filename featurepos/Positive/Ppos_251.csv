@@ -1,0 +1,25 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(405, 411)",asthma
+1,Asthma,"(2367, 2373)",asthma
+2,Diabetes,"(2581, 2589)",diabetes
+3,Diabetes,"(9651, 9659)",diabetes
+4,Diabetes,"(9944, 9952)",diabetes
+5,Hypertension,"(2314, 2326)",hypertension
+6,Hypertension,"(5983, 5995)",hypertension
+7,Hypertension,"(9425, 9437)",hypertension
+8,OA,"(2553, 2567)",osteoarthritis
+9,Obesity,"(426, 433)",obesity
+10,Obesity,"(785, 792)",obesity
+11,Obesity,"(2441, 2448)",obesity
+12,Obesity,"(6035, 6042)",obesity
+13,Obesity,"(426, 433)",obesity
+14,Obesity,"(785, 792)",obesity
+15,Obesity,"(2441, 2448)",obesity
+16,Obesity,"(3954, 3959)",obese
+17,Obesity,"(6035, 6042)",obesity
+18,OSA,"(436, 459)",obstructive sleep apnea
+19,OSA,"(2485, 2508)",obstructive sleep apnea
+20,OSA,"(5957, 5980)",obstructive sleep apnea
+21,OSA,"(9958, 9981)",obstructive sleep apnea
+22,OSA,"(10278, 10301)",obstructive sleep apnea
+23,Venous Insufficiency,"(4088, 4098)",venostasis

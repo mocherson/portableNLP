@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(343, 366)",coronary artery disease
+1,CAD,"(522, 545)",coronary artery disease
+2,CAD,"(3122, 3145)",coronary artery disease
+3,CAD,"(5531, 5554)",coronary artery disease
+4,Depression,"(5571, 5581)",depression
+5,Diabetes,"(328, 336)",diabetes
+6,Diabetes,"(461, 469)",diabetes
+7,Diabetes,"(2298, 2306)",diabetes
+8,Diabetes,"(4541, 4549)",diabetes
+9,Diabetes,"(5520, 5528)",diabetes
+10,Hypertension,"(313, 325)",hypertension
+11,Hypertension,"(481, 493)",hypertension
+12,Hypertension,"(2318, 2330)",hypertension
+13,Hypertension,"(5505, 5517)",hypertension
+14,Depression,"(7241, 7251)",wellbutrin
+15,Hypertension,"(3284, 3296)",beta-blocker

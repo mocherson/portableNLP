@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1168, 1190)",coronary artery bypass
+1,CAD,"(3580, 3602)",coronary artery bypass
+2,CAD,"(222, 245)",coronary artery disease
+3,CAD,"(339, 362)",coronary artery disease
+4,Hypertension,"(322, 334)",hypertension
+5,Hypertension,"(583, 595)",hypertension
+6,Hypertension,"(804, 816)",hypertension
+7,Hypertension,"(2195, 2207)",hypertension
+8,OSA,"(2164, 2175)",sleep apnea
+9,CAD,"(823, 846)",cardiac catheterization
+10,Hypercholesterolemia,"(4695, 4707)",atorvastatin

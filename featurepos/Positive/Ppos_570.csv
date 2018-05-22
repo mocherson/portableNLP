@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(3676, 3686)",depression
+1,Depression,"(5354, 5364)",depression
+2,Diabetes,"(405, 413)",diabetes
+3,Diabetes,"(3203, 3211)",diabetes
+4,Diabetes,"(9916, 9924)",diabetes
+5,Diabetes,"(12058, 12066)",diabetes
+6,Hypercholesterolemia,"(431, 445)",hyperlipidemia
+7,Hypercholesterolemia,"(3217, 3231)",hyperlipidemia
+8,Hypercholesterolemia,"(9942, 9956)",hyperlipidemia
+9,Hypertension,"(309, 321)",hypertension
+10,Hypertension,"(416, 428)",hypertension
+11,Hypertension,"(2670, 2682)",hypertension
+12,Hypertension,"(3185, 3197)",hypertension
+13,Hypertension,"(9927, 9939)",hypertension
+14,Hypertension,"(10098, 10110)",hypertension
+15,Hypertension,"(11177, 11189)",hypertension
+16,Obesity,"(6201, 6206)",obese
+17,PVD,"(448, 475)",peripheral vascular disease
+18,PVD,"(3236, 3263)",peripheral vascular disease
+19,Depression,"(4525, 4535)",wellbutrin
+20,Hypertension,"(10537, 10554)",antihypertensives
+21,Hypercholesterolemia,"(5065, 5076)",fluvastatin

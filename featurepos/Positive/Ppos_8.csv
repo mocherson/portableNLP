@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(67, 70)",chf
+1,CHF,"(1652, 1655)",chf
+2,CHF,"(1748, 1751)",chf
+3,CHF,"(1927, 1930)",chf
+4,CHF,"(2414, 2417)",chf
+5,CHF,"(2561, 2564)",chf
+6,CHF,"(2617, 2620)",chf
+7,CHF,"(3448, 3451)",chf
+8,CHF,"(1933, 1957)",congestive heart failure
+9,Depression,"(3976, 3986)",depression
+10,GERD,"(2120, 2124)",gerd
+11,OA,"(2186, 2188)",oa
+12,Obesity,"(1848, 1855)",obesity
+13,Obesity,"(1858, 1865)",obesity
+14,Obesity,"(1848, 1855)",obesity
+15,Obesity,"(1858, 1865)",obesity
+16,OSA,"(2022, 2033)",sleep apnea
+17,OSA,"(2036, 2047)",sleep apnea
+18,OSA,"(2378, 2401)",obstructive sleep apnea

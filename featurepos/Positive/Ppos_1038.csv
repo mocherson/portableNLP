@@ -1,0 +1,27 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1695, 1718)",coronary artery disease
+1,Diabetes,"(411, 419)",diabetes
+2,Diabetes,"(1588, 1596)",diabetes
+3,Diabetes,"(6060, 6068)",diabetes
+4,Diabetes,"(3792, 3800)",diabetic
+5,Hypercholesterolemia,"(437, 451)",hyperlipidemia
+6,Hypercholesterolemia,"(1665, 1677)",dyslipidemia
+7,Hypertension,"(422, 434)",hypertension
+8,Hypertension,"(1680, 1692)",hypertension
+9,Obesity,"(393, 400)",obesity
+10,Obesity,"(1570, 1577)",obesity
+11,Obesity,"(6505, 6512)",obesity
+12,Obesity,"(6553, 6560)",obesity
+13,Obesity,"(6598, 6605)",obesity
+14,Obesity,"(393, 400)",obesity
+15,Obesity,"(1570, 1577)",obesity
+16,Obesity,"(2453, 2458)",obese
+17,Obesity,"(2632, 2637)",obese
+18,Obesity,"(6505, 6512)",obesity
+19,Obesity,"(6553, 6560)",obesity
+20,Obesity,"(6598, 6605)",obesity
+21,OSA,"(1794, 1817)",obstructive sleep apnea
+22,OSA,"(6675, 6698)",obstructive sleep apnea
+23,PVD,"(495, 522)",peripheral arterial disease
+24,PVD,"(1721, 1748)",peripheral vascular disease
+25,PVD,"(5307, 5334)",peripheral arterial disease

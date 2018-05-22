@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(539, 545)",asthma
+1,Asthma,"(1460, 1466)",asthma
+2,CAD,"(1721, 1724)",cad
+3,Diabetes,"(282, 290)",diabetes
+4,Diabetes,"(493, 501)",diabetes
+5,Diabetes,"(1489, 1497)",diabetes
+6,Diabetes,"(1662, 1670)",diabetes
+7,Hypertension,"(420, 432)",hypertension
+8,Hypertension,"(1471, 1483)",hypertension
+9,Hypertension,"(1685, 1697)",hypertension
+10,Obesity,"(388, 395)",obesity
+11,Obesity,"(1512, 1519)",obesity
+12,Obesity,"(388, 395)",obesity
+13,Obesity,"(1512, 1519)",obesity
+14,Obesity,"(2238, 2243)",obese
+15,Obesity,"(2756, 2761)",obese
+16,OSA,"(1524, 1535)",sleep apnea

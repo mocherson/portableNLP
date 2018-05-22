@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(3956, 3962)",asthma
+1,Asthma,"(6492, 6498)",asthma
+2,Diabetes,"(3987, 3995)",diabetes
+3,Diabetes,"(4660, 4668)",diabetes
+4,Hypercholesterolemia,"(3944, 3953)",hyperchol
+5,Hypertension,"(3938, 3941)",htn
+6,Obesity,"(3383, 3390)",obesity
+7,Obesity,"(3998, 4005)",obesity
+8,Obesity,"(3383, 3390)",obesity
+9,Obesity,"(3998, 4005)",obesity
+10,Obesity,"(5087, 5092)",obese
+11,OSA,"(5884, 5887)",osa
+12,OSA,"(6624, 6647)",obstructive sleep apnea
+13,Depression,"(2273, 2280)",effexor
+14,Depression,"(4417, 4424)",effexor
+15,Depression,"(6758, 6765)",effexor
+16,Hypercholesterolemia,"(1543, 1554)",simvastatin
+17,OA,"(4053, 4069)",knee replacement

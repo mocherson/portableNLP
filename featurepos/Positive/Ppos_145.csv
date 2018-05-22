@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(3174, 3180)",asthma
+1,Asthma,"(3624, 3630)",asthma
+2,Asthma,"(4606, 4612)",asthma
+3,Asthma,"(8303, 8309)",asthma
+4,Asthma,"(9558, 9564)",asthma
+5,CAD,"(87, 110)",coronary artery disease
+6,CAD,"(3017, 3040)",coronary artery disease
+7,Diabetes,"(3130, 3132)",dm
+8,Diabetes,"(3600, 3602)",dm
+9,Diabetes,"(4479, 4481)",dm
+10,Diabetes,"(4578, 4580)",dm
+11,Diabetes,"(8163, 8165)",dm
+12,Hypercholesterolemia,"(3607, 3621)",hyperlipidemia
+13,Hypercholesterolemia,"(4589, 4603)",hyperlipidemia
+14,Hypertension,"(113, 116)",htn
+15,Hypertension,"(3043, 3046)",htn
+16,Hypertension,"(3135, 3138)",htn
+17,Hypertension,"(3603, 3606)",htn
+18,Hypertension,"(4583, 4586)",htn
+19,Hypertension,"(7615, 7618)",htn
+20,OA,"(3193, 3207)",osteoarthritis
+21,Hypertension,"(8078, 8090)",beta-blocker
+22,Hypercholesterolemia,"(2307, 2318)",simvastatin

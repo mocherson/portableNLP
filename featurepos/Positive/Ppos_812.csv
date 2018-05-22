@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(232, 245)",heart failure
+1,CHF,"(2943, 2967)",congestive heart failure
+2,CHF,"(68, 90)",dilated cardiomyopathy
+3,CHF,"(282, 304)",dilated cardiomyopathy
+4,CHF,"(749, 771)",dilated cardiomyopathy
+5,CHF,"(1487, 1509)",dilated cardiomyopathy
+6,CHF,"(1597, 1619)",dilated cardiomyopathy
+7,CHF,"(3918, 3940)",dilated cardiomyopathy
+8,CHF,"(5715, 5737)",dilated cardiomyopathy
+9,Diabetes,"(326, 334)",diabetes
+10,Gallstones,"(2516, 2526)",gallstones
+11,Gallstones,"(2516, 2526)",gallstones
+12,Gallstones,"(2487, 2502)",cholecystectomy
+13,Hypertension,"(1399, 1413)",ace inhibitors

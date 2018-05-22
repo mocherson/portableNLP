@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(342, 364)",coronary artery bypass
+1,CAD,"(2977, 2999)",coronary artery bypass
+2,CAD,"(415, 438)",coronary artery disease
+3,Diabetes,"(1758, 1766)",diabetes
+4,GERD,"(1868, 1877)",ge reflux
+5,Hypercholesterolemia,"(1711, 1731)",hypercholesterolemia
+6,Hypercholesterolemia,"(1711, 1731)",hypercholesterolemia
+7,Hypercholesterolemia,"(1851, 1865)",hyperlipidemia
+8,OSA,"(1903, 1926)",obstructive sleep apnea
+9,CAD,"(314, 337)",cardiac catheterization
+10,CAD,"(2351, 2374)",cardiac catheterization

@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1984, 1987)",cad
+1,CAD,"(2934, 2937)",cad
+2,CAD,"(4324, 4327)",cad
+3,CAD,"(7003, 7006)",cad
+4,CAD,"(2788, 2791)",pci
+5,CAD,"(7150, 7153)",pci
+6,CAD,"(7901, 7904)",pci
+7,CAD,"(86, 109)",coronary artery disease
+8,CAD,"(1877, 1900)",coronary artery disease
+9,CAD,"(1990, 2013)",coronary artery disease
+10,Depression,"(2117, 2127)",depression
+11,Depression,"(2130, 2140)",depression
+12,Depression,"(4898, 4908)",depression
+13,Diabetes,"(2052, 2060)",diabetes
+14,Diabetes,"(2063, 2071)",diabetes
+15,Diabetes,"(4744, 4752)",diabetes
+16,GERD,"(4765, 4769)",gerd
+17,Hypercholesterolemia,"(4848, 4860)",dyslipidemia
+18,Hypertension,"(4730, 4733)",htn
+19,Obesity,"(5569, 5574)",obese
+20,Hypercholesterolemia,"(1150, 1161)",simvastatin

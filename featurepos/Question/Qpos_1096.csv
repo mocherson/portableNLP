@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,GERD,"(124, 135)",esophagitis,"(1326, 1461)",this was felt to be consistent with a pancreatic rest versus leiomyoma versus rarely metastatic lesion as well as some mild esophagitis,
+1,GERD,"(12, 30)",reflux esophagitis,"(2610, 2640)",question of reflux esophagitis,
+2,GERD,"(19, 30)",esophagitis,"(2610, 2640)",question of reflux esophagitis,

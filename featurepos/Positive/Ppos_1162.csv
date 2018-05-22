@@ -1,0 +1,30 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(2372, 2380)",diabetes
+1,Diabetes,"(2365, 2369)",iddm
+2,Diabetes,"(2710, 2714)",iddm
+3,Diabetes,"(4319, 4323)",iddm
+4,GERD,"(2528, 2532)",gerd
+5,GERD,"(4484, 4488)",gerd
+6,GERD,"(2552, 2566)",reflux disease
+7,GERD,"(2535, 2558)",gastroesophageal reflux
+8,Hypercholesterolemia,"(4240, 4249)",high chol
+9,Hypertension,"(2361, 2364)",htn
+10,Hypertension,"(4234, 4237)",htn
+11,OA,"(2475, 2477)",oa
+12,OA,"(2480, 2494)",osteoarthritis
+13,Obesity,"(2455, 2462)",obesity
+14,Obesity,"(2465, 2472)",obesity
+15,Obesity,"(2455, 2462)",obesity
+16,Obesity,"(2465, 2472)",obesity
+17,Obesity,"(2698, 2703)",obese
+18,Obesity,"(3445, 3450)",obese
+19,OSA,"(2428, 2431)",osa
+20,OSA,"(4210, 4213)",osa
+21,OSA,"(2434, 2445)",sleep apnea
+22,PVD,"(2392, 2395)",pvd
+23,PVD,"(2717, 2720)",pvd
+24,PVD,"(4419, 4422)",pvd
+25,PVD,"(2398, 2425)",peripheral vascular disease
+26,Hypercholesterolemia,"(1404, 1415)",simvastatin
+27,Hypercholesterolemia,"(1466, 1477)",simvastatin
+28,Hypercholesterolemia,"(1724, 1735)",simvastatin

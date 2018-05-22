@@ -1,0 +1,28 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(3637, 3647)",depression
+1,Depression,"(4579, 4589)",depression
+2,Diabetes,"(2411, 2419)",diabetes
+3,Diabetes,"(2406, 2408)",dm
+4,Diabetes,"(2704, 2706)",dm
+5,Diabetes,"(4106, 4108)",dm
+6,Diabetes,"(4646, 4648)",dm
+7,GERD,"(2501, 2505)",gerd
+8,GERD,"(4900, 4904)",gerd
+9,GERD,"(2525, 2539)",reflux disease
+10,GERD,"(2508, 2531)",gastroesophageal reflux
+11,Hypertension,"(90, 93)",htn
+12,Hypertension,"(2307, 2310)",htn
+13,Hypertension,"(2394, 2397)",htn
+14,Hypertension,"(2698, 2701)",htn
+15,Obesity,"(2715, 2722)",obesity
+16,Obesity,"(4111, 4118)",obesity
+17,Obesity,"(2715, 2722)",obesity
+18,Obesity,"(3960, 3965)",obese
+19,Obesity,"(4111, 4118)",obesity
+20,OSA,"(2481, 2484)",osa
+21,OSA,"(2709, 2712)",osa
+22,OSA,"(4100, 4103)",osa
+23,OSA,"(2487, 2498)",sleep apnea
+24,Depression,"(1203, 1209)",zoloft
+25,Depression,"(3816, 3822)",zoloft
+26,Depression,"(4625, 4631)",zoloft

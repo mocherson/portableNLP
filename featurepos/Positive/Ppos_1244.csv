@@ -1,0 +1,32 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(4638, 4644)",asthma
+1,CHF,"(4271, 4274)",chf
+2,CHF,"(4540, 4543)",chf
+3,CHF,"(4706, 4709)",chf
+4,CHF,"(5051, 5054)",chf
+5,CHF,"(5698, 5701)",chf
+6,CHF,"(70, 94)",congestive heart failure
+7,CHF,"(3879, 3903)",congestive heart failure
+8,CHF,"(3983, 4007)",congestive heart failure
+9,CHF,"(4277, 4301)",congestive heart failure
+10,Depression,"(4170, 4180)",depression
+11,Depression,"(4183, 4193)",depression
+12,Gout,"(4304, 4308)",gout
+13,Gout,"(4311, 4315)",gout
+14,OA,"(4336, 4350)",osteoarthritis
+15,OA,"(4353, 4367)",osteoarthritis
+16,Obesity,"(4553, 4560)",obesity
+17,Obesity,"(4098, 4106)",obesitiy
+18,Obesity,"(4553, 4560)",obesity
+19,Obesity,"(5270, 5275)",obese
+20,OSA,"(4196, 4207)",sleep apnea
+21,OSA,"(4210, 4221)",sleep apnea
+22,OSA,"(4664, 4675)",sleep apnea
+23,Depression,"(2174, 2180)",celexa
+24,Depression,"(2470, 2476)",celexa
+25,Depression,"(2765, 2771)",celexa
+26,Depression,"(2987, 2993)",celexa
+27,Gout,"(501, 512)",allopurinol
+28,Gout,"(647, 658)",allopurinol
+29,Gout,"(1946, 1957)",allopurinol
+30,Gout,"(2016, 2027)",allopurinol

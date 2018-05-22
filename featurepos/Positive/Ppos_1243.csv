@@ -1,0 +1,27 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(2092, 2095)",chf
+1,CHF,"(3029, 3032)",chf
+2,CHF,"(2098, 2122)",congestive heart failure
+3,Diabetes,"(2061, 2069)",diabetes
+4,Diabetes,"(2072, 2080)",diabetes
+5,Diabetes,"(4372, 4374)",dm
+6,Diabetes,"(2321, 2325)",iddm
+7,Hypercholesterolemia,"(2328, 2348)",hypercholesterolemia
+8,Hypercholesterolemia,"(2328, 2348)",hypercholesterolemia
+9,Hypertension,"(2131, 2143)",hypertension
+10,Hypertension,"(2351, 2363)",hypertension
+11,Hypertension,"(2125, 2128)",htn
+12,Obesity,"(2311, 2318)",obesity
+13,Obesity,"(2931, 2938)",obesity
+14,Obesity,"(3839, 3846)",obesity
+15,Obesity,"(2311, 2318)",obesity
+16,Obesity,"(2931, 2938)",obesity
+17,Obesity,"(3549, 3554)",obese
+18,Obesity,"(3740, 3745)",obese
+19,Obesity,"(3839, 3846)",obesity
+20,OSA,"(2366, 2377)",sleep apnea
+21,OSA,"(3950, 3961)",sleep apnea
+22,OSA,"(4158, 4169)",sleep apnea
+23,Hypercholesterolemia,"(1121, 1133)",atorvastatin
+24,Hypercholesterolemia,"(1751, 1761)",lovastatin
+25,Hypercholesterolemia,"(1820, 1831)",pravastatin

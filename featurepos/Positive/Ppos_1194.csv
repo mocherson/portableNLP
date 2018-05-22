@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(348, 356)",diabetes
+1,Diabetes,"(2002, 2010)",diabetes
+2,Diabetes,"(2120, 2128)",diabetes
+3,Diabetes,"(9228, 9230)",dm
+4,Diabetes,"(11349, 11351)",dm
+5,Diabetes,"(2341, 2349)",diabetic
+6,GERD,"(2735, 2749)",reflux disease
+7,GERD,"(2718, 2741)",gastroesophageal reflux
+8,Hypercholesterolemia,"(2755, 2769)",hyperlipidemia
+9,Hypertension,"(2596, 2608)",hypertension
+10,Hypertension,"(2647, 2659)",hypertension
+11,Obesity,"(10763, 10768)",obese
+12,Hypertension,"(8746, 8755)",b-blocker

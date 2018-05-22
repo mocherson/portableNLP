@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(203, 209)",asthma
+1,Asthma,"(382, 388)",asthma
+2,Asthma,"(480, 486)",asthma
+3,Asthma,"(649, 655)",asthma
+4,Asthma,"(3422, 3428)",asthma
+5,Asthma,"(4062, 4068)",asthma
+6,Hypertension,"(1536, 1548)",hypertension
+7,OA,"(1550, 1576)",degenerative joint disease
+8,Obesity,"(2304, 2309)",obese

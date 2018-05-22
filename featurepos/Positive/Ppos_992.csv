@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2329, 2335)",asthma
+1,CHF,"(2470, 2483)",heart failure
+2,Gallstones,"(2579, 2594)",cholecystectomy
+3,Hypertension,"(338, 350)",hypertension
+4,Hypertension,"(2391, 2403)",hypertension
+5,Obesity,"(2534, 2541)",obesity
+6,Obesity,"(2534, 2541)",obesity
+7,Obesity,"(3114, 3119)",obese
+8,Obesity,"(3468, 3473)",obese
+9,OSA,"(1145, 1156)",sleep apnea
+10,OSA,"(6664, 6675)",sleep apnea
+11,OSA,"(6845, 6868)",obstructive sleep apnea
+12,OA,"(313, 332)",lumbar disk disease
+13,OA,"(2412, 2431)",lumbar disk disease

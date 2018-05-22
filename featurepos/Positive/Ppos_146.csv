@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4036, 4059)",coronary artery disease
+1,CHF,"(1927, 1951)",congestive heart failure
+2,CHF,"(4064, 4088)",congestive heart failure
+3,Diabetes,"(1784, 1792)",diabetes
+4,Diabetes,"(1869, 1877)",diabetes
+5,Diabetes,"(3961, 3969)",diabetes
+6,Diabetes,"(6244, 6252)",diabetes
+7,Diabetes,"(6295, 6303)",diabetes
+8,Diabetes,"(6654, 6662)",diabetes
+9,Diabetes,"(237, 245)",diabetic
+10,Hypertension,"(1889, 1901)",hypertension
+11,Hypertension,"(4021, 4033)",hypertension
+12,Hypertension,"(6308, 6320)",hypertension
+13,Hypertension,"(2194, 2208)",ace inhibitors
+14,Hypertension,"(4855, 4867)",beta blocker
+15,Hypercholesterolemia,"(7067, 7078)",simvastatin

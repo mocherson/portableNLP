@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(5433, 5456)",coronary artery disease
+1,CHF,"(1041, 1065)",congestive heart failure
+2,Diabetes,"(334, 342)",diabetes
+3,Diabetes,"(971, 979)",diabetes
+4,Diabetes,"(5650, 5658)",diabetes
+5,Diabetes,"(5840, 5848)",diabetes
+6,Diabetes,"(6927, 6935)",diabetes
+7,Gout,"(1034, 1038)",gout
+8,Hypertension,"(982, 994)",hypertension
+9,OA,"(1086, 1100)",osteoarthritis

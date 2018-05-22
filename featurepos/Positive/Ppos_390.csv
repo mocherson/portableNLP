@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(544, 554)",depression
+1,Diabetes,"(277, 285)",diabetes
+2,Diabetes,"(809, 817)",diabetes
+3,Diabetes,"(4623, 4631)",diabetes
+4,Diabetes,"(4701, 4709)",diabetes
+5,GERD,"(214, 228)",reflux disease
+6,GERD,"(5946, 5960)",reflux disease
+7,GERD,"(5929, 5952)",gastroesophageal reflux
+8,Hypercholesterolemia,"(339, 359)",hypercholesterolemia
+9,Hypercholesterolemia,"(855, 875)",hypercholesterolemia
+10,Hypercholesterolemia,"(339, 359)",hypercholesterolemia
+11,Hypercholesterolemia,"(855, 875)",hypercholesterolemia
+12,Hypertension,"(235, 247)",hypertension
+13,Hypertension,"(794, 806)",hypertension
+14,Hypertension,"(4757, 4769)",hypertension
+15,Obesity,"(3219, 3224)",obese
+16,Hypercholesterolemia,"(2580, 2591)",provastatin
+17,Hypercholesterolemia,"(5791, 5802)",provastatin

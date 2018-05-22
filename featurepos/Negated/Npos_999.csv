@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Diabetes,"(3, 11)",diabetes,"(580, 600)",no diabetes mellitus,
+1,Gallstones,"(3, 21)",gallbladder stones,"(4834, 4856)",no gallbladder stones ,
+2,CHF,"(26, 29)",chf,"(4934, 4963)",without clear evidence of chf,

@@ -1,0 +1,28 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4956, 4978)",coronary artery bypass
+1,CAD,"(252, 275)",coronary artery disease
+2,CAD,"(299, 322)",coronary artery disease
+3,CAD,"(482, 505)",coronary artery disease
+4,CAD,"(1652, 1675)",coronary artery disease
+5,CAD,"(6108, 6131)",coronary artery disease
+6,CHF,"(1706, 1730)",congestive heart failure
+7,Diabetes,"(347, 355)",diabetes
+8,Diabetes,"(471, 479)",diabetes
+9,Diabetes,"(1601, 1609)",diabetes
+10,Diabetes,"(1095, 1103)",diabetic
+11,Diabetes,"(2027, 2035)",diabetic
+12,Diabetes,"(9373, 9381)",diabetic
+13,Diabetes,"(10246, 10254)",diabetic
+14,Diabetes,"(10390, 10398)",diabetic
+15,Diabetes,"(12331, 12339)",diabetic
+16,Diabetes,"(12387, 12395)",diabetic
+17,Gout,"(2006, 2010)",gout
+18,Hypertension,"(1778, 1790)",hypertension
+19,Obesity,"(3947, 3952)",obese
+20,PVD,"(629, 656)",peripheral vascular disease
+21,PVD,"(1745, 1772)",peripheral vascular disease
+22,Venous Insufficiency,"(12850, 12863)",venous stasis
+23,Hypertension,"(7616, 7628)",beta blocker
+24,CAD,"(4547, 4570)",cardiac catheterization
+25,Gout,"(2538, 2549)",allopurinol
+26,Gout,"(14427, 14438)",allopurinol

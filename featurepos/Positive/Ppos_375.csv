@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(1713, 1721)",diabetes
+1,Diabetes,"(4450, 4458)",diabetes
+2,Hypercholesterolemia,"(1968, 1988)",hypercholesterolemia
+3,Hypercholesterolemia,"(1968, 1988)",hypercholesterolemia
+4,Hypertension,"(412, 424)",hypertension
+5,Hypertension,"(1696, 1708)",hypertension
+6,Hypertension,"(4465, 4477)",hypertension
+7,Obesity,"(402, 409)",obesity
+8,Obesity,"(1741, 1748)",obesity
+9,Obesity,"(402, 409)",obesity
+10,Obesity,"(1741, 1748)",obesity
+11,Obesity,"(3237, 3242)",obese
+12,OSA,"(1754, 1765)",sleep apnea
+13,OSA,"(5073, 5096)",obstructive sleep apnea
+14,Depression,"(2413, 2423)",wellbutrin
+15,Depression,"(8248, 8258)",wellbutrin
+16,Hypertension,"(6134, 6146)",beta-blocker
+17,Hypertension,"(6861, 6873)",beta-blocker

@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(3823, 3829)",asthma
+1,GERD,"(3574, 3578)",gerd
+2,GERD,"(3598, 3612)",reflux disease
+3,GERD,"(3581, 3604)",gastroesophageal reflux
+4,Hypertension,"(3544, 3556)",hypertension
+5,Hypertension,"(3559, 3571)",hypertension
+6,Obesity,"(3972, 3977)",obese
+7,Hypercholesterolemia,"(1839, 1850)",pravastatin

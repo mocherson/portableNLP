@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2567, 2570)",cad
+1,CAD,"(2813, 2816)",cad
+2,CAD,"(4027, 4030)",cad
+3,CAD,"(4148, 4151)",cad
+4,CAD,"(2837, 2840)",pci
+5,Depression,"(2603, 2613)",depression
+6,Hypercholesterolemia,"(2573, 2589)",high cholesterol
+7,Hypercholesterolemia,"(2938, 2950)",dyslipidemia
+8,Hypertension,"(2561, 2564)",htn
+9,Hypertension,"(2932, 2935)",htn
+10,OA,"(2598, 2600)",oa
+11,Obesity,"(2953, 2960)",obesity
+12,Obesity,"(2953, 2960)",obesity
+13,OSA,"(2592, 2595)",osa
+14,Hypercholesterolemia,"(750, 761)",simvastatin

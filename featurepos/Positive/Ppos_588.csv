@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(247, 269)",coronary artery bypass
+1,CAD,"(986, 1008)",coronary artery bypass
+2,CAD,"(1079, 1101)",coronary artery bypass
+3,CAD,"(1371, 1393)",coronary artery bypass
+4,CAD,"(403, 426)",coronary artery disease
+5,CAD,"(2510, 2533)",coronary artery disease
+6,Diabetes,"(2490, 2498)",diabetes
+7,Gout,"(2545, 2549)",gout
+8,Obesity,"(2626, 2633)",obesity
+9,Obesity,"(2626, 2633)",obesity
+10,Obesity,"(3000, 3005)",obese
+11,Obesity,"(3330, 3335)",obese

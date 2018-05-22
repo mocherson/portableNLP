@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1900, 1903)",cad
+1,CAD,"(2322, 2325)",cad
+2,CAD,"(2532, 2535)",cad
+3,Depression,"(67, 77)",depression
+4,Depression,"(1608, 1618)",depression
+5,Depression,"(4733, 4743)",depression
+6,Diabetes,"(1912, 1914)",dm
+7,Diabetes,"(2544, 2546)",dm
+8,Diabetes,"(3315, 3317)",dm
+9,Hypertension,"(1726, 1729)",htn
+10,Hypertension,"(1906, 1909)",htn
+11,Hypertension,"(2538, 2541)",htn
+12,Depression,"(462, 468)",prozac
+13,Depression,"(2635, 2641)",prozac
+14,Depression,"(3550, 3556)",prozac
+15,Hypercholesterolemia,"(1116, 1127)",simvastatin

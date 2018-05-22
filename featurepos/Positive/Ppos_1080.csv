@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(5756, 5762)",asthma
+1,Asthma,"(6666, 6672)",asthma
+2,CAD,"(6234, 6237)",cad
+3,GERD,"(7582, 7586)",gerd
+4,Gout,"(5796, 5800)",gout
+5,Hypertension,"(5763, 5766)",htn
+6,Obesity,"(6818, 6823)",obese
+7,PVD,"(6015, 6018)",pvd
+8,PVD,"(6021, 6048)",peripheral vascular disease
+9,Gout,"(537, 548)",allopurinol
+10,Gout,"(755, 766)",allopurinol
+11,Gout,"(1009, 1020)",allopurinol
+12,Gout,"(3502, 3513)",allopurinol
+13,Gout,"(3747, 3758)",allopurinol

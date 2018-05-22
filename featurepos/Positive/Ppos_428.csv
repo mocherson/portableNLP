@@ -1,0 +1,35 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(2299, 2302)",chf
+1,CHF,"(2717, 2720)",chf
+2,CHF,"(3606, 3609)",chf
+3,CHF,"(4750, 4753)",chf
+4,CHF,"(5723, 5726)",chf
+5,CHF,"(3937, 3950)",heart failure
+6,CHF,"(4723, 4736)",heart failure
+7,Diabetes,"(2502, 2504)",dm
+8,Diabetes,"(2747, 2749)",dm
+9,Diabetes,"(3632, 3634)",dm
+10,Diabetes,"(3915, 3917)",dm
+11,Diabetes,"(4644, 4646)",dm
+12,Diabetes,"(5897, 5899)",dm
+13,Hypercholesterolemia,"(2758, 2778)",hypercholesterolemia
+14,Hypercholesterolemia,"(3672, 3692)",hypercholesterolemia
+15,Hypercholesterolemia,"(4655, 4675)",hypercholesterolemia
+16,Hypercholesterolemia,"(2758, 2778)",hypercholesterolemia
+17,Hypercholesterolemia,"(3672, 3692)",hypercholesterolemia
+18,Hypercholesterolemia,"(4655, 4675)",hypercholesterolemia
+19,Hypercholesterolemia,"(2507, 2523)",high cholesterol
+20,Hypertension,"(2487, 2499)",hypertension
+21,Hypertension,"(2752, 2755)",htn
+22,Hypertension,"(3666, 3669)",htn
+23,Hypertension,"(4649, 4652)",htn
+24,Hypertension,"(4754, 4757)",htn
+25,Hypertension,"(4899, 4902)",htn
+26,Hypertension,"(5256, 5259)",htn
+27,Obesity,"(2526, 2533)",obesity
+28,Obesity,"(3695, 3702)",obesity
+29,Obesity,"(2526, 2533)",obesity
+30,Obesity,"(3695, 3702)",obesity
+31,OSA,"(5400, 5403)",osa
+32,Hypercholesterolemia,"(1295, 1306)",simvastatin
+33,Hypercholesterolemia,"(3757, 3768)",simvastatin

@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4023, 4043)",coronary angioplasty
+1,Diabetes,"(382, 390)",diabetes
+2,Diabetes,"(1440, 1448)",diabetes
+3,GERD,"(454, 468)",reflux disease
+4,GERD,"(1535, 1549)",reflux disease
+5,GERD,"(437, 460)",gastroesophageal reflux
+6,GERD,"(1518, 1541)",gastroesophageal reflux
+7,Hypertension,"(1463, 1475)",hypertension
+8,Hypertension,"(2939, 2951)",beta blocker
+9,Hypercholesterolemia,"(5460, 5471)",simvastatin

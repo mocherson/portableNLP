@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2333, 2339)",asthma
+1,Depression,"(2385, 2395)",depression
+2,Diabetes,"(2350, 2358)",diabetes
+3,GERD,"(2421, 2425)",gerd
+4,Hypercholesterolemia,"(2398, 2418)",hypercholesterolemia
+5,Hypercholesterolemia,"(2398, 2418)",hypercholesterolemia
+6,OA,"(2117, 2119)",oa
+7,OA,"(2691, 2693)",oa
+8,OA,"(2316, 2330)",osteoarthritis
+9,Hypercholesterolemia,"(631, 643)",atorvastatin

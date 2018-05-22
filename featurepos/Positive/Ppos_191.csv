@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2216, 2219)",cad
+1,CAD,"(4005, 4008)",cad
+2,Diabetes,"(5054, 5056)",dm
+3,Diabetes,"(7069, 7071)",dm
+4,Diabetes,"(2208, 2213)",niddm
+5,Diabetes,"(2711, 2716)",niddm
+6,Diabetes,"(6973, 6978)",niddm
+7,GERD,"(2352, 2356)",gerd
+8,Hypertension,"(2202, 2205)",htn
+9,Hypertension,"(2719, 2722)",htn
+10,Hypertension,"(5059, 5062)",htn
+11,Hypercholesterolemia,"(525, 537)",atorvastatin
+12,Hypercholesterolemia,"(972, 984)",atorvastatin

@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(492, 495)",cad
+1,CAD,"(4446, 4449)",cad
+2,CHF,"(855, 858)",chf
+3,CHF,"(1257, 1260)",chf
+4,CHF,"(4117, 4120)",chf
+5,CHF,"(1748, 1761)",heart failure
+6,CHF,"(1793, 1817)",congestive heart failure
+7,Hypertension,"(1210, 1222)",beta-blocker
+8,Hypertension,"(2036, 2048)",beta blocker
+9,CAD,"(1550, 1573)",cardiac catheterization
+10,CAD,"(3391, 3414)",cardiac catheterization
+11,Hypercholesterolemia,"(2490, 2501)",simvastatin
+12,Hypercholesterolemia,"(12139, 12147)",nystatin
+13,Hypercholesterolemia,"(12208, 12219)",simvastatin

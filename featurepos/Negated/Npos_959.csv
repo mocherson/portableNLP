@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,CAD,"(3, 26)",coronary artery disease,"(2067, 2105)",no coronary artery disease or diabetes,
+1,Diabetes,"(30, 38)",diabetes,"(2067, 2105)",no coronary artery disease or diabetes,
+2,CAD,"(77, 97)",coronary angioplasty,"(3809, 3956)",no return of chest pain in-house subsequent to his percutaneous transluminal coronary angioplasty and was managed on a medical regimen of atenolol ,

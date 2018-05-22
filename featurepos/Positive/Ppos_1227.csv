@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(314, 337)",coronary artery disease
+1,Diabetes,"(367, 375)",diabetes
+2,Diabetes,"(854, 862)",diabetes
+3,Hypercholesterolemia,"(340, 360)",hypercholesterolemia
+4,Hypercholesterolemia,"(340, 360)",hypercholesterolemia
+5,Hypertension,"(865, 877)",hypertension
+6,Obesity,"(304, 311)",obesity
+7,Obesity,"(2011, 2018)",obesity
+8,Obesity,"(304, 311)",obesity
+9,Obesity,"(428, 433)",obese
+10,Obesity,"(2011, 2018)",obesity
+11,OSA,"(884, 895)",sleep apnea
+12,CAD,"(638, 661)",cardiac catheterization
+13,CAD,"(933, 956)",cardiac catheterization

@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(3369, 3375)",asthma
+1,Diabetes,"(3348, 3350)",dm
+2,Diabetes,"(4799, 4801)",dm
+3,Gout,"(2029, 2033)",gout
+4,Hypertension,"(3353, 3356)",htn
+5,OA,"(3620, 3622)",oa
+6,Obesity,"(3359, 3366)",obesity
+7,Obesity,"(3359, 3366)",obesity

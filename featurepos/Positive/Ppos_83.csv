@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(2872, 2875)",chf
+1,CHF,"(4161, 4164)",chf
+2,CHF,"(4976, 4979)",chf
+3,Diabetes,"(2371, 2373)",dm
+4,Diabetes,"(2591, 2593)",dm
+5,Diabetes,"(1708, 1713)",niddm
+6,Hypercholesterolemia,"(1718, 1738)",hypercholesterolemia
+7,Hypercholesterolemia,"(2073, 2093)",hypercholesterolemia
+8,Hypercholesterolemia,"(2927, 2947)",hypercholesterolemia
+9,Hypercholesterolemia,"(1718, 1738)",hypercholesterolemia
+10,Hypercholesterolemia,"(2073, 2093)",hypercholesterolemia
+11,Hypercholesterolemia,"(2602, 2611)",hyperchol
+12,Hypercholesterolemia,"(2927, 2947)",hypercholesterolemia
+13,Hypertension,"(1967, 1979)",hypertension
+14,Hypertension,"(1700, 1703)",htn
+15,Hypertension,"(2365, 2368)",htn
+16,Hypertension,"(2596, 2599)",htn
+17,Hypertension,"(2921, 2924)",htn
+18,Obesity,"(2062, 2069)",obesity
+19,Obesity,"(2062, 2069)",obesity
+20,Obesity,"(3080, 3085)",obese
+21,Hypertension,"(4135, 4152)",antihypertensives
+22,Hypercholesterolemia,"(1393, 1404)",simvastatin

@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2359, 2382)",coronary artery disease
+1,CAD,"(5506, 5529)",coronary artery disease
+2,Diabetes,"(346, 354)",diabetes
+3,Diabetes,"(2285, 2293)",diabetes
+4,Gallstones,"(4285, 4295)",gallstones
+5,Gallstones,"(4285, 4295)",gallstones
+6,Gallstones,"(4569, 4583)",cholelithiasis
+7,Gout,"(383, 387)",gout
+8,Gout,"(2495, 2499)",gout
+9,Hypercholesterolemia,"(390, 410)",hypercholesterolemia
+10,Hypercholesterolemia,"(2530, 2550)",hypercholesterolemia
+11,Hypercholesterolemia,"(390, 410)",hypercholesterolemia
+12,Hypercholesterolemia,"(2530, 2550)",hypercholesterolemia
+13,Hypertension,"(293, 305)",hypertension
+14,Hypertension,"(2344, 2356)",hypertension
+15,Hypertension,"(780, 796)",antihypertensive
+16,CAD,"(2440, 2463)",cardiac catheterization
+17,Gout,"(2001, 2012)",allopurinol
+18,Gout,"(6661, 6672)",allopurinol

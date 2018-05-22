@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(514, 520)",asthma
+1,Asthma,"(3536, 3542)",asthma
+2,Depression,"(547, 557)",depression
+3,Depression,"(3569, 3579)",depression
+4,Diabetes,"(10614, 10622)",diabetes
+5,Hypertension,"(496, 508)",hypertension
+6,Hypertension,"(3518, 3530)",hypertension
+7,Hypertension,"(4515, 4527)",hypertension
+8,Hypertension,"(7679, 7691)",hypertension
+9,Depression,"(3845, 3853)",cymbalta
+10,Depression,"(9354, 9362)",cymbalta
+11,Depression,"(12975, 12983)",cymbalta

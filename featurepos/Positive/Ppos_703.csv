@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1723, 1729)",asthma
+1,Asthma,"(1732, 1738)",asthma
+2,Asthma,"(2068, 2074)",asthma
+3,Asthma,"(4245, 4251)",asthma
+4,Hypercholesterolemia,"(1775, 1795)",elevated cholesterol
+5,Hypercholesterolemia,"(1798, 1818)",elevated cholesterol
+6,Hypercholesterolemia,"(2032, 2048)",high cholesterol
+7,Hypertension,"(1708, 1720)",hypertension
+8,Hypertension,"(3951, 3963)",hypertension
+9,Hypertension,"(1702, 1705)",htn
+10,Hypertension,"(2026, 2029)",htn
+11,Hypercholesterolemia,"(736, 747)",simvastatin
+12,Hypercholesterolemia,"(989, 1001)",atorvastatin
+13,Hypercholesterolemia,"(1472, 1484)",atorvastatin

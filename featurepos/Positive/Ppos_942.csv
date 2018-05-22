@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4593, 4616)",coronary artery disease
+1,Depression,"(3449, 3459)",depression
+2,GERD,"(3439, 3443)",gerd
+3,Hypertension,"(346, 358)",hypertension
+4,Hypertension,"(3396, 3408)",hypertension
+5,Obesity,"(3325, 3332)",obesity
+6,Obesity,"(2441, 2446)",obese
+7,Obesity,"(3325, 3332)",obesity
+8,Obesity,"(4982, 4987)",obese
+9,Obesity,"(5881, 5886)",obese
+10,OSA,"(289, 312)",obstructive sleep apnea
+11,OSA,"(3337, 3360)",obstructive sleep apnea
+12,Depression,"(4224, 4230)",zoloft
+13,Depression,"(9125, 9131)",zoloft

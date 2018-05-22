@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1487, 1490)",cad
+1,CAD,"(1493, 1516)",coronary artery disease
+2,Diabetes,"(1439, 1447)",diabetes
+3,Diabetes,"(1434, 1436)",dm
+4,Diabetes,"(2432, 2434)",dm
+5,Hypertension,"(1472, 1484)",hypertension
+6,Hypertension,"(1466, 1469)",htn
+7,Depression,"(563, 569)",zoloft
+8,Hypercholesterolemia,"(988, 1000)",atorvastatin

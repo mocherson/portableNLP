@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(69, 75)",asthma
+1,Asthma,"(200, 206)",asthma
+2,Asthma,"(426, 432)",asthma
+3,Asthma,"(635, 641)",asthma
+4,Asthma,"(824, 830)",asthma
+5,Asthma,"(2377, 2383)",asthma
+6,Asthma,"(5698, 5704)",asthma
+7,Asthma,"(5769, 5775)",asthma
+8,Obesity,"(254, 261)",obesity
+9,Obesity,"(2676, 2683)",obesity
+10,Obesity,"(4815, 4822)",obesity
+11,Obesity,"(254, 261)",obesity
+12,Obesity,"(591, 596)",obese
+13,Obesity,"(2676, 2683)",obesity
+14,Obesity,"(3803, 3808)",obese
+15,Obesity,"(4700, 4705)",obese
+16,Obesity,"(4815, 4822)",obesity
+17,Depression,"(3018, 3028)",wellbutrin
+18,Depression,"(9751, 9761)",wellbutrin

@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(229, 252)",coronary artery disease
+1,CAD,"(357, 380)",coronary artery disease
+2,CAD,"(3022, 3045)",coronary artery disease
+3,GERD,"(1682, 1696)",reflux disease
+4,Hypertension,"(4225, 4237)",hypertension
+5,Hypertension,"(4765, 4777)",hypertension
+6,CAD,"(664, 687)",cardiac catheterization
+7,CAD,"(3644, 3667)",cardiac catheterization
+8,Hypercholesterolemia,"(5395, 5406)",simvastatin

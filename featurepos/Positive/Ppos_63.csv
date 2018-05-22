@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,OA,"(189, 203)",osteoarthritis
+1,OA,"(241, 255)",osteoarthritis
+2,Obesity,"(882, 887)",obese
+3,Obesity,"(1077, 1082)",obese
+4,OSA,"(286, 297)",sleep apnea
+5,OSA,"(732, 743)",sleep apnea
+6,OA,"(334, 349)",hip replacement
+7,OA,"(1528, 1543)",hip replacement

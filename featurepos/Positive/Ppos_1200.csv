@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(223, 247)",congestive heart failure
+1,CHF,"(330, 354)",congestive heart failure
+2,CHF,"(493, 517)",congestive heart failure
+3,CHF,"(681, 705)",congestive heart failure
+4,CHF,"(4394, 4418)",congestive heart failure
+5,CHF,"(4731, 4755)",congestive heart failure
+6,CHF,"(4853, 4877)",congestive heart failure
+7,Hypercholesterolemia,"(2525, 2545)",elevated cholesterol
+8,OA,"(2441, 2450)",arthritis
+9,Hypertension,"(4983, 4995)",beta blocker
+10,Hypertension,"(3449, 3471)",blood pressure 150/100
+11,Hypercholesterolemia,"(2763, 2774)",simvastatin
+12,Hypercholesterolemia,"(6699, 6710)",simvastatin

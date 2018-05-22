@@ -1,0 +1,36 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(6246, 6249)",cad
+1,CAD,"(6711, 6714)",cad
+2,CAD,"(8323, 8326)",cad
+3,Diabetes,"(6391, 6399)",diabetes
+4,Diabetes,"(6383, 6388)",niddm
+5,Diabetes,"(9460, 9465)",niddm
+6,GERD,"(6342, 6346)",gerd
+7,GERD,"(6366, 6380)",reflux disease
+8,GERD,"(6349, 6372)",gastroesophageal reflux
+9,Gout,"(6270, 6274)",gout
+10,Gout,"(9500, 9504)",gout
+11,Hypertension,"(69, 81)",hypertension
+12,Hypertension,"(6150, 6162)",hypertension
+13,Hypertension,"(6667, 6679)",hypertension
+14,Hypertension,"(6312, 6315)",htn
+15,Hypertension,"(6896, 6899)",htn
+16,Hypertension,"(8407, 8410)",htn
+17,Hypertriglyceridemia,"(6291, 6311)",hypertriglyceridemia
+18,Hypertriglyceridemia,"(6291, 6311)",hypertriglyceridemia
+19,Hypercholesterolemia,"(590, 602)",atorvastatin
+20,Hypercholesterolemia,"(1680, 1692)",atorvastatin
+21,Hypercholesterolemia,"(2337, 2349)",atorvastatin
+22,Hypercholesterolemia,"(2519, 2531)",atorvastatin
+23,Hypercholesterolemia,"(2740, 2752)",atorvastatin
+24,Hypercholesterolemia,"(2812, 2824)",atorvastatin
+25,Hypercholesterolemia,"(3054, 3066)",atorvastatin
+26,Hypercholesterolemia,"(4042, 4054)",atorvastatin
+27,Hypercholesterolemia,"(4114, 4126)",atorvastatin
+28,Hypercholesterolemia,"(5263, 5275)",atorvastatin
+29,Gout,"(533, 544)",allopurinol
+30,Gout,"(1071, 1082)",allopurinol
+31,Gout,"(1249, 1260)",allopurinol
+32,Gout,"(5320, 5331)",allopurinol
+33,Gout,"(7741, 7752)",allopurinol
+34,Gout,"(9540, 9551)",allopurinol

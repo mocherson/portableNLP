@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1922, 1925)",cad
+1,Depression,"(1606, 1616)",depression
+2,Depression,"(2532, 2542)",depression
+3,Obesity,"(1711, 1718)",obesity
+4,Obesity,"(1904, 1911)",obesity
+5,Obesity,"(2993, 3000)",obesity
+6,Obesity,"(1711, 1718)",obesity
+7,Obesity,"(1904, 1911)",obesity
+8,Obesity,"(2993, 3000)",obesity
+9,Depression,"(877, 884)",effexor
+10,Depression,"(1280, 1286)",prozac
+11,Depression,"(2794, 2800)",zoloft
+12,Depression,"(2819, 2825)",prozac
+13,Depression,"(2927, 2934)",effexor

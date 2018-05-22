@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(477, 500)",coronary artery disease
+1,CAD,"(1761, 1784)",coronary artery disease
+2,CAD,"(2386, 2409)",coronary artery disease
+3,Diabetes,"(1894, 1902)",diabetes
+4,Diabetes,"(2337, 2345)",diabetes
+5,Diabetes,"(2533, 2541)",diabetes
+6,Diabetes,"(797, 799)",dm
+7,Hypercholesterolemia,"(1918, 1938)",hypercholesterolemia
+8,Hypercholesterolemia,"(2508, 2528)",hypercholesterolemia
+9,Hypercholesterolemia,"(1918, 1938)",hypercholesterolemia
+10,Hypercholesterolemia,"(2508, 2528)",hypercholesterolemia
+11,CAD,"(4598, 4621)",cardiac catheterization
+12,Hypercholesterolemia,"(2150, 2161)",pravastatin
+13,Hypercholesterolemia,"(5181, 5192)",pravastatin

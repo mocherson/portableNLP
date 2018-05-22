@@ -1,0 +1,35 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4971, 4974)",cad
+1,CHF,"(2898, 2901)",chf
+2,CHF,"(3576, 3579)",chf
+3,CHF,"(2927, 2951)",congestive heart failure
+4,Depression,"(2861, 2871)",depression
+5,Diabetes,"(3027, 3035)",diabetes
+6,Diabetes,"(3022, 3024)",dm
+7,Diabetes,"(3528, 3531)",dm2
+8,Diabetes,"(3887, 3890)",dm2
+9,Diabetes,"(5009, 5011)",dm
+10,Diabetes,"(6321, 6323)",dm
+11,Diabetes,"(3914, 3919)",iddm2
+12,GERD,"(3047, 3051)",gerd
+13,GERD,"(3946, 3950)",gerd
+14,GERD,"(3054, 3071)",esophageal reflux
+15,Gout,"(3074, 3078)",gout
+16,Gout,"(3081, 3085)",gout
+17,Gout,"(6262, 6266)",gout
+18,Hypertension,"(2857, 2860)",htn
+19,Hypertension,"(3534, 3537)",htn
+20,Hypertension,"(3908, 3911)",htn
+21,Obesity,"(2872, 2879)",obesity
+22,Obesity,"(2872, 2879)",obesity
+23,Obesity,"(4538, 4543)",obese
+24,OSA,"(3190, 3193)",osa
+25,OSA,"(3196, 3207)",sleep apnea
+26,Depression,"(568, 574)",prozac
+27,CAD,"(3326, 3349)",cardiac catheterization
+28,Hypercholesterolemia,"(747, 759)",atorvastatin
+29,Hypercholesterolemia,"(922, 934)",atorvastatin
+30,Hypercholesterolemia,"(1144, 1156)",atorvastatin
+31,Gout,"(523, 534)",allopurinol
+32,Gout,"(4206, 4217)",allopurinol
+33,Gout,"(6304, 6315)",allopurinol

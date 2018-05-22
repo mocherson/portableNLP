@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(255, 279)",congestive heart failure
+1,CHF,"(347, 371)",congestive heart failure
+2,CHF,"(619, 643)",congestive heart failure
+3,CHF,"(2047, 2071)",congestive heart failure
+4,CHF,"(6512, 6536)",congestive heart failure
+5,Depression,"(2347, 2357)",depression
+6,Diabetes,"(535, 543)",diabetes
+7,Diabetes,"(2139, 2147)",diabetes
+8,Diabetes,"(9899, 9907)",diabetes
+9,Gout,"(2340, 2344)",gout
+10,Hypercholesterolemia,"(2235, 2255)",hypercholesterolemia
+11,Hypercholesterolemia,"(2235, 2255)",hypercholesterolemia
+12,Hypertension,"(555, 567)",hypertension
+13,Hypertension,"(2220, 2232)",hypertension
+14,Hypertension,"(6690, 6702)",hypertension
+15,Hypertension,"(6416, 6428)",beta-blocker

@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(309, 317)",diabetes
+1,Diabetes,"(512, 520)",diabetes
+2,Diabetes,"(2654, 2662)",diabetes
+3,Diabetes,"(2815, 2823)",diabetes
+4,GERD,"(3315, 3329)",reflux disease
+5,GERD,"(3298, 3321)",gastroesophageal reflux
+6,Hypercholesterolemia,"(350, 370)",hypercholesterolemia
+7,Hypercholesterolemia,"(2717, 2737)",hypercholesterolemia
+8,Hypercholesterolemia,"(3061, 3081)",hypercholesterolemia
+9,Hypercholesterolemia,"(7375, 7395)",hypercholesterolemia
+10,Hypercholesterolemia,"(350, 370)",hypercholesterolemia
+11,Hypercholesterolemia,"(2717, 2737)",hypercholesterolemia
+12,Hypercholesterolemia,"(3061, 3081)",hypercholesterolemia
+13,Hypercholesterolemia,"(7375, 7395)",hypercholesterolemia
+14,Hypertension,"(332, 344)",hypertension
+15,Hypertension,"(532, 544)",hypertension
+16,Hypertension,"(2674, 2686)",hypertension
+17,Hypertension,"(3025, 3037)",hypertension
+18,OA,"(1189, 1198)",arthritis
+19,OA,"(1176, 1198)",degenerative arthritis
+20,Obesity,"(5409, 5414)",obese
+21,Hypertension,"(7277, 7289)",beta blocker
+22,Hypertension,"(4300, 4321)",blood pressure 144/96
+23,Hypercholesterolemia,"(7353, 7364)",simvastatin
+24,Hypercholesterolemia,"(9057, 9068)",simvastatin

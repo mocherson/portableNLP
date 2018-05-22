@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(500, 506)",asthma
+1,Diabetes,"(465, 473)",diabetes
+2,Hypertension,"(485, 497)",hypertension
+3,Obesity,"(554, 561)",obesity
+4,Obesity,"(554, 561)",obesity
+5,Venous Insufficiency,"(421, 434)",venous stasis
+6,Venous Insufficiency,"(636, 649)",venous stasis
+7,Venous Insufficiency,"(959, 981)",lower extremity ulcers

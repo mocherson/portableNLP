@@ -1,0 +1,40 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(6991, 6994)",chf
+1,CHF,"(6997, 7021)",congestive heart failure
+2,Gallstones,"(7283, 7298)",cholecystectomy
+3,Gallstones,"(7273, 7276)",ccy
+4,Gout,"(7198, 7202)",gout
+5,Gout,"(7205, 7209)",gout
+6,Gout,"(7476, 7480)",gout
+7,Gout,"(8425, 8429)",gout
+8,Gout,"(9664, 9668)",gout
+9,Hypertension,"(7096, 7108)",hypertension
+10,Hypertension,"(9010, 9022)",hypertension
+11,Hypertension,"(7090, 7093)",htn
+12,Hypertension,"(8415, 8418)",htn
+13,OA,"(7483, 7485)",oa
+14,OA,"(8432, 8434)",oa
+15,OA,"(9671, 9673)",oa
+16,Obesity,"(7308, 7315)",obesity
+17,Obesity,"(7318, 7325)",obesity
+18,Obesity,"(7308, 7315)",obesity
+19,Obesity,"(7318, 7325)",obesity
+20,Obesity,"(9189, 9194)",obese
+21,Obesity,"(9296, 9301)",obese
+22,Hypercholesterolemia,"(2059, 2070)",simvastatin
+23,Hypercholesterolemia,"(4693, 4704)",simvastatin
+24,Hypercholesterolemia,"(4932, 4943)",simvastatin
+25,Hypercholesterolemia,"(4992, 5003)",simvastatin
+26,Hypercholesterolemia,"(5052, 5063)",simvastatin
+27,Hypercholesterolemia,"(6161, 6172)",simvastatin
+28,OA,"(7179, 7195)",knee replacement
+29,OA,"(7500, 7516)",knee replacement
+30,OA,"(8508, 8524)",knee replacement
+31,OA,"(9688, 9704)",knee replacement
+32,Gout,"(1229, 1240)",allopurinol
+33,Gout,"(1393, 1404)",allopurinol
+34,Gout,"(1608, 1619)",allopurinol
+35,Gout,"(1812, 1823)",allopurinol
+36,Gout,"(6101, 6112)",allopurinol
+37,Gout,"(8796, 8807)",allopurinol
+38,Gout,"(10979, 10990)",allopurinol

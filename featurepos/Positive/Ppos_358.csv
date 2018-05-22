@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1401, 1423)",coronary artery bypass
+1,CAD,"(3013, 3035)",coronary artery bypass
+2,CAD,"(196, 219)",coronary artery disease
+3,CAD,"(297, 320)",coronary artery disease
+4,CAD,"(1454, 1477)",coronary artery disease
+5,CHF,"(1495, 1519)",congestive heart failure
+6,Diabetes,"(346, 354)",diabetes
+7,Diabetes,"(1530, 1538)",diabetes
+8,GERD,"(1615, 1629)",reflux disease
+9,GERD,"(1598, 1621)",gastroesophageal reflux
+10,Hypertension,"(323, 335)",hypertension
+11,Hypertension,"(1480, 1492)",hypertension
+12,Hypertension,"(3730, 3742)",hypertension
+13,PVD,"(370, 397)",peripheral vascular disease
+14,PVD,"(1568, 1595)",peripheral vascular disease
+15,Hypertension,"(760, 784)",blood pressure of 230/90
+16,CAD,"(937, 960)",cardiac catheterization

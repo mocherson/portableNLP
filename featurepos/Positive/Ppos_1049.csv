@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(366, 389)",coronary artery disease
+1,CAD,"(512, 535)",coronary artery disease
+2,CHF,"(4323, 4347)",congestive heart failure
+3,CHF,"(4671, 4695)",congestive heart failure
+4,CHF,"(5151, 5175)",congestive heart failure
+5,Diabetes,"(392, 400)",diabetes
+6,Diabetes,"(1620, 1628)",diabetes
+7,Hypertension,"(407, 419)",hypertension
+8,Hypertension,"(1722, 1734)",hypertension
+9,Obesity,"(5187, 5194)",obesity
+10,Obesity,"(2556, 2561)",obese
+11,Obesity,"(5187, 5194)",obesity
+12,Hypercholesterolemia,"(2077, 2088)",simvastatin
+13,Hypercholesterolemia,"(3916, 3927)",simvastatin
+14,Hypercholesterolemia,"(6160, 6171)",simvastatin

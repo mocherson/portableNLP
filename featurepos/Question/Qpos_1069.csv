@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,OSA,"(13, 36)",obstructive sleep apnea,"(3791, 3852)",arrythmia vs obstructive sleep apnea vs vasovagal episode hpi,
+1,Obesity,"(37, 44)",obesity,"(7552, 7613)",s differential included arrythmia vs obesity hypoventilation ,
+2,Obesity,"(37, 44)",obesity,"(7552, 7613)",s differential included arrythmia vs obesity hypoventilation ,

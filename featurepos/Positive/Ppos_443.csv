@@ -1,0 +1,32 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2249, 2252)",cad
+1,CAD,"(2897, 2900)",cad
+2,CAD,"(5335, 5338)",cad
+3,CAD,"(5451, 5454)",cad
+4,CAD,"(4295, 4317)",coronary artery bypass
+5,CAD,"(4000, 4023)",coronary artery disease
+6,CHF,"(2304, 2307)",chf
+7,CHF,"(2310, 2334)",congestive heart failure
+8,CHF,"(4093, 4117)",congestive heart failure
+9,Depression,"(4162, 4172)",depression
+10,Diabetes,"(3973, 3981)",diabetes
+11,Diabetes,"(6782, 6790)",diabetes
+12,Diabetes,"(2240, 2244)",iddm
+13,Diabetes,"(2890, 2894)",iddm
+14,Diabetes,"(5364, 5368)",iddm
+15,Diabetes,"(6092, 6096)",iddm
+16,Diabetes,"(6975, 6983)",diabetic
+17,Hypercholesterolemia,"(3932, 3952)",hypercholesterolemia
+18,Hypercholesterolemia,"(3932, 3952)",hypercholesterolemia
+19,Hypercholesterolemia,"(2400, 2410)",hyperlipid
+20,Hypercholesterolemia,"(2413, 2427)",hyperlipidemia
+21,Hypercholesterolemia,"(2924, 2938)",hyperlipidemia
+22,Hypercholesterolemia,"(5347, 5361)",hyperlipidemia
+23,Hypertension,"(3917, 3929)",hypertension
+24,Hypertension,"(2245, 2248)",htn
+25,Hypertension,"(2884, 2887)",htn
+26,Hypertension,"(5341, 5344)",htn
+27,Depression,"(859, 865)",celexa
+28,Depression,"(4624, 4630)",celexa
+29,Hypercholesterolemia,"(747, 758)",simvastatin
+30,Hypercholesterolemia,"(1664, 1675)",simvastatin

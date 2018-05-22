@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(345, 351)",asthma
+1,Asthma,"(541, 547)",asthma
+2,Asthma,"(1974, 1980)",asthma
+3,Diabetes,"(325, 333)",diabetes
+4,Diabetes,"(1951, 1959)",diabetes
+5,Hypercholesterolemia,"(2728, 2748)",hypercholesterolemia
+6,Hypercholesterolemia,"(2728, 2748)",hypercholesterolemia
+7,Hypertension,"(2711, 2723)",hypertension
+8,Hypertension,"(6904, 6916)",hypertension

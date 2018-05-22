@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(245, 253)",diabetes
+1,Diabetes,"(370, 378)",diabetes
+2,Diabetes,"(540, 548)",diabetes
+3,Diabetes,"(2677, 2685)",diabetes
+4,Hypercholesterolemia,"(581, 601)",hypercholesterolemia
+5,Hypercholesterolemia,"(2712, 2732)",hypercholesterolemia
+6,Hypercholesterolemia,"(581, 601)",hypercholesterolemia
+7,Hypercholesterolemia,"(2712, 2732)",hypercholesterolemia
+8,Hypertension,"(227, 239)",hypertension
+9,Hypertension,"(355, 367)",hypertension
+10,Hypertension,"(525, 537)",hypertension
+11,Hypertension,"(2662, 2674)",hypertension
+12,Obesity,"(3289, 3294)",obese
+13,Depression,"(3178, 3184)",elavil
+14,Depression,"(4458, 4464)",elavil
+15,CAD,"(4011, 4034)",cardiac catheterization

@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3212, 3215)",cad
+1,CAD,"(3479, 3482)",cad
+2,CHF,"(68, 71)",chf
+3,CHF,"(3033, 3036)",chf
+4,CHF,"(3116, 3119)",chf
+5,CHF,"(3280, 3283)",chf
+6,CHF,"(3586, 3589)",chf
+7,Diabetes,"(3494, 3496)",dm
+8,Diabetes,"(3203, 3207)",iddm
+9,Hypertension,"(3208, 3211)",htn
+10,Depression,"(895, 905)",wellbutrin
+11,Hypercholesterolemia,"(1632, 1643)",simvastatin
+12,Hypercholesterolemia,"(2069, 2080)",simvastatin
+13,Hypercholesterolemia,"(2564, 2576)",atorvastatin
+14,Hypercholesterolemia,"(2688, 2700)",atorvastatin

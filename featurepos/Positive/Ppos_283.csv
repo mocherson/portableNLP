@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2416, 2422)",asthma
+1,Diabetes,"(1794, 1797)",dm2
+2,Diabetes,"(2363, 2366)",dm2
+3,Diabetes,"(3930, 3932)",dm
+4,Diabetes,"(3983, 3985)",dm
+5,GERD,"(1521, 1525)",gerd
+6,GERD,"(2409, 2413)",gerd
+7,Hypercholesterolemia,"(1777, 1791)",hyperlipidemia
+8,Hypercholesterolemia,"(2392, 2406)",hyperlipidemia
+9,Hypertension,"(75, 87)",hypertension
+10,Hypertension,"(1410, 1422)",hypertension
+11,Hypertension,"(1506, 1518)",hypertension
+12,Hypertension,"(3815, 3827)",hypertension
+13,Hypertension,"(1771, 1774)",htn
+14,Hypertension,"(2386, 2389)",htn
+15,Hypertension,"(3119, 3122)",htn
+16,Hypertension,"(3769, 3772)",htn

@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(571, 574)",cad
+1,CAD,"(1074, 1077)",cad
+2,CAD,"(2018, 2021)",cad
+3,Gallstones,"(1366, 1381)",cholecystectomy
+4,GERD,"(1154, 1158)",gerd
+5,Gout,"(1147, 1151)",gout
+6,Hypercholesterolemia,"(1124, 1144)",hypercholesterolemia
+7,Hypercholesterolemia,"(1124, 1144)",hypercholesterolemia
+8,Hypertension,"(1109, 1121)",hypertension
+9,Obesity,"(547, 554)",obesity
+10,Obesity,"(1168, 1175)",obesity
+11,Obesity,"(1994, 2001)",obesity
+12,Obesity,"(547, 554)",obesity
+13,Obesity,"(1168, 1175)",obesity
+14,Obesity,"(1994, 2001)",obesity
+15,OSA,"(557, 568)",sleep apnea
+16,OSA,"(1252, 1263)",sleep apnea
+17,OSA,"(2004, 2015)",sleep apnea

@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3814, 3817)",cad
+1,CAD,"(3820, 3843)",coronary artery disease
+2,CHF,"(3756, 3759)",chf
+3,CHF,"(5269, 5273)",chf3
+4,CHF,"(3762, 3786)",congestive heart failure
+5,Diabetes,"(3794, 3802)",diabetes
+6,Diabetes,"(5344, 5352)",diabetes
+7,Diabetes,"(3789, 3791)",dm
+8,Diabetes,"(7083, 7085)",dm
+9,Hypercholesterolemia,"(3894, 3914)",hypercholesterolemia
+10,Hypercholesterolemia,"(3894, 3914)",hypercholesterolemia
+11,Hypercholesterolemia,"(3917, 3937)",elevated cholesterol
+12,Hypercholesterolemia,"(5381, 5395)",hyperlipidemia
+13,Hypertension,"(3879, 3891)",hypertension
+14,Hypertension,"(5365, 5378)",hypertension6
+15,Hypertension,"(7011, 7023)",hypertension
+16,Hypertension,"(3873, 3876)",htn

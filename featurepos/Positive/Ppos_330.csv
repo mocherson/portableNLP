@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(300, 322)",coronary artery bypass
+1,CAD,"(595, 617)",coronary artery bypass
+2,CAD,"(1311, 1333)",coronary artery bypass
+3,CAD,"(204, 227)",coronary artery disease
+4,CAD,"(509, 532)",coronary artery disease
+5,CAD,"(677, 700)",coronary artery disease
+6,PVD,"(705, 732)",peripheral vascular disease

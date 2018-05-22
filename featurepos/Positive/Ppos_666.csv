@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(260, 284)",congestive heart failure
+1,CHF,"(308, 332)",congestive heart failure
+2,CHF,"(4946, 4970)",congestive heart failure
+3,Depression,"(7548, 7554)",celexa
+4,Hypertension,"(2220, 2232)",beta-blocker
+5,Hypertension,"(2778, 2790)",beta-blocker
+6,Hypertension,"(5273, 5285)",beta-blocker

@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2272, 2306)",percutaneous coronary intervention
+1,Diabetes,"(441, 449)",diabetes
+2,Diabetes,"(733, 741)",diabetes
+3,Diabetes,"(4119, 4127)",diabetes
+4,Hypercholesterolemia,"(506, 526)",hypercholesterolemia
+5,Hypercholesterolemia,"(702, 722)",hypercholesterolemia
+6,Hypercholesterolemia,"(506, 526)",hypercholesterolemia
+7,Hypercholesterolemia,"(702, 722)",hypercholesterolemia
+8,Hypertension,"(2947, 2961)",ace inhibitors
+9,Hypertension,"(3400, 3414)",ace inhibitors

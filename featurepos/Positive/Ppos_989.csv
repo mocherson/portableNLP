@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2911, 2934)",atherosclerotic disease
+1,CAD,"(1994, 2016)",coronary artery bypass
+2,CAD,"(1709, 1732)",coronary artery disease
+3,CHF,"(5469, 5472)",chf
+4,CHF,"(733, 757)",congestive heart failure
+5,CHF,"(3696, 3720)",congestive heart failure
+6,CHF,"(1881, 1904)",ischemic cardiomyopathy
+7,Diabetes,"(1682, 1690)",diabetes
+8,Diabetes,"(6063, 6071)",diabetes
+9,Diabetes,"(6113, 6121)",diabetes
+10,Diabetes,"(6201, 6209)",diabetes
+11,Gout,"(1871, 1875)",gout
+12,Hypercholesterolemia,"(1750, 1770)",elevated cholesterol
+13,Hypertension,"(1735, 1747)",hypertension
+14,Venous Insufficiency,"(762, 775)",venous stasis
+15,Venous Insufficiency,"(1693, 1706)",venous stasis
+16,Venous Insufficiency,"(1841, 1854)",venous stasis
+17,Hypercholesterolemia,"(2154, 2166)",atorvastatin
+18,Hypercholesterolemia,"(6858, 6870)",atorvastatin
+19,Gout,"(2225, 2236)",allopurinol
+20,Gout,"(6823, 6834)",allopurinol

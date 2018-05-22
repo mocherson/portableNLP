@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Hypertension,"(9, 21)",hypertension,"(504, 526)",possible hypertension ,
+1,Hypercholesterolemia,"(20, 40)",hypercholesterolemia,"(532, 572)",possible history of hypercholesterolemia,
+2,Hypercholesterolemia,"(20, 40)",hypercholesterolemia,"(532, 572)",possible history of hypercholesterolemia,

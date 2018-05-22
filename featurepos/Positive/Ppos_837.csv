@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(600, 606)",asthma
+1,Asthma,"(3302, 3308)",asthma
+2,CAD,"(966, 988)",coronary artery bypass
+3,CAD,"(2776, 2798)",coronary artery bypass
+4,CAD,"(285, 308)",coronary artery disease
+5,CAD,"(448, 471)",coronary artery disease
+6,CAD,"(1087, 1110)",coronary artery disease
+7,Diabetes,"(518, 526)",diabetes
+8,Diabetes,"(3140, 3148)",diabetic
+9,Diabetes,"(3197, 3205)",diabetic
+10,Diabetes,"(3399, 3407)",diabetic
+11,CAD,"(366, 389)",cardiac catheterization

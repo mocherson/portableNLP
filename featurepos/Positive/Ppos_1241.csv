@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(344, 367)",coronary artery disease
+1,CAD,"(718, 741)",coronary artery disease
+2,Diabetes,"(270, 278)",diabetes
+3,Diabetes,"(659, 667)",diabetes
+4,Hypercholesterolemia,"(689, 709)",elevated cholesterol
+5,Hypercholesterolemia,"(306, 320)",hyperlipidemia
+6,Hypertension,"(326, 338)",hypertension
+7,Hypertension,"(626, 638)",hypertension
+8,Obesity,"(3505, 3510)",obese
+9,Hypertension,"(6230, 6252)",blood pressure 200/107

@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(493, 501)",diabetes
+1,Diabetes,"(1334, 1342)",diabetes
+2,Hypertension,"(467, 479)",hypertension
+3,Hypertension,"(1305, 1317)",hypertension
+4,Obesity,"(1561, 1566)",obese
+5,Obesity,"(1799, 1804)",obese
+6,OSA,"(7740, 7751)",sleep apnea
+7,Venous Insufficiency,"(1278, 1298)",venous insufficiency
+8,Venous Insufficiency,"(4374, 4394)",venous insufficiency
+9,Venous Insufficiency,"(6846, 6866)",venous insufficiency
+10,Venous Insufficiency,"(7636, 7656)",venous insufficiency
+11,Hypertension,"(1480, 1505)",blood pressure of 160/100

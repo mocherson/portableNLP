@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,Gout,"(1013, 1017)",gout
+1,Gout,"(5307, 5311)",gout
+2,Hypertension,"(844, 856)",hypertension
+3,Hypertension,"(1557, 1569)",hypertension
+4,Hypertension,"(5043, 5055)",hypertension
+5,Obesity,"(1161, 1168)",obesity
+6,Obesity,"(1534, 1541)",obesity
+7,Obesity,"(1161, 1168)",obesity
+8,Obesity,"(1534, 1541)",obesity
+9,Obesity,"(1763, 1768)",obese
+10,Obesity,"(1945, 1950)",obese
+11,OSA,"(4537, 4548)",sleep apnea
+12,Venous Insufficiency,"(960, 970)",venostasis
+13,Venous Insufficiency,"(2019, 2029)",venostasis
+14,Venous Insufficiency,"(960, 981)",venostasis dermatitis
+15,OA,"(1578, 1593)",hip replacement
+16,Gout,"(392, 403)",allopurinol

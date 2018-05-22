@@ -1,0 +1,29 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(472, 478)",asthma
+1,Asthma,"(1448, 1454)",asthma
+2,CAD,"(1104, 1107)",pci
+3,CAD,"(403, 426)",coronary artery disease
+4,CAD,"(1068, 1091)",coronary artery disease
+5,Depression,"(533, 543)",depression
+6,Depression,"(1607, 1617)",depression
+7,Depression,"(4520, 4530)",depression
+8,Diabetes,"(432, 440)",diabetes
+9,Diabetes,"(1165, 1173)",diabetes
+10,Diabetes,"(5577, 5585)",diabetes
+11,Gallstones,"(1662, 1677)",cholecystectomy
+12,GERD,"(1407, 1411)",gerd
+13,Hypertension,"(455, 467)",hypertension
+14,Hypertension,"(1185, 1197)",hypertension
+15,Obesity,"(520, 527)",obesity
+16,Obesity,"(1525, 1532)",obesity
+17,Obesity,"(520, 527)",obesity
+18,Obesity,"(1525, 1532)",obesity
+19,Obesity,"(2884, 2889)",obese
+20,OSA,"(484, 507)",obstructive sleep apnea
+21,OSA,"(1504, 1515)",sleep apnea
+22,PVD,"(549, 576)",peripheral vascular disease
+23,PVD,"(1336, 1363)",peripheral vascular disease
+24,Depression,"(2194, 2200)",prozac
+25,Depression,"(6456, 6462)",prozac
+26,GERD,"(1434, 1445)",esophagitis
+27,Hypercholesterolemia,"(6949, 6960)",simvastatin

@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(4940, 4943)",chf
+1,CHF,"(4946, 4970)",congestive heart failure
+2,Diabetes,"(5830, 5838)",diabetes
+3,Diabetes,"(5850, 5855)",niddm
+4,Gout,"(4926, 4930)",gout
+5,Gout,"(4933, 4937)",gout
+6,Gout,"(5687, 5691)",gout
+7,Hypercholesterolemia,"(5858, 5878)",hypercholesterolemia
+8,Hypercholesterolemia,"(5858, 5878)",hypercholesterolemia
+9,OA,"(4856, 4858)",oa
+10,OA,"(4861, 4875)",osteoarthritis
+11,PVD,"(4655, 4658)",pvd
+12,PVD,"(8541, 8544)",pvd
+13,PVD,"(4693, 4720)",peripheral vascular disease
+14,PVD,"(5913, 5940)",peripheral arterial disease
+15,Hypercholesterolemia,"(2817, 2828)",simvastatin
+16,Hypercholesterolemia,"(3093, 3104)",simvastatin
+17,Hypercholesterolemia,"(3312, 3323)",simvastatin
+18,Hypercholesterolemia,"(3803, 3814)",simvastatin

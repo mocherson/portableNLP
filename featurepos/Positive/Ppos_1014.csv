@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4001, 4024)",coronary artery disease
+1,CAD,"(8999, 9022)",coronary artery disease
+2,Depression,"(2980, 2990)",depression
+3,Diabetes,"(3067, 3075)",diabetes
+4,Diabetes,"(5983, 5991)",diabetes
+5,Diabetes,"(8841, 8849)",diabetes
+6,Diabetes,"(10956, 10964)",diabetes
+7,Diabetes,"(15268, 15276)",diabetes
+8,OA,"(6954, 6963)",arthritis
+9,Obesity,"(4666, 4671)",obese
+10,Depression,"(3489, 3495)",zoloft
+11,Depression,"(13900, 13906)",zoloft
+12,Hypertension,"(8104, 8116)",beta-blocker
+13,Hypertension,"(8393, 8405)",beta-blocker

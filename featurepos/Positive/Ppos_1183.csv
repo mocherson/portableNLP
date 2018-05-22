@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1956, 1959)",chf
+1,CHF,"(2200, 2203)",chf
+2,CHF,"(2232, 2235)",chf
+3,CHF,"(2476, 2479)",chf
+4,CHF,"(69, 93)",congestive heart failure
+5,CHF,"(1673, 1697)",congestive heart failure
+6,CHF,"(1777, 1801)",congestive heart failure
+7,Diabetes,"(1928, 1936)",diabetes
+8,Diabetes,"(2122, 2124)",dm
+9,Hypertension,"(1899, 1902)",htn
+10,Hypertension,"(2100, 2103)",htn

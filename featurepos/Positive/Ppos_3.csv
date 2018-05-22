@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(404, 410)",asthma
+1,Asthma,"(1919, 1925)",asthma
+2,CAD,"(413, 416)",cad
+3,CAD,"(1930, 1933)",cad
+4,CAD,"(1987, 1990)",pci
+5,CAD,"(7901, 7924)",coronary artery disease
+6,CHF,"(2084, 2087)",chf
+7,CHF,"(7676, 7689)",heart failure
+8,Diabetes,"(2195, 2203)",diabetes
+9,Diabetes,"(10541, 10549)",diabetes
+10,Hypertension,"(2066, 2078)",hypertension
+11,OSA,"(398, 401)",osa
+12,OSA,"(1911, 1914)",osa
+13,PVD,"(2210, 2237)",peripheral vascular disease
+14,OA,"(477, 493)",knee replacement
+15,OA,"(11210, 11226)",knee replacement
+16,OA,"(11267, 11283)",knee replacement

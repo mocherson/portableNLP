@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(353, 361)",diabetes
+1,Diabetes,"(2940, 2948)",diabetes
+2,Diabetes,"(9419, 9427)",diabetes
+3,Gout,"(3073, 3077)",gout
+4,Hypertension,"(314, 326)",hypertension
+5,Hypertension,"(2901, 2913)",hypertension
+6,Hypertension,"(6205, 6217)",hypertension
+7,Hypertriglyceridemia,"(462, 482)",hypertriglyceridemia
+8,Hypertriglyceridemia,"(3043, 3063)",hypertriglyceridemia
+9,Hypertriglyceridemia,"(462, 482)",hypertriglyceridemia
+10,Hypertriglyceridemia,"(3043, 3063)",hypertriglyceridemia
+11,Hypertension,"(6532, 6548)",antihypertensive

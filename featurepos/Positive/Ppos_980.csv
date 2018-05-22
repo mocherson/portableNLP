@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(510, 523)",heart failure
+1,CHF,"(1477, 1501)",congestive heart failure
+2,Diabetes,"(233, 241)",diabetes
+3,Diabetes,"(1406, 1414)",diabetes
+4,GERD,"(380, 394)",reflux disease
+5,GERD,"(1447, 1461)",reflux disease
+6,GERD,"(363, 386)",gastroesophageal reflux
+7,GERD,"(1430, 1453)",gastroesophageal reflux
+8,Gout,"(353, 357)",gout
+9,Gout,"(1467, 1471)",gout
+10,Hypertension,"(256, 268)",hypertension
+11,Hypertension,"(1599, 1611)",hypertension
+12,Obesity,"(2272, 2277)",obese
+13,OSA,"(302, 313)",sleep apnea
+14,OSA,"(596, 619)",obstructive sleep apnea
+15,OSA,"(1569, 1592)",obstructive sleep apnea
+16,Gout,"(4059, 4070)",allopurinol

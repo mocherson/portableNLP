@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(201, 225)",congestive heart failure
+1,CHF,"(253, 277)",congestive heart failure
+2,CHF,"(1088, 1112)",congestive heart failure
+3,CHF,"(1483, 1496)",heart failure
+4,CHF,"(1847, 1871)",congestive heart failure
+5,CHF,"(4085, 4109)",congestive heart failure
+6,Diabetes,"(337, 345)",diabetes
+7,Diabetes,"(2033, 2041)",diabetes
+8,Diabetes,"(6012, 6020)",diabetes
+9,Diabetes,"(6066, 6074)",diabetes
+10,Diabetes,"(6321, 6329)",diabetes
+11,GERD,"(2108, 2122)",reflux disease
+12,GERD,"(2091, 2114)",gastroesophageal reflux
+13,Hypercholesterolemia,"(2131, 2151)",hypercholesterolemia
+14,Hypercholesterolemia,"(2131, 2151)",hypercholesterolemia
+15,OA,"(1791, 1800)",arthritis
+16,OA,"(2160, 2174)",osteoarthritis
+17,Obesity,"(3361, 3368)",obesity
+18,Obesity,"(3361, 3368)",obesity
+19,OSA,"(2059, 2082)",obstructive sleep apnea

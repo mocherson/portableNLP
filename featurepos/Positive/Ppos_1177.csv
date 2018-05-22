@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3187, 3190)",cad
+1,CAD,"(3731, 3734)",cad
+2,CAD,"(3193, 3216)",coronary artery disease
+3,CHF,"(3264, 3267)",chf
+4,CHF,"(3737, 3740)",chf
+5,CHF,"(3289, 3313)",congestive heart failure
+6,Diabetes,"(3053, 3058)",niddm
+7,Hypercholesterolemia,"(3319, 3333)",hyperlipidemia
+8,Hypercholesterolemia,"(3336, 3350)",hyperlipidemia
+9,Hypertension,"(3101, 3104)",htn
+10,Hypertension,"(707, 721)",ace inhibitors
+11,Hypertension,"(860, 874)",ace inhibitors
+12,Hypertension,"(1005, 1019)",ace inhibitors
+13,Hypertension,"(1188, 1202)",ace inhibitors
+14,Hypertension,"(5089, 5101)",beta blocker
+15,Hypercholesterolemia,"(1432, 1443)",simvastatin
+16,Hypercholesterolemia,"(1693, 1704)",simvastatin
+17,Hypercholesterolemia,"(2254, 2265)",simvastatin

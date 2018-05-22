@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,GERD,"(32, 46)",reflux disease,"(4459, 4506)",possibility of gastroesophageal reflux disease ,
+1,GERD,"(15, 38)",gastroesophageal reflux,"(4459, 4506)",possibility of gastroesophageal reflux disease ,

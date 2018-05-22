@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(384, 390)",asthma
+1,Asthma,"(1494, 1500)",asthma
+2,CAD,"(10017, 10040)",coronary artery disease
+3,Diabetes,"(563, 571)",diabetes
+4,Diabetes,"(1399, 1407)",diabetes
+5,Gallstones,"(1189, 1204)",cholecystectomy
+6,Gallstones,"(11966, 11981)",cholecystectomy
+7,Hypertension,"(644, 656)",hypertension
+8,Hypertension,"(3357, 3369)",hypertension
+9,PVD,"(396, 423)",peripheral vascular disease
+10,PVD,"(1457, 1484)",peripheral vascular disease
+11,Hypercholesterolemia,"(6236, 6244)",nystatin
+12,Hypercholesterolemia,"(6600, 6608)",nystatin
+13,Hypercholesterolemia,"(12695, 12703)",nystatin

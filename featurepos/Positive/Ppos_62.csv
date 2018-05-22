@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(2714, 2722)",diabetes
+1,Diabetes,"(2725, 2733)",diabetes
+2,Diabetes,"(4994, 4996)",dm
+3,Diabetes,"(68, 76)",diabetic
+4,Diabetes,"(2524, 2532)",diabetic
+5,Diabetes,"(2617, 2625)",diabetic
+6,Diabetes,"(3153, 3161)",diabetic
+7,Diabetes,"(4342, 4350)",diabetic
+8,Hypertension,"(2751, 2763)",hypertension
+9,Hypertension,"(2745, 2748)",htn
+10,Obesity,"(2793, 2800)",obesity
+11,Obesity,"(2803, 2810)",obesity
+12,Obesity,"(2793, 2800)",obesity
+13,Obesity,"(2803, 2810)",obesity
+14,PVD,"(3207, 3210)",pvd
+15,Hypercholesterolemia,"(1390, 1401)",simvastatin
+16,Hypercholesterolemia,"(1472, 1483)",simvastatin
+17,Hypercholesterolemia,"(1522, 1533)",simvastatin
+18,Hypercholesterolemia,"(1761, 1772)",simvastatin

@@ -1,0 +1,32 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(7733, 7739)",asthma
+1,Asthma,"(7742, 7748)",asthma
+2,Asthma,"(10218, 10224)",asthma
+3,Depression,"(7912, 7922)",depression
+4,Depression,"(7925, 7935)",depression
+5,Depression,"(10186, 10196)",depression
+6,Diabetes,"(7646, 7654)",diabetes
+7,Diabetes,"(10013, 10021)",diabetes
+8,Diabetes,"(7639, 7643)",iddm
+9,Gallstones,"(7809, 7824)",cholecystectomy
+10,Gallstones,"(7799, 7802)",ccy
+11,Hypercholesterolemia,"(7666, 7686)",hypercholesterolemia
+12,Hypercholesterolemia,"(7666, 7686)",hypercholesterolemia
+13,Hypercholesterolemia,"(7689, 7709)",elevated cholesterol
+14,Hypercholesterolemia,"(10227, 10243)",high cholesterol
+15,Hypertension,"(7718, 7730)",hypertension
+16,Hypertension,"(10159, 10171)",hypertension
+17,Hypertension,"(7712, 7715)",htn
+18,OA,"(7751, 7760)",arthritis
+19,OA,"(7763, 7772)",arthritis
+20,OA,"(10174, 10183)",arthritis
+21,Obesity,"(7775, 7782)",obesity
+22,Obesity,"(7785, 7792)",obesity
+23,Obesity,"(10259, 10266)",obesity
+24,Obesity,"(7775, 7782)",obesity
+25,Obesity,"(7785, 7792)",obesity
+26,Obesity,"(10259, 10266)",obesity
+27,Depression,"(6660, 6666)",zoloft
+28,Depression,"(15217, 15223)",zoloft
+29,Hypercholesterolemia,"(881, 889)",nystatin
+30,Hypercholesterolemia,"(5062, 5070)",nystatin

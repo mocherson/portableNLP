@@ -1,0 +1,38 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2724, 2727)",cad
+1,CAD,"(2881, 2884)",cad
+2,CAD,"(5135, 5138)",cad
+3,CAD,"(5220, 5223)",cad
+4,CAD,"(8826, 8829)",cad
+5,CAD,"(8882, 8885)",cad
+6,Diabetes,"(2423, 2425)",dm
+7,Diabetes,"(7514, 7516)",dm
+8,Diabetes,"(7575, 7577)",dm
+9,Diabetes,"(7601, 7603)",dm
+10,Diabetes,"(7631, 7633)",dm
+11,Diabetes,"(10555, 10557)",dm
+12,Diabetes,"(10601, 10603)",dm
+13,Diabetes,"(2668, 2673)",niddm
+14,Diabetes,"(6667, 6672)",niddm
+15,Hypercholesterolemia,"(2682, 2702)",hypercholesterolemia
+16,Hypercholesterolemia,"(6716, 6736)",hypercholesterolemia
+17,Hypercholesterolemia,"(2682, 2702)",hypercholesterolemia
+18,Hypercholesterolemia,"(6716, 6736)",hypercholesterolemia
+19,Hypercholesterolemia,"(2313, 2327)",hyperlipidemia
+20,Hypertension,"(2309, 2312)",htn
+21,Hypertension,"(2676, 2679)",htn
+22,Hypertension,"(6804, 6807)",htn
+23,Hypertension,"(7519, 7522)",htn
+24,Hypertension,"(7569, 7572)",htn
+25,Hypertension,"(7595, 7598)",htn
+26,Hypertension,"(7625, 7628)",htn
+27,Hypertension,"(10421, 10424)",htn
+28,Hypertension,"(10551, 10554)",htn
+29,Obesity,"(8015, 8024)",obeseskin
+30,CAD,"(1954, 1977)",cardiac catheterization
+31,CAD,"(9553, 9576)",cardiac catheterization
+32,CAD,"(10150, 10173)",cardiac catheterization
+33,CAD,"(11226, 11249)",cardiac catheterization
+34,CAD,"(11679, 11702)",cardiac catheterization
+35,CAD,"(12160, 12183)",cardiac catheterization
+36,Hypercholesterolemia,"(585, 597)",atorvastatin

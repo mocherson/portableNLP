@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(486, 489)",cad
+1,CAD,"(1805, 1808)",cad
+2,CAD,"(3427, 3430)",cad
+3,Depression,"(2100, 2110)",depression
+4,Diabetes,"(475, 483)",diabetes
+5,Diabetes,"(1767, 1775)",diabetes
+6,Diabetes,"(5848, 5856)",diabetes
+7,Gallstones,"(2284, 2299)",cholecystectomy
+8,GERD,"(2081, 2085)",gerd
+9,Hypertension,"(1889, 1901)",hypertension
+10,Hypertension,"(5401, 5413)",hypertension
+11,PVD,"(1904, 1931)",peripheral vascular disease
+12,Venous Insufficiency,"(2113, 2133)",venous insufficiency
+13,Depression,"(5263, 5269)",prozac
+14,Depression,"(5432, 5438)",prozac
+15,Depression,"(6668, 6674)",prozac
+16,Depression,"(8035, 8041)",prozac
+17,Depression,"(8423, 8429)",prozac
+18,Hypertension,"(6873, 6887)",ace inhibitors
+19,Hypertension,"(3544, 3556)",beta-blocker

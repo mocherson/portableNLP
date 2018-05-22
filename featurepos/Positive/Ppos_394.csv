@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(414, 437)",coronary artery disease
+1,CHF,"(1295, 1298)",chf
+2,CHF,"(5968, 5971)",chf
+3,CHF,"(8149, 8152)",chf
+4,CHF,"(8708, 8711)",chf
+5,CHF,"(10132, 10135)",chf
+6,CHF,"(388, 412)",congestive heart failure
+7,CHF,"(6701, 6725)",congestive heart failure
+8,CHF,"(6906, 6930)",congestive heart failure
+9,CHF,"(332, 355)",ischemic cardiomyopathy
+10,CHF,"(1198, 1221)",ischemic cardiomyopathy
+11,CHF,"(6467, 6490)",ischemic cardiomyopathy
+12,Diabetes,"(474, 482)",diabetes
+13,Diabetes,"(1370, 1378)",diabetes
+14,Hypertension,"(439, 451)",hypertension
+15,Hypertension,"(1353, 1365)",hypertension
+16,Hypertension,"(4290, 4302)",hypertension
+17,PVD,"(1451, 1478)",peripheral vascular disease
+18,Hypertension,"(8732, 8744)",beta-blocker
+19,Hypercholesterolemia,"(11924, 11932)",nystatin

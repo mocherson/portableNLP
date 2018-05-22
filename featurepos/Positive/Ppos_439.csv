@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2894, 2900)",asthma
+1,CAD,"(2264, 2267)",cad
+2,Diabetes,"(2873, 2881)",diabetes
+3,Diabetes,"(9675, 9683)",diabetes
+4,Diabetes,"(12127, 12135)",diabetic
+5,Hypertension,"(2856, 2868)",hypertension
+6,Hypertension,"(6615, 6627)",hypertension
+7,Obesity,"(2913, 2920)",obesity
+8,Obesity,"(2913, 2920)",obesity
+9,Obesity,"(3894, 3899)",obese
+10,Hypercholesterolemia,"(3596, 3608)",atorvastatin
+11,Hypercholesterolemia,"(10950, 10961)",simvastatin

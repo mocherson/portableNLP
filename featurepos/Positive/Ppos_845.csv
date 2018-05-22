@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(5467, 5469)",dm
+1,Diabetes,"(6199, 6201)",dm
+2,Hypercholesterolemia,"(6235, 6249)",hyperlipidemia
+3,Hypertension,"(5463, 5466)",htn
+4,Hypertension,"(6193, 6196)",htn
+5,OA,"(6204, 6213)",arthritis
+6,Hypercholesterolemia,"(4496, 4507)",simvastatin
+7,Hypercholesterolemia,"(4740, 4751)",simvastatin
+8,Hypercholesterolemia,"(4983, 4994)",simvastatin
+9,Hypercholesterolemia,"(5075, 5086)",simvastatin
+10,Hypercholesterolemia,"(6494, 6505)",simvastatin

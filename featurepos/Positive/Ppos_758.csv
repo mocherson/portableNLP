@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(341, 363)",coronary artery bypass
+1,CAD,"(1239, 1261)",coronary artery bypass
+2,CAD,"(5275, 5297)",coronary artery bypass
+3,CAD,"(305, 328)",coronary artery disease
+4,CAD,"(559, 582)",coronary artery disease
+5,CAD,"(3028, 3051)",coronary artery disease
+6,Hypercholesterolemia,"(276, 296)",elevated cholesterol
+7,Hypercholesterolemia,"(3004, 3020)",high cholesterol
+8,Hypertension,"(256, 268)",hypertension
+9,Hypertension,"(2984, 2996)",hypertension
+10,CAD,"(1109, 1132)",cardiac catheterization
+11,CAD,"(1149, 1172)",cardiac catheterization

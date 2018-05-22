@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(204, 228)",congestive heart failure
+1,CHF,"(3983, 4007)",congestive heart failure
+2,CHF,"(6790, 6814)",congestive heart failure
+3,CHF,"(6837, 6861)",congestive heart failure
+4,Hypercholesterolemia,"(3396, 3434)",cholesterol level was 243 and elevated
+5,Hypertension,"(415, 427)",hypertension
+6,Hypertension,"(2372, 2384)",hypertension
+7,Hypertension,"(6015, 6029)",ace inhibitors

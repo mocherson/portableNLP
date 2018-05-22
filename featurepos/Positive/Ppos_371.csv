@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2460, 2463)",cad
+1,CAD,"(2825, 2828)",cad
+2,Depression,"(1584, 1594)",depression
+3,Diabetes,"(1597, 1605)",diabetes
+4,Diabetes,"(4636, 4638)",dm
+5,Hypercholesterolemia,"(1653, 1673)",hypercholesterolemia
+6,Hypercholesterolemia,"(1878, 1898)",hypercholesterolemia
+7,Hypercholesterolemia,"(2802, 2822)",hypercholesterolemia
+8,Hypercholesterolemia,"(1653, 1673)",hypercholesterolemia
+9,Hypercholesterolemia,"(1878, 1898)",hypercholesterolemia
+10,Hypercholesterolemia,"(2802, 2822)",hypercholesterolemia
+11,Hypertension,"(1647, 1650)",htn
+12,Hypertension,"(1872, 1875)",htn
+13,Hypertension,"(2796, 2799)",htn
+14,Obesity,"(3206, 3211)",obese
+15,Obesity,"(3330, 3335)",obese
+16,OSA,"(1624, 1627)",osa
+17,OSA,"(2774, 2777)",osa

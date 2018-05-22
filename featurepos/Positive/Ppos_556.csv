@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(68, 71)",cad
+1,CAD,"(1361, 1364)",cad
+2,CAD,"(1461, 1464)",cad
+3,CAD,"(1843, 1846)",cad
+4,CAD,"(1467, 1490)",coronary artery disease
+5,CHF,"(79, 82)",chf
+6,CHF,"(1372, 1375)",chf
+7,Hypercholesterolemia,"(1577, 1597)",elevated cholesterol
+8,Hypercholesterolemia,"(1560, 1574)",hyperlipidemia
+9,Hypercholesterolemia,"(2074, 2088)",hyperlipidemia
+10,Hypertension,"(1545, 1557)",hypertension
+11,Hypertension,"(1539, 1542)",htn
+12,Hypertension,"(2066, 2069)",htn

@@ -1,0 +1,7 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2980, 3002)",coronary artery bypass
+1,CAD,"(69, 92)",coronary artery disease
+2,CAD,"(212, 235)",coronary artery disease
+3,GERD,"(1862, 1876)",reflux disease
+4,Obesity,"(2441, 2446)",obese
+5,CAD,"(824, 847)",cardiac catheterization

@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(567, 590)",coronary artery disease
+1,CAD,"(1840, 1863)",coronary artery disease
+2,CAD,"(7058, 7081)",coronary artery disease
+3,CHF,"(68, 92)",congestive heart failure
+4,CHF,"(207, 231)",congestive heart failure
+5,CHF,"(1144, 1168)",congestive heart failure
+6,CHF,"(1422, 1446)",congestive heart failure
+7,Diabetes,"(315, 323)",diabetes
+8,Diabetes,"(1742, 1750)",diabetes
+9,Diabetes,"(2139, 2141)",dm
+10,Hypercholesterolemia,"(481, 501)",hypercholesterolemia
+11,Hypercholesterolemia,"(1782, 1802)",hypercholesterolemia
+12,Hypercholesterolemia,"(481, 501)",hypercholesterolemia
+13,Hypercholesterolemia,"(1782, 1802)",hypercholesterolemia
+14,Hypertension,"(297, 309)",hypertension
+15,Hypertension,"(1727, 1739)",hypertension
+16,Obesity,"(1118, 1125)",obesity
+17,Obesity,"(1118, 1125)",obesity
+18,Obesity,"(2769, 2774)",obese
+19,Obesity,"(3417, 3422)",obese
+20,OSA,"(1830, 1833)",osa
+21,OSA,"(537, 560)",obstructive sleep apnea
+22,Depression,"(1978, 1984)",elavil
+23,Hypercholesterolemia,"(9532, 9540)",nystatin
+24,Hypercholesterolemia,"(9864, 9875)",simvastatin

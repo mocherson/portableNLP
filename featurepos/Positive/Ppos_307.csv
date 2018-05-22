@@ -1,0 +1,27 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(3489, 3491)",dm
+1,Diabetes,"(4024, 4026)",dm
+2,Diabetes,"(4564, 4566)",dm
+3,Diabetes,"(5523, 5525)",dm
+4,Diabetes,"(4044, 4052)",diabetic
+5,Diabetes,"(4069, 4077)",diabetic
+6,Diabetes,"(4587, 4595)",diabetic
+7,Diabetes,"(8103, 8111)",diabetic
+8,Hypercholesterolemia,"(3594, 3614)",hypercholesterolemia
+9,Hypercholesterolemia,"(4687, 4707)",hypercholesterolemia
+10,Hypercholesterolemia,"(3594, 3614)",hypercholesterolemia
+11,Hypercholesterolemia,"(4687, 4707)",hypercholesterolemia
+12,Hypercholesterolemia,"(3617, 3637)",elevated cholesterol
+13,Hypertension,"(3479, 3482)",htn
+14,Hypertension,"(4084, 4087)",htn
+15,Hypertension,"(4551, 4554)",htn
+16,OA,"(3544, 3547)",djd
+17,OA,"(4656, 4659)",djd
+18,Obesity,"(3517, 3524)",obesity
+19,Obesity,"(3527, 3534)",obesity
+20,Obesity,"(4639, 4646)",obesity
+21,Obesity,"(3517, 3524)",obesity
+22,Obesity,"(3527, 3534)",obesity
+23,Obesity,"(4639, 4646)",obesity
+24,Obesity,"(5632, 5637)",obese
+25,Hypertension,"(6322, 6334)",beta blocker

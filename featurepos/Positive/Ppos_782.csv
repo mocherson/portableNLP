@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2797, 2803)",asthma
+1,Asthma,"(2980, 2986)",asthma
+2,Asthma,"(4440, 4446)",asthma
+3,CAD,"(2742, 2745)",cad
+4,CAD,"(2962, 2965)",cad
+5,CHF,"(2761, 2764)",chf
+6,Diabetes,"(2746, 2748)",dm
+7,Diabetes,"(3076, 3080)",iddm
+8,Hypertension,"(2749, 2752)",htn
+9,Obesity,"(2753, 2760)",obesity
+10,Obesity,"(2989, 2996)",obesity
+11,Obesity,"(4199, 4206)",obesity
+12,Obesity,"(2753, 2760)",obesity
+13,Obesity,"(2989, 2996)",obesity
+14,Obesity,"(3589, 3594)",obese
+15,Obesity,"(4199, 4206)",obesity
+16,OSA,"(3046, 3049)",osa
+17,Depression,"(699, 705)",prozac
+18,Hypercholesterolemia,"(1573, 1584)",simvastatin

@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(406, 414)",diabetes
+1,Diabetes,"(706, 714)",diabetes
+2,Diabetes,"(2136, 2144)",diabetes
+3,Hypertension,"(426, 438)",hypertension
+4,Hypertension,"(719, 731)",hypertension
+5,Hypertension,"(2045, 2057)",hypertension
+6,Hypertension,"(2147, 2159)",hypertension
+7,Hypertension,"(5165, 5177)",hypertension
+8,Hypertension,"(6898, 6910)",hypertension
+9,Hypertension,"(7152, 7164)",hypertension
+10,Hypertension,"(9612, 9624)",hypertension
+11,Hypertension,"(9775, 9787)",hypertension
+12,Hypertension,"(12428, 12440)",hypertension
+13,Hypertension,"(12600, 12612)",hypertension
+14,Obesity,"(3223, 3228)",obese
+15,OSA,"(441, 464)",obstructive sleep apnea
+16,OSA,"(2257, 2280)",obstructive sleep apnea

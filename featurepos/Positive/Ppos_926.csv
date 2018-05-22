@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1489, 1513)",congestive heart failure
+1,CHF,"(4177, 4201)",congestive heart failure
+2,CHF,"(8608, 8632)",congestive heart failure
+3,Depression,"(1880, 1890)",depression
+4,Diabetes,"(383, 391)",diabetes
+5,Diabetes,"(4204, 4212)",diabetes
+6,Diabetes,"(5648, 5656)",diabetes
+7,Diabetes,"(10400, 10408)",diabetes
+8,Gallstones,"(1857, 1872)",cholecystectomy
+9,GERD,"(1758, 1762)",gerd
+10,Hypertension,"(880, 892)",hypertension
+11,Hypertension,"(1740, 1752)",hypertension
+12,OA,"(1806, 1820)",osteoarthritis

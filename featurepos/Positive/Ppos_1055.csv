@@ -1,0 +1,34 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(69, 72)",cad
+1,CAD,"(3991, 3994)",cad
+2,CAD,"(4087, 4090)",cad
+3,CAD,"(4361, 4364)",cad
+4,CAD,"(5105, 5108)",cad
+5,CAD,"(7084, 7087)",cad
+6,CAD,"(578, 581)",pci
+7,CAD,"(6560, 6563)",pci
+8,CAD,"(7619, 7622)",pci
+9,CAD,"(7983, 7986)",pci
+10,CAD,"(8544, 8567)",coronary artery disease
+11,Hypercholesterolemia,"(5145, 5159)",hyperlipidemia
+12,Hypercholesterolemia,"(7098, 7112)",hyperlipidemia
+13,Hypertension,"(4091, 4094)",htn
+14,Hypertension,"(4347, 4350)",htn
+15,Hypertension,"(5139, 5142)",htn
+16,Hypertension,"(7090, 7093)",htn
+17,OA,"(5204, 5218)",osteoarthritis
+18,Obesity,"(4353, 4358)",obese
+19,Obesity,"(6793, 6798)",obese
+20,PVD,"(8222, 8249)",peripheral vascular disease
+21,Venous Insufficiency,"(8197, 8210)",venous stasis
+22,Hypertension,"(7821, 7830)",b-blocker
+23,Hypercholesterolemia,"(517, 529)",atorvastatin
+24,Hypercholesterolemia,"(704, 716)",atorvastatin
+25,Hypercholesterolemia,"(771, 783)",atorvastatin
+26,Hypercholesterolemia,"(849, 861)",atorvastatin
+27,Hypercholesterolemia,"(2360, 2372)",atorvastatin
+28,Hypercholesterolemia,"(2524, 2535)",simvastatin
+29,Hypercholesterolemia,"(2582, 2593)",simvastatin
+30,Hypercholesterolemia,"(2884, 2896)",atorvastatin
+31,Hypercholesterolemia,"(3245, 3257)",atorvastatin
+32,Hypercholesterolemia,"(3421, 3432)",simvastatin

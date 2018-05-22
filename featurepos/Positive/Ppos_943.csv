@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(247, 255)",diabetes
+1,Diabetes,"(458, 466)",diabetes
+2,Diabetes,"(570, 578)",diabetes
+3,Diabetes,"(3415, 3423)",diabetes
+4,Diabetes,"(7459, 7467)",diabetes
+5,Diabetes,"(3791, 3799)",diabetic
+6,Diabetes,"(7414, 7422)",diabetic
+7,Hypertension,"(258, 270)",hypertension
+8,Hypertension,"(469, 481)",hypertension
+9,Hypertension,"(583, 595)",hypertension
+10,Hypertension,"(3400, 3412)",hypertension
+11,Hypertension,"(7482, 7494)",hypertension
+12,PVD,"(275, 302)",peripheral vascular disease

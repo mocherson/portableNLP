@@ -1,0 +1,29 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(68, 74)",asthma
+1,Asthma,"(3104, 3110)",asthma
+2,Asthma,"(3190, 3196)",asthma
+3,Asthma,"(3295, 3301)",asthma
+4,Asthma,"(3326, 3332)",asthma
+5,Asthma,"(3677, 3683)",asthma
+6,Asthma,"(3772, 3778)",asthma
+7,Asthma,"(4666, 4672)",asthma
+8,Asthma,"(7111, 7117)",asthma
+9,Asthma,"(7130, 7136)",asthma
+10,Asthma,"(8202, 8208)",asthma
+11,Diabetes,"(3335, 3343)",diabetes
+12,Diabetes,"(10316, 10318)",dm
+13,Diabetes,"(4829, 4833)",iddm
+14,Hypertension,"(3465, 3477)",hypertension
+15,Hypertension,"(3459, 3462)",htn
+16,Hypertension,"(4822, 4825)",htn
+17,Hypertension,"(10323, 10326)",htn
+18,Obesity,"(3439, 3446)",obesity
+19,Obesity,"(3449, 3456)",obesity
+20,Obesity,"(4883, 4890)",obesity
+21,Obesity,"(7023, 7030)",obesity
+22,Obesity,"(3439, 3446)",obesity
+23,Obesity,"(3449, 3456)",obesity
+24,Obesity,"(4883, 4890)",obesity
+25,Obesity,"(6056, 6061)",obese
+26,Obesity,"(7023, 7030)",obesity
+27,OSA,"(3480, 3491)",sleep apnea

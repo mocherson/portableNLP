@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(561, 564)",cad
+1,CAD,"(3385, 3388)",cad
+2,CHF,"(996, 1009)",heart failure
+3,Diabetes,"(387, 395)",diabetes
+4,Hypercholesterolemia,"(415, 435)",hypercholesterolemia
+5,Hypercholesterolemia,"(415, 435)",hypercholesterolemia
+6,OA,"(438, 447)",arthritis
+7,Depression,"(7460, 7466)",celexa
+8,Depression,"(7745, 7751)",celexa
+9,Depression,"(9411, 9417)",celexa
+10,Hypertension,"(1111, 1123)",beta-blocker
+11,Hypertension,"(6685, 6697)",beta-blocker
+12,CAD,"(2726, 2749)",cardiac catheterization
+13,Hypercholesterolemia,"(1534, 1546)",atorvastatin
+14,Hypercholesterolemia,"(9929, 9940)",simvastatin

@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Hypertension,"(30, 42)",hypertension,"(4305, 4363)",may have had increasing blood hypertension out of control ,
+1,CHF,"(27, 30)",chf,"(10556, 10630)",consider can titrating her chf medicines and/or her hypertension medicines,and/or her hypertension medicines

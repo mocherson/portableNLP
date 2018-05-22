@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1693, 1699)",asthma
+1,Asthma,"(2170, 2176)",asthma
+2,Asthma,"(2420, 2426)",asthma
+3,Asthma,"(3148, 3154)",asthma
+4,Asthma,"(3574, 3580)",asthma
+5,CAD,"(1985, 1988)",cad
+6,CAD,"(82, 105)",coronary artery disease
+7,CAD,"(1586, 1609)",coronary artery disease
+8,Diabetes,"(2159, 2167)",diabetes
+9,Diabetes,"(1749, 1751)",dm
+10,Hypertriglyceridemia,"(2962, 2984)",elevated triglycerides
+11,Hypertension,"(2910, 2922)",beta blocker
+12,Hypertension,"(4442, 4454)",beta blocker
+13,CAD,"(1848, 1871)",cardiac catheterization
+14,CAD,"(2720, 2743)",cardiac catheterization
+15,Hypercholesterolemia,"(908, 919)",simvastatin

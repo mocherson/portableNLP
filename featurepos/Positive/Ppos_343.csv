@@ -1,0 +1,29 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(6804, 6807)",cad
+1,CHF,"(69, 72)",chf
+2,CHF,"(6206, 6209)",chf
+3,CHF,"(7715, 7718)",chf
+4,CHF,"(8722, 8735)",heart failure
+5,CHF,"(9438, 9451)",heart failure
+6,Diabetes,"(6315, 6320)",niddm
+7,Diabetes,"(6822, 6827)",niddm
+8,Hypercholesterolemia,"(6325, 6339)",hyperlipidemia
+9,Hypertension,"(6321, 6324)",htn
+10,Obesity,"(6372, 6379)",obesity
+11,Obesity,"(6372, 6379)",obesity
+12,Obesity,"(7291, 7296)",obese
+13,OSA,"(8256, 8259)",osa
+14,Hypercholesterolemia,"(1788, 1799)",simvastatin
+15,Hypercholesterolemia,"(2679, 2690)",pravastatin
+16,Hypercholesterolemia,"(2966, 2977)",pravastatin
+17,Hypercholesterolemia,"(3218, 3229)",pravastatin
+18,Hypercholesterolemia,"(3463, 3474)",pravastatin
+19,Hypercholesterolemia,"(3694, 3705)",pravastatin
+20,Hypercholesterolemia,"(3883, 3894)",pravastatin
+21,Hypercholesterolemia,"(3966, 3977)",simvastatin
+22,Hypercholesterolemia,"(4219, 4230)",pravastatin
+23,Hypercholesterolemia,"(5015, 5026)",pravastatin
+24,Hypercholesterolemia,"(5380, 5391)",pravastatin
+25,Hypercholesterolemia,"(6062, 6073)",simvastatin
+26,Hypercholesterolemia,"(7618, 7629)",pravastatin
+27,Hypercholesterolemia,"(10324, 10335)",pravastatin

@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(602, 625)",coronary artery disease
+1,CAD,"(1333, 1356)",coronary artery disease
+2,CHF,"(700, 724)",congestive heart failure
+3,CHF,"(1359, 1383)",congestive heart failure
+4,CHF,"(1886, 1910)",congestive heart failure
+5,CHF,"(2028, 2052)",congestive heart failure
+6,CHF,"(2103, 2127)",congestive heart failure
+7,CHF,"(13539, 13563)",congestive heart failure
+8,CHF,"(14761, 14785)",congestive heart failure
+9,CHF,"(675, 697)",dilated cardiomyopathy
+10,Diabetes,"(334, 342)",diabetes
+11,Diabetes,"(12821, 12829)",diabetes
+12,Diabetes,"(13437, 13445)",diabetes
+13,Diabetes,"(18674, 18682)",diabetes
+14,Diabetes,"(12920, 12928)",diabetic
+15,GERD,"(930, 934)",gerd
+16,Hypercholesterolemia,"(829, 849)",hypercholesterolemia
+17,Hypercholesterolemia,"(829, 849)",hypercholesterolemia
+18,Hypertension,"(809, 821)",hypertension
+19,PVD,"(1012, 1039)",peripheral vascular disease
+20,Hypertension,"(8180, 8194)",ace inhibitors
+21,GERD,"(9802, 9810)",carafate

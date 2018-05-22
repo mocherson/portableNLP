@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(3211, 3217)",asthma
+1,Asthma,"(3220, 3226)",asthma
+2,Asthma,"(3589, 3595)",asthma
+3,Asthma,"(5536, 5542)",asthma
+4,CHF,"(6347, 6360)",heart failure
+5,Depression,"(3149, 3159)",depression
+6,Depression,"(3162, 3172)",depression
+7,Hypertension,"(3087, 3099)",hypertension
+8,Hypertension,"(3081, 3084)",htn
+9,Hypertension,"(4050, 4053)",htn
+10,Hypertension,"(5647, 5650)",htn
+11,Hypertension,"(5706, 5709)",htn
+12,Obesity,"(3129, 3136)",obesity
+13,Obesity,"(3139, 3146)",obesity
+14,Obesity,"(3129, 3136)",obesity
+15,Obesity,"(3139, 3146)",obesity
+16,Obesity,"(3505, 3510)",obese
+17,Obesity,"(3686, 3691)",obese
+18,Obesity,"(4462, 4467)",obese
+19,OSA,"(3102, 3105)",osa
+20,OSA,"(3108, 3119)",sleep apnea
+21,Hypertension,"(4237, 4246)",bp 148/90

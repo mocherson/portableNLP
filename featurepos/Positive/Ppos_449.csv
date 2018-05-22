@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(477, 500)",coronary artery disease
+1,Depression,"(225, 235)",depression
+2,Depression,"(2635, 2645)",depression
+3,Depression,"(2802, 2812)",depression
+4,Diabetes,"(447, 455)",diabetes
+5,Diabetes,"(618, 626)",diabetes
+6,Diabetes,"(2815, 2823)",diabetes
+7,Hypertension,"(458, 470)",hypertension
+8,Hypertension,"(629, 641)",hypertension
+9,Hypertension,"(2787, 2799)",hypertension
+10,Obesity,"(3769, 3774)",obese
+11,OSA,"(211, 222)",sleep apnea
+12,OSA,"(5318, 5329)",sleep apnea
+13,Depression,"(5477, 5483)",prozac
+14,Hypertension,"(1177, 1201)",blood pressure of 186/90
+15,GERD,"(3498, 3508)",sucralfate

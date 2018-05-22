@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2401, 2404)",cad
+1,CAD,"(3976, 3979)",cad
+2,CAD,"(5347, 5350)",cad
+3,CHF,"(4016, 4019)",chf
+4,Diabetes,"(3995, 3998)",dm2
+5,Diabetes,"(6313, 6315)",dm
+6,Diabetes,"(2355, 2360)",niddm
+7,GERD,"(6519, 6523)",gerd
+8,Hypercholesterolemia,"(4020, 4040)",hypercholesterolemia
+9,Hypercholesterolemia,"(4020, 4040)",hypercholesterolemia
+10,Hypertension,"(2371, 2383)",hypertension
+11,Hypertension,"(2365, 2368)",htn
+12,Hypertension,"(2677, 2680)",htn
+13,Hypertension,"(3991, 3994)",htn

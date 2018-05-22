@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(336, 359)",coronary artery disease
+1,CAD,"(1236, 1259)",coronary artery disease
+2,Diabetes,"(558, 566)",diabetes
+3,Diabetes,"(1519, 1527)",diabetes
+4,Gout,"(476, 480)",gout
+5,Gout,"(1441, 1445)",gout
+6,Hypertension,"(438, 450)",hypertension
+7,Hypertension,"(1397, 1409)",hypertension

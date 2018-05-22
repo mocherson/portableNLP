@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3828, 3831)",cad
+1,CHF,"(3760, 3763)",chf
+2,Diabetes,"(3660, 3668)",diabetes
+3,Diabetes,"(3655, 3657)",dm
+4,Diabetes,"(4076, 4079)",dm2
+5,Diabetes,"(4663, 4665)",dm
+6,Diabetes,"(5747, 5749)",dm
+7,Diabetes,"(7064, 7067)",dm2
+8,Gout,"(4668, 4672)",gout
+9,Hypercholesterolemia,"(4675, 4689)",hyperlipidemia
+10,Hypertension,"(3873, 3876)",htn
+11,Hypercholesterolemia,"(2543, 2554)",pravastatin
+12,Gout,"(554, 565)",allopurinol
+13,Gout,"(4720, 4731)",allopurinol

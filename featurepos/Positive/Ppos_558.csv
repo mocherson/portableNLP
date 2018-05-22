@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(828, 848)",coronary angioplasty
+1,CAD,"(294, 317)",coronary artery disease
+2,CAD,"(594, 617)",coronary artery disease
+3,CAD,"(1874, 1897)",coronary artery disease
+4,CAD,"(2486, 2509)",coronary artery disease
+5,CHF,"(462, 486)",congestive heart failure
+6,Diabetes,"(265, 273)",diabetes
+7,Diabetes,"(2648, 2656)",diabetes
+8,GERD,"(401, 415)",reflux disease
+9,Hypertension,"(223, 235)",hypertension
+10,PVD,"(362, 389)",peripheral vascular disease
+11,Hypertension,"(3527, 3548)",blood pressure 170/90

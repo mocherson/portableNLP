@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1955, 1958)",cad
+1,CAD,"(3276, 3279)",cad
+2,CAD,"(1961, 1984)",coronary artery disease
+3,Diabetes,"(2028, 2036)",diabetes
+4,Diabetes,"(2023, 2025)",dm
+5,Diabetes,"(3360, 3362)",dm
+6,Diabetes,"(3687, 3689)",dm
+7,Hypercholesterolemia,"(2105, 2119)",hyperlipidemia
+8,Hypercholesterolemia,"(2122, 2136)",hyperlipidemia
+9,Hypercholesterolemia,"(3377, 3387)",hyperlipid
+10,Hypertension,"(2090, 2102)",hypertension
+11,Hypertension,"(2084, 2087)",htn
+12,Hypertension,"(2808, 2811)",htn
+13,Hypertension,"(3371, 3374)",htn
+14,OA,"(6945, 6948)",oa2
+15,PVD,"(1987, 1990)",pvd
+16,PVD,"(3335, 3338)",pvd
+17,PVD,"(1993, 2020)",peripheral vascular disease
+18,Hypercholesterolemia,"(1006, 1017)",simvastatin
+19,Hypercholesterolemia,"(1099, 1111)",atorvastatin
+20,Hypercholesterolemia,"(1233, 1245)",atorvastatin

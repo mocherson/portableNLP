@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1635, 1638)",chf
+1,CHF,"(1757, 1781)",congestive heart failure
+2,CHF,"(3716, 3740)",congestive heart failure
+3,CHF,"(430, 452)",dilated cardiomyopathy
+4,CHF,"(1796, 1818)",dilated cardiomyopathy
+5,CHF,"(3650, 3672)",dilated cardiomyopathy
+6,CHF,"(3939, 3961)",dilated cardiomyopathy
+7,Diabetes,"(538, 546)",diabetes
+8,Diabetes,"(3627, 3635)",diabetes
+9,Diabetes,"(6444, 6452)",diabetes
+10,Obesity,"(575, 582)",obesity
+11,Obesity,"(2138, 2145)",obesity
+12,Obesity,"(2151, 2158)",obesity
+13,Obesity,"(3565, 3572)",obesity
+14,Obesity,"(575, 582)",obesity
+15,Obesity,"(2138, 2145)",obesity
+16,Obesity,"(2151, 2158)",obesity
+17,Obesity,"(3196, 3201)",obese
+18,Obesity,"(3565, 3572)",obesity
+19,OSA,"(549, 572)",obstructive sleep apnea
+20,OSA,"(2189, 2212)",obstructive sleep apnea
+21,Gout,"(2290, 2301)",allopurinol
+22,Gout,"(6816, 6827)",allopurinol

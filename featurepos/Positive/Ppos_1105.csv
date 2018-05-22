@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1839, 1842)",cad
+1,CAD,"(2142, 2145)",cad
+2,CAD,"(1845, 1868)",coronary artery disease
+3,CHF,"(2215, 2218)",chf
+4,Diabetes,"(1917, 1921)",iddm
+5,Diabetes,"(2231, 2235)",iddm
+6,Diabetes,"(2497, 2501)",iddm
+7,Hypercholesterolemia,"(1926, 1946)",hypercholesterolemia
+8,Hypercholesterolemia,"(1926, 1946)",hypercholesterolemia
+9,Hypercholesterolemia,"(1949, 1969)",elevated cholesterol
+10,Hypercholesterolemia,"(2238, 2252)",hyperlipidemia
+11,Hypertension,"(1824, 1836)",hypertension
+12,Hypertension,"(1818, 1821)",htn
+13,Depression,"(1227, 1233)",celexa
+14,Hypercholesterolemia,"(888, 899)",simvastatin

@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(936, 960)",congestive heart failure
+1,CHF,"(516, 538)",dilated cardiomyopathy
+2,Gallstones,"(342, 357)",cholecystectomy
+3,Gallstones,"(672, 687)",cholecystectomy
+4,Gallstones,"(777, 792)",cholecystectomy
+5,Gallstones,"(1867, 1882)",cholecystectomy
+6,Gout,"(5895, 5899)",gout
+7,Hypercholesterolemia,"(1722, 1736)",hyperlipidemia
+8,Hypertension,"(1639, 1651)",hypertension
+9,Obesity,"(1739, 1746)",obesity
+10,Obesity,"(1739, 1746)",obesity
+11,Obesity,"(2576, 2581)",obese
+12,Hypercholesterolemia,"(2061, 2072)",pravastatin
+13,Hypercholesterolemia,"(4555, 4563)",nystatin

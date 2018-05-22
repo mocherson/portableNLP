@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(3345, 3369)",congestive heart failure
+1,CHF,"(248, 270)",dilated cardiomyopathy
+2,CHF,"(401, 423)",dilated cardiomyopathy
+3,CHF,"(516, 538)",dilated cardiomyopathy
+4,CHF,"(800, 822)",dilated cardiomyopathy
+5,Hypertension,"(1975, 1987)",hypertension
+6,Obesity,"(2232, 2237)",obese
+7,Obesity,"(2769, 2774)",obese
+8,GERD,"(4485, 4493)",carafate
+9,GERD,"(4939, 4947)",carafate

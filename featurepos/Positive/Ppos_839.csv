@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(70, 94)",congestive heart failure
+1,CHF,"(242, 255)",heart failure
+2,CHF,"(1183, 1207)",congestive heart failure
+3,CHF,"(1321, 1334)",heart failure
+4,CHF,"(1798, 1811)",heart failure
+5,CHF,"(3275, 3288)",heart failure
+6,CHF,"(3433, 3446)",heart failure
+7,Diabetes,"(400, 408)",diabetes
+8,Diabetes,"(1892, 1900)",diabetes
+9,Diabetes,"(3373, 3381)",diabetes
+10,Hypertension,"(501, 513)",hypertension
+11,Obesity,"(332, 339)",obesity
+12,Obesity,"(332, 339)",obesity
+13,Depression,"(2260, 2266)",celexa
+14,Depression,"(6808, 6815)",lexapro
+15,OA,"(903, 918)",hip replacement

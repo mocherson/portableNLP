@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,GERD,"(1818, 1822)",gerd
+1,Hypercholesterolemia,"(1788, 1804)",high cholesterol
+2,Hypertension,"(1773, 1785)",hypertension
+3,Hypertension,"(2034, 2037)",htn
+4,Obesity,"(2514, 2521)",obesity
+5,Obesity,"(2040, 2047)",obestiy
+6,Obesity,"(2514, 2521)",obesity
+7,Hypertension,"(2905, 2917)",beta blocker
+8,Hypertension,"(2407, 2416)",bp 156/91
+9,CAD,"(1850, 1873)",cardiac catheterization
+10,Hypercholesterolemia,"(1140, 1152)",atorvastatin

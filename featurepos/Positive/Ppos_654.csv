@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(353, 361)",diabetes
+1,Diabetes,"(2589, 2597)",diabetes
+2,Diabetes,"(7590, 7598)",diabetes
+3,Diabetes,"(12015, 12023)",diabetes
+4,Hypertension,"(7141, 7153)",hypertension
+5,Obesity,"(3518, 3523)",obese
+6,OSA,"(367, 390)",obstructive sleep apnea
+7,OSA,"(2682, 2705)",obstructive sleep apnea
+8,OSA,"(5361, 5372)",sleep apnea
+9,Venous Insufficiency,"(3627, 3640)",venous stasis
+10,Hypertension,"(11904, 11916)",beta-blocker

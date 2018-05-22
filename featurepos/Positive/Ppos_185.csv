@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(458, 461)",chf
+1,CHF,"(68, 92)",congestive heart failure
+2,CHF,"(1683, 1696)",heart failure
+3,CHF,"(319, 341)",dilated cardiomyopathy
+4,CHF,"(2207, 2229)",dilated cardiomyopathy
+5,Diabetes,"(2257, 2265)",diabetes
+6,Hypertension,"(1075, 1089)",ace inhibitors

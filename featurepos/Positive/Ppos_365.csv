@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1626, 1629)",cad
+1,CAD,"(1906, 1909)",cad
+2,CAD,"(2839, 2842)",cad
+3,Diabetes,"(1660, 1665)",niddm
+4,Hypercholesterolemia,"(1643, 1659)",hypercholesterol
+5,Hypertension,"(3564, 3576)",hypertension
+6,Hypertension,"(1924, 1927)",htn
+7,Hypercholesterolemia,"(1073, 1085)",atorvastatin

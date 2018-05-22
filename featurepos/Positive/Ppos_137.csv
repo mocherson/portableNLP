@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2022, 2025)",cad
+1,CAD,"(2338, 2341)",cad
+2,CAD,"(2028, 2051)",coronary artery disease
+3,CHF,"(68, 71)",chf
+4,CHF,"(1889, 1892)",chf
+5,CHF,"(1989, 1992)",chf
+6,CHF,"(2350, 2353)",chf
+7,CHF,"(3132, 3135)",chf
+8,CHF,"(4014, 4017)",chf
+9,CHF,"(1995, 2019)",congestive heart failure
+10,Diabetes,"(2080, 2088)",diabetes
+11,Diabetes,"(2075, 2077)",dm
+12,Diabetes,"(2360, 2362)",dm
+13,GERD,"(2100, 2104)",gerd
+14,GERD,"(2124, 2138)",reflux disease
+15,GERD,"(2107, 2130)",gastroesophageal reflux
+16,Hypertension,"(2060, 2072)",hypertension
+17,Hypertension,"(2054, 2057)",htn
+18,Hypertension,"(2344, 2347)",htn
+19,Hypertension,"(3202, 3205)",htn
+20,CAD,"(3299, 3322)",cardiac catheterization
+21,Hypercholesterolemia,"(1082, 1093)",simvastatin
+22,Hypercholesterolemia,"(1362, 1373)",simvastatin

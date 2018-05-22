@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1934, 1940)",asthma
+1,Asthma,"(1943, 1949)",asthma
+2,Asthma,"(2430, 2436)",asthma
+3,Asthma,"(3148, 3154)",asthma
+4,Asthma,"(3376, 3382)",asthma
+5,CAD,"(1823, 1826)",cad
+6,CAD,"(2260, 2263)",cad
+7,CHF,"(69, 72)",chf
+8,CHF,"(1653, 1656)",chf
+9,CHF,"(1736, 1739)",chf
+10,CHF,"(1842, 1845)",chf
+11,CHF,"(2440, 2443)",chf
+12,CHF,"(1848, 1872)",congestive heart failure
+13,Diabetes,"(1827, 1829)",dm
+14,Diabetes,"(2186, 2188)",dm
+15,Diabetes,"(3575, 3577)",dm
+16,GERD,"(4165, 4169)",gerd
+17,Hypertension,"(1830, 1833)",htn
+18,Hypertension,"(2315, 2318)",htn
+19,Obesity,"(1834, 1841)",obesity
+20,Obesity,"(2250, 2257)",obesity
+21,Obesity,"(1834, 1841)",obesity
+22,Obesity,"(2250, 2257)",obesity
+23,Hypertension,"(1621, 1635)",ace inhibitors
+24,Hypercholesterolemia,"(1385, 1397)",atorvastatin

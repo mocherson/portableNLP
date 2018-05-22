@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,Hypertension,"(910, 922)",hypertension
+1,Hypertension,"(925, 937)",hypertension
+2,Hypertension,"(1218, 1221)",htn
+3,Hypertension,"(1960, 1963)",htn
+4,Hypertension,"(2330, 2333)",htn
+5,Hypertension,"(2396, 2399)",htn
+6,Obesity,"(970, 977)",obesity
+7,Obesity,"(980, 987)",obesity
+8,Obesity,"(1224, 1231)",obesity
+9,Obesity,"(970, 977)",obesity
+10,Obesity,"(980, 987)",obesity
+11,Obesity,"(1224, 1231)",obesity
+12,Obesity,"(1952, 1957)",obese
+13,OSA,"(990, 1001)",sleep apnea
+14,OSA,"(1004, 1015)",sleep apnea
+15,OSA,"(1234, 1245)",sleep apnea

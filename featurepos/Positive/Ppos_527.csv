@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1693, 1699)",asthma
+1,Diabetes,"(340, 348)",diabetes
+2,Diabetes,"(1581, 1589)",diabetes
+3,Diabetes,"(1713, 1721)",diabetic
+4,Diabetes,"(1735, 1743)",diabetic
+5,Hypercholesterolemia,"(313, 333)",hypercholesterolemia
+6,Hypercholesterolemia,"(1655, 1675)",hypercholesterolemia
+7,Hypercholesterolemia,"(313, 333)",hypercholesterolemia
+8,Hypercholesterolemia,"(1655, 1675)",hypercholesterolemia
+9,Hypertension,"(298, 310)",hypertension
+10,Hypertension,"(1641, 1653)",hypertension
+11,Obesity,"(2650, 2657)",obesity
+12,Obesity,"(2650, 2657)",obesity
+13,Hypertension,"(2116, 2130)",ace inhibitors
+14,Hypercholesterolemia,"(2188, 2199)",simvastatin

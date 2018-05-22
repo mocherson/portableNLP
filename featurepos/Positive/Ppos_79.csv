@@ -1,0 +1,7 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(277, 285)",diabetes
+1,Diabetes,"(1125, 1133)",diabetes
+2,Gallstones,"(1247, 1262)",cholecystectomy
+3,Hypercholesterolemia,"(295, 316)",increased cholesterol
+4,Hypercholesterolemia,"(1191, 1207)",high cholesterol
+5,Hypertension,"(1606, 1627)",blood pressure 155/95

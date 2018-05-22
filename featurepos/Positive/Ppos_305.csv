@@ -1,0 +1,25 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(9097, 9103)",asthma
+1,CAD,"(8235, 8238)",cad
+2,CAD,"(8998, 9001)",cad
+3,CAD,"(10487, 10490)",cad
+4,CAD,"(10644, 10647)",cad
+5,CHF,"(9187, 9190)",chf
+6,Depression,"(91, 101)",depression
+7,Depression,"(6732, 6742)",depression
+8,Depression,"(6929, 6939)",depression
+9,Depression,"(9137, 9147)",depression
+10,Depression,"(12489, 12499)",depression
+11,Depression,"(14823, 14833)",depression
+12,Diabetes,"(9063, 9065)",dm
+13,Diabetes,"(9923, 9925)",dm
+14,Hypercholesterolemia,"(9074, 9094)",hypercholesterolemia
+15,Hypercholesterolemia,"(9074, 9094)",hypercholesterolemia
+16,Hypertension,"(11108, 11120)",hypertension
+17,Hypertension,"(11228, 11240)",hypertension
+18,Hypertension,"(6917, 6920)",htn
+19,Hypertension,"(9068, 9071)",htn
+20,OA,"(9226, 9228)",oa
+21,OSA,"(9106, 9109)",osa
+22,Hypercholesterolemia,"(1069, 1081)",atorvastatin
+23,Hypercholesterolemia,"(11006, 11017)",simvastatin

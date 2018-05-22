@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,OSA,"(9, 32)",obstructive sleep apnea,"(1429, 1511)",question obstructive sleep apnea with mild pulmonary hypertension by previous echo,with mild pulmonary hypertension by previous echo
+1,OSA,"(9, 32)",obstructive sleep apnea,"(7172, 7204)",rule out obstructive sleep apnea,

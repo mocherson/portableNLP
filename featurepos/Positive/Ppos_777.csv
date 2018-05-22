@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1635, 1658)",coronary artery disease
+1,CHF,"(1661, 1664)",chf
+2,Diabetes,"(432, 440)",diabetes
+3,Diabetes,"(1747, 1755)",diabetes
+4,Diabetes,"(4687, 4695)",diabetes
+5,Diabetes,"(6724, 6732)",diabetes
+6,Hypercholesterolemia,"(1873, 1893)",hypercholesterolemia
+7,Hypercholesterolemia,"(1873, 1893)",hypercholesterolemia
+8,Hypertension,"(417, 429)",hypertension
+9,Hypertension,"(1836, 1848)",hypertension
+10,OA,"(2006, 2032)",degenerative joint disease
+11,Obesity,"(1986, 1993)",obesity
+12,Obesity,"(1986, 1993)",obesity
+13,Obesity,"(3111, 3116)",obese
+14,Hypertension,"(6033, 6045)",beta-blocker

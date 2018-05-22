@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(563, 587)",congestive heart failure
+1,CHF,"(2156, 2180)",congestive heart failure
+2,CHF,"(4531, 4555)",congestive heart failure
+3,CHF,"(4938, 4962)",congestive heart failure
+4,CHF,"(5168, 5192)",congestive heart failure
+5,Diabetes,"(421, 429)",diabetes
+6,Diabetes,"(1294, 1302)",diabetes
+7,Hypertension,"(1305, 1317)",hypertension
+8,Hypertension,"(2930, 2942)",hypertension
+9,PVD,"(441, 468)",peripheral vascular disease
+10,PVD,"(2657, 2684)",peripheral vascular disease
+11,Hypertension,"(2474, 2486)",beta blocker

@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(70, 93)",coronary artery disease
+1,Diabetes,"(526, 534)",diabetes
+2,Diabetes,"(1367, 1375)",diabetes
+3,Gout,"(1413, 1418)",gouty
+4,Hypertension,"(488, 500)",hypertension
+5,Hypertension,"(1437, 1449)",hypertension
+6,Obesity,"(2856, 2861)",obese
+7,OSA,"(1729, 1752)",obstructive sleep apnea
+8,Depression,"(6347, 6353)",zoloft
+9,CAD,"(3908, 3931)",cardiac catheterization

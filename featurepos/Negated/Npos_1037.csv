@@ -1,0 +1,5 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Hypercholesterolemia,"(14, 34)",hypercholesterolemia,"(1349, 1401)",no history of hypercholesterolemia or family history,
+1,Hypercholesterolemia,"(14, 34)",hypercholesterolemia,"(1349, 1401)",no history of hypercholesterolemia or family history,
+2,CAD,"(9, 32)",coronary artery disease,"(3216, 3248)",no known coronary artery disease,
+3,CHF,"(49, 73)",congestive heart failure,"(6498, 6571)",no recurrent angina and no recurrent evidence of congestive heart failure,

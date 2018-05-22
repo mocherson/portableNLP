@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(388, 391)",cad
+1,CAD,"(2062, 2065)",cad
+2,Diabetes,"(347, 355)",diabetes
+3,Diabetes,"(617, 625)",diabetes
+4,Diabetes,"(2004, 2012)",diabetes
+5,Diabetes,"(5776, 5784)",diabetes
+6,Diabetes,"(7058, 7066)",diabetes
+7,Diabetes,"(1548, 1556)",diabetic
+8,Diabetes,"(1982, 1990)",diabetic
+9,Obesity,"(2966, 2973)",obesity
+10,Obesity,"(2966, 2973)",obesity
+11,PVD,"(611, 614)",pvd
+12,PVD,"(1946, 1949)",pvd
+13,PVD,"(317, 344)",peripheral vascular disease
+14,PVD,"(1952, 1979)",peripheral vascular disease

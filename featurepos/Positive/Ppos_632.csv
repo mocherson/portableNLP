@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(4632, 4635)",chf
+1,Diabetes,"(4360, 4368)",diabetes
+2,Diabetes,"(5718, 5726)",diabetes
+3,Diabetes,"(4569, 4572)",2dm
+4,Hypercholesterolemia,"(4377, 4397)",hypercholesterolemia
+5,Hypercholesterolemia,"(4377, 4397)",hypercholesterolemia
+6,Hypertension,"(4371, 4374)",htn
+7,Hypertension,"(4575, 4578)",htn
+8,Obesity,"(5222, 5227)",obese
+9,Hypertension,"(5080, 5089)",bp 190/90
+10,Hypercholesterolemia,"(1476, 1488)",atorvastatin
+11,Hypercholesterolemia,"(2946, 2958)",atorvastatin
+12,Hypercholesterolemia,"(3117, 3129)",atorvastatin
+13,Hypercholesterolemia,"(3186, 3198)",atorvastatin
+14,Hypercholesterolemia,"(3481, 3493)",atorvastatin

@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,CHF,"(9, 22)",heart failure,"(6794, 6816)",no known heart failure,
+1,CAD,"(20, 43)",coronary artery disease,"(7368, 7411)",no known history of coronary artery disease,

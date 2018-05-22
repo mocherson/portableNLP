@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1552, 1555)",chf
+1,Diabetes,"(324, 332)",diabetes
+2,Diabetes,"(1387, 1395)",diabetes
+3,Diabetes,"(4012, 4020)",diabetes
+4,Hypercholesterolemia,"(359, 373)",hyperlipidemia
+5,Hypercholesterolemia,"(4047, 4061)",hyperlipidemia
+6,Hypertension,"(344, 356)",hypertension
+7,Hypertension,"(1468, 1480)",hypertension
+8,Hypertension,"(4032, 4044)",hypertension
+9,OA,"(1683, 1692)",arthritis
+10,Obesity,"(3282, 3287)",obese
+11,Hypertension,"(4820, 4832)",beta-blocker
+12,Hypercholesterolemia,"(2080, 2091)",simvastatin
+13,Hypercholesterolemia,"(2255, 2266)",pravastatin
+14,Hypercholesterolemia,"(7383, 7394)",pravastatin

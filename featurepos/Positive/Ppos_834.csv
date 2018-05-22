@@ -1,0 +1,25 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(88, 101)",heart failure
+1,CHF,"(2886, 2899)",heart failure
+2,CHF,"(4061, 4074)",heart failure
+3,CHF,"(5730, 5743)",heart failure
+4,CHF,"(5887, 5900)",heart failure
+5,CHF,"(6023, 6036)",heart failure
+6,CHF,"(7682, 7695)",heart failure
+7,Diabetes,"(6392, 6400)",diabetes
+8,Diabetes,"(2997, 2999)",dm
+9,Diabetes,"(3363, 3368)",niddm
+10,Hypercholesterolemia,"(3078, 3098)",hypercholesterolemia
+11,Hypercholesterolemia,"(3078, 3098)",hypercholesterolemia
+12,Hypertension,"(3002, 3014)",hypertension
+13,Hypertension,"(3357, 3360)",htn
+14,Hypertension,"(7482, 7485)",htn
+15,Hypertension,"(7659, 7662)",htn
+16,OA,"(3101, 3103)",oa
+17,OSA,"(7502, 7505)",osa
+18,Depression,"(550, 556)",elavil
+19,Depression,"(4443, 4449)",elavil
+20,Depression,"(6951, 6957)",elavil
+21,Hypercholesterolemia,"(1262, 1273)",simvastatin
+22,Hypercholesterolemia,"(1340, 1351)",simvastatin
+23,Hypercholesterolemia,"(1605, 1616)",simvastatin

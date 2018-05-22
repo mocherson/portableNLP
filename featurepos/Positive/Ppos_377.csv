@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2672, 2678)",asthma
+1,CAD,"(1584, 1607)",coronary artery disease
+2,CHF,"(297, 321)",congestive heart failure
+3,Diabetes,"(271, 279)",diabetes
+4,Diabetes,"(469, 477)",diabetes
+5,Diabetes,"(1678, 1686)",diabetes
+6,Diabetes,"(2215, 2223)",diabetes
+7,Gallstones,"(2784, 2799)",cholecystectomy
+8,Hypercholesterolemia,"(2693, 2713)",hypercholesterolemia
+9,Hypercholesterolemia,"(2693, 2713)",hypercholesterolemia
+10,Hypertension,"(282, 294)",hypertension
+11,Hypertension,"(436, 448)",hypertension
+12,Hypertension,"(1663, 1675)",hypertension
+13,Hypertension,"(2333, 2345)",hypertension
+14,Obesity,"(3563, 3568)",obese
+15,CAD,"(5589, 5612)",cardiac catheterization
+16,Hypercholesterolemia,"(8069, 8080)",simvastatin

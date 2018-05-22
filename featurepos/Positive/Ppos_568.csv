@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(347, 355)",diabetes
+1,Hypertension,"(376, 388)",hypertension
+2,Hypertension,"(650, 662)",hypertension
+3,Hypertension,"(4839, 4851)",hypertension
+4,Hypertension,"(5343, 5355)",hypertension
+5,Hypertension,"(8564, 8576)",hypertension
+6,Obesity,"(2798, 2803)",obese
+7,Hypertension,"(7913, 7925)",beta-blocker
+8,Hypertension,"(8695, 8707)",beta-blocker
+9,Hypercholesterolemia,"(10073, 10084)",simvastatin

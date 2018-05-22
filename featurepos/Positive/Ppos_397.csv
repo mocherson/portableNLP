@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(69, 75)",asthma
+1,CHF,"(629, 632)",chf
+2,CHF,"(404, 428)",congestive heart failure
+3,CHF,"(1096, 1120)",congestive heart failure
+4,CHF,"(1554, 1578)",congestive heart failure
+5,CHF,"(2005, 2029)",congestive heart failure
+6,CHF,"(3804, 3828)",congestive heart failure
+7,Diabetes,"(434, 442)",diabetes
+8,Diabetes,"(1635, 1643)",diabetes
+9,Diabetes,"(1853, 1861)",diabetes
+10,Diabetes,"(7905, 7913)",diabetes
+11,Hypertension,"(448, 460)",hypertension
+12,Hypertension,"(1646, 1658)",hypertension
+13,Hypertension,"(1866, 1878)",hypertension
+14,Hypertension,"(7182, 7194)",hypertension
+15,Hypertension,"(7252, 7264)",hypertension
+16,Hypertension,"(5788, 5800)",beta-blocker
+17,Hypertension,"(6955, 6967)",beta-blocker
+18,Hypertension,"(7365, 7377)",beta-blocker
+19,Hypertension,"(2641, 2662)",blood pressure 158/90

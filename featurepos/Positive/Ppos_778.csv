@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(69, 72)",chf
+1,CHF,"(3705, 3708)",chf
+2,CHF,"(3788, 3791)",chf
+3,CHF,"(3921, 3924)",chf
+4,CHF,"(4253, 4256)",chf
+5,CHF,"(3938, 3962)",congestive heart failure
+6,Diabetes,"(3903, 3908)",niddm
+7,GERD,"(3888, 3898)",g-e reflux
+8,Hypertension,"(3899, 3902)",htn
+9,Hypercholesterolemia,"(2088, 2099)",simvastatin
+10,Hypercholesterolemia,"(2306, 2317)",simvastatin
+11,Hypercholesterolemia,"(2532, 2543)",simvastatin
+12,Hypercholesterolemia,"(2799, 2810)",simvastatin
+13,Hypercholesterolemia,"(3054, 3065)",simvastatin
+14,Hypercholesterolemia,"(3246, 3257)",simvastatin

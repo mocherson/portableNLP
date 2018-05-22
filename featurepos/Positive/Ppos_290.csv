@@ -1,0 +1,7 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(69, 75)",asthma
+1,CAD,"(335, 358)",coronary artery disease
+2,Diabetes,"(298, 306)",diabetes
+3,Hypertension,"(283, 295)",hypertension
+4,OA,"(318, 332)",osteoarthritis
+5,Obesity,"(2297, 2302)",obese

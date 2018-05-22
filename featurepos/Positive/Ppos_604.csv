@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(1474, 1484)",depression
+1,Gallstones,"(859, 874)",cholecystectomy
+2,Gallstones,"(4124, 4139)",cholecystectomy
+3,Obesity,"(356, 363)",obesity
+4,Obesity,"(1384, 1391)",obesity
+5,Obesity,"(15459, 15466)",obesity
+6,Obesity,"(356, 363)",obesity
+7,Obesity,"(1384, 1391)",obesity
+8,Obesity,"(2267, 2272)",obese
+9,Obesity,"(2686, 2691)",obese
+10,Obesity,"(15459, 15466)",obesity
+11,OSA,"(1398, 1401)",osa
+12,Depression,"(1721, 1728)",effexor

@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4212, 4215)",cad
+1,CAD,"(4227, 4250)",coronary artery disease
+2,CHF,"(4253, 4256)",chf
+3,CHF,"(4259, 4283)",congestive heart failure
+4,Diabetes,"(4355, 4363)",diabetes
+5,Diabetes,"(4348, 4352)",iddm
+6,Obesity,"(4423, 4430)",obesity
+7,Obesity,"(4433, 4440)",obesity
+8,Obesity,"(4423, 4430)",obesity
+9,Obesity,"(4433, 4440)",obesity
+10,Obesity,"(5616, 5621)",obese
+11,Obesity,"(5689, 5694)",obese
+12,PVD,"(4443, 4446)",pvd
+13,PVD,"(4449, 4476)",peripheral vascular disease
+14,Hypercholesterolemia,"(1250, 1262)",atorvastatin
+15,Hypercholesterolemia,"(1804, 1816)",atorvastatin
+16,Hypercholesterolemia,"(1997, 2009)",atorvastatin
+17,Hypercholesterolemia,"(2414, 2426)",atorvastatin
+18,Hypercholesterolemia,"(2607, 2619)",atorvastatin
+19,Gout,"(535, 546)",allopurinol
+20,Gout,"(1744, 1755)",allopurinol
+21,Gout,"(2354, 2365)",allopurinol
+22,Gout,"(7063, 7074)",allopurinol

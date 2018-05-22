@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(1573, 1583)",depression
+1,Depression,"(4245, 4255)",depression
+2,Depression,"(4318, 4328)",depression
+3,Depression,"(4546, 4556)",depression
+4,Diabetes,"(234, 242)",diabetes
+5,Diabetes,"(290, 298)",diabetes
+6,Diabetes,"(1170, 1178)",diabetes
+7,Diabetes,"(2822, 2830)",diabetes
+8,Diabetes,"(3109, 3117)",diabetes
+9,Diabetes,"(3471, 3479)",diabetes
+10,Diabetes,"(5412, 5420)",diabetes
+11,Diabetes,"(1205, 1213)",diabetic
+12,Diabetes,"(2920, 2928)",diabetic
+13,Diabetes,"(2978, 2986)",diabetic
+14,Gallstones,"(2222, 2237)",cholecystectomy
+15,Hypertension,"(1001, 1013)",hypertension
+16,Hypertension,"(3696, 3708)",hypertension
+17,Hypertension,"(3828, 3840)",hypertension
+18,Obesity,"(2603, 2608)",obese

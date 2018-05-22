@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(432, 438)",asthma
+1,Asthma,"(574, 580)",asthma
+2,Asthma,"(2025, 2031)",asthma
+3,Asthma,"(7896, 7902)",asthma
+4,CHF,"(396, 399)",chf
+5,CHF,"(3798, 3801)",chf
+6,CHF,"(297, 310)",heart failure
+7,CHF,"(3386, 3399)",heart failure
+8,CHF,"(441, 467)",nonischemic cardiomyopathy
+9,CHF,"(652, 678)",nonischemic cardiomyopathy
+10,CHF,"(2048, 2074)",nonischemic cardiomyopathy
+11,Hypertension,"(402, 414)",hypertension
+12,Hypertension,"(559, 571)",hypertension
+13,Hypertension,"(2010, 2022)",hypertension
+14,Hypertension,"(3934, 3946)",hypertension
+15,Hypertension,"(2654, 2675)",blood pressure 150/90
+16,Hypercholesterolemia,"(2144, 2156)",atorvastatin
+17,Hypercholesterolemia,"(10057, 10068)",simvastatin

@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3688, 3691)",cad
+1,Depression,"(1421, 1431)",depression
+2,Depression,"(2238, 2248)",depression
+3,Depression,"(5081, 5091)",depression
+4,Diabetes,"(5272, 5280)",diabetes
+5,Diabetes,"(1416, 1418)",dm
+6,Diabetes,"(2194, 2196)",dm
+7,Gallstones,"(2159, 2169)",gallstones
+8,Gallstones,"(4629, 4639)",gallstones
+9,Gallstones,"(4965, 4975)",gallstones
+10,Gallstones,"(2159, 2169)",gallstones
+11,Gallstones,"(4629, 4639)",gallstones
+12,Gallstones,"(4965, 4975)",gallstones
+13,Gallstones,"(5031, 5046)",cholecystectomy
+14,GERD,"(2269, 2273)",gerd
+15,Obesity,"(2199, 2206)",obesity
+16,Obesity,"(1736, 1741)",obese
+17,Obesity,"(2199, 2206)",obesity
+18,Obesity,"(2941, 2946)",obese
+19,Hypercholesterolemia,"(829, 840)",simvastatin
+20,Hypercholesterolemia,"(2776, 2787)",simvastatin

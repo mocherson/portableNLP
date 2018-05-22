@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1713, 1737)",congestive heart failure
+1,Diabetes,"(664, 672)",diabetes
+2,Diabetes,"(1816, 1824)",diabetes
+3,Gallstones,"(987, 1002)",cholecystectomy
+4,Obesity,"(2072, 2077)",obese
+5,Obesity,"(2467, 2472)",obese
+6,OA,"(812, 827)",hip replacement
+7,OA,"(861, 876)",hip replacement
+8,OA,"(204, 220)",knee replacement
+9,OA,"(316, 332)",knee replacement
+10,OA,"(3071, 3087)",knee replacement
+11,OA,"(5103, 5119)",knee replacement

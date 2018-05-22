@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(4580, 4586)",asthma
+1,Asthma,"(4589, 4595)",asthma
+2,CHF,"(4512, 4515)",chf
+3,CHF,"(5109, 5112)",chf
+4,CHF,"(4518, 4542)",congestive heart failure
+5,CHF,"(4470, 4492)",dilated cardiomyopathy
+6,Depression,"(4629, 4639)",depression
+7,Depression,"(4642, 4652)",depression
+8,Diabetes,"(4660, 4668)",diabetes
+9,Diabetes,"(4655, 4657)",dm
+10,Hypercholesterolemia,"(4545, 4554)",hyperchol
+11,Hypercholesterolemia,"(4557, 4577)",elevated cholesterol
+12,Hypertension,"(4774, 4786)",hypertension
+13,Hypertension,"(4768, 4771)",htn
+14,OSA,"(4598, 4601)",osa
+15,OSA,"(6211, 6214)",osa
+16,OSA,"(4615, 4626)",sleep apnea
+17,Depression,"(1926, 1932)",zoloft
+18,Hypercholesterolemia,"(2789, 2801)",atorvastatin

@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(4731, 4737)",asthma
+1,CAD,"(5099, 5102)",cad
+2,CHF,"(4554, 4557)",chf
+3,CHF,"(4761, 4764)",chf
+4,CHF,"(5041, 5044)",chf
+5,CHF,"(5360, 5363)",chf
+6,CHF,"(5952, 5955)",chf
+7,CHF,"(6353, 6356)",chf
+8,CHF,"(7386, 7389)",chf
+9,Diabetes,"(7849, 7857)",diabetes
+10,Diabetes,"(5094, 5096)",dm
+11,Diabetes,"(4765, 4769)",iddm
+12,Hypertension,"(4738, 4741)",htn
+13,Hypertension,"(5088, 5091)",htn
+14,OA,"(4791, 4800)",arthritis
+15,OA,"(4801, 4804)",djd
+16,Obesity,"(6974, 6981)",obesity
+17,Obesity,"(6974, 6981)",obesity
+18,OSA,"(4896, 4919)",obstructive sleep apnea
+19,Hypercholesterolemia,"(1760, 1771)",simvastatin
+20,Hypercholesterolemia,"(1837, 1848)",simvastatin
+21,Hypercholesterolemia,"(2100, 2111)",simvastatin
+22,Hypercholesterolemia,"(3886, 3897)",simvastatin

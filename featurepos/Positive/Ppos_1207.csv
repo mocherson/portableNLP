@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(653, 656)",cad
+1,CAD,"(1354, 1357)",cad
+2,CAD,"(1714, 1737)",coronary artery disease
+3,CHF,"(507, 510)",chf
+4,Diabetes,"(521, 529)",diabetes
+5,Diabetes,"(760, 768)",diabetes
+6,Diabetes,"(1455, 1463)",diabetes
+7,Diabetes,"(5836, 5844)",diabetes
+8,Diabetes,"(5924, 5932)",diabetes
+9,Hypertension,"(2028, 2040)",beta-blocker

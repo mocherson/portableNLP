@@ -1,0 +1,7 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(249, 257)",diabetes
+1,Diabetes,"(503, 511)",diabetes
+2,Diabetes,"(2244, 2252)",diabetes
+3,Gallstones,"(2412, 2427)",cholecystectomy
+4,Hypertension,"(2383, 2395)",hypertension
+5,Obesity,"(10768, 10773)",obese

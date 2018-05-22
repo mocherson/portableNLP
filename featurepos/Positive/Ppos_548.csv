@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(674, 696)",coronary artery bypass
+1,CAD,"(780, 802)",coronary artery bypass
+2,CAD,"(1844, 1866)",coronary artery bypass
+3,CAD,"(385, 408)",coronary artery disease
+4,CAD,"(1673, 1696)",coronary artery disease
+5,Diabetes,"(465, 473)",diabetes
+6,Diabetes,"(1740, 1748)",diabetes
+7,Diabetes,"(4796, 4804)",diabetes
+8,Hypertension,"(370, 382)",hypertension
+9,Hypertension,"(1655, 1667)",hypertension
+10,Obesity,"(2974, 2979)",obese
+11,Depression,"(2172, 2178)",elavil

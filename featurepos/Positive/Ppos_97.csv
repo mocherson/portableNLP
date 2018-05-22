@@ -1,0 +1,6 @@
+,disease,dis_pos,dis_alias
+0,Gallstones,"(1055, 1070)",cholecystectomy
+1,Hypertension,"(385, 397)",hypertension
+2,Hypertension,"(929, 941)",hypertension
+3,Obesity,"(2017, 2022)",obese
+4,OA,"(1021, 1037)",knee replacement

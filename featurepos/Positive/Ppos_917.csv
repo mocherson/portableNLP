@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(4609, 4619)",depression
+1,Depression,"(12828, 12838)",depression
+2,Hypertension,"(337, 349)",hypertension
+3,Hypertension,"(570, 582)",hypertension
+4,Hypertension,"(4332, 4344)",hypertension
+5,Hypertension,"(9952, 9964)",hypertension
+6,OA,"(294, 308)",osteoarthritis
+7,OA,"(536, 545)",arthritis
+8,OA,"(4625, 4639)",osteoarthritis
+9,OA,"(5247, 5256)",arthritis
+10,OA,"(9240, 9249)",arthritis
+11,OA,"(9989, 9998)",arthritis
+12,OA,"(352, 378)",degenerative joint disease
+13,OA,"(587, 613)",degenerative joint disease
+14,OA,"(4020, 4046)",degenerative joint disease

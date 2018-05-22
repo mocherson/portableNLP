@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(1011, 1021)",depression
+1,Diabetes,"(997, 1002)",niddm
+2,Hypertension,"(1005, 1008)",htn
+3,Obesity,"(76, 83)",obesity
+4,Obesity,"(812, 819)",obesity
+5,Obesity,"(906, 913)",obesity
+6,Obesity,"(1214, 1221)",obesity
+7,Obesity,"(76, 83)",obesity
+8,Obesity,"(812, 819)",obesity
+9,Obesity,"(906, 913)",obesity
+10,Obesity,"(1214, 1221)",obesity

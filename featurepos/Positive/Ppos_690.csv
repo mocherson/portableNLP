@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(440, 446)",asthma
+1,Asthma,"(1300, 1306)",asthma
+2,Gout,"(449, 453)",gout
+3,Gout,"(1191, 1195)",gout
+4,Hypertension,"(414, 426)",hypertension
+5,Hypertension,"(1176, 1188)",hypertension
+6,Obesity,"(2326, 2331)",obese
+7,OA,"(1344, 1360)",knee replacement
+8,OA,"(1465, 1481)",knee replacement
+9,Gout,"(4147, 4158)",allopurinol

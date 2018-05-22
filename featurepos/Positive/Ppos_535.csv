@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(2763, 2766)",2dm
+1,Diabetes,"(3973, 3976)",2dm
+2,Diabetes,"(4458, 4460)",dm
+3,Diabetes,"(2249, 2254)",niddm
+4,GERD,"(2417, 2421)",gerd
+5,GERD,"(2441, 2455)",reflux disease
+6,GERD,"(2424, 2447)",gastroesophageal reflux
+7,Hypercholesterolemia,"(2286, 2300)",hyperlipidemia
+8,Hypercholesterolemia,"(2303, 2317)",hyperlipidemia
+9,Hypertension,"(2255, 2258)",htn
+10,Hypertension,"(2781, 2784)",htn
+11,Hypertension,"(3979, 3982)",htn
+12,OA,"(2371, 2373)",oa
+13,OA,"(2347, 2361)",osteoarthritis
+14,Obesity,"(2327, 2334)",obesity
+15,Obesity,"(2337, 2344)",obesity
+16,Obesity,"(2327, 2334)",obesity
+17,Obesity,"(2337, 2344)",obesity
+18,Obesity,"(2742, 2747)",obese
+19,Obesity,"(3379, 3384)",obese
+20,Obesity,"(3535, 3540)",obese
+21,Obesity,"(3955, 3960)",obese
+22,Depression,"(651, 657)",zoloft
+23,Hypertension,"(4268, 4285)",antihypertensives
+24,Hypercholesterolemia,"(1557, 1569)",atorvastatin

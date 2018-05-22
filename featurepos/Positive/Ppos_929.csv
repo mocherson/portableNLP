@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2927, 2930)",cad
+1,CAD,"(3313, 3333)",coronary angioplasty
+2,CAD,"(2933, 2956)",coronary artery disease
+3,CAD,"(3265, 3288)",coronary artery disease
+4,Diabetes,"(2907, 2915)",diabetes
+5,Diabetes,"(3397, 3405)",diabetes
+6,Diabetes,"(2902, 2904)",dm
+7,Gallstones,"(3647, 3662)",cholecystectomy
+8,GERD,"(3608, 3622)",reflux disease
+9,Hypercholesterolemia,"(3417, 3431)",hyperlipidemia
+10,Hypertension,"(2887, 2899)",hypertension
+11,Hypertension,"(3436, 3448)",hypertension
+12,Hypertension,"(2881, 2884)",htn
+13,Hypercholesterolemia,"(747, 758)",simvastatin
+14,Hypercholesterolemia,"(1964, 1975)",simvastatin
+15,Hypercholesterolemia,"(2189, 2200)",simvastatin
+16,Hypercholesterolemia,"(2253, 2264)",simvastatin

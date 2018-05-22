@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1760, 1766)",asthma
+1,CAD,"(2973, 2995)",coronary artery bypass
+2,Diabetes,"(350, 358)",diabetes
+3,Diabetes,"(1725, 1733)",diabetes
+4,Hypercholesterolemia,"(372, 384)",dyslipidemia
+5,Hypercholesterolemia,"(1745, 1757)",dyslipidemia
+6,Hypertension,"(327, 339)",hypertension
+7,Hypertension,"(1547, 1559)",hypertension
+8,OSA,"(1810, 1833)",obstructive sleep apnea
+9,CAD,"(951, 974)",cardiac catheterization
+10,Hypercholesterolemia,"(2090, 2102)",atorvastatin

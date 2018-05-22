@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(251, 259)",diabetes
+1,Diabetes,"(1687, 1695)",diabetes
+2,Diabetes,"(4567, 4575)",diabetes
+3,Diabetes,"(8020, 8028)",diabetes
+4,Diabetes,"(10680, 10688)",diabetes
+5,Hypertension,"(299, 311)",hypertension
+6,Hypertension,"(1729, 1741)",hypertension
+7,Hypertension,"(4552, 4564)",hypertension
+8,Hypertension,"(8033, 8045)",hypertension
+9,OA,"(448, 457)",arthritis
+10,OA,"(4609, 4618)",arthritis
+11,Hypertension,"(8724, 8741)",antihypertensives
+12,Hypertension,"(9672, 9689)",antihypertensives

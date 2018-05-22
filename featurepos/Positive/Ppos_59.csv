@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Hypercholesterolemia,"(1368, 1380)",dyslipidemia
+1,Hypercholesterolemia,"(1383, 1395)",dyslipidemia
+2,Hypertension,"(1353, 1365)",hypertension
+3,Hypertension,"(1347, 1350)",htn
+4,OA,"(1659, 1661)",oa
+5,OA,"(1444, 1453)",arthritis
+6,OA,"(1456, 1465)",arthritis
+7,Venous Insufficiency,"(2924, 2937)",venous stasis
+8,Hypercholesterolemia,"(740, 752)",atorvastatin
+9,Hypercholesterolemia,"(872, 884)",atorvastatin

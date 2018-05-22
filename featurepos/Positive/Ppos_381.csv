@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(4156, 4162)",asthma
+1,CAD,"(4169, 4172)",cad
+2,CAD,"(4702, 4705)",cad
+3,CAD,"(5525, 5528)",cad
+4,CAD,"(5595, 5598)",pci
+5,CHF,"(6729, 6732)",chf
+6,CHF,"(69, 93)",congestive heart failure
+7,CHF,"(4020, 4044)",congestive heart failure
+8,CHF,"(4676, 4699)",ischemic cardiomyopathy
+9,Diabetes,"(4163, 4168)",niddm
+10,Diabetes,"(5641, 5645)",iddm
+11,Diabetes,"(6138, 6146)",diabetic
+12,Gallstones,"(5811, 5826)",cholecystectomy
+13,Gout,"(4934, 4938)",gout
+14,Gout,"(5829, 5833)",gout
+15,Hypercholesterolemia,"(4219, 4239)",hypercholesterolemia
+16,Hypercholesterolemia,"(4219, 4239)",hypercholesterolemia
+17,Hypertension,"(4206, 4218)",hypertension
+18,Hypertension,"(5734, 5737)",htn
+19,Hypercholesterolemia,"(868, 880)",atorvastatin
+20,Gout,"(668, 679)",allopurinol

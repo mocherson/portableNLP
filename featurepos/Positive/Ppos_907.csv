@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3035, 3038)",cad
+1,CHF,"(2418, 2421)",chf
+2,Diabetes,"(2601, 2609)",diabetes
+3,Diabetes,"(3014, 3016)",dm
+4,Diabetes,"(2593, 2598)",niddm
+5,Gout,"(2621, 2625)",gout
+6,Gout,"(2628, 2632)",gout
+7,Hypertension,"(2414, 2417)",htn
+8,Hypertension,"(3019, 3022)",htn

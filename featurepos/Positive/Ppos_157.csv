@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1881, 1887)",asthma
+1,CAD,"(1654, 1657)",cad
+2,CAD,"(2914, 2917)",cad
+3,CHF,"(2086, 2089)",chf
+4,CHF,"(2742, 2745)",chf
+5,Diabetes,"(2099, 2101)",dm
+6,Diabetes,"(3325, 3327)",dm
+7,Hypertension,"(2104, 2107)",htn
+8,Hypertension,"(3432, 3435)",htn
+9,Obesity,"(1841, 1848)",obesity
+10,Obesity,"(1841, 1848)",obesity
+11,OSA,"(1857, 1860)",osa
+12,OSA,"(2110, 2113)",osa
+13,OSA,"(3390, 3393)",osa
+14,OSA,"(1863, 1874)",sleep apnea
+15,Hypertension,"(2499, 2508)",bp 145/90

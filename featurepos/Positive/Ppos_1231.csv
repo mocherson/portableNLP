@@ -1,0 +1,24 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(473, 479)",asthma
+1,Asthma,"(1155, 1161)",asthma
+2,CAD,"(513, 536)",coronary artery disease
+3,CAD,"(999, 1022)",coronary artery disease
+4,CHF,"(68, 92)",congestive heart failure
+5,CHF,"(482, 506)",congestive heart failure
+6,CHF,"(826, 850)",congestive heart failure
+7,CHF,"(2086, 2110)",congestive heart failure
+8,Hypercholesterolemia,"(1181, 1195)",hyperlipidemia
+9,Hypertension,"(234, 246)",hypertension
+10,Hypertension,"(458, 470)",hypertension
+11,Hypertension,"(1140, 1152)",hypertension
+12,OA,"(252, 266)",osteoarthritis
+13,Obesity,"(299, 306)",obesity
+14,Obesity,"(1171, 1178)",obesity
+15,Obesity,"(1633, 1640)",obesity
+16,Obesity,"(299, 306)",obesity
+17,Obesity,"(1171, 1178)",obesity
+18,Obesity,"(1633, 1640)",obesity
+19,OSA,"(205, 228)",obstructive sleep apnea
+20,OSA,"(3146, 3169)",obstructive sleep apnea
+21,OSA,"(4147, 4170)",obstructive sleep apnea
+22,Hypertension,"(1504, 1525)",blood pressure 215/91

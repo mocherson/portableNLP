@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2991, 2997)",asthma
+1,Hypertension,"(2526, 2529)",htn
+2,Hypertension,"(2894, 2897)",htn
+3,Obesity,"(2572, 2579)",obesity
+4,Obesity,"(2582, 2589)",obesity
+5,Obesity,"(2829, 2836)",obesity
+6,Obesity,"(2572, 2579)",obesity
+7,Obesity,"(2582, 2589)",obesity
+8,Obesity,"(2829, 2836)",obesity
+9,OSA,"(2592, 2615)",obstructive sleep apnea
+10,OSA,"(2618, 2629)",sleep apnea
+11,OSA,"(2869, 2880)",sleep apnea
+12,Depression,"(1163, 1169)",prozac

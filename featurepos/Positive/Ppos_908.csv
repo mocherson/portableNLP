@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(3162, 3168)",asthma
+1,Asthma,"(3904, 3910)",asthma
+2,CAD,"(3171, 3174)",cad
+3,CAD,"(4883, 4886)",cad
+4,CAD,"(5117, 5120)",cad
+5,CHF,"(69, 72)",chf
+6,CHF,"(2942, 2945)",chf
+7,CHF,"(3038, 3041)",chf
+8,CHF,"(3517, 3520)",chf
+9,Diabetes,"(6354, 6362)",diabetes
+10,Diabetes,"(7209, 7217)",diabetes
+11,Diabetes,"(3219, 3221)",dm
+12,Diabetes,"(3503, 3506)",dm2
+13,Diabetes,"(6697, 6705)",diabetic
+14,Hypertension,"(3177, 3180)",htn
+15,Hypertension,"(3509, 3512)",htn
+16,Hypertension,"(3880, 3883)",htn
+17,OSA,"(3891, 3894)",osa
+18,OSA,"(5910, 5913)",osa
+19,Hypercholesterolemia,"(732, 744)",atorvastatin
+20,Hypercholesterolemia,"(865, 877)",atorvastatin

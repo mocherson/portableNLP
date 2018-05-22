@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(384, 407)",coronary artery disease
+1,CAD,"(581, 604)",coronary artery disease
+2,CAD,"(2065, 2088)",coronary artery disease
+3,GERD,"(377, 381)",gerd
+4,GERD,"(2024, 2028)",gerd
+5,Hypercholesterolemia,"(454, 474)",hypercholesterolemia
+6,Hypercholesterolemia,"(454, 474)",hypercholesterolemia
+7,Hypercholesterolemia,"(2048, 2062)",hyperlipidemia
+8,Hypertension,"(317, 329)",hypertension
+9,Hypertension,"(349, 361)",hypertension
+10,Hypertension,"(630, 642)",hypertension
+11,Hypertension,"(1983, 1995)",hypertension
+12,Hypertension,"(4086, 4098)",hypertension
+13,Hypertension,"(4237, 4249)",hypertension
+14,OA,"(410, 424)",osteoarthritis
+15,OA,"(2007, 2021)",osteoarthritis
+16,Depression,"(2542, 2548)",celexa
+17,Depression,"(6734, 6740)",celexa
+18,Hypertension,"(1853, 1869)",antihypertensive
+19,Hypertension,"(1603, 1615)",beta-blocker

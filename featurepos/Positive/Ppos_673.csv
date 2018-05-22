@@ -1,0 +1,37 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(69, 72)",chf
+1,CHF,"(1545, 1548)",chf
+2,CHF,"(1628, 1631)",chf
+3,CHF,"(1764, 1767)",chf
+4,CHF,"(1964, 1967)",chf
+5,CHF,"(4369, 4372)",chf
+6,CHF,"(4968, 4971)",chf
+7,CHF,"(5233, 5236)",chf
+8,CHF,"(5434, 5437)",chf
+9,CHF,"(7597, 7610)",heart failure
+10,Diabetes,"(1944, 1946)",dm
+11,Diabetes,"(3052, 3054)",dm
+12,Diabetes,"(4345, 4347)",dm
+13,Diabetes,"(5807, 5809)",dm
+14,Hypertension,"(1949, 1952)",htn
+15,Hypertension,"(3066, 3069)",htn
+16,Hypertension,"(4350, 4353)",htn
+17,Hypertension,"(5680, 5683)",htn
+18,Hypertriglyceridemia,"(4630, 4649)",trigs very elevated
+19,Obesity,"(89, 96)",obesity
+20,Obesity,"(1648, 1655)",obesity
+21,Obesity,"(7025, 7032)",obesity
+22,Obesity,"(89, 96)",obesity
+23,Obesity,"(1648, 1655)",obesity
+24,Obesity,"(3937, 3942)",obese
+25,Obesity,"(7025, 7032)",obesity
+26,OSA,"(3048, 3051)",osa
+27,OSA,"(75, 86)",sleep apnea
+28,OSA,"(1634, 1645)",sleep apnea
+29,OSA,"(1770, 1781)",sleep apnea
+30,OSA,"(6350, 6361)",sleep apnea
+31,OSA,"(6596, 6607)",sleep apnea
+32,OSA,"(6636, 6647)",sleep apnea
+33,OSA,"(7062, 7073)",sleep apnea
+34,OSA,"(7581, 7592)",sleep apnea
+35,Venous Insufficiency,"(5468, 5481)",venous stasis

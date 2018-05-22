@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Hypertension,"(790, 802)",hypertension
+1,OA,"(924, 950)",degenerative joint disease
+2,Venous Insufficiency,"(650, 663)",venous stasis
+3,Venous Insufficiency,"(1949, 1962)",venous stasis
+4,Venous Insufficiency,"(3834, 3847)",venous stasis
+5,Venous Insufficiency,"(4392, 4405)",venous stasis
+6,Venous Insufficiency,"(6092, 6105)",venous stasis
+7,Venous Insufficiency,"(7170, 7183)",venous stasis
+8,CAD,"(2338, 2361)",cardiac catheterization
+9,OA,"(1044, 1059)",hip replacement

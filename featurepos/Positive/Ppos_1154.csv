@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,GERD,"(70, 74)",gerd
+1,GERD,"(1336, 1340)",gerd
+2,GERD,"(2343, 2347)",gerd
+3,GERD,"(2843, 2847)",gerd
+4,Hypertension,"(1424, 1427)",htn
+5,Hypertension,"(2233, 2236)",htn
+6,OA,"(1428, 1430)",oa
+7,Obesity,"(1577, 1584)",obesity
+8,Obesity,"(2223, 2230)",obesity
+9,Obesity,"(1577, 1584)",obesity
+10,Obesity,"(2052, 2057)",obese
+11,Obesity,"(2223, 2230)",obesity

@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(762, 770)",diabetes
+1,Hypertension,"(747, 759)",hypertension
+2,PVD,"(304, 331)",peripheral vascular disease
+3,PVD,"(717, 744)",peripheral vascular disease
+4,Hypertension,"(2827, 2839)",beta blocker
+5,CAD,"(3575, 3598)",cardiac catheterization
+6,Hypercholesterolemia,"(1239, 1250)",simvastatin
+7,Hypercholesterolemia,"(5255, 5266)",simvastatin

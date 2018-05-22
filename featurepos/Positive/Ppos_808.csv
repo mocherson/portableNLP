@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(316, 319)",chf
+1,CHF,"(1576, 1579)",chf
+2,Diabetes,"(1597, 1605)",diabetes
+3,Diabetes,"(6091, 6099)",diabetes
+4,Diabetes,"(8129, 8137)",diabetes
+5,Hypertension,"(1582, 1594)",hypertension
+6,Hypertension,"(8092, 8104)",hypertension
+7,Obesity,"(2584, 2589)",obese

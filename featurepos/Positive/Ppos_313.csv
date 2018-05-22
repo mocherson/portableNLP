@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2830, 2853)",coronary artery disease
+1,CHF,"(2859, 2883)",congestive heart failure
+2,Depression,"(3372, 3382)",depression
+3,Diabetes,"(2964, 2972)",diabetes
+4,Hypercholesterolemia,"(3273, 3293)",hypercholesterolemia
+5,Hypercholesterolemia,"(3273, 3293)",hypercholesterolemia
+6,Obesity,"(2978, 2985)",obesity
+7,Obesity,"(2978, 2985)",obesity
+8,Obesity,"(5600, 5605)",obese
+9,PVD,"(744, 771)",peripheral arterial disease
+10,PVD,"(2991, 3018)",peripheral arterial disease
+11,Depression,"(3802, 3808)",prozac
+12,Hypercholesterolemia,"(3698, 3709)",simvastatin

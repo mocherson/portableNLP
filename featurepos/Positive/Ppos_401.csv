@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,Gallstones,"(1180, 1195)",cholecystectomy
+1,Obesity,"(76, 83)",obesity
+2,Obesity,"(783, 790)",obesity
+3,Obesity,"(877, 884)",obesity
+4,Obesity,"(996, 1003)",obesity
+5,Obesity,"(1303, 1310)",obesity
+6,Obesity,"(76, 83)",obesity
+7,Obesity,"(783, 790)",obesity
+8,Obesity,"(877, 884)",obesity
+9,Obesity,"(996, 1003)",obesity
+10,Obesity,"(1303, 1310)",obesity
+11,OSA,"(1040, 1063)",obstructive sleep apnea
+12,OSA,"(1335, 1346)",sleep apnea
+13,OSA,"(1572, 1583)",sleep apnea

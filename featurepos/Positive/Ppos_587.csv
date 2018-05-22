@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(5147, 5150)",cad
+1,CAD,"(2096, 2119)",coronary artery disease
+2,Diabetes,"(235, 243)",diabetes
+3,Diabetes,"(567, 575)",diabetes
+4,Diabetes,"(2161, 2169)",diabetes
+5,Hypertension,"(258, 270)",hypertension
+6,Hypertension,"(578, 590)",hypertension
+7,Hypertension,"(2128, 2140)",hypertension
+8,OA,"(276, 290)",osteoarthritis
+9,Obesity,"(296, 303)",obesity
+10,Obesity,"(296, 303)",obesity
+11,Obesity,"(2997, 3002)",obese
+12,Obesity,"(3562, 3567)",obese
+13,CAD,"(4898, 4921)",cardiac catheterization
+14,OA,"(409, 425)",knee replacement

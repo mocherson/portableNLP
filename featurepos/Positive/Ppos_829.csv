@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1617, 1623)",asthma
+1,CAD,"(68, 91)",coronary artery disease
+2,CAD,"(243, 266)",coronary artery disease
+3,CAD,"(354, 377)",coronary artery disease
+4,CAD,"(609, 632)",coronary artery disease
+5,CAD,"(3248, 3271)",coronary artery disease
+6,Depression,"(536, 546)",depression
+7,Depression,"(1662, 1672)",depression
+8,Diabetes,"(1549, 1557)",diabetes
+9,GERD,"(1655, 1659)",gerd
+10,Hypercholesterolemia,"(1587, 1607)",hypercholesterolemia
+11,Hypercholesterolemia,"(1587, 1607)",hypercholesterolemia
+12,Hypertension,"(1534, 1546)",hypertension
+13,Depression,"(2023, 2031)",cymbalta
+14,Hypertension,"(4725, 4737)",beta-blocker
+15,CAD,"(1284, 1307)",cardiac catheterization
+16,CAD,"(2866, 2889)",cardiac catheterization
+17,CAD,"(3175, 3198)",cardiac catheterization

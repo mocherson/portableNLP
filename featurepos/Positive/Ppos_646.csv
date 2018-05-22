@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1267, 1273)",asthma
+1,Asthma,"(5345, 5351)",asthma
+2,CAD,"(6228, 6250)",coronary artery bypass
+3,CAD,"(283, 306)",coronary artery disease
+4,CAD,"(1948, 1971)",coronary artery disease
+5,Depression,"(1210, 1220)",depression
+6,Diabetes,"(213, 221)",diabetes
+7,Diabetes,"(272, 280)",diabetes
+8,Diabetes,"(1138, 1146)",diabetes
+9,Diabetes,"(1987, 1995)",diabetes
+10,Diabetes,"(2188, 2196)",diabetes
+11,Diabetes,"(3705, 3713)",diabetes
+12,Diabetes,"(3787, 3795)",diabetes
+13,Diabetes,"(4631, 4639)",diabetes
+14,Diabetes,"(456, 460)",iddm
+15,Diabetes,"(1037, 1045)",diabetic
+16,Obesity,"(403, 408)",obese
+17,Obesity,"(2702, 2707)",obese
+18,CAD,"(6094, 6117)",cardiac catheterization
+19,Hypercholesterolemia,"(5990, 6001)",simvastatin
+20,Hypercholesterolemia,"(7114, 7125)",simvastatin

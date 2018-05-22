@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1065, 1068)",cad
+1,CAD,"(1237, 1240)",cad
+2,CAD,"(1670, 1673)",cad
+3,CAD,"(1243, 1266)",coronary artery disease
+4,GERD,"(1385, 1389)",gerd
+5,GERD,"(1409, 1423)",reflux disease
+6,GERD,"(1392, 1415)",gastroesophageal reflux
+7,Hypercholesterolemia,"(1269, 1289)",hypercholesterolemia
+8,Hypercholesterolemia,"(1269, 1289)",hypercholesterolemia
+9,Hypercholesterolemia,"(1292, 1312)",elevated cholesterol
+10,Hypertension,"(2384, 2387)",htn
+11,OSA,"(1357, 1368)",sleep apnea
+12,OSA,"(1371, 1382)",sleep apnea
+13,Hypercholesterolemia,"(442, 453)",simvastatin

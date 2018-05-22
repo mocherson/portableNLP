@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(403, 411)",diabetes
+1,Diabetes,"(1765, 1773)",diabetes
+2,Diabetes,"(8035, 8043)",diabetes
+3,Hypertension,"(6178, 6190)",hypertension
+4,OA,"(1687, 1696)",arthritis
+5,Depression,"(2069, 2075)",zoloft
+6,Depression,"(8792, 8798)",zoloft
+7,GERD,"(7254, 7265)",esophagitis
+8,GERD,"(7363, 7371)",carafate
+9,OA,"(447, 462)",hip replacement
+10,OA,"(1712, 1727)",hip replacement

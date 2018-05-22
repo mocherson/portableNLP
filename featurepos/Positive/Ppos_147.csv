@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(2959, 2962)",chf
+1,CHF,"(3125, 3128)",chf
+2,CHF,"(2966, 2990)",congestive heart failure
+3,Hypertension,"(2863, 2866)",htn
+4,Hypertension,"(3151, 3154)",htn
+5,OA,"(2892, 2901)",arthritis
+6,OA,"(2904, 2913)",arthritis
+7,Obesity,"(2867, 2874)",obesity
+8,Obesity,"(3161, 3168)",obesity
+9,Obesity,"(2867, 2874)",obesity
+10,Obesity,"(3161, 3168)",obesity
+11,OA,"(2940, 2956)",knee replacement

@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(8520, 8526)",asthma
+1,CHF,"(6993, 7006)",heart failure
+2,Depression,"(3318, 3328)",depression
+3,Hypertension,"(2793, 2805)",hypertension
+4,Hypertension,"(6707, 6719)",hypertension
+5,Obesity,"(634, 641)",obesity
+6,Obesity,"(2779, 2786)",obesity
+7,Obesity,"(634, 641)",obesity
+8,Obesity,"(2779, 2786)",obesity
+9,Obesity,"(4192, 4197)",obese
+10,OSA,"(2726, 2749)",obstructive sleep apnea

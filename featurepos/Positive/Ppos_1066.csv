@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(6583, 6589)",asthma
+1,CAD,"(3377, 3380)",cad
+2,CAD,"(3885, 3888)",cad
+3,CAD,"(3383, 3406)",coronary artery disease
+4,Hypercholesterolemia,"(3322, 3331)",hyperchol
+5,Hypercholesterolemia,"(3809, 3818)",hyperchol
+6,Hypercholesterolemia,"(3334, 3354)",elevated cholesterol
+7,Hypercholesterolemia,"(6326, 6337)",lipids high
+8,Hypertension,"(3307, 3319)",hypertension
+9,Hypertension,"(3301, 3304)",htn
+10,Hypertension,"(3803, 3806)",htn
+11,Obesity,"(3357, 3364)",obesity
+12,Obesity,"(3367, 3374)",obesity
+13,Obesity,"(3867, 3874)",obesity
+14,Obesity,"(3357, 3364)",obesity
+15,Obesity,"(3367, 3374)",obesity
+16,Obesity,"(3867, 3874)",obesity
+17,Obesity,"(5003, 5008)",obese
+18,Obesity,"(5209, 5214)",obese
+19,Hypercholesterolemia,"(1318, 1329)",simvastatin
+20,Hypercholesterolemia,"(1535, 1546)",simvastatin
+21,Hypercholesterolemia,"(1767, 1778)",simvastatin

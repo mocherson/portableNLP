@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(237, 243)",asthma
+1,Asthma,"(428, 434)",asthma
+2,Asthma,"(1445, 1451)",asthma
+3,Asthma,"(1612, 1618)",asthma
+4,CAD,"(402, 425)",coronary artery disease
+5,Diabetes,"(2285, 2293)",diabetes
+6,Hypertension,"(2241, 2253)",hypertension
+7,Hypertension,"(2895, 2916)",blood pressure 140/90
+8,CAD,"(2074, 2097)",cardiac catheterization

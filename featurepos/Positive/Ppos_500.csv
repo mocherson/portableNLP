@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3597, 3600)",cad
+1,CAD,"(4218, 4221)",cad
+2,CAD,"(4405, 4408)",cad
+3,CAD,"(3603, 3626)",coronary artery disease
+4,CHF,"(3668, 3671)",chf
+5,CHF,"(3678, 3702)",congestive heart failure
+6,Diabetes,"(3933, 3941)",diabetes
+7,Diabetes,"(5330, 5338)",diabetes
+8,Diabetes,"(4411, 4413)",dm
+9,Diabetes,"(3925, 3930)",niddm
+10,Diabetes,"(4210, 4215)",niddm
+11,Gallstones,"(3866, 3876)",gallstones
+12,Gallstones,"(3879, 3889)",gallstones
+13,Gallstones,"(3866, 3876)",gallstones
+14,Gallstones,"(3879, 3889)",gallstones
+15,GERD,"(3771, 3785)",reflux disease
+16,GERD,"(3754, 3777)",gastroesophageal reflux

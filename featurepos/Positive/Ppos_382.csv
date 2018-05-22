@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2137, 2140)",cad
+1,CHF,"(1608, 1611)",chf
+2,CHF,"(1965, 1968)",chf
+3,CHF,"(2699, 2702)",chf
+4,CHF,"(69, 93)",congestive heart failure
+5,CHF,"(1691, 1715)",congestive heart failure
+6,CHF,"(1971, 1995)",congestive heart failure
+7,Diabetes,"(1927, 1930)",2dm
+8,Diabetes,"(2129, 2131)",dm
+9,Diabetes,"(3176, 3179)",2dm
+10,Hypercholesterolemia,"(1891, 1900)",hyperchol
+11,Hypercholesterolemia,"(1903, 1923)",elevated cholesterol
+12,Hypertension,"(1876, 1888)",hypertension
+13,Hypertension,"(1870, 1873)",htn
+14,Hypertension,"(2143, 2146)",htn
+15,Hypercholesterolemia,"(1015, 1026)",simvastatin

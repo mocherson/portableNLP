@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4468, 4471)",cad
+1,CHF,"(3441, 3444)",chf
+2,CHF,"(4408, 4421)",heart failure
+3,CHF,"(5597, 5610)",heart failure
+4,Diabetes,"(3244, 3246)",dm
+5,Hypertension,"(3187, 3199)",hypertension
+6,Hypertension,"(4562, 4565)",htn
+7,Hypercholesterolemia,"(1884, 1895)",simvastatin

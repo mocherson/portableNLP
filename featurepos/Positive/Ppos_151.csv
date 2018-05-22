@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(325, 348)",coronary artery disease
+1,CAD,"(614, 637)",coronary artery disease
+2,CAD,"(1078, 1101)",coronary artery disease
+3,CHF,"(6424, 6427)",chf
+4,Hypercholesterolemia,"(366, 380)",hyperlipidemia
+5,Hypercholesterolemia,"(1139, 1153)",hyperlipidemia
+6,Hypertension,"(351, 363)",hypertension
+7,Hypertension,"(1124, 1136)",hypertension
+8,Hypertension,"(1825, 1846)",blood pressure 153/90

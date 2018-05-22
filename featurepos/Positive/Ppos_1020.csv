@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2517, 2523)",asthma
+1,CAD,"(2082, 2085)",pci
+2,CAD,"(496, 519)",coronary artery disease
+3,CAD,"(2012, 2035)",coronary artery disease
+4,CHF,"(2151, 2175)",congestive heart failure
+5,Diabetes,"(477, 485)",diabetes
+6,Diabetes,"(1900, 1908)",diabetes
+7,Diabetes,"(1966, 1974)",diabetes
+8,Gallstones,"(2484, 2499)",cholecystectomy
+9,GERD,"(2251, 2255)",gerd
+10,Hypercholesterolemia,"(2307, 2327)",hypercholesterolemia
+11,Hypercholesterolemia,"(2307, 2327)",hypercholesterolemia
+12,Hypertension,"(2290, 2302)",hypertension
+13,Hypertension,"(6749, 6761)",hypertension
+14,OA,"(2393, 2407)",osteoarthritis
+15,Depression,"(9040, 9046)",celexa
+16,Hypertension,"(5399, 5411)",beta-blocker

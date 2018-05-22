@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(537, 540)",chf
+1,CHF,"(6594, 6597)",chf
+2,CHF,"(9127, 9130)",chf
+3,CHF,"(9312, 9315)",chf
+4,CHF,"(6212, 6236)",congestive heart failure
+5,Diabetes,"(1739, 1747)",diabetes
+6,Diabetes,"(8186, 8194)",diabetes
+7,Diabetes,"(8436, 8444)",diabetes
+8,Gout,"(1662, 1666)",gout
+9,Hypercholesterolemia,"(1645, 1659)",hyperlipidemia
+10,Hypertension,"(492, 504)",hypertension
+11,Hypertension,"(846, 858)",hypertension
+12,Hypertension,"(1594, 1606)",hypertension
+13,Hypertension,"(5616, 5628)",hypertension
+14,Hypertension,"(6897, 6909)",hypertension
+15,Hypertension,"(6940, 6952)",hypertension
+16,Hypertension,"(7125, 7137)",hypertension
+17,Gout,"(1850, 1861)",allopurinol
+18,Gout,"(11326, 11337)",allopurinol

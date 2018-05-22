@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(296, 304)",diabetes
+1,Diabetes,"(1093, 1101)",diabetes
+2,Gallstones,"(1140, 1155)",cholecystectomy
+3,Hypertension,"(309, 321)",hypertension
+4,Hypertension,"(1104, 1116)",hypertension
+5,Hypertension,"(2450, 2462)",hypertension
+6,Hypertension,"(1371, 1393)",blood pressure 156/116
+7,GERD,"(2256, 2267)",esophagitis

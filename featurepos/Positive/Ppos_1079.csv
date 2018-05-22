@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(4567, 4573)",asthma
+1,Asthma,"(4576, 4582)",asthma
+2,Asthma,"(4942, 4948)",asthma
+3,CHF,"(4762, 4765)",chf
+4,CHF,"(4971, 4974)",chf
+5,CHF,"(4768, 4792)",congestive heart failure
+6,Depression,"(4675, 4685)",depression
+7,Depression,"(4688, 4698)",depression
+8,Diabetes,"(4655, 4663)",diabetes
+9,Diabetes,"(4650, 4652)",dm
+10,Diabetes,"(6464, 6466)",dm
+11,Hypertension,"(4635, 4647)",hypertension
+12,Hypertension,"(4629, 4632)",htn
+13,Hypertension,"(4731, 4734)",htn
+14,Hypertension,"(4977, 4980)",htn
+15,Hypertension,"(6748, 6751)",htn
+16,OSA,"(4701, 4704)",osa
+17,OSA,"(5138, 5141)",osa
+18,OSA,"(4707, 4718)",sleep apnea

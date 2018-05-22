@@ -1,0 +1,30 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1238, 1241)",cad
+1,CAD,"(1255, 1278)",coronary artery disease
+2,Depression,"(1227, 1237)",depression
+3,Hypercholesterolemia,"(1202, 1222)",hypercholesterolemia
+4,Hypercholesterolemia,"(1683, 1703)",hypercholesterolemia
+5,Hypercholesterolemia,"(2997, 3017)",hypercholesterolemia
+6,Hypercholesterolemia,"(1202, 1222)",hypercholesterolemia
+7,Hypercholesterolemia,"(1683, 1703)",hypercholesterolemia
+8,Hypercholesterolemia,"(2997, 3017)",hypercholesterolemia
+9,Hypercholesterolemia,"(5865, 5896)",lipid profile revealed elevated
+10,Hypercholesterolemia,"(6404, 6437)",cholesterol and ldl were elevated
+11,Hypertension,"(2454, 2466)",hypertension
+12,Hypertension,"(2982, 2994)",hypertension
+13,Hypertension,"(4545, 4557)",hypertension
+14,Hypertension,"(5114, 5126)",hypertension
+15,Hypertension,"(1223, 1226)",htn
+16,Hypertension,"(1677, 1680)",htn
+17,Obesity,"(1313, 1320)",obesity
+18,Obesity,"(1323, 1330)",obesity
+19,Obesity,"(1313, 1320)",obesity
+20,Obesity,"(1323, 1330)",obesity
+21,Obesity,"(3378, 3383)",obese
+22,OSA,"(1403, 1426)",obstructive sleep apnea
+23,OSA,"(3085, 3108)",obstructive sleep apnea
+24,Hypertension,"(3364, 3373)",bp 150/90
+25,Hypercholesterolemia,"(577, 589)",atorvastatin
+26,Hypercholesterolemia,"(3270, 3282)",atorvastatin
+27,Hypercholesterolemia,"(6018, 6030)",atorvastatin
+28,Hypercholesterolemia,"(6352, 6364)",atorvastatin

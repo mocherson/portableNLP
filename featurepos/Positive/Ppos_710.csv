@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(3810, 3818)",diabetes
+1,Diabetes,"(3805, 3807)",dm
+2,Gout,"(3885, 3889)",gout
+3,Gout,"(3892, 3896)",gout
+4,Hypercholesterolemia,"(3850, 3859)",hyperchol
+5,Hypercholesterolemia,"(3862, 3882)",elevated cholesterol
+6,Hypertension,"(4619, 4631)",hypertension
+7,Obesity,"(3830, 3837)",obesity
+8,Obesity,"(3840, 3847)",obesity
+9,Obesity,"(3830, 3837)",obesity
+10,Obesity,"(3840, 3847)",obesity
+11,Depression,"(547, 553)",elavil
+12,Hypercholesterolemia,"(1820, 1831)",simvastatin
+13,Gout,"(522, 533)",allopurinol

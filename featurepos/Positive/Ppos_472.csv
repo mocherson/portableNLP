@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(4035, 4041)",asthma
+1,Asthma,"(4700, 4706)",asthma
+2,CAD,"(4304, 4307)",cad
+3,CAD,"(4679, 4682)",cad
+4,Diabetes,"(4335, 4337)",dm
+5,Diabetes,"(4674, 4676)",dm
+6,Gout,"(3986, 3990)",gout
+7,Gout,"(4693, 4697)",gout
+8,Hypercholesterolemia,"(4340, 4354)",hyperlipidemia
+9,Hypertension,"(3978, 3981)",htn
+10,PVD,"(3970, 3973)",pvd
+11,Hypercholesterolemia,"(1690, 1701)",simvastatin
+12,Hypercholesterolemia,"(1915, 1926)",simvastatin
+13,Hypercholesterolemia,"(3322, 3333)",simvastatin
+14,Hypercholesterolemia,"(3405, 3416)",simvastatin
+15,OA,"(4759, 4775)",knee replacement
+16,Gout,"(768, 779)",allopurinol
+17,Gout,"(897, 908)",allopurinol
+18,Gout,"(3123, 3134)",allopurinol
+19,Gout,"(3194, 3205)",allopurinol

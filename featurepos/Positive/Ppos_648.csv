@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(4202, 4205)",chf
+1,Diabetes,"(3047, 3049)",dm
+2,Diabetes,"(3284, 3286)",dm
+3,Diabetes,"(3305, 3307)",dm
+4,Diabetes,"(3693, 3695)",dm
+5,Diabetes,"(5336, 5338)",dm
+6,Diabetes,"(5672, 5674)",dm
+7,Hypercholesterolemia,"(3704, 3718)",hyperlipidemia
+8,Hypertension,"(3051, 3054)",htn
+9,Hypertension,"(3289, 3292)",htn
+10,Hypertension,"(3698, 3701)",htn
+11,Obesity,"(3056, 3063)",obesity
+12,Obesity,"(3056, 3063)",obesity
+13,Obesity,"(4403, 4408)",obese
+14,Hypercholesterolemia,"(534, 546)",atorvastatin
+15,Hypercholesterolemia,"(676, 688)",atorvastatin
+16,Hypercholesterolemia,"(754, 766)",atorvastatin
+17,Hypercholesterolemia,"(1380, 1391)",simvastatin
+18,Hypercholesterolemia,"(2334, 2345)",simvastatin
+19,OA,"(3783, 3798)",hip replacement

@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1758, 1764)",asthma
+1,CAD,"(2117, 2120)",cad
+2,Diabetes,"(2249, 2251)",dm
+3,Hypercholesterolemia,"(1699, 1715)",hypercholesterol
+4,Hypertension,"(2243, 2246)",htn
+5,PVD,"(2268, 2271)",pvd
+6,PVD,"(2842, 2845)",pvd
+7,Hypercholesterolemia,"(1043, 1055)",atorvastatin

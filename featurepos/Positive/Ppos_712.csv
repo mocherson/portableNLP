@@ -1,0 +1,25 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(68, 71)",chf
+1,CHF,"(1585, 1588)",chf
+2,CHF,"(1668, 1671)",chf
+3,CHF,"(1935, 1938)",chf
+4,CHF,"(2211, 2214)",chf
+5,CHF,"(2877, 2880)",chf
+6,CHF,"(1941, 1965)",congestive heart failure
+7,Depression,"(1834, 1844)",depression
+8,Depression,"(1847, 1857)",depression
+9,Gout,"(1968, 1972)",gout
+10,Gout,"(1975, 1979)",gout
+11,OA,"(2000, 2014)",osteoarthritis
+12,OA,"(2017, 2031)",osteoarthritis
+13,Obesity,"(2192, 2199)",obesity
+14,Obesity,"(1762, 1770)",obesitiy
+15,Obesity,"(2192, 2199)",obesity
+16,OSA,"(2205, 2208)",osa
+17,OSA,"(3826, 3829)",osa
+18,OSA,"(1860, 1871)",sleep apnea
+19,OSA,"(1874, 1885)",sleep apnea
+20,Venous Insufficiency,"(2575, 2588)",venous stasis
+21,Venous Insufficiency,"(3558, 3571)",venous stasis
+22,Depression,"(1142, 1148)",celexa
+23,Gout,"(517, 528)",allopurinol

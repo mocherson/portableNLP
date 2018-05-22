@@ -1,0 +1,30 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4637, 4660)",coronary artery disease
+1,CHF,"(4663, 4666)",chf
+2,Diabetes,"(4749, 4757)",diabetes
+3,Diabetes,"(8899, 8907)",diabetes
+4,Diabetes,"(3419, 3421)",dm
+5,Diabetes,"(3887, 3889)",dm
+6,Diabetes,"(7186, 7188)",dm
+7,Hypercholesterolemia,"(3524, 3544)",hypercholesterolemia
+8,Hypercholesterolemia,"(4874, 4894)",hypercholesterolemia
+9,Hypercholesterolemia,"(3524, 3544)",hypercholesterolemia
+10,Hypercholesterolemia,"(4874, 4894)",hypercholesterolemia
+11,Hypercholesterolemia,"(3547, 3567)",elevated cholesterol
+12,Hypertension,"(3409, 3412)",htn
+13,Hypertension,"(3892, 3895)",htn
+14,OA,"(4999, 5025)",degenerative joint disease
+15,OA,"(3474, 3477)",djd
+16,Obesity,"(3447, 3454)",obesity
+17,Obesity,"(3457, 3464)",obesity
+18,Obesity,"(3905, 3912)",obesity
+19,Obesity,"(4979, 4986)",obesity
+20,Obesity,"(3447, 3454)",obesity
+21,Obesity,"(3457, 3464)",obesity
+22,Obesity,"(3905, 3912)",obesity
+23,Obesity,"(4979, 4986)",obesity
+24,Obesity,"(6608, 6613)",obese
+25,OSA,"(7626, 7629)",osa
+26,OSA,"(10323, 10326)",osa
+27,OSA,"(10130, 10153)",obstructive sleep apnea
+28,Venous Insufficiency,"(6820, 6833)",venous stasis

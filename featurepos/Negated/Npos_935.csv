@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Hypertension,"(3, 15)",hypertension,"(478, 494)",no hypertension ,
+1,CAD,"(21, 44)",coronary artery disease,"(504, 548)",no family history of coronary artery disease,
+2,CHF,"(16, 40)",congestive heart failure,"(2054, 2094)",no pneumonia or congestive heart failure,

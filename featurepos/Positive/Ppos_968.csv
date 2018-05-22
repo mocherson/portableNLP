@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1091, 1114)",coronary artery disease
+1,Depression,"(1175, 1185)",depression
+2,Diabetes,"(399, 407)",diabetes
+3,Diabetes,"(1039, 1047)",diabetes
+4,Hypercholesterolemia,"(419, 433)",hyperlipidemia
+5,Hypercholesterolemia,"(1074, 1088)",hyperlipidemia
+6,Hypertension,"(436, 448)",hypertension
+7,Hypertension,"(1059, 1071)",hypertension
+8,Depression,"(1474, 1480)",celexa
+9,Depression,"(3472, 3478)",celexa
+10,Depression,"(7425, 7431)",celexa
+11,Hypertension,"(6576, 6588)",beta-blocker
+12,CAD,"(2349, 2372)",cardiac catheterization
+13,CAD,"(2402, 2425)",cardiac catheterization
+14,CAD,"(2720, 2743)",cardiac catheterization

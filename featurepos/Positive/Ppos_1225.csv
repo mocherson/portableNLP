@@ -1,0 +1,33 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2220, 2226)",asthma
+1,Asthma,"(2229, 2235)",asthma
+2,Asthma,"(2560, 2566)",asthma
+3,Asthma,"(3444, 3450)",asthma
+4,Asthma,"(4506, 4512)",asthma
+5,GERD,"(2304, 2308)",gerd
+6,GERD,"(3520, 3524)",gerd
+7,GERD,"(2328, 2342)",reflux disease
+8,GERD,"(2311, 2334)",gastroesophageal reflux
+9,Hypercholesterolemia,"(2262, 2278)",hypercholesterol
+10,Hypercholesterolemia,"(3498, 3517)",hypercholestrolemia
+11,Hypercholesterolemia,"(2281, 2301)",elevated cholesterol
+12,Hypertension,"(2205, 2217)",hypertension
+13,Hypertension,"(2199, 2202)",htn
+14,Hypertension,"(2554, 2557)",htn
+15,Hypertension,"(3438, 3441)",htn
+16,Hypertension,"(4500, 4503)",htn
+17,OA,"(3477, 3479)",oa
+18,OA,"(2238, 2247)",arthritis
+19,OA,"(2250, 2259)",arthritis
+20,Obesity,"(2353, 2360)",obesity
+21,Obesity,"(3574, 3581)",obesity
+22,Obesity,"(2345, 2350)",obese
+23,Obesity,"(2353, 2360)",obesity
+24,Obesity,"(3574, 3581)",obesity
+25,Obesity,"(4139, 4144)",obese
+26,Hypertension,"(5199, 5216)",antihypertensives
+27,Hypercholesterolemia,"(1056, 1067)",simvastatin
+28,Hypercholesterolemia,"(1317, 1328)",simvastatin
+29,Hypercholesterolemia,"(1654, 1665)",simvastatin
+30,OA,"(2588, 2604)",knee replacement
+31,OA,"(4532, 4548)",knee replacement

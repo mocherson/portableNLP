@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(719, 741)",coronary artery bypass
+1,CAD,"(797, 819)",coronary artery bypass
+2,CAD,"(1232, 1254)",coronary artery bypass
+3,CAD,"(318, 341)",coronary artery disease
+4,CAD,"(683, 706)",coronary artery disease
+5,Diabetes,"(298, 306)",diabetes
+6,Diabetes,"(663, 671)",diabetes
+7,GERD,"(845, 859)",reflux disease
+8,GERD,"(828, 851)",gastroesophageal reflux
+9,Hypertension,"(914, 926)",hypertension
+10,PVD,"(348, 375)",peripheral vascular disease
+11,PVD,"(929, 956)",peripheral vascular disease
+12,Hypercholesterolemia,"(1131, 1142)",simvastatin

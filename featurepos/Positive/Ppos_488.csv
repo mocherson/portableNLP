@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(1647, 1649)",dm
+1,Hypercholesterolemia,"(1652, 1661)",hyperchol
+2,Hypercholesterolemia,"(2985, 2995)",hyperlipid
+3,Hypertension,"(1382, 1385)",htn
+4,Hypertension,"(1641, 1644)",htn
+5,Hypertension,"(2169, 2172)",htn
+6,Hypertension,"(2998, 3001)",htn
+7,Depression,"(837, 843)",zoloft
+8,Depression,"(3170, 3176)",zoloft
+9,Hypercholesterolemia,"(924, 936)",atorvastatin

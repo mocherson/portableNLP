@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(365, 371)",asthma
+1,Asthma,"(798, 804)",asthma
+2,Asthma,"(6192, 6198)",asthma
+3,Diabetes,"(8339, 8347)",diabetes
+4,Gallstones,"(982, 997)",cholecystectomy
+5,GERD,"(4966, 4970)",gerd
+6,OA,"(1041, 1055)",osteoarthritis
+7,Hypertension,"(7539, 7551)",beta-blocker
+8,OA,"(242, 258)",knee replacement
+9,OA,"(708, 724)",knee replacement
+10,OA,"(2055, 2071)",knee replacement
+11,OA,"(2119, 2135)",knee replacement
+12,OA,"(8743, 8759)",knee replacement

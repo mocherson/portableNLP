@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3334, 3337)",cad
+1,CAD,"(3340, 3363)",coronary artery disease
+2,Hypertension,"(3440, 3452)",hypertension
+3,Hypertension,"(3434, 3437)",htn
+4,Hypercholesterolemia,"(709, 720)",simvastatin
+5,Hypercholesterolemia,"(974, 985)",simvastatin
+6,Hypercholesterolemia,"(1549, 1560)",simvastatin

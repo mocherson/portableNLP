@@ -1,0 +1,5 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(412, 435)",coronary artery disease
+1,Diabetes,"(446, 454)",diabetes
+2,Hypertension,"(459, 471)",hypertension
+3,OA,"(69, 83)",osteoarthritis

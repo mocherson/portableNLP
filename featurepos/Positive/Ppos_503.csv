@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2357, 2360)",cad
+1,Diabetes,"(915, 917)",dm
+2,Diabetes,"(1675, 1677)",dm
+3,Diabetes,"(1709, 1711)",dm
+4,Diabetes,"(2369, 2371)",dm
+5,Diabetes,"(2386, 2388)",dm
+6,Diabetes,"(772, 776)",iddm
+7,Diabetes,"(2344, 2348)",iddm
+8,Hypertension,"(2351, 2354)",htn
+9,PVD,"(2363, 2366)",pvd
+10,PVD,"(781, 808)",peripheral vascular disease
+11,Hypercholesterolemia,"(4243, 4254)",simvastatin

@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(373, 395)",coronary artery bypass
+1,CAD,"(910, 932)",coronary artery bypass
+2,CAD,"(1204, 1226)",coronary artery bypass
+3,CAD,"(185, 208)",coronary artery disease
+4,CAD,"(328, 351)",coronary artery disease
+5,CAD,"(541, 564)",coronary artery disease
+6,Gout,"(233, 237)",gout
+7,Gout,"(3394, 3398)",gout
+8,Hypertension,"(1650, 1672)",blood pressure 170/100
+9,Hypertension,"(4192, 4213)",blood pressure 140/90
+10,CAD,"(641, 664)",cardiac catheterization
+11,CAD,"(5776, 5799)",cardiac catheterization
+12,CAD,"(6090, 6113)",cardiac catheterization

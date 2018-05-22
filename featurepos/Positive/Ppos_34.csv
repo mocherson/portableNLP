@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1381, 1387)",asthma
+1,CAD,"(304, 327)",coronary artery disease
+2,CAD,"(1252, 1275)",coronary artery disease
+3,Diabetes,"(415, 423)",diabetes
+4,Diabetes,"(1411, 1419)",diabetes
+5,Hypercholesterolemia,"(1356, 1376)",hypercholesterolemia
+6,Hypercholesterolemia,"(1356, 1376)",hypercholesterolemia
+7,Hypertension,"(1182, 1194)",hypertension
+8,Depression,"(1793, 1803)",wellbutrin

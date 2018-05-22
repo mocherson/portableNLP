@@ -1,0 +1,5 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,CHF,"(30, 43)",heart failure,"(4871, 4914)",no infiltrates or evidence of heart failure,
+1,Diabetes,"(3, 11)",diabetes,"(5877, 5897)",no diabetes mellitus,
+2,Hypercholesterolemia,"(9, 29)",hypercholesterolemia,"(5900, 5929)",no known hypercholesterolemia,
+3,Hypercholesterolemia,"(9, 29)",hypercholesterolemia,"(5900, 5929)",no known hypercholesterolemia,

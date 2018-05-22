@@ -1,0 +1,7 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(647, 655)",diabetes
+1,Hypercholesterolemia,"(682, 698)",high cholesterol
+2,Hypertension,"(667, 679)",hypertension
+3,Obesity,"(1259, 1264)",obese
+4,Obesity,"(1465, 1470)",obese
+5,PVD,"(595, 622)",peripheral vascular disease

@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(369, 372)",chf
+1,CHF,"(69, 93)",congestive heart failure
+2,CHF,"(790, 803)",heart failure
+3,CHF,"(439, 465)",nonischemic cardiomyopathy
+4,CHF,"(1479, 1505)",nonischemic cardiomyopathy
+5,CHF,"(2760, 2786)",nonischemic cardiomyopathy
+6,Diabetes,"(1727, 1735)",diabetes
+7,Hypercholesterolemia,"(1706, 1720)",hyperlipidemia
+8,Hypertension,"(1691, 1703)",hypertension

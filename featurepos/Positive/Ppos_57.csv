@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2146, 2149)",cad
+1,CAD,"(2632, 2635)",cad
+2,CAD,"(2928, 2931)",cad
+3,CAD,"(3075, 3078)",cad
+4,Depression,"(2662, 2672)",depression
+5,Diabetes,"(1893, 1901)",diabetes
+6,Diabetes,"(2152, 2154)",dm
+7,Diabetes,"(2629, 2631)",dm
+8,Diabetes,"(3064, 3066)",dm
+9,Diabetes,"(3566, 3568)",dm
+10,Hypertension,"(1922, 1925)",htn
+11,Hypertension,"(2625, 2628)",htn
+12,Hypertension,"(3069, 3072)",htn
+13,Hypercholesterolemia,"(610, 622)",atorvastatin

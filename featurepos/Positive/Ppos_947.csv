@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(659, 681)",coronary artery bypass
+1,CAD,"(3321, 3343)",coronary artery bypass
+2,CAD,"(68, 91)",coronary artery disease
+3,CAD,"(203, 226)",coronary artery disease
+4,CAD,"(529, 552)",coronary artery disease
+5,CAD,"(1833, 1856)",coronary artery disease
+6,GERD,"(1984, 1998)",reflux disease
+7,GERD,"(1967, 1990)",gastroesophageal reflux
+8,Hypercholesterolemia,"(1874, 1888)",hyperlipidemia
+9,Hypertension,"(1859, 1871)",hypertension
+10,Obesity,"(1891, 1898)",obesity
+11,Obesity,"(1891, 1898)",obesity
+12,Depression,"(1698, 1704)",prozac
+13,Depression,"(4952, 4958)",prozac
+14,CAD,"(382, 405)",cardiac catheterization

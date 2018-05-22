@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Hypertension,"(272, 284)",hypertension
+1,Hypertension,"(550, 562)",hypertension
+2,Hypertension,"(1735, 1747)",hypertension
+3,PVD,"(289, 316)",peripheral vascular disease
+4,PVD,"(565, 592)",peripheral vascular disease
+5,PVD,"(1753, 1780)",peripheral vascular disease
+6,Hypertension,"(3861, 3873)",beta blocker
+7,Hypertension,"(2422, 2443)",blood pressure 140/90
+8,Hypercholesterolemia,"(4147, 4158)",simvastatin

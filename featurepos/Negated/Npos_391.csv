@@ -1,0 +1,7 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Diabetes,"(42, 44)",dm,"(2110, 2217)",no anticoag for distant h/o lgi bleed htn dm hyperchol periph neuropathy h pylori operations and procedures,
+1,Hypercholesterolemia,"(45, 54)",hyperchol,"(2110, 2217)",no anticoag for distant h/o lgi bleed htn dm hyperchol periph neuropathy h pylori operations and procedures,
+2,Hypertension,"(38, 41)",htn,"(2110, 2217)",no anticoag for distant h/o lgi bleed htn dm hyperchol periph neuropathy h pylori operations and procedures,
+3,CAD,"(9, 12)",cad,"(2383, 2396)",no known cad ,
+4,CHF,"(9, 12)",chf,"(2614, 2626)",no sx of chf,
+5,CAD,"(19, 42)",cardiac catheterization,"(5002, 5122)",not want to have a cardiac catheterization to fix any blockages that may be in your heart arteries supplying your heart ,

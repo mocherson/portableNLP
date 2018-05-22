@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2277, 2280)",cad
+1,CAD,"(3568, 3571)",cad
+2,CAD,"(2283, 2306)",coronary artery disease
+3,Diabetes,"(2228, 2236)",diabetes
+4,Diabetes,"(2223, 2225)",dm
+5,Diabetes,"(3574, 3576)",dm
+6,GERD,"(2346, 2350)",gerd
+7,GERD,"(2370, 2384)",reflux disease
+8,GERD,"(2353, 2376)",gastroesophageal reflux
+9,Hypertension,"(2208, 2220)",hypertension
+10,Hypertension,"(2202, 2205)",htn
+11,Hypertension,"(3562, 3565)",htn
+12,OA,"(2425, 2451)",degenerative joint disease
+13,OA,"(2419, 2422)",djd
+14,OA,"(3598, 3601)",djd
+15,Hypercholesterolemia,"(768, 779)",simvastatin

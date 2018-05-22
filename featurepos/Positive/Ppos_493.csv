@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,OA,"(68, 82)",osteoarthritis
+1,OA,"(238, 252)",osteoarthritis
+2,OA,"(541, 555)",osteoarthritis
+3,OA,"(624, 638)",osteoarthritis
+4,Obesity,"(762, 769)",obesity
+5,Obesity,"(762, 769)",obesity
+6,OA,"(306, 322)",knee replacement
+7,OA,"(497, 513)",knee replacement
+8,OA,"(733, 749)",knee replacement
+9,OA,"(806, 822)",knee replacement
+10,OA,"(997, 1013)",knee replacement

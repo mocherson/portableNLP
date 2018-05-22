@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3208, 3211)",cad
+1,CAD,"(3620, 3623)",cad
+2,CAD,"(3628, 3631)",pci
+3,CHF,"(79, 92)",heart failure
+4,CHF,"(2750, 2763)",heart failure
+5,Depression,"(2942, 2952)",depression
+6,Depression,"(3677, 3687)",depression
+7,Diabetes,"(3271, 3274)",dm2
+8,Diabetes,"(3645, 3647)",dm
+9,Hypercholesterolemia,"(3650, 3662)",dyslipidemia
+10,Hypertension,"(2930, 2933)",htn
+11,Hypertension,"(3265, 3268)",htn
+12,Hypertension,"(3639, 3642)",htn
+13,OA,"(3690, 3692)",oa
+14,Hypercholesterolemia,"(1825, 1837)",atorvastatin
+15,Hypercholesterolemia,"(5440, 5451)",simvastatin

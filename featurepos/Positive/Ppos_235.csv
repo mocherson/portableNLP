@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(794, 797)",chf
+1,CHF,"(417, 441)",congestive heart failure
+2,Diabetes,"(368, 376)",diabetes
+3,Diabetes,"(730, 738)",diabetes
+4,Diabetes,"(6967, 6975)",diabetes
+5,GERD,"(876, 890)",reflux disease
+6,GERD,"(859, 882)",gastroesophageal reflux
+7,GERD,"(631, 644)",s esophagitis
+8,Hypertension,"(402, 414)",hypertension
+9,Obesity,"(3323, 3328)",obese
+10,Hypertension,"(3000, 3021)",blood pressure 146/90
+11,GERD,"(633, 644)",esophagitis
+12,GERD,"(5199, 5210)",esophagitis

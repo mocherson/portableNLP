@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2789, 2792)",cad
+1,CAD,"(641, 644)",pci
+2,CAD,"(4441, 4444)",pci
+3,CHF,"(1077, 1080)",chf
+4,CHF,"(2516, 2519)",chf
+5,CHF,"(451, 464)",heart failure
+6,CHF,"(583, 596)",heart failure
+7,CHF,"(824, 837)",heart failure
+8,CHF,"(312, 335)",ischemic cardiomyopathy
+9,CHF,"(2763, 2786)",ischemic cardiomyopathy
+10,CHF,"(4329, 4352)",ischemic cardiomyopathy

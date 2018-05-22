@@ -1,0 +1,29 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2333, 2336)",pci
+1,CAD,"(741, 763)",coronary artery bypass
+2,CAD,"(945, 967)",coronary artery bypass
+3,CAD,"(907, 930)",coronary artery disease
+4,CAD,"(3446, 3469)",coronary artery disease
+5,CAD,"(5426, 5449)",coronary artery disease
+6,CAD,"(8030, 8053)",coronary artery disease
+7,CHF,"(8005, 8027)",dilated cardiomyopathy
+8,Depression,"(546, 556)",depression
+9,Depression,"(3624, 3634)",depression
+10,Diabetes,"(461, 469)",diabetes
+11,Diabetes,"(3576, 3584)",diabetes
+12,Diabetes,"(10322, 10330)",diabetes
+13,Gallstones,"(706, 721)",cholecystectomy
+14,Gallstones,"(3834, 3849)",cholecystectomy
+15,GERD,"(10716, 10720)",gerd
+16,Hypercholesterolemia,"(562, 582)",hypercholesterolemia
+17,Hypercholesterolemia,"(3667, 3687)",hypercholesterolemia
+18,Hypercholesterolemia,"(562, 582)",hypercholesterolemia
+19,Hypercholesterolemia,"(3667, 3687)",hypercholesterolemia
+20,OSA,"(663, 686)",obstructive sleep apnea
+21,OSA,"(3742, 3765)",obstructive sleep apnea
+22,PVD,"(481, 508)",peripheral vascular disease
+23,PVD,"(3594, 3621)",peripheral vascular disease
+24,Hypertension,"(2546, 2558)",beta-blocker
+25,Hypertension,"(6676, 6688)",beta-blocker
+26,CAD,"(3288, 3311)",cardiac catheterization
+27,CAD,"(5765, 5788)",cardiac catheterization

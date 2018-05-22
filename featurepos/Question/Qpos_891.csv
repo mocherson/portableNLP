@@ -1,0 +1,5 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Gallstones,"(55, 70)",cholecystectomy,"(5333, 5417)",rule out cbd dilatation in the event that she may need cholecystectomy in the future,
+1,Gallstones,"(9, 24)",cholecystectomy,"(9674, 9698)",possible cholecystectomy,
+2,Gallstones,"(17, 27)",gallstones,"(10215, 10262)",possible risk of gallstones of this medication ,
+3,Gallstones,"(17, 27)",gallstones,"(10215, 10262)",possible risk of gallstones of this medication ,

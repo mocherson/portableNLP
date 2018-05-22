@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(754, 757)",cad
+1,CAD,"(1757, 1760)",cad
+2,CAD,"(5521, 5524)",cad
+3,CAD,"(7011, 7014)",cad
+4,CAD,"(435, 458)",coronary artery disease
+5,CHF,"(480, 483)",chf
+6,CHF,"(777, 780)",chf
+7,CHF,"(1782, 1785)",chf
+8,CHF,"(5544, 5547)",chf
+9,CHF,"(9864, 9867)",chf
+10,Diabetes,"(854, 862)",diabetes
+11,Diabetes,"(1864, 1872)",diabetes
+12,Diabetes,"(9539, 9547)",diabetes
+13,Hypercholesterolemia,"(415, 429)",hyperlipidemia
+14,Hypercholesterolemia,"(1737, 1751)",hyperlipidemia
+15,Hypertension,"(397, 409)",hypertension
+16,Hypertension,"(1719, 1731)",hypertension
+17,Obesity,"(3886, 3891)",obese
+18,Obesity,"(12343, 12348)",obese
+19,Venous Insufficiency,"(12517, 12530)",venous stasis
+20,Hypercholesterolemia,"(2432, 2443)",simvastatin
+21,Hypercholesterolemia,"(13932, 13943)",simvastatin

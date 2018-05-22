@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(244, 250)",asthma
+1,Asthma,"(380, 386)",asthma
+2,Asthma,"(764, 770)",asthma
+3,CHF,"(4142, 4166)",congestive heart failure
+4,CHF,"(5223, 5247)",congestive heart failure
+5,Gallstones,"(342, 357)",cholecystectomy
+6,Hypertension,"(389, 401)",hypertension
+7,Hypertension,"(508, 520)",hypertension

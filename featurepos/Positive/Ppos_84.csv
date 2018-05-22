@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2777, 2780)",cad
+1,Diabetes,"(2600, 2608)",diabetes
+2,Diabetes,"(2592, 2597)",niddm
+3,Diabetes,"(2769, 2774)",niddm
+4,GERD,"(4926, 4930)",gerd
+5,Hypertension,"(2557, 2569)",hypertension
+6,Hypertension,"(2551, 2554)",htn
+7,Hypertension,"(2763, 2766)",htn
+8,Obesity,"(2572, 2579)",obesity
+9,Obesity,"(2582, 2589)",obesity
+10,Obesity,"(2747, 2754)",obesity
+11,Obesity,"(2572, 2579)",obesity
+12,Obesity,"(2582, 2589)",obesity
+13,Obesity,"(2747, 2754)",obesity
+14,Obesity,"(3807, 3812)",obese
+15,OSA,"(2757, 2760)",osa
+16,OSA,"(4967, 4970)",osa
+17,Hypercholesterolemia,"(1879, 1891)",atorvastatin

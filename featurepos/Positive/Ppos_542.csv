@@ -1,0 +1,23 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(3432, 3442)",depression
+1,Depression,"(3445, 3455)",depression
+2,GERD,"(3391, 3395)",gerd
+3,GERD,"(3415, 3429)",reflux disease
+4,GERD,"(3398, 3421)",gastroesophageal reflux
+5,Gout,"(3317, 3321)",gout
+6,Gout,"(3324, 3328)",gout
+7,Hypertension,"(3287, 3299)",hypertension
+8,Hypertension,"(3302, 3314)",hypertension
+9,Hypertension,"(3716, 3719)",htn
+10,Obesity,"(3722, 3729)",obesity
+11,Obesity,"(3722, 3729)",obesity
+12,Obesity,"(4430, 4435)",obese
+13,OSA,"(3259, 3270)",sleep apnea
+14,OSA,"(3273, 3284)",sleep apnea
+15,OSA,"(5598, 5609)",sleep apnea
+16,Depression,"(2191, 2201)",wellbutrin
+17,Hypertension,"(5528, 5540)",beta-blocker
+18,Gout,"(497, 508)",allopurinol
+19,Gout,"(639, 650)",allopurinol
+20,Gout,"(1762, 1773)",allopurinol
+21,Gout,"(1832, 1843)",allopurinol

@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Hypertension,"(9, 21)",hypertension,"(688, 709)",not have hypertension,
+1,Diabetes,"(9, 17)",diabetes,"(720, 746)",not have diabetes mellitus,

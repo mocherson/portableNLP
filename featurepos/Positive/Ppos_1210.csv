@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(251, 273)",coronary artery bypass
+1,CAD,"(539, 561)",coronary artery bypass
+2,CAD,"(832, 854)",coronary artery bypass
+3,CAD,"(2357, 2379)",coronary artery bypass
+4,CHF,"(6254, 6278)",congestive heart failure
+5,CHF,"(7609, 7633)",congestive heart failure
+6,CHF,"(685, 708)",ischemic cardiomyopathy
+7,Depression,"(374, 384)",depression
+8,Depression,"(7961, 7971)",depression
+9,Depression,"(8105, 8115)",depressive
+10,Diabetes,"(363, 371)",diabetes

@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(426, 439)",heart failure
+1,CHF,"(1464, 1477)",heart failure
+2,Diabetes,"(461, 469)",diabetes
+3,Diabetes,"(1440, 1448)",diabetes
+4,Diabetes,"(4166, 4174)",diabetes
+5,Hypercholesterolemia,"(1501, 1515)",hyperlipidemia
+6,Hypertension,"(442, 454)",hypertension
+7,Hypertension,"(1483, 1495)",hypertension
+8,Hypertension,"(4177, 4189)",hypertension
+9,OA,"(1520, 1534)",osteoarthritis
+10,Obesity,"(1631, 1638)",obesity
+11,Obesity,"(1631, 1638)",obesity

@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(380, 404)",congestive heart failure
+1,CHF,"(1107, 1131)",congestive heart failure
+2,Diabetes,"(480, 488)",diabetes
+3,Diabetes,"(1216, 1224)",diabetes
+4,Gallstones,"(1362, 1381)",gallbladder removal
+5,OA,"(1230, 1239)",arthritis
+6,Obesity,"(425, 432)",obesity
+7,Obesity,"(1203, 1210)",obesity
+8,Obesity,"(425, 432)",obesity
+9,Obesity,"(1203, 1210)",obesity
+10,Obesity,"(2926, 2931)",obese

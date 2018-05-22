@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(331, 339)",diabetes
+1,Diabetes,"(494, 502)",diabetes
+2,Diabetes,"(1655, 1663)",diabetes
+3,Hypertension,"(314, 326)",hypertension
+4,Hypertension,"(505, 517)",hypertension
+5,Hypertension,"(1640, 1652)",hypertension
+6,Depression,"(1809, 1815)",prozac

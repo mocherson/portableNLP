@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1293, 1299)",asthma
+1,Gallstones,"(1449, 1464)",cholecystectomy
+2,Hypertension,"(1143, 1155)",hypertension
+3,Hypertension,"(3576, 3588)",hypertension
+4,Hypertension,"(3701, 3713)",hypertension
+5,Hypertension,"(3975, 3987)",hypertension
+6,Hypertension,"(4027, 4039)",hypertension
+7,Hypertension,"(7310, 7322)",hypertension
+8,Hypertension,"(7433, 7445)",hypertension
+9,Obesity,"(1415, 1422)",obesity
+10,Obesity,"(1415, 1422)",obesity
+11,Obesity,"(1772, 1777)",obese
+12,Hypertension,"(4085, 4097)",beta blocker

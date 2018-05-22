@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(2905, 2907)",dm
+1,Diabetes,"(2033, 2037)",iddm
+2,Gout,"(1843, 1847)",gout
+3,Gout,"(2046, 2050)",gout
+4,Gout,"(2563, 2567)",gout
+5,Gout,"(2586, 2590)",gout
+6,Hypertension,"(1866, 1869)",htn
+7,Hypertension,"(2040, 2043)",htn
+8,OA,"(2122, 2131)",arthritis
+9,Gout,"(544, 555)",allopurinol
+10,Gout,"(2275, 2286)",allopurinol

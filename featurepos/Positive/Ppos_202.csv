@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1615, 1618)",cad
+1,CAD,"(563, 586)",coronary artery disease
+2,CHF,"(289, 292)",chf
+3,CHF,"(69, 93)",congestive heart failure
+4,CHF,"(2962, 2975)",heart failure
+5,CHF,"(3905, 3918)",heart failure
+6,CHF,"(506, 529)",ischemic cardiomyopathy
+7,CHF,"(1480, 1503)",ischemic cardiomyopathy
+8,Gout,"(1576, 1580)",gout
+9,Gout,"(4616, 4620)",gout
+10,Gout,"(5566, 5570)",gout
+11,OSA,"(1454, 1477)",obstructive sleep apnea
+12,Hypercholesterolemia,"(6438, 6449)",simvastatin

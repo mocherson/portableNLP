@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2156, 2162)",asthma
+1,Gallstones,"(2270, 2285)",cholecystectomy
+2,Obesity,"(1268, 1275)",obesity
+3,Obesity,"(2180, 2187)",obesity
+4,Obesity,"(1268, 1275)",obesity
+5,Obesity,"(2180, 2187)",obesity
+6,OSA,"(1276, 1287)",sleep apnea
+7,OSA,"(2190, 2213)",obstructive sleep apnea

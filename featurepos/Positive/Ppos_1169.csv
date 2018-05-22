@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(500, 503)",cad
+1,CHF,"(280, 283)",chf
+2,CHF,"(506, 509)",chf
+3,CHF,"(2343, 2346)",chf
+4,CHF,"(5015, 5039)",congestive heart failure
+5,CHF,"(5230, 5254)",congestive heart failure
+6,Diabetes,"(389, 397)",diabetes
+7,Diabetes,"(771, 779)",diabetes
+8,Diabetes,"(6511, 6519)",diabetes
+9,Hypercholesterolemia,"(5783, 5797)",hyperlipidemia
+10,Hypertension,"(412, 424)",hypertension
+11,Obesity,"(3855, 3860)",obese
+12,Depression,"(2892, 2898)",elavil

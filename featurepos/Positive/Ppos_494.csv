@@ -1,0 +1,27 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2930, 2936)",asthma
+1,CAD,"(3551, 3554)",cad
+2,CHF,"(3557, 3560)",chf
+3,Depression,"(2229, 2239)",depression
+4,Depression,"(2945, 2955)",depression
+5,Depression,"(3652, 3662)",depression
+6,Depression,"(5302, 5312)",depression
+7,Diabetes,"(5399, 5407)",diabetes
+8,Diabetes,"(2919, 2921)",dm
+9,Diabetes,"(3593, 3595)",dm
+10,Gout,"(3247, 3251)",gout
+11,Hypercholesterolemia,"(3604, 3618)",hyperlipidemia
+12,Hypertension,"(3598, 3601)",htn
+13,OA,"(3227, 3229)",oa
+14,OA,"(2909, 2918)",arthritis
+15,Obesity,"(2937, 2944)",obesity
+16,Obesity,"(3621, 3628)",obesity
+17,Obesity,"(2937, 2944)",obesity
+18,Obesity,"(3621, 3628)",obesity
+19,Obesity,"(4047, 4052)",obese
+20,Depression,"(2285, 2291)",zoloft
+21,Depression,"(3719, 3725)",elavil
+22,Depression,"(3907, 3913)",zoloft
+23,Depression,"(5355, 5361)",elavil
+24,Depression,"(5375, 5381)",zoloft
+25,Hypercholesterolemia,"(2323, 2334)",simvastatin

@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Depression,"(1589, 1599)",depression
+1,Depression,"(1602, 1612)",depression
+2,Depression,"(1821, 1831)",depression
+3,Depression,"(2627, 2637)",depression
+4,Depression,"(3506, 3516)",depression
+5,Hypercholesterolemia,"(3359, 3409)",cholesterol and triglycerides found to be elevated
+6,Hypertriglyceridemia,"(3375, 3409)",triglycerides found to be elevated
+7,Obesity,"(2860, 2865)",obese
+8,Depression,"(2715, 2721)",prozac
+9,Hypercholesterolemia,"(807, 818)",simvastatin

@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1460, 1463)",cad
+1,CAD,"(89, 92)",pci
+2,CAD,"(1285, 1288)",pci
+3,CAD,"(1519, 1522)",pci
+4,CAD,"(1734, 1737)",pci
+5,CAD,"(1466, 1489)",coronary artery disease
+6,Diabetes,"(1384, 1392)",diabetes
+7,Diabetes,"(1379, 1381)",dm
+8,Diabetes,"(1777, 1779)",dm
+9,Hypercholesterolemia,"(1425, 1434)",hyperchol
+10,Hypercholesterolemia,"(1763, 1772)",hyperchol
+11,Hypercholesterolemia,"(1437, 1457)",elevated cholesterol
+12,Hypertension,"(1410, 1422)",hypertension
+13,Hypertension,"(1404, 1407)",htn
+14,Hypertension,"(1757, 1760)",htn
+15,Hypercholesterolemia,"(695, 706)",simvastatin

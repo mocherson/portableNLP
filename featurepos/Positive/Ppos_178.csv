@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3665, 3687)",coronary artery bypass
+1,CAD,"(402, 425)",coronary artery disease
+2,CHF,"(1162, 1175)",heart failure
+3,Diabetes,"(1305, 1313)",diabetes
+4,Diabetes,"(3976, 3984)",diabetic
+5,Hypercholesterolemia,"(1325, 1345)",hypercholesterolemia
+6,Hypercholesterolemia,"(1325, 1345)",hypercholesterolemia
+7,Hypertension,"(1272, 1284)",hypertension
+8,OA,"(1348, 1374)",degenerative joint disease
+9,Hypercholesterolemia,"(5042, 5053)",simvastatin
+10,OA,"(1449, 1465)",knee replacement
+11,OA,"(1642, 1658)",knee replacement
+12,OA,"(2344, 2360)",knee replacement

@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3006, 3009)",cad
+1,CAD,"(3692, 3695)",cad
+2,Diabetes,"(2609, 2614)",niddm
+3,Hypercholesterolemia,"(2731, 2751)",hypercholesterolemia
+4,Hypercholesterolemia,"(2731, 2751)",hypercholesterolemia
+5,Hypercholesterolemia,"(3774, 3783)",hyperchol
+6,Hypertension,"(2727, 2730)",htn
+7,Hypertension,"(3768, 3771)",htn
+8,OA,"(2676, 2678)",oa
+9,OA,"(3882, 3884)",oa
+10,OA,"(2681, 2684)",djd
+11,OA,"(3887, 3890)",djd
+12,Hypercholesterolemia,"(662, 673)",pravastatin

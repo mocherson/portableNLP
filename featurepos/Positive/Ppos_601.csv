@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3132, 3135)",cad
+1,CHF,"(70, 94)",congestive heart failure
+2,CHF,"(1816, 1840)",congestive heart failure
+3,CHF,"(1920, 1944)",congestive heart failure
+4,CHF,"(2294, 2317)",ischemic cardiomyopathy
+5,CHF,"(3106, 3129)",ischemic cardiomyopathy
+6,Gallstones,"(3293, 3296)",ccy
+7,Hypercholesterolemia,"(3176, 3188)",dyslipidemia
+8,Hypertension,"(2083, 2095)",hypertension
+9,Hypertension,"(2077, 2080)",htn
+10,Hypertension,"(3170, 3173)",htn
+11,OSA,"(3191, 3194)",osa
+12,OSA,"(4689, 4692)",osa
+13,Depression,"(3387, 3393)",prozac
+14,Hypertension,"(4320, 4332)",beta-blocker
+15,Hypercholesterolemia,"(1207, 1219)",atorvastatin

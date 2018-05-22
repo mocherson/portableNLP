@@ -1,0 +1,4 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Diabetes,"(14, 22)",diabetes,"(3270, 3293)",no history of diabetes ,
+1,CHF,"(15, 39)",congestive heart failure,"(4750, 4808)",no evidence of congestive heart failure and no infiltrates,
+2,CHF,"(20, 44)",congestive heart failure,"(5329, 5387)",without evidence of congestive heart failure or infiltrate,

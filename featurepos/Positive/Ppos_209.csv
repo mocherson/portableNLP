@@ -1,0 +1,5 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(190, 203)",heart failure
+1,Hypertension,"(337, 349)",hypertension
+2,Hypertension,"(794, 806)",hypertension
+3,CAD,"(1841, 1864)",cardiac catheterization

@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(2625, 2628)",chf
+1,Diabetes,"(2282, 2284)",dm
+2,Diabetes,"(2470, 2473)",dm2
+3,Diabetes,"(2835, 2837)",dm
+4,Diabetes,"(4082, 4084)",dm
+5,Diabetes,"(4324, 4327)",dm2
+6,Diabetes,"(6049, 6051)",dm
+7,Diabetes,"(6838, 6840)",dm
+8,Gallstones,"(4920, 4935)",cholecystectomy
+9,Hypertension,"(2474, 2477)",htn
+10,Hypertension,"(4085, 4088)",htn
+11,Hypertension,"(4463, 4466)",htn
+12,Obesity,"(4671, 4678)",obesity
+13,Obesity,"(4671, 4678)",obesity
+14,Obesity,"(5752, 5757)",obese

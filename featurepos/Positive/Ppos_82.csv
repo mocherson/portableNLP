@@ -1,0 +1,6 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(675, 698)",coronary artery disease
+1,Diabetes,"(664, 672)",diabetes
+2,Hypercholesterolemia,"(779, 795)",high cholesterol
+3,Hypertension,"(764, 776)",hypertension
+4,PVD,"(202, 229)",peripheral vascular disease

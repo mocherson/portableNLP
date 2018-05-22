@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(1779, 1782)",chf
+1,CHF,"(2144, 2147)",chf
+2,CHF,"(2436, 2439)",chf
+3,CHF,"(69, 93)",congestive heart failure
+4,CHF,"(1875, 1899)",congestive heart failure
+5,CHF,"(2150, 2174)",congestive heart failure
+6,Diabetes,"(2184, 2192)",diabetes
+7,Diabetes,"(4190, 4198)",diabetes
+8,Diabetes,"(2177, 2181)",iddm

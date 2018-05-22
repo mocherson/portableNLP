@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1459, 1465)",asthma
+1,Depression,"(1518, 1528)",depression
+2,GERD,"(1470, 1474)",gerd
+3,Hypertension,"(1480, 1492)",hypertension
+4,OA,"(1498, 1512)",osteoarthritis
+5,Obesity,"(1410, 1417)",obesity
+6,Obesity,"(1410, 1417)",obesity
+7,Depression,"(1749, 1755)",prozac
+8,Depression,"(8500, 8506)",prozac

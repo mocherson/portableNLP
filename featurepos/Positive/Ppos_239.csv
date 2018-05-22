@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(351, 354)",chf
+1,CHF,"(498, 501)",chf
+2,CHF,"(1164, 1167)",chf
+3,CHF,"(3733, 3736)",chf
+4,CHF,"(1205, 1218)",heart failure
+5,CHF,"(4305, 4318)",heart failure
+6,Hypercholesterolemia,"(1415, 1435)",hypercholesterolemia
+7,Hypercholesterolemia,"(1415, 1435)",hypercholesterolemia
+8,OA,"(1326, 1340)",osteoarthritis
+9,Obesity,"(1438, 1445)",obesity
+10,Obesity,"(1438, 1445)",obesity
+11,Obesity,"(2474, 2479)",obese
+12,Obesity,"(2759, 2764)",obese
+13,OSA,"(1266, 1289)",obstructive sleep apnea
+14,Venous Insufficiency,"(482, 495)",venous stasis
+15,Venous Insufficiency,"(1361, 1374)",venous stasis
+16,Venous Insufficiency,"(3717, 3730)",venous stasis
+17,Venous Insufficiency,"(5652, 5665)",venous stasis

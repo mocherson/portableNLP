@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(303, 326)",coronary artery disease
+1,CHF,"(1398, 1422)",congestive heart failure
+2,Diabetes,"(1466, 1474)",diabetes
+3,Hypertension,"(375, 387)",hypertension
+4,Hypercholesterolemia,"(1300, 1311)",pravastatin
+5,Hypercholesterolemia,"(1782, 1793)",pravastatin
+6,Hypercholesterolemia,"(2646, 2657)",pravastatin

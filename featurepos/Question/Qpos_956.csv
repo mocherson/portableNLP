@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Gallstones,"(9, 24)",cholecystectomy,"(4727, 4766)",possible cholecystectomy was performed ,
+1,CAD,"(84, 104)",coronary angioplasty,"(6740, 6876)",possible complications of adding a tb3a antagonist during percutaneous transluminal coronary angioplasty in the context of possible ercp,

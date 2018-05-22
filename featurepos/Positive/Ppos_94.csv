@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(698, 711)",heart failure
+1,CHF,"(1854, 1867)",heart failure
+2,CHF,"(6095, 6108)",heart failure
+3,Diabetes,"(1944, 1952)",diabetes
+4,Diabetes,"(2102, 2110)",diabetes
+5,Diabetes,"(7687, 7695)",diabetes
+6,Gallstones,"(1973, 1988)",cholecystectomy
+7,Gout,"(2043, 2047)",gout
+8,Hypertension,"(1509, 1521)",hypertension
+9,Obesity,"(1955, 1962)",obesity
+10,Obesity,"(1955, 1962)",obesity
+11,Depression,"(2256, 2262)",zoloft
+12,Depression,"(8596, 8602)",zoloft
+13,Depression,"(9452, 9458)",zoloft
+14,Hypertension,"(5839, 5851)",beta-blocker
+15,Hypertension,"(6829, 6841)",beta-blocker
+16,Gout,"(2187, 2198)",allopurinol
+17,Gout,"(9767, 9778)",allopurinol

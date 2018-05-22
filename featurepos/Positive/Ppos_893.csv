@@ -1,0 +1,13 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1898, 1904)",asthma
+1,Diabetes,"(1593, 1601)",diabetes
+2,Diabetes,"(3614, 3622)",diabetes
+3,Diabetes,"(1907, 1909)",dm
+4,Hypertension,"(1886, 1889)",htn
+5,Obesity,"(77, 84)",obesity
+6,Obesity,"(1701, 1708)",obesity
+7,Obesity,"(1795, 1802)",obesity
+8,Obesity,"(77, 84)",obesity
+9,Obesity,"(1701, 1708)",obesity
+10,Obesity,"(1795, 1802)",obesity
+11,OSA,"(1892, 1895)",osa

@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4488, 4491)",cad
+1,CAD,"(4494, 4517)",coronary artery disease
+2,CHF,"(4520, 4523)",chf
+3,CHF,"(4550, 4574)",congestive heart failure
+4,Depression,"(4844, 4854)",depression
+5,Depression,"(4857, 4867)",depression
+6,Diabetes,"(4676, 4684)",diabetes
+7,Diabetes,"(4671, 4673)",dm
+8,Hypertension,"(4774, 4786)",hypertension
+9,Hypertension,"(4768, 4771)",htn
+10,Hypertension,"(5171, 5174)",htn
+11,Hypertension,"(6230, 6233)",htn
+12,OA,"(4924, 4950)",degenerative joint disease
+13,OA,"(4918, 4921)",djd
+14,OSA,"(4696, 4699)",osa
+15,OSA,"(4702, 4713)",sleep apnea
+16,Hypercholesterolemia,"(2644, 2655)",simvastatin
+17,Hypercholesterolemia,"(3161, 3172)",simvastatin
+18,Hypercholesterolemia,"(3402, 3413)",simvastatin

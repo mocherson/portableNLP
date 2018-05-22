@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(984, 1004)",coronary angioplasty
+1,CAD,"(2255, 2278)",coronary artery disease
+2,CHF,"(1230, 1254)",congestive heart failure
+3,Diabetes,"(690, 698)",diabetes
+4,Diabetes,"(2318, 2326)",diabetes
+5,Gallstones,"(2471, 2486)",cholecystectomy
+6,Hypercholesterolemia,"(654, 675)",increased cholesterol
+7,Hypertension,"(639, 651)",hypertension
+8,Hypertension,"(2338, 2350)",hypertension
+9,CAD,"(1566, 1589)",cardiac catheterization

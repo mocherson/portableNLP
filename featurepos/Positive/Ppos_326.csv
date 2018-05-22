@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Hypertension,"(3414, 3426)",hypertension
+1,Hypertension,"(3748, 3760)",hypertension
+2,Hypertension,"(4027, 4030)",htn
+3,Hypertension,"(5162, 5165)",htn
+4,Obesity,"(3370, 3377)",obesity
+5,Obesity,"(3370, 3377)",obesity
+6,Obesity,"(4474, 4479)",obese
+7,Venous Insufficiency,"(4681, 4694)",venous stasis
+8,Hypercholesterolemia,"(607, 618)",simvastatin
+9,Hypercholesterolemia,"(1856, 1867)",simvastatin
+10,Hypercholesterolemia,"(2120, 2131)",simvastatin
+11,Hypercholesterolemia,"(2339, 2350)",simvastatin
+12,Hypercholesterolemia,"(2659, 2670)",simvastatin

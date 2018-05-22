@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(6559, 6562)",cad
+1,CAD,"(6773, 6776)",cad
+2,CAD,"(7440, 7443)",cad
+3,CHF,"(6791, 6794)",chf
+4,CHF,"(7860, 7863)",chf
+5,CHF,"(90, 103)",heart failure
+6,CHF,"(2836, 2849)",heart failure
+7,CHF,"(6340, 6353)",heart failure
+8,CHF,"(6437, 6461)",congestive heart failure
+9,Diabetes,"(6548, 6556)",diabetes
+10,Diabetes,"(8131, 8133)",dm
+11,Obesity,"(6503, 6510)",obesity
+12,Obesity,"(6503, 6510)",obesity
+13,Hypertension,"(8055, 8064)",b-blocker

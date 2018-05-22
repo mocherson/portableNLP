@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(292, 300)",diabetes
+1,Diabetes,"(574, 582)",diabetes
+2,Diabetes,"(2551, 2559)",diabetes
+3,GERD,"(2714, 2737)",gastroesophageal reflux
+4,Hypercholesterolemia,"(600, 620)",hypercholesterolemia
+5,Hypercholesterolemia,"(600, 620)",hypercholesterolemia
+6,Hypertension,"(335, 347)",hypertension
+7,Hypertension,"(585, 597)",hypertension
+8,Hypertension,"(2670, 2682)",hypertension
+9,OA,"(2685, 2711)",degenerative joint disease
+10,Obesity,"(3949, 3954)",obese
+11,CAD,"(5221, 5244)",cardiac catheterization
+12,CAD,"(5854, 5877)",cardiac catheterization

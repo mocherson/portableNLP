@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,Diabetes,"(3, 11)",diabetes,"(618, 629)",no diabetes,
+1,Hypercholesterolemia,"(14, 34)",elevated cholesterol,"(660, 694)",no history of elevated cholesterol,

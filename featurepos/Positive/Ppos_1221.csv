@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(6076, 6079)",cad
+1,CHF,"(6101, 6104)",chf
+2,CHF,"(6558, 6561)",chf
+3,CHF,"(7511, 7514)",chf
+4,CHF,"(7646, 7649)",chf
+5,CHF,"(7750, 7753)",chf
+6,CHF,"(8719, 8722)",chf
+7,CHF,"(70, 94)",congestive heart failure
+8,CHF,"(5359, 5383)",congestive heart failure
+9,CHF,"(5463, 5487)",congestive heart failure
+10,Diabetes,"(6934, 6939)",niddm
+11,Diabetes,"(10436, 10444)",diabetic
+12,Diabetes,"(11426, 11434)",diabetic
+13,Hypercholesterolemia,"(6950, 6962)",dyslipidemia
+14,Hypertension,"(6773, 6776)",htn
+15,Hypercholesterolemia,"(3132, 3143)",simvastatin
+16,Hypercholesterolemia,"(3476, 3487)",simvastatin
+17,Hypercholesterolemia,"(4509, 4521)",atorvastatin
+18,Hypercholesterolemia,"(4643, 4655)",atorvastatin
+19,Hypercholesterolemia,"(4712, 4724)",atorvastatin

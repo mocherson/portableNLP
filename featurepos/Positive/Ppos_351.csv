@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(3290, 3296)",asthma
+1,Asthma,"(3299, 3305)",asthma
+2,Asthma,"(4170, 4176)",asthma
+3,CAD,"(3622, 3625)",cad
+4,CAD,"(3855, 3858)",cad
+5,CHF,"(69, 72)",chf
+6,CHF,"(3055, 3058)",chf
+7,CHF,"(3151, 3154)",chf
+8,CHF,"(3635, 3638)",chf
+9,CHF,"(3897, 3900)",chf
+10,CHF,"(4838, 4841)",chf
+11,CHF,"(5417, 5420)",chf
+12,Hypertension,"(4086, 4089)",htn
+13,Depression,"(934, 944)",wellbutrin
+14,Depression,"(4468, 4478)",wellbutrin
+15,Depression,"(5380, 5390)",wellbutrin
+16,OA,"(3316, 3331)",hip replacement
+17,OA,"(3340, 3355)",hip replacement
+18,OA,"(3379, 3394)",hip replacement

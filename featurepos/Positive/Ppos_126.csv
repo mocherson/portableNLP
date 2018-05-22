@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(390, 393)",cad
+1,CAD,"(1931, 1934)",cad
+2,Depression,"(2287, 2297)",depression
+3,Diabetes,"(353, 361)",diabetes
+4,Diabetes,"(1804, 1812)",diabetes
+5,Diabetes,"(5464, 5472)",diabetes
+6,Hypertension,"(4589, 4601)",hypertension
+7,PVD,"(2198, 2225)",peripheral vascular disease
+8,Depression,"(3723, 3729)",celexa
+9,CAD,"(4087, 4110)",cardiac catheterization
+10,Hypercholesterolemia,"(7206, 7214)",nystatin

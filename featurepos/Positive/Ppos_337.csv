@@ -1,0 +1,8 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(260, 283)",coronary artery disease
+1,CHF,"(633, 636)",chf
+2,CHF,"(1085, 1088)",chf
+3,CHF,"(2404, 2407)",chf
+4,CHF,"(344, 368)",congestive heart failure
+5,CHF,"(3063, 3087)",congestive heart failure
+6,Hypercholesterolemia,"(5072, 5083)",simvastatin

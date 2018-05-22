@@ -1,0 +1,30 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3985, 3988)",cad
+1,CAD,"(5477, 5480)",cad
+2,CAD,"(7121, 7124)",cad
+3,CHF,"(3542, 3545)",chf
+4,CHF,"(3559, 3583)",congestive heart failure
+5,CHF,"(4001, 4014)",heart failure
+6,CHF,"(7355, 7368)",heart failure
+7,CHF,"(7571, 7584)",heart failure
+8,Diabetes,"(5445, 5453)",diabetes
+9,Diabetes,"(3525, 3529)",iddm
+10,Diabetes,"(9851, 9855)",iddm
+11,GERD,"(9827, 9831)",gerd
+12,GERD,"(3510, 3520)",g-e reflux
+13,Hypercholesterolemia,"(5606, 5626)",hypercholesterolemia
+14,Hypercholesterolemia,"(5606, 5626)",hypercholesterolemia
+15,Hypertension,"(3521, 3524)",htn
+16,Hypertension,"(5468, 5471)",htn
+17,Hypertension,"(9654, 9657)",htn
+18,OA,"(3778, 3792)",osteoarthritis
+19,OA,"(5653, 5667)",osteoarthritis
+20,OA,"(4415, 4418)",djd
+21,OA,"(8961, 8964)",djd
+22,OA,"(9064, 9067)",djd
+23,Hypercholesterolemia,"(551, 563)",atorvastatin
+24,Hypercholesterolemia,"(1689, 1701)",atorvastatin
+25,Hypercholesterolemia,"(1930, 1942)",atorvastatin
+26,Hypercholesterolemia,"(1991, 2002)",simvastatin
+27,Hypercholesterolemia,"(2043, 2055)",atorvastatin
+28,Hypercholesterolemia,"(6238, 6246)",nystatin

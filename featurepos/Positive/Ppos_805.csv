@@ -1,0 +1,7 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(416, 439)",coronary artery disease
+1,CHF,"(410, 413)",chf
+2,CHF,"(668, 671)",chf
+3,CHF,"(1377, 1390)",heart failure
+4,Diabetes,"(442, 450)",diabetes
+5,PVD,"(453, 480)",peripheral vascular disease

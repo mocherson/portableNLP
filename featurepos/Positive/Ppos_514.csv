@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1714, 1717)",cad
+1,CAD,"(1911, 1914)",cad
+2,CAD,"(1720, 1743)",coronary artery disease
+3,Diabetes,"(1638, 1646)",diabetes
+4,Diabetes,"(1904, 1906)",dm
+5,Diabetes,"(3455, 3457)",dm
+6,Diabetes,"(1630, 1635)",niddm
+7,Hypercholesterolemia,"(1679, 1688)",high chol
+8,Hypercholesterolemia,"(1691, 1711)",elevated cholesterol
+9,Hypertension,"(1664, 1676)",hypertension
+10,Hypertension,"(1658, 1661)",htn
+11,OA,"(1752, 1766)",osteoarthritis
+12,OA,"(1746, 1749)",djd
+13,Depression,"(965, 971)",celexa

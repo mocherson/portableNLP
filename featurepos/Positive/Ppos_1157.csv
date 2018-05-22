@@ -1,0 +1,17 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2532, 2535)",cad
+1,CAD,"(2822, 2825)",cad
+2,CAD,"(3657, 3660)",cad
+3,CAD,"(4846, 4849)",cad
+4,Diabetes,"(2858, 2861)",2dm
+5,Diabetes,"(3786, 3788)",dm
+6,Diabetes,"(5661, 5664)",2dm
+7,Hypercholesterolemia,"(2472, 2481)",elev chol
+8,Hypertension,"(2864, 2876)",hypertension
+9,Hypertension,"(5862, 5874)",hypertension
+10,Hypertension,"(2468, 2471)",htn
+11,Hypertension,"(5297, 5300)",htn
+12,Hypertension,"(4964, 4973)",b-blocker
+13,GERD,"(1084, 1094)",sucralfate
+14,GERD,"(3826, 3836)",sucralfate
+15,Hypercholesterolemia,"(2246, 2258)",atorvastatin

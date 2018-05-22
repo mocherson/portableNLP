@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3096, 3099)",cad
+1,GERD,"(3871, 3875)",gerd
+2,Hypercholesterolemia,"(3857, 3870)",hyperlipdemia
+3,Hypertension,"(2830, 2842)",hypertension
+4,Hypertension,"(2824, 2827)",htn
+5,Hypertension,"(3126, 3129)",htn
+6,Hypertension,"(3853, 3856)",htn
+7,OA,"(3903, 3917)",osteoarthritis
+8,Obesity,"(3895, 3902)",obesity
+9,Obesity,"(3895, 3902)",obesity
+10,Obesity,"(4463, 4468)",obese
+11,Hypercholesterolemia,"(1394, 1405)",simvastatin
+12,Hypercholesterolemia,"(1660, 1671)",simvastatin
+13,Hypercholesterolemia,"(1853, 1864)",simvastatin
+14,Hypercholesterolemia,"(2257, 2268)",simvastatin

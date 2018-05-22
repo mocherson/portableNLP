@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1694, 1716)",coronary artery bypass
+1,CAD,"(229, 252)",coronary artery disease
+2,Diabetes,"(1024, 1032)",diabetes
+3,Hypercholesterolemia,"(1038, 1057)",hypercholesterolism
+4,Hypertension,"(995, 1007)",hypertension
+5,Obesity,"(1391, 1396)",obese
+6,CAD,"(387, 410)",cardiac catheterization
+7,CAD,"(660, 683)",cardiac catheterization
+8,Gout,"(1237, 1248)",allopurinol

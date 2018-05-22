@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(69, 93)",congestive heart failure
+1,CHF,"(365, 389)",congestive heart failure
+2,CHF,"(2278, 2302)",congestive heart failure
+3,CHF,"(3187, 3211)",congestive heart failure
+4,Diabetes,"(259, 267)",diabetes
+5,Diabetes,"(2735, 2743)",diabetes
+6,Diabetes,"(3405, 3413)",diabetes
+7,Hypertension,"(282, 294)",hypertension
+8,Venous Insufficiency,"(2563, 2583)",venous insufficiency

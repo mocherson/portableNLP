@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1374, 1377)",cad
+1,Diabetes,"(1420, 1425)",niddm
+2,Hypercholesterolemia,"(1386, 1400)",hyperlipidemia
+3,Hypertension,"(1817, 1829)",hypertension
+4,Hypertension,"(1380, 1383)",htn
+5,OA,"(1428, 1442)",osteoarthritis
+6,PVD,"(1403, 1406)",pvd
+7,Hypercholesterolemia,"(675, 687)",atorvastatin

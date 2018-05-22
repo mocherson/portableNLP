@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(70, 73)",cad
+1,CAD,"(1945, 1948)",cad
+2,CAD,"(2049, 2052)",cad
+3,CAD,"(5729, 5732)",cad
+4,CAD,"(80, 83)",pci
+5,CAD,"(1955, 1958)",pci
+6,CAD,"(2121, 2124)",pci
+7,CAD,"(5090, 5093)",pci
+8,Depression,"(3183, 3193)",depression
+9,Depression,"(3678, 3688)",depression
+10,Diabetes,"(3119, 3127)",diabetes
+11,Diabetes,"(2330, 2332)",dm
+12,Diabetes,"(5428, 5430)",dm
+13,Diabetes,"(5692, 5694)",dm
+14,Hypercholesterolemia,"(2307, 2321)",hyperlipidemia
+15,Hypercholesterolemia,"(3202, 3216)",hyperlipidemia
+16,Hypertension,"(2324, 2327)",htn
+17,Obesity,"(3194, 3201)",obesity
+18,Obesity,"(5555, 5562)",obesity
+19,Obesity,"(3194, 3201)",obesity
+20,Obesity,"(3852, 3857)",obese
+21,Obesity,"(5555, 5562)",obesity
+22,Hypertension,"(5405, 5417)",beta blocker
+23,Hypertension,"(2969, 2978)",bp 186/99
+24,Hypercholesterolemia,"(1168, 1180)",atorvastatin

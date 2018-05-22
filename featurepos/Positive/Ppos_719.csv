@@ -1,0 +1,21 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(4387, 4390)",cad
+1,Depression,"(3537, 3547)",depression
+2,Diabetes,"(2980, 2988)",diabetes
+3,Diabetes,"(8071, 8079)",diabetes
+4,Diabetes,"(8466, 8474)",diabetes
+5,Diabetes,"(7215, 7217)",dm
+6,Diabetes,"(3386, 3390)",iddm
+7,Hypertension,"(3460, 3463)",htn
+8,Hypertension,"(4001, 4004)",htn
+9,Hypertension,"(5172, 5175)",htn
+10,Hypertension,"(5459, 5462)",htn
+11,PVD,"(4061, 4064)",pvd
+12,PVD,"(4420, 4423)",pvd
+13,PVD,"(5232, 5235)",pvd
+14,GERD,"(7172, 7183)",esophagitis
+15,Hypercholesterolemia,"(1108, 1116)",nystatin
+16,Hypercholesterolemia,"(1181, 1192)",simvastatin
+17,Hypercholesterolemia,"(1446, 1457)",simvastatin
+18,Hypercholesterolemia,"(1909, 1920)",simvastatin
+19,Hypercholesterolemia,"(7186, 7194)",nystatin

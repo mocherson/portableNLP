@@ -1,0 +1,31 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1111, 1114)",cad
+1,CAD,"(4598, 4620)",coronary artery bypass
+2,CAD,"(69, 92)",coronary artery disease
+3,CAD,"(237, 260)",coronary artery disease
+4,CAD,"(344, 367)",coronary artery disease
+5,CAD,"(1008, 1031)",coronary artery disease
+6,CHF,"(265, 268)",chf
+7,CHF,"(1159, 1162)",chf
+8,CHF,"(5918, 5921)",chf
+9,Depression,"(1632, 1642)",depression
+10,Depression,"(5346, 5356)",depression
+11,Diabetes,"(6612, 6620)",diabetes
+12,Diabetes,"(1376, 1384)",diabetic
+13,Diabetes,"(1401, 1409)",diabetic
+14,Diabetes,"(1436, 1444)",diabetic
+15,Diabetes,"(5237, 5245)",diabetic
+16,Diabetes,"(6497, 6505)",diabetic
+17,Hypercholesterolemia,"(1532, 1552)",hypercholesterolemia
+18,Hypercholesterolemia,"(1532, 1552)",hypercholesterolemia
+19,Hypertension,"(1197, 1209)",hypertension
+20,Hypertension,"(5663, 5675)",hypertension
+21,PVD,"(1223, 1250)",peripheral vascular disease
+22,Depression,"(2402, 2412)",wellbutrin
+23,Depression,"(5327, 5337)",wellbutrin
+24,Depression,"(7424, 7434)",wellbutrin
+25,CAD,"(434, 457)",cardiac catheterization
+26,CAD,"(969, 992)",cardiac catheterization
+27,CAD,"(3766, 3789)",cardiac catheterization
+28,Hypercholesterolemia,"(2238, 2249)",simvastatin
+29,Hypercholesterolemia,"(7655, 7666)",simvastatin

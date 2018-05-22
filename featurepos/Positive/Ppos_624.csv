@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(272, 278)",asthma
+1,Asthma,"(1841, 1847)",asthma
+2,CAD,"(201, 224)",coronary artery disease
+3,Hypertension,"(254, 266)",hypertension
+4,Hypertension,"(404, 416)",hypertension
+5,Hypertension,"(1884, 1896)",hypertension
+6,OA,"(284, 310)",degenerative joint disease
+7,OA,"(1792, 1818)",degenerative joint disease
+8,Obesity,"(1899, 1906)",obesity
+9,Obesity,"(1899, 1906)",obesity
+10,CAD,"(1397, 1420)",cardiac catheterization
+11,CAD,"(3688, 3711)",cardiac catheterization
+12,CAD,"(6153, 6176)",cardiac catheterization

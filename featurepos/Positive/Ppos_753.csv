@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1013, 1019)",asthma
+1,CHF,"(354, 378)",congestive heart failure
+2,Diabetes,"(328, 336)",diabetes
+3,Diabetes,"(1133, 1141)",diabetes
+4,Diabetes,"(3640, 3648)",diabetic
+5,Diabetes,"(4163, 4171)",diabetic
+6,Hypercholesterolemia,"(1032, 1048)",high cholesterol
+7,Hypertension,"(339, 351)",hypertension
+8,Hypertension,"(979, 991)",hypertension
+9,Obesity,"(1022, 1029)",obesity
+10,Obesity,"(4366, 4373)",obesity
+11,Obesity,"(1022, 1029)",obesity
+12,Obesity,"(4366, 4373)",obesity
+13,Obesity,"(4407, 4412)",obese
+14,Depression,"(1290, 1296)",prozac
+15,Depression,"(3906, 3912)",prozac
+16,Depression,"(3937, 3945)",cymbalta
+17,Depression,"(3974, 3980)",prozac
+18,Depression,"(3994, 4002)",cymbalta
+19,Depression,"(4031, 4039)",cymbalta
+20,Depression,"(4057, 4063)",prozac
+21,Depression,"(4116, 4124)",cymbalta
+22,Depression,"(4127, 4135)",cymbalta
+23,Depression,"(5022, 5028)",prozac
+24,Hypercholesterolemia,"(5516, 5527)",simvastatin

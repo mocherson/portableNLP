@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(287, 310)",coronary artery disease
+1,CHF,"(263, 266)",chf
+2,CHF,"(555, 558)",chf
+3,Depression,"(525, 535)",depression
+4,Diabetes,"(397, 401)",iddm
+5,Hypercholesterolemia,"(565, 585)",hypercholesterolemia
+6,Hypercholesterolemia,"(565, 585)",hypercholesterolemia
+7,Hypertension,"(404, 416)",hypertension
+8,Obesity,"(3639, 3646)",obesity
+9,Obesity,"(1645, 1650)",obese
+10,Obesity,"(1998, 2003)",obese
+11,Obesity,"(3639, 3646)",obesity
+12,OSA,"(3628, 3631)",osa

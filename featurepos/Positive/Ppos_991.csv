@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(9057, 9080)",coronary artery disease
+1,CHF,"(884, 908)",congestive heart failure
+2,GERD,"(7615, 7619)",gerd
+3,Hypercholesterolemia,"(1431, 1451)",hypercholesterolemia
+4,Hypercholesterolemia,"(1431, 1451)",hypercholesterolemia
+5,Hypertension,"(6344, 6356)",beta-blocker
+6,Hypertension,"(6512, 6524)",beta-blocker
+7,CAD,"(4771, 4794)",cardiac catheterization

@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3064, 3067)",cad
+1,CAD,"(3070, 3093)",coronary artery disease
+2,CHF,"(68, 71)",chf
+3,CHF,"(2876, 2879)",chf
+4,CHF,"(2959, 2962)",chf
+5,Diabetes,"(3312, 3320)",diabetes
+6,Diabetes,"(3305, 3309)",iddm
+7,Hypercholesterolemia,"(3402, 3414)",dyslipidemia
+8,Hypercholesterolemia,"(3417, 3429)",dyslipidemia
+9,Hypercholesterolemia,"(1316, 1327)",simvastatin
+10,Hypercholesterolemia,"(2476, 2488)",atorvastatin
+11,Hypercholesterolemia,"(2600, 2612)",atorvastatin
+12,Gout,"(677, 688)",allopurinol

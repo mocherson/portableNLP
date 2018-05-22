@@ -1,0 +1,32 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3751, 3754)",cad
+1,CAD,"(6655, 6658)",cad
+2,CHF,"(3058, 3061)",chf
+3,CHF,"(4187, 4190)",chf
+4,CHF,"(5014, 5017)",chf
+5,CHF,"(5066, 5069)",chf
+6,CHF,"(5760, 5763)",chf
+7,CHF,"(5875, 5878)",chf
+8,CHF,"(8244, 8247)",chf
+9,CHF,"(8809, 8812)",chf
+10,CHF,"(70, 94)",congestive heart failure
+11,CHF,"(3271, 3295)",congestive heart failure
+12,CHF,"(3375, 3399)",congestive heart failure
+13,Diabetes,"(4107, 4109)",dm
+14,Diabetes,"(3514, 3518)",iddm
+15,Diabetes,"(7735, 7739)",iddm
+16,Hypercholesterolemia,"(3579, 3599)",hypercholesterolemia
+17,Hypercholesterolemia,"(3579, 3599)",hypercholesterolemia
+18,Hypertension,"(3508, 3511)",htn
+19,Hypertension,"(4094, 4097)",htn
+20,OA,"(3713, 3715)",oa
+21,OA,"(3669, 3683)",osteoarthritis
+22,Depression,"(2014, 2020)",celexa
+23,Hypertension,"(5416, 5428)",beta blocker
+24,Hypertension,"(6339, 6351)",beta blocker
+25,Hypertension,"(6842, 6854)",beta blocker
+26,Hypercholesterolemia,"(2306, 2317)",simvastatin
+27,Hypercholesterolemia,"(2677, 2689)",atorvastatin
+28,Gout,"(753, 764)",allopurinol
+29,Gout,"(896, 907)",allopurinol
+30,Gout,"(2467, 2478)",allopurinol

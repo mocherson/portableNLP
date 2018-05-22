@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(285, 291)",asthma
+1,Asthma,"(1741, 1747)",asthma
+2,Depression,"(376, 386)",depression
+3,Depression,"(1823, 1833)",depression
+4,Gout,"(333, 337)",gout
+5,Gout,"(1734, 1738)",gout
+6,Gout,"(5173, 5177)",gout
+7,Hypertension,"(297, 309)",hypertension
+8,Hypertension,"(1704, 1716)",hypertension
+9,Obesity,"(243, 250)",obesity
+10,Obesity,"(1668, 1675)",obesity
+11,Obesity,"(243, 250)",obesity
+12,Obesity,"(502, 507)",obese
+13,Obesity,"(1668, 1675)",obesity
+14,Obesity,"(2660, 2665)",obese
+15,Obesity,"(3297, 3302)",obese
+16,Obesity,"(4439, 4444)",obese
+17,OSA,"(256, 279)",obstructive sleep apnea
+18,OSA,"(1678, 1701)",obstructive sleep apnea
+19,Gout,"(5247, 5258)",allopurinol
+20,Gout,"(6072, 6083)",allopurinol

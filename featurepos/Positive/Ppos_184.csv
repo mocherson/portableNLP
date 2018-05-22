@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(624, 647)",coronary artery disease
+1,CAD,"(1594, 1617)",coronary artery disease
+2,CHF,"(682, 695)",heart failure
+3,CHF,"(5439, 5452)",heart failure
+4,Diabetes,"(1642, 1650)",diabetes
+5,Gout,"(1702, 1706)",gout
+6,Hypercholesterolemia,"(1683, 1697)",hyperlipidemia
+7,Hypertension,"(6442, 6454)",hypertension
+8,Obesity,"(2775, 2780)",obese
+9,Obesity,"(7288, 7293)",obese
+10,OSA,"(3789, 3812)",obstructive sleep apnea
+11,Hypertension,"(6520, 6536)",antihypertensive
+12,Gout,"(2004, 2015)",allopurinol

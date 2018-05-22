@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2841, 2864)",coronary artery disease
+1,Diabetes,"(3586, 3594)",diabetes
+2,Diabetes,"(4678, 4686)",diabetes
+3,Diabetes,"(5485, 5493)",diabetes
+4,Diabetes,"(2905, 2907)",dm
+5,Diabetes,"(3412, 3417)",niddm
+6,Diabetes,"(3081, 3089)",diabetic
+7,Diabetes,"(4148, 4156)",diabetic
+8,GERD,"(2955, 2959)",gerd
+9,Hypercholesterolemia,"(2867, 2881)",hyperlipidemia
+10,Hypercholesterolemia,"(3504, 3518)",hyperlipidemia
+11,Hypertension,"(2922, 2925)",htn
+12,Hypertension,"(3099, 3102)",htn
+13,Hypertension,"(3420, 3423)",htn
+14,Obesity,"(3881, 3886)",obese
+15,Hypercholesterolemia,"(675, 687)",atorvastatin
+16,Hypercholesterolemia,"(1049, 1061)",atorvastatin

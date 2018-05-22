@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2232, 2235)",cad
+1,CAD,"(2241, 2264)",coronary artery disease
+2,Hypercholesterolemia,"(2137, 2151)",hyperlipidemia
+3,Obesity,"(2152, 2159)",obesity
+4,Obesity,"(2152, 2159)",obesity
+5,Depression,"(699, 709)",wellbutrin
+6,Hypercholesterolemia,"(1199, 1210)",simvastatin
+7,Hypercholesterolemia,"(1485, 1497)",atorvastatin
+8,Hypercholesterolemia,"(1610, 1622)",atorvastatin

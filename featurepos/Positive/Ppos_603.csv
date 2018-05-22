@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(2519, 2527)",diabetes
+1,Diabetes,"(7257, 7265)",diabetes
+2,Diabetes,"(7582, 7590)",diabetic
+3,Hypertension,"(2962, 2974)",hypertension
+4,Hypertension,"(7142, 7154)",hypertension
+5,Obesity,"(2587, 2594)",obesity
+6,Obesity,"(2604, 2611)",obesity
+7,Obesity,"(5975, 5982)",obesity
+8,Obesity,"(2587, 2594)",obesity
+9,Obesity,"(2604, 2611)",obesity
+10,Obesity,"(4810, 4815)",obese
+11,Obesity,"(5975, 5982)",obesity
+12,OSA,"(3316, 3327)",sleep apnea
+13,OSA,"(6010, 6021)",sleep apnea
+14,Venous Insufficiency,"(5094, 5114)",venous insufficiency
+15,Hypercholesterolemia,"(3676, 3687)",simvastatin
+16,Hypercholesterolemia,"(3986, 3994)",nystatin
+17,Hypercholesterolemia,"(8320, 8331)",simvastatin
+18,Hypercholesterolemia,"(8785, 8793)",nystatin

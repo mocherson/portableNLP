@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3881, 3884)",cad
+1,CAD,"(6009, 6012)",cad
+2,CAD,"(3887, 3910)",coronary artery disease
+3,Diabetes,"(3861, 3869)",diabetes
+4,Diabetes,"(5918, 5926)",diabetes
+5,Diabetes,"(3828, 3830)",dm
+6,GERD,"(3717, 3721)",gerd
+7,GERD,"(5898, 5912)",reflux disease
+8,GERD,"(5881, 5904)",gastroesophageal reflux
+9,Hypertension,"(5968, 5980)",hypertension

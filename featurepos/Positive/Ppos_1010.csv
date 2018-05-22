@@ -1,0 +1,22 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(204, 210)",asthma
+1,Asthma,"(511, 517)",asthma
+2,Asthma,"(1481, 1487)",asthma
+3,Asthma,"(4659, 4665)",asthma
+4,Asthma,"(6085, 6091)",asthma
+5,CAD,"(250, 273)",coronary artery disease
+6,CAD,"(3122, 3145)",coronary artery disease
+7,Gallstones,"(3234, 3249)",cholecystectomy
+8,Hypertension,"(339, 351)",hypertension
+9,Obesity,"(357, 364)",obesity
+10,Obesity,"(3178, 3185)",obesity
+11,Obesity,"(4274, 4281)",obesity
+12,Obesity,"(357, 364)",obesity
+13,Obesity,"(3178, 3185)",obesity
+14,Obesity,"(3864, 3869)",obese
+15,Obesity,"(4206, 4211)",obese
+16,Obesity,"(4274, 4281)",obesity
+17,OSA,"(322, 333)",sleep apnea
+18,OSA,"(479, 490)",sleep apnea
+19,OSA,"(2008, 2019)",sleep apnea
+20,OSA,"(3188, 3199)",sleep apnea

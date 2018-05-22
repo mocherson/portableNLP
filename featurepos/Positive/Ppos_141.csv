@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(70, 76)",asthma
+1,Asthma,"(1505, 1511)",asthma
+2,Asthma,"(1604, 1610)",asthma
+3,Asthma,"(1837, 1843)",asthma
+4,Asthma,"(1846, 1852)",asthma
+5,Asthma,"(2373, 2379)",asthma
+6,Asthma,"(2436, 2442)",asthma
+7,Asthma,"(2995, 3001)",asthma
+8,Depression,"(1775, 1785)",depression
+9,Depression,"(1788, 1798)",depression
+10,Hypertension,"(1713, 1725)",hypertension
+11,Hypertension,"(1707, 1710)",htn
+12,Hypertension,"(2490, 2493)",htn
+13,Hypertension,"(3357, 3360)",htn
+14,OA,"(2519, 2521)",oa
+15,Obesity,"(1755, 1762)",obesity
+16,Obesity,"(1765, 1772)",obesity
+17,Obesity,"(2503, 2510)",obesity
+18,Obesity,"(1755, 1762)",obesity
+19,Obesity,"(1765, 1772)",obesity
+20,Obesity,"(2503, 2510)",obesity
+21,Obesity,"(2710, 2715)",obese
+22,OSA,"(1728, 1731)",osa
+23,OSA,"(2513, 2516)",osa
+24,OSA,"(1734, 1745)",sleep apnea

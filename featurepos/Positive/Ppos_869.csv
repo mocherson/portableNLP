@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2186, 2192)",asthma
+1,Asthma,"(2195, 2201)",asthma
+2,Asthma,"(2342, 2348)",asthma
+3,Asthma,"(2351, 2357)",asthma
+4,Diabetes,"(2291, 2299)",diabetes
+5,Diabetes,"(2286, 2288)",dm
+6,GERD,"(2213, 2217)",gerd
+7,GERD,"(2220, 2237)",esophageal reflux
+8,Hypertension,"(2271, 2283)",hypertension
+9,Hypertension,"(2265, 2268)",htn
+10,Obesity,"(2204, 2212)",obestity
+11,OSA,"(2158, 2169)",sleep apnea
+12,OSA,"(2172, 2183)",sleep apnea

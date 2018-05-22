@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2185, 2188)",cad
+1,CAD,"(2508, 2511)",cad
+2,Diabetes,"(2191, 2196)",niddm
+3,Diabetes,"(2563, 2568)",niddm
+4,Gallstones,"(3051, 3061)",gallstones
+5,Gallstones,"(3051, 3061)",gallstones
+6,GERD,"(68, 72)",gerd
+7,GERD,"(2097, 2101)",gerd
+8,GERD,"(2255, 2259)",gerd
+9,GERD,"(3770, 3774)",gerd
+10,Hypercholesterolemia,"(2199, 2219)",hypercholesterolemia
+11,Hypercholesterolemia,"(2199, 2219)",hypercholesterolemia
+12,PVD,"(2335, 2338)",pvd
+13,PVD,"(2341, 2368)",peripheral vascular disease
+14,Hypercholesterolemia,"(711, 722)",simvastatin
+15,Hypercholesterolemia,"(838, 849)",simvastatin
+16,Hypercholesterolemia,"(1063, 1074)",simvastatin

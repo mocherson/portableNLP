@@ -1,0 +1,26 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(2286, 2292)",asthma
+1,CAD,"(2881, 2884)",cad
+2,CHF,"(2620, 2623)",chf
+3,CHF,"(2908, 2911)",chf
+4,CHF,"(2626, 2650)",congestive heart failure
+5,Diabetes,"(2550, 2552)",dm
+6,GERD,"(2495, 2499)",gerd
+7,GERD,"(2940, 2944)",gerd
+8,GERD,"(2519, 2533)",reflux disease
+9,GERD,"(2502, 2525)",gastroesophageal reflux
+10,Gout,"(2536, 2540)",gout
+11,Gout,"(2543, 2547)",gout
+12,Hypercholesterolemia,"(2365, 2385)",hypercholesterolemia
+13,Hypercholesterolemia,"(2365, 2385)",hypercholesterolemia
+14,Hypercholesterolemia,"(2914, 2924)",hyperlipid
+15,Obesity,"(2357, 2364)",obesity
+16,Obesity,"(2357, 2364)",obesity
+17,OSA,"(2728, 2731)",osa
+18,OSA,"(2345, 2356)",sleep apnea
+19,OSA,"(2734, 2745)",sleep apnea
+20,Hypercholesterolemia,"(1263, 1274)",simvastatin
+21,Hypercholesterolemia,"(1543, 1554)",simvastatin
+22,Hypercholesterolemia,"(1773, 1784)",simvastatin
+23,OA,"(4511, 4527)",knee replacement
+24,Gout,"(543, 554)",allopurinol

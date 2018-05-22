@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,Hypertension,"(986, 989)",htn
+1,Obesity,"(77, 84)",obesity
+2,Obesity,"(783, 790)",obesity
+3,Obesity,"(890, 897)",obesity
+4,Obesity,"(1224, 1231)",obesity
+5,Obesity,"(77, 84)",obesity
+6,Obesity,"(783, 790)",obesity
+7,Obesity,"(890, 897)",obesity
+8,Obesity,"(1224, 1231)",obesity
+9,Depression,"(492, 498)",celexa

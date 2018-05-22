@@ -1,0 +1,25 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(67, 70)",chf
+1,CHF,"(6928, 6931)",chf
+2,CHF,"(7037, 7040)",chf
+3,CHF,"(10455, 10458)",chf
+4,CHF,"(10580, 10583)",chf
+5,CHF,"(10837, 10840)",chf
+6,Depression,"(8718, 8728)",depression
+7,Diabetes,"(8054, 8056)",dm
+8,Diabetes,"(8642, 8644)",dm
+9,Diabetes,"(11367, 11369)",dm
+10,Gallstones,"(7207, 7217)",gall stone
+11,Hypertension,"(7150, 7153)",htn
+12,Hypertension,"(7463, 7466)",htn
+13,Hypertension,"(8573, 8576)",htn
+14,OA,"(7174, 7176)",oa
+15,Obesity,"(9600, 9605)",obese
+16,Depression,"(9137, 9143)",celexa
+17,Hypercholesterolemia,"(3009, 3020)",simvastatin
+18,Hypercholesterolemia,"(4071, 4082)",simvastatin
+19,Hypercholesterolemia,"(4135, 4146)",simvastatin
+20,Hypercholesterolemia,"(4674, 4685)",simvastatin
+21,Hypercholesterolemia,"(4944, 4955)",simvastatin
+22,Hypercholesterolemia,"(5137, 5148)",simvastatin
+23,Hypercholesterolemia,"(5201, 5212)",simvastatin

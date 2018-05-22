@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(503, 527)",congestive heart failure
+1,CHF,"(796, 820)",congestive heart failure
+2,Gallstones,"(2538, 2553)",cholecystectomy
+3,Gout,"(243, 247)",gout
+4,Gout,"(2407, 2411)",gout
+5,Hypertension,"(252, 264)",hypertension
+6,Hypertension,"(451, 463)",hypertension
+7,Hypertension,"(721, 733)",hypertension
+8,Hypertension,"(2416, 2428)",hypertension
+9,Hypertension,"(5297, 5309)",beta blocker
+10,CAD,"(5786, 5809)",cardiac catheterization
+11,CAD,"(5845, 5868)",cardiac catheterization
+12,Gout,"(2664, 2675)",allopurinol
+13,Gout,"(8061, 8072)",allopurinol

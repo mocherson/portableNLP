@@ -1,0 +1,15 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1171, 1194)",coronary artery disease
+1,Diabetes,"(480, 488)",diabetes
+2,Diabetes,"(1115, 1123)",diabetes
+3,Obesity,"(502, 509)",obesity
+4,Obesity,"(1161, 1168)",obesity
+5,Obesity,"(502, 509)",obesity
+6,Obesity,"(1161, 1168)",obesity
+7,Obesity,"(2969, 2974)",obese
+8,Obesity,"(3088, 3093)",obese
+9,Obesity,"(6512, 6517)",obese
+10,Obesity,"(6833, 6838)",obese
+11,Obesity,"(6933, 6938)",obese
+12,Depression,"(1705, 1711)",celexa
+13,Depression,"(8007, 8013)",celexa

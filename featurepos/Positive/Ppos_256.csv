@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(3233, 3236)",cad
+1,CAD,"(4036, 4039)",cad
+2,CAD,"(4576, 4599)",atherosclerotic disease
+3,Diabetes,"(3296, 3304)",diabetes
+4,Diabetes,"(5569, 5577)",diabetes
+5,Diabetes,"(3015, 3017)",dm
+6,Gallstones,"(4423, 4438)",cholecystectomy
+7,Hypercholesterolemia,"(2978, 2987)",hyperchol
+8,Hypertension,"(2965, 2968)",htn
+9,Hypertriglyceridemia,"(2988, 2996)",hyper tg
+10,Hypertriglyceridemia,"(4830, 4853)",triglycerides very high
+11,PVD,"(3255, 3282)",peripheral vascular disease
+12,Hypertension,"(2694, 2705)",angiotensin
+13,Hypertension,"(4962, 4974)",beta blocker
+14,Hypercholesterolemia,"(1106, 1117)",simvastatin
+15,Hypercholesterolemia,"(1169, 1180)",simvastatin
+16,Hypercholesterolemia,"(1909, 1921)",atorvastatin
+17,Hypercholesterolemia,"(2025, 2037)",atorvastatin
+18,Hypercholesterolemia,"(2097, 2109)",atorvastatin

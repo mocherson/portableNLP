@@ -1,0 +1,32 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(5306, 5312)",asthma
+1,CAD,"(5725, 5728)",cad
+2,CHF,"(5731, 5734)",chf
+3,CHF,"(7283, 7286)",chf
+4,CHF,"(7386, 7389)",chf
+5,Diabetes,"(5719, 5722)",dm2
+6,Diabetes,"(6924, 6927)",dm2
+7,Diabetes,"(8072, 8075)",dm2
+8,Diabetes,"(5330, 5334)",iddm
+9,Gout,"(5507, 5511)",gout
+10,Gout,"(5514, 5518)",gout
+11,Gout,"(5811, 5815)",gout
+12,Hypercholesterolemia,"(5799, 5808)",hyperchol
+13,Hypertension,"(5313, 5316)",htn
+14,Hypertension,"(5749, 5752)",htn
+15,Hypertension,"(6932, 6935)",htn
+16,OA,"(5356, 5365)",arthritis
+17,OA,"(5366, 5369)",djd
+18,Obesity,"(6969, 6974)",obese
+19,OSA,"(5461, 5484)",obstructive sleep apnea
+20,Hypercholesterolemia,"(2357, 2368)",simvastatin
+21,Hypercholesterolemia,"(2814, 2825)",simvastatin
+22,Hypercholesterolemia,"(2885, 2896)",simvastatin
+23,Hypercholesterolemia,"(3140, 3151)",simvastatin
+24,Hypercholesterolemia,"(3362, 3373)",simvastatin
+25,Gout,"(542, 553)",allopurinol
+26,Gout,"(701, 712)",allopurinol
+27,Gout,"(911, 922)",allopurinol
+28,Gout,"(2240, 2251)",allopurinol
+29,Gout,"(2697, 2708)",allopurinol
+30,Gout,"(6625, 6636)",allopurinol

@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(360, 363)",cad
+1,CAD,"(4044, 4067)",coronary artery disease
+2,CAD,"(4490, 4513)",coronary artery disease
+3,Diabetes,"(321, 329)",diabetes
+4,Diabetes,"(1963, 1971)",diabetes
+5,Diabetes,"(4085, 4093)",diabetes
+6,Gallstones,"(2166, 2181)",cholecystectomy
+7,Hypertension,"(1994, 2006)",hypertension
+8,Hypertension,"(4070, 4082)",hypertension
+9,Hypertension,"(341, 344)",htn
+10,OA,"(2069, 2083)",osteoarthritis
+11,Obesity,"(2086, 2093)",obesity
+12,Obesity,"(2086, 2093)",obesity
+13,Obesity,"(3155, 3160)",obese
+14,CAD,"(4825, 4848)",cardiac catheterization

@@ -1,0 +1,3 @@
+,disease,dis_pos,dis_alias,sen_pos,sentence,tail
+0,GERD,"(26, 40)",reflux disease,"(1084, 1124)",presumed gastroesophageal reflux disease,
+1,GERD,"(9, 32)",gastroesophageal reflux,"(1084, 1124)",presumed gastroesophageal reflux disease,

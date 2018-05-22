@@ -1,0 +1,25 @@
+,disease,dis_pos,dis_alias
+0,CHF,"(89, 92)",chf
+1,CHF,"(3305, 3308)",chf
+2,CHF,"(3410, 3413)",chf
+3,CHF,"(3538, 3541)",chf
+4,CHF,"(4028, 4031)",chf
+5,CHF,"(4148, 4151)",chf
+6,CHF,"(4905, 4908)",chf
+7,CHF,"(3567, 3591)",congestive heart failure
+8,Depression,"(3501, 3511)",depression
+9,Diabetes,"(3667, 3675)",diabetes
+10,Diabetes,"(3662, 3664)",dm
+11,Diabetes,"(4088, 4091)",2dm
+12,Diabetes,"(4917, 4919)",dm
+13,Diabetes,"(6613, 6621)",diabetic
+14,GERD,"(3687, 3691)",gerd
+15,GERD,"(3694, 3711)",esophageal reflux
+16,Gout,"(3714, 3718)",gout
+17,Gout,"(3721, 3725)",gout
+18,Hypertension,"(3497, 3500)",htn
+19,Obesity,"(3512, 3519)",obesity
+20,Obesity,"(3512, 3519)",obesity
+21,Obesity,"(5077, 5082)",obese
+22,Depression,"(730, 736)",prozac
+23,Gout,"(568, 579)",allopurinol

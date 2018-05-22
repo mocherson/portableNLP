@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1946, 1969)",coronary artery disease
+1,CHF,"(77, 90)",heart failure
+2,CHF,"(286, 310)",congestive heart failure
+3,CHF,"(5043, 5067)",congestive heart failure
+4,Diabetes,"(2129, 2137)",diabetes
+5,Hypertension,"(2167, 2179)",hypertension
+6,PVD,"(2002, 2029)",peripheral vascular disease
+7,PVD,"(6744, 6771)",peripheral vascular disease
+8,Hypertension,"(4643, 4655)",beta blocker

@@ -1,0 +1,16 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2106, 2128)",coronary artery bypass
+1,Depression,"(776, 786)",depression
+2,Diabetes,"(302, 310)",diabetes
+3,Diabetes,"(756, 764)",diabetes
+4,Gout,"(831, 835)",gout
+5,Hypercholesterolemia,"(339, 359)",hypercholesterolemia
+6,Hypercholesterolemia,"(804, 824)",hypercholesterolemia
+7,Hypercholesterolemia,"(339, 359)",hypercholesterolemia
+8,Hypercholesterolemia,"(804, 824)",hypercholesterolemia
+9,Hypertension,"(322, 334)",hypertension
+10,Hypertension,"(789, 801)",hypertension
+11,CAD,"(379, 402)",cardiac catheterization
+12,CAD,"(1482, 1505)",cardiac catheterization
+13,Hypercholesterolemia,"(921, 932)",simvastatin
+14,Gout,"(970, 981)",allopurinol

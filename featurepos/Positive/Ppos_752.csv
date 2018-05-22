@@ -1,0 +1,11 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1485, 1508)",coronary artery disease
+1,Depression,"(7524, 7534)",depression
+2,Diabetes,"(436, 444)",diabetes
+3,Diabetes,"(1645, 1653)",diabetes
+4,Hypertension,"(421, 433)",hypertension
+5,Hypertension,"(1470, 1482)",hypertension
+6,Depression,"(2168, 2174)",prozac
+7,Depression,"(7513, 7519)",prozac
+8,Hypertension,"(6872, 6884)",beta-blocker
+9,CAD,"(1593, 1616)",cardiac catheterization

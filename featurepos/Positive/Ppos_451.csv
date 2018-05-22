@@ -1,0 +1,9 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(296, 304)",diabetes
+1,Diabetes,"(3306, 3314)",diabetes
+2,Diabetes,"(8520, 8528)",diabetes
+3,Gallstones,"(3607, 3622)",cholecystectomy
+4,Hypertension,"(260, 272)",hypertension
+5,Hypertension,"(3093, 3105)",hypertension
+6,Obesity,"(4986, 4991)",obese
+7,Hypertension,"(6847, 6872)",blood pressure of 200/105

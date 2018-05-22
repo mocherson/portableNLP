@@ -1,0 +1,12 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1784, 1790)",asthma
+1,Asthma,"(5444, 5450)",asthma
+2,Diabetes,"(462, 470)",diabetes
+3,Diabetes,"(1626, 1634)",diabetes
+4,Diabetes,"(4652, 4660)",diabetic
+5,Hypertension,"(1486, 1498)",hypertension
+6,Hypertension,"(1668, 1680)",hypertension
+7,Hypertension,"(69, 72)",htn
+8,PVD,"(1818, 1845)",peripheral vascular disease
+9,Hypertension,"(2682, 2698)",antihypertensive
+10,Hypertension,"(791, 815)",blood pressure of 202/91

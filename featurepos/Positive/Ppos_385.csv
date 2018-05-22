@@ -1,0 +1,14 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(2935, 2957)",coronary artery bypass
+1,CAD,"(69, 92)",coronary artery disease
+2,Diabetes,"(353, 361)",diabetes
+3,Diabetes,"(1576, 1584)",diabetes
+4,Diabetes,"(4301, 4309)",diabetes
+5,Gout,"(4789, 4794)",gouty
+6,Hypercholesterolemia,"(366, 380)",hyperlipidemia
+7,Hypertension,"(1452, 1464)",hypertension
+8,CAD,"(593, 616)",cardiac catheterization
+9,Hypercholesterolemia,"(1901, 1913)",atorvastatin
+10,Gout,"(2078, 2089)",allopurinol
+11,Gout,"(4960, 4971)",allopurinol
+12,Gout,"(5487, 5498)",allopurinol

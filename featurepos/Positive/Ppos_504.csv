@@ -1,0 +1,7 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(316, 324)",diabetes
+1,Diabetes,"(681, 689)",diabetes
+2,Hypertension,"(299, 311)",hypertension
+3,Hypertension,"(701, 713)",hypertension
+4,Hypertension,"(1043, 1055)",hypertension
+5,Hypertension,"(1812, 1834)",blood pressure 200/100

@@ -1,0 +1,18 @@
+,disease,dis_pos,dis_alias
+0,Hypertension,"(3267, 3270)",htn
+1,Hypertension,"(3657, 3660)",htn
+2,Hypertension,"(4392, 4395)",htn
+3,OA,"(3713, 3727)",osteoarthritis
+4,Obesity,"(3691, 3698)",obesity
+5,Obesity,"(4404, 4411)",obesity
+6,Obesity,"(3256, 3261)",obese
+7,Obesity,"(3691, 3698)",obesity
+8,Obesity,"(3957, 3962)",obese
+9,Obesity,"(4034, 4039)",obese
+10,Obesity,"(4404, 4411)",obesity
+11,OSA,"(5965, 5968)",osa
+12,OSA,"(6078, 6081)",osa
+13,OSA,"(6860, 6863)",osa
+14,Venous Insufficiency,"(3083, 3096)",venous stasis
+15,Venous Insufficiency,"(4080, 4093)",venous stasis
+16,Venous Insufficiency,"(5312, 5325)",venous stasis

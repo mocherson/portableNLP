@@ -1,0 +1,7 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(1847, 1870)",coronary artery disease
+1,Diabetes,"(1825, 1833)",diabetes
+2,Diabetes,"(450, 458)",diabetic
+3,Hypertension,"(1884, 1896)",hypertension
+4,PVD,"(224, 251)",peripheral vascular disease
+5,PVD,"(482, 509)",peripheral vascular disease

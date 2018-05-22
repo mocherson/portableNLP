@@ -1,0 +1,19 @@
+,disease,dis_pos,dis_alias
+0,Diabetes,"(1108, 1116)",diabetes
+1,Diabetes,"(3043, 3051)",diabetes
+2,Diabetes,"(1363, 1365)",dm
+3,Diabetes,"(2037, 2040)",dm2
+4,GERD,"(2261, 2265)",gerd
+5,GERD,"(86, 100)",reflux disease
+6,GERD,"(1010, 1024)",reflux disease
+7,GERD,"(69, 92)",gastroesophageal reflux
+8,GERD,"(993, 1016)",gastroesophageal reflux
+9,Obesity,"(1128, 1135)",obesity
+10,Obesity,"(1386, 1393)",obesity
+11,Obesity,"(2043, 2050)",obesity
+12,Obesity,"(3001, 3008)",obesity
+13,Obesity,"(1128, 1135)",obesity
+14,Obesity,"(1386, 1393)",obesity
+15,Obesity,"(2043, 2050)",obesity
+16,Obesity,"(3001, 3008)",obesity
+17,CAD,"(1231, 1254)",cardiac catheterization

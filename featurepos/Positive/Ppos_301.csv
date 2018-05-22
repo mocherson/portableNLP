@@ -1,0 +1,10 @@
+,disease,dis_pos,dis_alias
+0,CAD,"(511, 534)",coronary artery disease
+1,CHF,"(334, 337)",chf
+2,CHF,"(3832, 3835)",chf
+3,CHF,"(5739, 5742)",chf
+4,CHF,"(68, 92)",congestive heart failure
+5,Diabetes,"(434, 442)",diabetes
+6,Diabetes,"(5329, 5337)",diabetes
+7,Hypertension,"(461, 473)",hypertension
+8,Obesity,"(2750, 2755)",obese

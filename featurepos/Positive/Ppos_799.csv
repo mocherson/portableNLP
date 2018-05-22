@@ -1,0 +1,20 @@
+,disease,dis_pos,dis_alias
+0,Asthma,"(1510, 1516)",asthma
+1,CAD,"(323, 326)",cad
+2,CAD,"(1308, 1311)",cad
+3,Depression,"(6265, 6275)",depression
+4,Diabetes,"(312, 320)",diabetes
+5,Diabetes,"(1252, 1260)",diabetes
+6,Diabetes,"(1282, 1290)",diabetic
+7,Hypercholesterolemia,"(1613, 1633)",hypercholesterolemia
+8,Hypercholesterolemia,"(1613, 1633)",hypercholesterolemia
+9,OA,"(1529, 1532)",djd
+10,Obesity,"(284, 291)",obesity
+11,Obesity,"(1221, 1228)",obesity
+12,Obesity,"(284, 291)",obesity
+13,Obesity,"(1221, 1228)",obesity
+14,Obesity,"(2299, 2304)",obese
+15,Obesity,"(2553, 2558)",obese
+16,OSA,"(347, 350)",osa
+17,OSA,"(1342, 1345)",osa
+18,Hypertension,"(4810, 4822)",beta-blocker
